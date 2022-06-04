@@ -7,7 +7,7 @@ import fs from 'fs'
 const plimit = pLimit(25)
 
 console.time()
-fetch("https://shop.billa.at/api/search/full?category=B2-58&page=1&pageSize=10000")
+fetch("https://shop.billa.at/api/search/full?category=B2&page=1&pageSize=10000")
   .then<IProductPage>(res => res.json())
   .then(json => {
     return Promise.all(json.tiles.map(product => {
@@ -42,8 +42,14 @@ fetch("https://shop.billa.at/api/search/full?category=B2-58&page=1&pageSize=1000
             return {
               name,
               url,
+              id: product.data.articleId,
+              description: data.description,
+              eanCode: data.eanCodes[0],
+              articleGroupIds: data.articleGroupIds,
               cals: nutritions?.nutritions.find(n => n.unit === "Kilokalorie")?.nutritionalValue,
               carbs: nutritions?.nutritions.find(n => n.nutritionName === "Kohlenhydrate")?.nutritionalValue,
+              fat: nutritions?.nutritions.find(n => n.nutritionName === "Fett")?.nutritionalValue,
+              fiber: nutritions?.nutritions.find(n => n.nutritionName === "Ballaststoffe")?.nutritionalValue,
               g: nutritions?.relationValue
             }
           })
@@ -51,6 +57,7 @@ fetch("https://shop.billa.at/api/search/full?category=B2-58&page=1&pageSize=1000
     }))
   })
   .then(data => data.filter((d): d is NonNullable<typeof d> => Boolean(d)))
+  .then(data => data.filter(d => typeof d.cals === "number"))
   .then(async data => {
     data.sort((a, b) => (a.cals ?? 0) - (b.cals ?? 0))
     await fs.promises.writeFile('./data.json', JSON.stringify(data, null, 2))
