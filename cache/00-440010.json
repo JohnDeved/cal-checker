@@ -1,0 +1,351 @@
+{
+  "articleGroupIds": [
+    "B2-48A"
+  ],
+  "articleId": "00-440010",
+  "articleOnlyCanonicalPath": "/produkte/frierss-hauswuerstel-kaernten-grob/00-440010",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Frierss",
+  "brandPath": "/marken/frierss",
+  "canonicalPath": "/produkte/frierss-hauswuerstel-kaernten-grob/00-440010",
+  "category": "Kühlwaren",
+  "description": "Nur bestes Rind- und Schweinefleisch besteht die Prüfung für die Original Kärntner Hauswürstel von Frierss. Verfeinert mit einer delikaten Gewürzkomposition, die seit Generationen ein gut gehütetes Familiengeheimnis ist, werden die Kärntner Hauswürstel über Buchenholz geräuchert, ehe sie 6 Wochen in der Kärntner Bergluft reifen. Charakteristisch ist ihr rustikales Schnittbild, die kräftige Farbe, der würzige Geruch und der herzhafte Geschmack pfeffrig aromatisch im Abgang.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gewerbezeile 4, 9500 Villach, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rudolf Frierss und Söhne GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 142g Schweine- und Rindfleisch für 100g Hauswürstel, Speck, Speisesalz, Dextrose, Gewürze, MAGERMILCHPULVER, Maltodextrin, Stabilisator: Diphosphate, Geschmacksverstärker: Mononatriumglutamat, Antioxidationsmittel: Natriumascorbat, Konservierungsstoff: Natriumnitrit.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.63
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.6
+        }
+      ],
+      "name": "Kärntner Hauswürstel  geräuchert und getrocknet.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 467,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1934,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 38.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 26.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "ungekühlt lagern bis +22°C"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "1 kg 27,90 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Frierss Hauswürstel Kärnten Grob",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/cabanossi/B2-48A/produkte/frierss-hauswuerstel-kaernten-grob/00-440010"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "1 kg 27,90 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 74380,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frierss Hauswürstel Kärnten Grob online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frierss Hauswürstel Kärnten Grob online bestellen | BILLA",
+  "slug": "frierss-hauswuerstel-kaernten-grob",
+  "storeAvalibility": [
+    "00-7302",
+    "00-6338",
+    "00-7609",
+    "00-6011",
+    "00-7642",
+    "00-7920",
+    "00-6372",
+    "00-6489",
+    "00-7336",
+    "00-8946",
+    "00-7963",
+    "00-6740",
+    "00-7835",
+    "00-6490",
+    "00-6024",
+    "00-6588",
+    "00-3822",
+    "00-6235",
+    "00-6508",
+    "00-7716",
+    "00-5414",
+    "00-6065",
+    "00-6799",
+    "00-6439",
+    "00-7536",
+    "00-6366",
+    "00-7603",
+    "00-6108",
+    "00-7915",
+    "00-6262",
+    "00-8441",
+    "00-7584",
+    "00-6805",
+    "00-7565",
+    "00-7857",
+    "00-6884",
+    "00-6518",
+    "00-4565",
+    "00-6970",
+    "00-7491",
+    "00-6480",
+    "00-6910",
+    "00-6952",
+    "00-7733",
+    "00-7710",
+    "00-7229",
+    "00-7827",
+    "00-6179",
+    "00-5290",
+    "00-8953",
+    "00-4783",
+    "00-6281",
+    "00-6760",
+    "00-4551",
+    "00-6897",
+    "00-6018",
+    "00-6130",
+    "00-6496",
+    "00-7592",
+    "00-7538",
+    "00-6676",
+    "00-6051",
+    "00-7980",
+    "00-6983",
+    "00-7553",
+    "00-6353",
+    "00-7665",
+    "00-6900",
+    "00-4672",
+    "00-7783",
+    "00-7602",
+    "00-6554",
+    "00-6684",
+    "00-6628",
+    "00-7629",
+    "00-7611",
+    "00-6559",
+    "00-7969",
+    "00-7547",
+    "00-7975",
+    "00-7544",
+    "00-7539",
+    "00-6487",
+    "00-6274",
+    "00-7606",
+    "00-6819",
+    "00-6745",
+    "00-6895",
+    "00-7940",
+    "00-7895",
+    "00-6932",
+    "00-6916",
+    "00-7616",
+    "00-7856",
+    "00-6219",
+    "00-6001",
+    "00-6558",
+    "00-6494",
+    "00-7681",
+    "00-6871",
+    "00-7632",
+    "00-6843",
+    "00-7765",
+    "00-9030",
+    "00-6758",
+    "00-7831",
+    "00-7766",
+    "00-6724",
+    "00-8433",
+    "00-6255",
+    "00-6424",
+    "00-7675",
+    "00-6864",
+    "00-6569",
+    "00-6811",
+    "00-6892",
+    "00-6975",
+    "00-6304",
+    "00-6928",
+    "00-7189",
+    "00-7566",
+    "00-6123",
+    "00-8235",
+    "00-6197",
+    "00-6248",
+    "00-6749",
+    "00-6306",
+    "00-6810",
+    "00-6840",
+    "00-8940",
+    "00-7600",
+    "00-6823",
+    "00-6845",
+    "00-7535",
+    "00-6688",
+    "00-6979",
+    "00-7759",
+    "00-8012",
+    "00-7866",
+    "00-6502",
+    "00-6492",
+    "00-6138",
+    "00-7358",
+    "00-7758",
+    "00-7082",
+    "00-7667",
+    "00-7546",
+    "00-6021",
+    "00-7676",
+    "00-7653",
+    "00-7860",
+    "00-6533",
+    "00-6877",
+    "00-99202"
+  ],
+  "url": "/produkte/frierss-hauswuerstel-kaernten-grob/00-440010",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

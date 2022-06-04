@@ -1,0 +1,253 @@
+{
+  "articleGroupIds": [
+    "B2-6E8"
+  ],
+  "articleId": "00-801990",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-cashew-drink-ungesuesst/00-801990",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "s_zucker",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-cashew-drink-ungesuesst/00-801990",
+  "category": "Grundnahrungsmittel",
+  "description": "Ein fein-nussiger, ungesüßter Bio-Cashewdrink.<br>Von Natur aus laktose- und glutenfrei sowie vegan.<br>Erwärmt gut zum Aufschäumen geeignet.",
+  "eanCodes": [
+    "4104420184039",
+    "4104420234383"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "NON_EU_AGRICULTURE",
+              "valueTranslation": "Nicht-EU Landwirtschaft - Alle Rohmaterialien in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-10-11T00:00:00",
+      "ingredients": "Zutaten: Wasser, CASHEWKERNE* 6,5 %, Meersalz *aus biologischer Landwirtschaft. Kann Spuren von Soja, Mandel und anderen Nüssen enthalten.",
+      "marketingMessage": "Ein fein-nussiger, ungesüßter Bio-Cashewdrink. Von Natur aus laktose- und glutenfrei sowie vegan. Erwärmt gut zum Aufschäumen geeignet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1033
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Bio Getränk auf Cashewnussbasis",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 163,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 39,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungekühlt haltbar durch Ultrahocherhitzung. Nach  dem Öffnen im Kühlschrank aufbewahren und innerhalb von 4 Tagen verbrauchen,"
+    }
+  ],
+  "grammage": "1 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": true,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Cashew Drink Ungesüßt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/soja-hafer-und-reisdrinks/B2-6E8/produkte/alnatura-cashew-drink-ungesuesst/00-801990"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 117300,
+  "recommendationArticleIds": [
+    "00-904136"
+  ],
+  "seoDescription": "Alnatura Cashew Drink Ungesüßt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Cashew Drink Ungesüßt online bestellen | BILLA",
+  "slug": "alnatura-cashew-drink-ungesuesst",
+  "storeAvalibility": [
+    "00-99202",
+    "00-4551",
+    "00-4707",
+    "00-355",
+    "00-10"
+  ],
+  "url": "/produkte/alnatura-cashew-drink-ungesuesst/00-801990",
+  "vatCode": "20",
+  "video": ""
+}

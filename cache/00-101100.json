@@ -1,0 +1,200 @@
+{
+  "articleGroupIds": [
+    "B2-488"
+  ],
+  "articleId": "00-101100",
+  "articleOnlyCanonicalPath": "/produkte/kletzl-puszta-wurst/00-101100",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kletzl",
+  "canonicalPath": "/produkte/kletzl-puszta-wurst/00-101100",
+  "category": "Kühlwaren",
+  "description": "Diese mittelgrobe Wurst aus feinstem Schweine- und Rindfleisch wird mit edlen Gewürzen verfeinert und anschließend gebrüht. Die ideale Wurst für ein scharfes Geschmackserlebnis. Mit Senf und Kren ein wahrer Genuss.",
+  "eanCodes": [
+    "9004967516087"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gewerbepark 6, 4933 Wildenau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Josef Kletzl Fleischwaren GesmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "07755/7055",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 82% Schweine- und Rindfleisch, Trinkwasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Kartoffelstärke, Dextrose, Gewürze, Gewürzextrakte, Salz geräuchert, Stabilisator: Diphosphate, Antioxidationsmittel: Ascorbinsäure; Knoblauch, Aroma, Schweinedarm, Rauch.",
+      "marketingMessage": "Gutes mit Biss.\nFeuriger Genuss für Grill und Pfanne",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 408
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Art Burenwurst",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 280,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1160,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern (+2°C bis +6°C), ungeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen ehest bald zu verbrauchen"
+    }
+  ],
+  "grammage": "400 g Packung",
+  "grammageBadge": "400 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.19,
+    "unit": "1 kg 10.48"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kletzl Puszta Wurst",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/kletzl-puszta-wurst/00-101100"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.19,
+    "unit": "1 kg 10.48"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 9620,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kletzl Puszta Wurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kletzl Puszta Wurst online bestellen | BILLA",
+  "slug": "kletzl-puszta-wurst",
+  "storeAvalibility": [],
+  "url": "/produkte/kletzl-puszta-wurst/00-101100",
+  "vatCode": "10",
+  "video": ""
+}

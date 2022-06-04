@@ -1,0 +1,188 @@
+{
+  "articleGroupIds": [
+    "B2-83"
+  ],
+  "articleId": "00-285514",
+  "articleOnlyCanonicalPath": "/produkte/cd-deo-roll-on-gluecksgefuehl/00-285514",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "CD",
+  "canonicalPath": "/produkte/cd-deo-roll-on-gluecksgefuehl/00-285514",
+  "category": "Pflege",
+  "description": "CD Glücksgefühl Deo Roll-On mit stimulierendem Orangenblütenduft sorgt für einen gut gelaunten Start in den Tag und bietet zuverlässigen 48h Schutz vor Körpergeruch.<li>Hautverträglichkeit dermatologisch bestätigt<li>pH-hautneutral<li>Für empfindliche Haut geeignet<li>Keine weißen Rückstände<li>Ohne Aluminiumsalze</li>",
+  "eanCodes": [
+    "4045612001256"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "BEGRENZTE_MENGE_ADR",
+              "description": "Begrenzte Menge gemäß ADR (M189)",
+              "hasTranslation": "False",
+              "value": "NOT_POSSIBLE"
+            },
+            {
+              "attributeCode": "GEFAHRNUMMER_GEFAHRZAHL",
+              "description": "Gefahrnummer/Gefahrzahl (M188)",
+              "hasTranslation": "False",
+              "value": "NONE"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_VERPACKUNGSGRUPPE",
+              "description": "Verpackungsgruppe Gefahrgut (M191)",
+              "hasTranslation": "False",
+              "value": "III"
+            },
+            {
+              "attributeCode": "GEFAHRGUTNUMMER_UN",
+              "description": "UN Gefahrgutnummer (M194)",
+              "hasTranslation": "False",
+              "value": "1266"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSE",
+              "description": "Gefahrgutklasse (M185)",
+              "hasTranslation": "False",
+              "value": "3"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSIFIZIERUNG",
+              "description": "Gefahrgut Klassifizierungscode (M186)",
+              "hasTranslation": "False",
+              "value": "F1"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Harckesheyde 91-93, D-22844 Norderstedt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lornamead GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+49 (0) 40 / 888 859 - 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2016-07-29T00:00:00",
+      "marketingMessage": "Das Deo mit dem Duft von Orangenblüten sorgt für einen stimulierenden Energie-Kick und einen gut gelaunten Start in den Tag.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 138
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 50
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "50 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "100 ml 6.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "CD Deo Roll On Glücksgefühl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/pflege/deodorants/B2-83/produkte/cd-deo-roll-on-gluecksgefuehl/00-285514"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "100 ml 6.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "CD Deo Roll On Glücksgefühl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "CD Deo Roll On Glücksgefühl online bestellen | BILLA",
+  "slug": "cd-deo-roll-on-gluecksgefuehl",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/cd-deo-roll-on-gluecksgefuehl/00-285514",
+  "vatCode": "20",
+  "video": ""
+}

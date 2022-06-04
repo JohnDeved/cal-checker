@@ -1,0 +1,190 @@
+{
+  "articleGroupIds": [
+    "B2-83"
+  ],
+  "articleId": "00-916551",
+  "articleOnlyCanonicalPath": "/produkte/weleda-deo-pumpe-citrus/00-916551",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Weleda",
+  "canonicalPath": "/produkte/weleda-deo-pumpe-citrus/00-916551",
+  "category": "Pflege",
+  "description": "<li>24h zuverlässiger Schutz für natürliche Frische<li>Ohne Aluminiumsalze<li>Hemmt das Entstehen von unangenehmem Körpergeruch, ohne die Poren zu verschließen<li>Hautverträglichkeit dermatologisch bestätigt</li>",
+  "eanCodes": [
+    "4001638097079"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "NATRUE_LABEL",
+              "valueTranslation": "NATRUE-Label für Natur- und Biokosmetikprodukte"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "BEGRENZTE_MENGE_ADR",
+              "description": "Begrenzte Menge gemäß ADR (M189)",
+              "hasTranslation": "False",
+              "value": "POSSIBLE"
+            },
+            {
+              "attributeCode": "GEFAHRNUMMER_GEFAHRZAHL",
+              "description": "Gefahrnummer/Gefahrzahl (M188)",
+              "hasTranslation": "False",
+              "value": "33"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_VERPACKUNGSGRUPPE",
+              "description": "Verpackungsgruppe Gefahrgut (M191)",
+              "hasTranslation": "False",
+              "value": "II"
+            },
+            {
+              "attributeCode": "GEFAHRGUTNUMMER_UN",
+              "description": "UN Gefahrgutnummer (M194)",
+              "hasTranslation": "False",
+              "value": "1266"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSE",
+              "description": "Gefahrgutklasse (M185)",
+              "hasTranslation": "False",
+              "value": "3"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSIFIZIERUNG",
+              "description": "Gefahrgut Klassifizierungscode (M186)",
+              "hasTranslation": "False",
+              "value": "F1"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hosnedlgasse 27, 1220 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Weleda GesmbH & Co KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2018-09-14T00:00:00",
+      "marketingMessage": "24h zuverlässiger Schutz für natürliche Frische. Ohne Aluminiumsalze. Hemmt das Entstehen von unangenehmem Körpergeruch, ohne die Poren zu verschließen. Hautverträglichkeit dermatologisch bestätigt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 223.4
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 100
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "NK üblich lagern",
+      "usageHints": "Auf die gereinigte Haut unter den Achseln sprühen. Nicht einatmen und den Kontakt mit Augen und Schleimhäuten vermeiden."
+    }
+  ],
+  "grammage": "100 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.99
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Weleda Deo Pumpe Citrus",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/pflege/deodorants/B2-83/produkte/weleda-deo-pumpe-citrus/00-916551"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Weleda Deo Pumpe Citrus online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Weleda Deo Pumpe Citrus online bestellen | BILLA",
+  "slug": "weleda-deo-pumpe-citrus",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/weleda-deo-pumpe-citrus/00-916551",
+  "vatCode": "20",
+  "video": ""
+}

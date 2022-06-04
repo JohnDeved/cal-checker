@@ -1,0 +1,243 @@
+{
+  "articleGroupIds": [
+    "B2-681"
+  ],
+  "articleId": "00-475014",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-bruschetta-schwarze-olive/00-475014",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-bruschetta-schwarze-olive/00-475014",
+  "category": "Grundnahrungsmittel",
+  "description": "Ein gelungenes Menü beginnt mit einer köstlichen Vorspeise: Das Alnatura Bruschetta Schwarze Olive ist auf geröstetem Weißbrot ein Genuss.<li>Streichpaste aus schwarzen Oliven<li>mit Olivenöl, Zitronensaft und Meersalz",
+  "eanCodes": [
+    "0000042271024"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "FARMING_COUNTRY_OF_ORIGIN",
+              "valueTranslation": "Verweis auf Herkunftsland-Landwirtschaft - alles wurde in einem Land hergestellt"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Darmstädter Str. 63, 64404 Bickenbach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Schwarze Oliven* 67%, natives Olivenöl extra*, Zitronensaft*, Meersalz *aus biologischer Landwirtschaft .",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 230
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 130
+        }
+      ],
+      "name": "Bio Bruschetta - Olivenzubereitung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1790,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 435,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 47,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.44,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen im Kühlschrank lagern und innerhalb von 5 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "130 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 kg 24.54"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Bruschetta Schwarze Olive",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/aufstriche/B2-681/produkte/alnatura-bruschetta-schwarze-olive/00-475014"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 kg 24.54"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 85920,
+  "recommendationArticleIds": [
+    "00-247262"
+  ],
+  "seoDescription": "Alnatura Bruschetta Schwarze Olive online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Bruschetta Schwarze Olive online bestellen | BILLA",
+  "slug": "alnatura-bruschetta-schwarze-olive",
+  "storeAvalibility": [
+    "00-10",
+    "00-4551",
+    "00-783",
+    "00-3780",
+    "00-7653",
+    "00-355",
+    "00-1032",
+    "00-225",
+    "00-5108",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-bruschetta-schwarze-olive/00-475014",
+  "vatCode": "10",
+  "video": ""
+}

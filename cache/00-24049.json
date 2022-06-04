@@ -1,0 +1,172 @@
+{
+  "articleGroupIds": [
+    "B2-342"
+  ],
+  "articleId": "00-24049",
+  "articleOnlyCanonicalPath": "/produkte/kattus-frizzante-rose/00-24049",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kattus",
+  "canonicalPath": "/produkte/kattus-frizzante-rose/00-24049",
+  "category": "Getränke",
+  "description": "<li>Perlwein<li>Alkoholgehalt: 10,5 Vol.-%<br><br>Kattus Frizzante Rosé ist eine zart moussierende Cuvée aus erlesenen Roséweinen. Jugendlich und frisch. Gut gekühlt servieren.</li>",
+  "eanCodes": [
+    "9001560007516"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 10.5,
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wien, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Johann Kattus GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kattus.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-22T00:00:00",
+      "ingredients": "enthält Sulfite",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.4
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "Österreichischer Perlwein",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "gut gekühlt servieren",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "0.75 l Flasche",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 3.74,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 3.74,
+    "unit": "1 l 6.65"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Kattus Frizzante Rosé",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/sekt-und-champagner2/prosecco-und-frizzante/B2-342/produkte/kattus-frizzante-rose/00-24049"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 3.74,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 3.74,
+    "unit": "1 l 6.65"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 94990,
+  "recommendationArticleIds": [
+    "00-431840"
+  ],
+  "seoDescription": "Kattus Frizzante Rosé online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kattus Frizzante Rosé online bestellen | BILLA",
+  "slug": "kattus-frizzante-rose",
+  "storeAvalibility": [
+    "00-4551",
+    "00-10",
+    "00-7539",
+    "00-99202"
+  ],
+  "supplierText": "Ein eleganter, aus der Rebsorte Zweigelt hergestellter Frizzante. Bereits im Glas bezaubert er mit seinem zarten, an reife Beeren erinnernden Duftspiel und seinem hellen Lachsrosé. Im Geschmack präsentiert er sich frisch, fruchtig mit einer angenehm pikanten Würze. Kattus Frizzante Rosé ist ein idealer Begleiter zu zarten Vorspeisen und Fisch.",
+  "url": "/produkte/kattus-frizzante-rose/00-24049",
+  "vatCode": "20",
+  "video": ""
+}

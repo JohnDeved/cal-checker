@@ -1,0 +1,307 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-73"
+  ],
+  "articleId": "00-960757",
+  "articleOnlyCanonicalPath": "/produkte/corny-dunkle-schoko-mit-edelkakao/00-960757",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Corny",
+  "brandPath": "/marken/corny",
+  "canonicalPath": "/produkte/corny-dunkle-schoko-mit-edelkakao/00-960757",
+  "category": "Grundnahrungsmittel",
+  "description": "<li>Mit wertvollem Getreide.</li><li>Ohne Farbstoffe.</li><li>Ohne Zusatz von Konservierungsstoffen.*</li><li>Mit Bienenhonig verfeinert.</li><li>Mit Hafer-, Weizen- und Gerstenflocken.</li><br><br>*lt. Gesetz",
+  "eanCodes": [
+    "4011800525217"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "23608 Bad Schwartau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Schwartauer Werke GmbH & Co. KGaA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Edel-Zartbitterschokolade 24% (Kakaomasse, Zucker, Kakaobutter, Emulgator Ammoniumphosphatide),\nVollkorngetreideflocken 15% (HAFER-, GERSTEN-, WEIZEN-), Glukose-Fruktose-Sirup, Glukosesirup, Getreidecrispies (WEIZENMEHL, Zucker, Maismehl, Reismehl, GERSTENMALZEXTRAKT, Salz,\nKaramellzuckersirup), Zucker, Kokosfett, kakaohaltige Getreidecrispies (Reismehl, WEIZENMEHL, fettarmes Kakaopulver, VOLLMILCHPULVER, Zucker, Maismehl, Salz), geröstete Kakaokerne, Cornflakes (Mais, Salz, GERSTENMALZEXTRAKT), Honig 1%, natürliches Kakao-Aroma, Salz, Karamellzuckersirup, Emulgator Lecithine.",
+      "marketingMessage": "Ohne Farbstoffe\nOhne Zusatz von Konservierungsstoffen.* *lt. Gesetz\nMit 15% Vollkorn\n24% Edel-Zartbitterschokolade",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 170
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 138
+        }
+      ],
+      "name": "Müsliriegel Edel-Zartbitterschokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1897,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 452,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 17.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 59,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 11.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 65.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 37,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 33.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.41,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "Pro Riegel (23g)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 438,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 104,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 14,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.09,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Vor Wärme schützen. Kühl und trocken lagern."
+    }
+  ],
+  "grammage": "138 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 14.42"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Corny Dunkle Schoko mit Edelkakao",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/corny-dunkle-schoko-mit-edelkakao/00-960757",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/corny-dunkle-schoko-mit-edelkakao/00-960757"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 14.42"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 44440,
+  "recommendationArticleIds": [],
+  "seoDescription": "Corny Dunkle Schoko mit Edelkakao online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Corny Dunkle Schoko mit Edelkakao online bestellen | BILLA",
+  "slug": "corny-dunkle-schoko-mit-edelkakao",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/corny-dunkle-schoko-mit-edelkakao/00-960757",
+  "vatCode": "10",
+  "video": ""
+}

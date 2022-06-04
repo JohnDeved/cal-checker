@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-444"
+  ],
+  "articleId": "00-552770",
+  "articleOnlyCanonicalPath": "/produkte/lodigrana-bella-lodi/00-552770",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Bella Lodi",
+  "canonicalPath": "/produkte/lodigrana-bella-lodi/00-552770",
+  "category": "Kühlwaren",
+  "description": "Der Lodigrana Bella Lodi zählt zu den ältesten Käsesorten Europas. Der Hartkäse mit der schwarzen Rinde schmeckt vollmundig und aromatisch.<li>italienischer Hartkäse aus der Lombardei<li>traditionell in Handarbeit erzeugt<li>vollmundiges, balanciertes Aroma<li>natürlich laktosefrei",
+  "eanCodes": [
+    "8033406840378"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Corso Monforte n. 2 20122 Milano (MI)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Pozzali Lodigrana srl",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: MILCH, Salz, Lab, Konservierungsstoff: Lysozym aus\n( EI )",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.212
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.2
+        }
+      ],
+      "name": "Bella Lodi-Italienischer Hartkäse",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 384,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1597,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.51,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Lombardei",
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Gekühlt lagern bei max +8°C"
+    }
+  ],
+  "grammage": "200 g Stk",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "100 g 2.50"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Lodigrana Bella Lodi",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444/produkte/lodigrana-bella-lodi/00-552770"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "100 g 2.50"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 148870,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lodigrana Bella Lodi online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lodigrana Bella Lodi online bestellen | BILLA",
+  "slug": "lodigrana-bella-lodi",
+  "storeAvalibility": [],
+  "url": "/produkte/lodigrana-bella-lodi/00-552770",
+  "vatCode": "10",
+  "video": ""
+}

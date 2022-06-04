@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-402463",
+  "articleOnlyCanonicalPath": "/produkte/exquisa-frischkaese-creation-meerrettich/00-402463",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Exquisa",
+  "canonicalPath": "/produkte/exquisa-frischkaese-creation-meerrettich/00-402463",
+  "category": "Kühlwaren",
+  "description": "<li>Besonders cremig gerührt<li>Mit frischem Meerrettich<li>Ohne Gentechnik</li>",
+  "eanCodes": [
+    "0000040193175"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-86802 Buchloe",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Karwendel",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: FRISCHKÄSE, 10% Meerrettichzubereitung (71% frischer Meerrettich, Sonnenblumenöl, Branntweinessig,  Verdickungsmittel: Guarkernmehl, Säuerungsmittel: Citronensäure), Speisesalz, Verdickungsmittel: Johannisbrotkernmehl.",
+      "marketingMessage": "besonders cremig gerührt; mit frischem Meerrettich; ohne Gentechnik\n\nNatürlich mit sorgfältig ausgewählten Zutaten\n\nNatürlich mit über 100 Jahren Erfahrung unseres Familienunternehmens",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 213.75
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Frischkäsezubereitung wärmebehandelt, Doppelrahmstufe im Milchanteil",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 231,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 953,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 21.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen alsbald verzehren; Ungeöffnet bei 2-8°C mindestens haltbar bis: siehe Boden."
+    }
+  ],
+  "grammage": "200 g Becher",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 8.75"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Exquisa Frischkäse Creation Meerrettich",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/exquisa-frischkaese-creation-meerrettich/00-402463"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 8.75"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Exquisa Frischkäse Creation Meerrettich online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Exquisa Frischkäse Creation Meerrettich online bestellen | BILLA",
+  "slug": "exquisa-frischkaese-creation-meerrettich",
+  "storeAvalibility": [
+    "00-7653",
+    "00-4707",
+    "00-4126",
+    "00-3780",
+    "00-7539",
+    "00-2342",
+    "00-6676",
+    "00-4690",
+    "00-10",
+    "00-521",
+    "00-355",
+    "00-2923",
+    "00-4756",
+    "00-5108",
+    "00-99202"
+  ],
+  "url": "/produkte/exquisa-frischkaese-creation-meerrettich/00-402463",
+  "vatCode": "10",
+  "video": ""
+}

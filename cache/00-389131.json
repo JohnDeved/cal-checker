@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-211"
+  ],
+  "articleId": "00-389131",
+  "articleOnlyCanonicalPath": "/produkte/reschundfrisch-roggenweckerl-3er/00-389131",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Resch&Frisch",
+  "brandPath": "/marken/reschfrisch",
+  "canonicalPath": "/produkte/reschundfrisch-roggenweckerl-3er/00-389131",
+  "category": "Brot & Gebäck",
+  "eanCodes": [
+    "9006366110095"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schloßstraße 14, 4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Resch&Frisch Holding GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-10-10T00:00:00",
+      "ingredients": "Mehl (ROGGEN (37%), WEIZEN), Wasser, Backhefe, Speisesalz, WEIZENGLUTEN, WEIZENMALZMEHL, GERSTENMALZ, Rapsöl, Zucker, Gewürze, Säuerungsmittel (Essigsäure, Milchsäure). Kann Spuren von Sesam, Soja und Schalenfrüchten enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 60
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 60
+        }
+      ],
+      "name": "Mischgebäck, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1021,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 242,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 48,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.21,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Im Original Back's Ofen Programm 2 oder im E-Herd 7-10 min bei 160 °C Ober-/Unterhitze fertig backen. Kurz in Stoffserviette nachziehen lassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "lagern bei -18°C",
+      "usageHints": "nach dem Auftauen nicht wieder einfrieren"
+    }
+  ],
+  "grammage": "3 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 Stk 1.10"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Resch&Frisch Roggenweckerl 3er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/reschundfrisch-roggenweckerl-3er/00-389131"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 Stk 1.10"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 122670,
+  "recommendationArticleIds": [],
+  "seoDescription": "Resch&Frisch Roggenweckerl 3er online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Resch&Frisch Roggenweckerl 3er online bestellen | BILLA",
+  "slug": "reschundfrisch-roggenweckerl-3er",
+  "storeAvalibility": [
+    "00-10",
+    "00-7653",
+    "00-99202"
+  ],
+  "url": "/produkte/reschundfrisch-roggenweckerl-3er/00-389131",
+  "vatCode": "10",
+  "video": ""
+}

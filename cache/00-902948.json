@@ -1,0 +1,287 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-902948",
+  "articleOnlyCanonicalPath": "/produkte/pfanner-fairtrade-multivitaminnektar/00-902948",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie",
+    "s_naehrsto"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Pfanner",
+  "brandPath": "/marken/pfanner",
+  "canonicalPath": "/produkte/pfanner-fairtrade-multivitaminnektar/00-902948",
+  "category": "Getränke",
+  "description": "Pfanner Fairtrade Multivitamin Nektar ist ein hochwertiger und genussvoller Nektar aus: Orange, Apfel, Ananas, Traube, Maracuja, Nektarinen-, Bananen-, Mango- und Guavenmark. Pfanner Fairtrade Produkte garantieren verbesserte Lebens- und Arbeitsbedingungen in den Anbauländern und tragen zur Förderung des Umweltschutzes bei.",
+  "eanCodes": [
+    "9006900204099"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FAIR_TRADE_MARK",
+              "valueTranslation": "FAIR TRADE MARK (internationale Standards für fairen Handel)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Alte Landstraße 10, 6923 Lauterach, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Hermann Pfanner Getränke GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.pfanner.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, Mehrfruchtsaft\naus Mehrfruchtsaftkonzentrat (Orange, Apfel,\nAnanas, Traube, Maracuja), Nektarinenmark, Zucker,\nBananenmark, Mangomark, Guavenmark, Sauerungsmittel\nCitronensaure, Vitamine (C, Niacin, Pantothensaure,\nE, B6, Thiamin, Riboflavin, Biotin), Beta-Carotin.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.08125
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Multivitamin Mehrfruchtnektar aus Mehrfruchtsaftkonzentrat und Fruchtmark. Fruchtgehalt: mindestens 50%.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 44,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 188,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Biotin",
+              "nutritionalValue": 7.5,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 2.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 0.9,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 120,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.17,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.21,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.21,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 1.8,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor dem Öffnen gut schütteln, danach gekühlt aufbewahren und innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "1 l Packung (Einweg)",
+  "grammageBadge": "1 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 2,29 €"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Pfanner Fairtrade Multivitaminnektar",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/pfanner-fairtrade-multivitaminnektar/00-902948"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 2,29 €"
+  },
+  "properties": [],
+  "quantitySteps": [
+    8,
+    16,
+    24,
+    32
+  ],
+  "rank": 68260,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pfanner Fairtrade Multivitaminnektar online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pfanner Fairtrade Multivitaminnektar online bestellen | BILLA",
+  "slug": "pfanner-fairtrade-multivitaminnektar",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/pfanner-fairtrade-multivitaminnektar/00-902948",
+  "vatCode": "20",
+  "video": ""
+}

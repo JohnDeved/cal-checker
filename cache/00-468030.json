@@ -1,0 +1,269 @@
+{
+  "articleGroupIds": [
+    "B2-361"
+  ],
+  "articleId": "00-468030",
+  "articleOnlyCanonicalPath": "/produkte/esterhazy-chardonnay-cuvee-reserve-2019/00-468030",
+  "attributes": [
+    "s_hkland",
+    "mengehaus",
+    "s_weinart",
+    "mengenstep",
+    "s_produzen",
+    "s_rebsorte"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/esterhazy-chardonnay-cuvee-reserve-2019/00-468030",
+  "category": "Getränke",
+  "description": "Die Geschichte des Weinguts beginnt mit der Errichtung eines Schlosskellers im Eisenstädter Schloss Esterhazy vor über 300 Jahren und stellt den Neubeginn der Weinproduktion im gesamten Gebiet des heutigen, nördlichen Burgenlandes dar. Gebiets- und sortentypische Weine auf absolutem Topniveau in Verbindung mit einer klaren Esterhazy-Handschrift ist der Antrieb des Weingut Esterhazy. <li>Verkostungsnotiz: Helles Strohgelb. In der Nase dominieren fruchtige Noten nach Birne und Ananas, dazu dezente Röstaromatik. Umrandet werden diese von einem Gewürzkörbchen aus Anis und Kardamom. Am Gaumen zeigt er sich dicht und schmelzig, die lebendige Säure macht ihn sehr saftig und sorgt für Trinkfreude. Der kräftige Körper verleiht Fülle und Länge.<li>Speisenempfehlung: Meeresfische, Kalbsfleisch, Weißschimmelkäse",
+  "eanCodes": [
+    "9003634112850",
+    "9003634114069"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 13.5,
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-7061 Trausdorf a.d.W.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Esterhazy Wein GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.esterhazywein.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-11T00:00:00",
+      "ingredients": "Enthält: SULFITE",
+      "marketingMessage": "Ein lebhafter, fruchtig frischer Wein mit einer schönen\nBalance zwischen Säure und Schmelz",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1180
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 750
+        }
+      ],
+      "name": "Qualitätswein aus Österreich, trocken",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "Speisenempfehlung: Vorspeisen, Geflügel- und Fischgerichte",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "0.75 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 4.49,
+    "unit": "1 l 7.99"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Esterhazy Chardonnay Cuvee Reserve 2019",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/wein/weisswein/B2-361/produkte/esterhazy-chardonnay-cuvee-reserve-2019/00-468030"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 4.49,
+    "unit": "1 l 7.99"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Esterhazy Chardonnay Cuvee Reserve 2019 online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Esterhazy Chardonnay Cuvee Reserve 2019 online bestellen | BILLA",
+  "slug": "esterhazy-chardonnay-cuvee-reserve-2019",
+  "storeAvalibility": [
+    "00-6353",
+    "00-4466",
+    "00-4090",
+    "00-7857",
+    "00-7895",
+    "00-7139",
+    "00-5000",
+    "00-3050",
+    "00-3120",
+    "00-7114",
+    "00-4551",
+    "00-3384",
+    "00-6138",
+    "00-4107",
+    "00-5078",
+    "00-10",
+    "00-4690",
+    "00-4605",
+    "00-4655",
+    "00-1457",
+    "00-3118",
+    "00-4478",
+    "00-2899",
+    "00-3321",
+    "00-2204",
+    "00-7766",
+    "00-3445",
+    "00-2259",
+    "00-6496",
+    "00-3780",
+    "00-2313",
+    "00-5199",
+    "00-372",
+    "00-5447",
+    "00-2808",
+    "00-7743",
+    "00-3044",
+    "00-1826",
+    "00-4421",
+    "00-7204",
+    "00-5104",
+    "00-6745",
+    "00-4078",
+    "00-5531",
+    "00-2907",
+    "00-2342",
+    "00-3709",
+    "00-3253",
+    "00-3114",
+    "00-2111",
+    "00-1455",
+    "00-8441",
+    "00-3143",
+    "00-7606",
+    "00-6281",
+    "00-6724",
+    "00-3042",
+    "00-5027",
+    "00-3047",
+    "00-174",
+    "00-7336",
+    "00-388",
+    "00-119",
+    "00-5552",
+    "00-6018",
+    "00-5871",
+    "00-355",
+    "00-7368",
+    "00-8185",
+    "00-7245",
+    "00-4834",
+    "00-3510",
+    "00-112",
+    "00-117",
+    "00-7835",
+    "00-4283",
+    "00-6884",
+    "00-720",
+    "00-3005",
+    "00-7860",
+    "00-7393",
+    "00-8395",
+    "00-5290",
+    "00-6676",
+    "00-6021",
+    "00-7653",
+    "00-4016",
+    "00-5003",
+    "00-99202"
+  ],
+  "url": "/produkte/esterhazy-chardonnay-cuvee-reserve-2019/00-468030",
+  "vatCode": "20",
+  "video": ""
+}

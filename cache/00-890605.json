@@ -1,0 +1,189 @@
+{
+  "articleGroupIds": [
+    "B2-6C3",
+    "B2-6E2"
+  ],
+  "articleId": "00-890605",
+  "articleOnlyCanonicalPath": "/produkte/barilla-penne-rigate-glutenfrei/00-890605",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Barilla",
+  "brandPath": "/marken/barilla",
+  "canonicalPath": "/produkte/barilla-penne-rigate-glutenfrei/00-890605",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Barilla Penne Rigate Glutenfrei werden aus weißem und gelbem Mais- sowie Reismehl hergestellt. Sie eignen sich ideal für eine glutenfreie Ernährung.<li>traditionelle italienische Pasta ohne Weizenmehl<li>kurze Pasta für klassische Soßen auf Tomatenbasis",
+  "eanCodes": [
+    "8076809545457"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via Mantova 166, Parma - Italy.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Barilla G. e R. Fratelli - Società per Azioni",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten:  weißes Maismehl (65%), gelbes Maismehl (29,5%), Reismehl (5%), Wasser, Emulgator: Mono-und Diglyceride von Speisefettsäuren pflanzlichen Ursprungs.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 420
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "GLUTENFREIE TEIGWAREN AUS MAIS - UND REISMEHL",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1502,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 359,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 78.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.003,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "400 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 8.23"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Barilla Penne Rigate Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/barilla-penne-rigate-glutenfrei/00-890605",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/barilla-penne-rigate-glutenfrei/00-890605"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 8.23"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 99240,
+  "recommendationArticleIds": [
+    "00-600871"
+  ],
+  "seoDescription": "Barilla Penne Rigate Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Barilla Penne Rigate Glutenfrei online bestellen | BILLA",
+  "slug": "barilla-penne-rigate-glutenfrei",
+  "storeAvalibility": [
+    "00-10",
+    "00-355",
+    "00-99202",
+    "00-4551"
+  ],
+  "url": "/produkte/barilla-penne-rigate-glutenfrei/00-890605",
+  "vatCode": "10",
+  "video": ""
+}

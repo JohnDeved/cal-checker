@@ -1,0 +1,192 @@
+{
+  "articleGroupIds": [
+    "B2-884"
+  ],
+  "articleId": "00-29581",
+  "articleOnlyCanonicalPath": "/produkte/gillette-after-shave-cool-wave/00-29581",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Gillette",
+  "brandPath": "/marken/gillette",
+  "canonicalPath": "/produkte/gillette-after-shave-cool-wave/00-29581",
+  "category": "Pflege",
+  "description": "Das Cool Wave After Shave von Gillette spendet nach der Rasur intensive Pflege und Feuchtigkeit. Es begeistert auch durch seinen angenehm frischen Duft.<li>erfrischend und belebend<li>ohne Alkohol<li>für die tägliche Anwendung geeignet",
+  "eanCodes": [
+    "3014260218799"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "BEGRENZTE_MENGE_ADR",
+              "description": "Begrenzte Menge gemäß ADR (M189)",
+              "hasTranslation": "False",
+              "value": "USED"
+            },
+            {
+              "attributeCode": "GEFAHRNUMMER_GEFAHRZAHL",
+              "description": "Gefahrnummer/Gefahrzahl (M188)",
+              "hasTranslation": "False",
+              "value": "33"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_VERPACKUNGSGRUPPE",
+              "description": "Verpackungsgruppe Gefahrgut (M191)",
+              "hasTranslation": "False",
+              "value": "II"
+            },
+            {
+              "attributeCode": "GEFAHRGUTNUMMER_UN",
+              "description": "UN Gefahrgutnummer (M194)",
+              "hasTranslation": "False",
+              "value": "1266"
+            },
+            {
+              "attributeCode": "TECHNISCHER_NAME",
+              "description": "Technischer Name (M193)",
+              "hasTranslation": "False",
+              "value": "PARFÜMERIEERZEUGNISSE"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSE",
+              "description": "Gefahrgutklasse (M185)",
+              "hasTranslation": "False",
+              "value": "3"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSIFIZIERUNG",
+              "description": "Gefahrgut Klassifizierungscode (M186)",
+              "hasTranslation": "False",
+              "value": "F1"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 13, 1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Procter & Gamble Austria - Zweigniederlassung der Procter & Gamble GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2016-08-08T00:00:00",
+      "mandatoryIndicator": "ENTZÜNDBAR Kontakt Mit den Augen vermeiden. Bei Kontakt Mit den Augen mit Wasser ausspülen. Von Hitze oder Flamme fernhalten.",
+      "marketingMessage": "Gillette Aftershave Splash Cool Wave wurde speziell für die Pflege männlicher Haut entwickelt. Runden Sie Ihre Rasur mit einem frischen, reinen Aftershave mit einem maskulinen Duft ab, das Ihre rasierte Haut erfrischt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 275
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 100
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "100 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 3.99,
+    "unit": "1 l 39.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Gillette After Shave Cool Wave",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/pflege/rasierbedarf/after-shave/B2-884/produkte/gillette-after-shave-cool-wave/00-29581"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 3.99,
+    "unit": "1 l 39.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 19690,
+  "recommendationArticleIds": [],
+  "seoDescription": "Gillette After Shave Cool Wave online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gillette After Shave Cool Wave online bestellen | BILLA",
+  "slug": "gillette-after-shave-cool-wave",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/gillette-after-shave-cool-wave/00-29581",
+  "vatCode": "20",
+  "video": ""
+}

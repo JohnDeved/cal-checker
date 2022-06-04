@@ -1,0 +1,208 @@
+{
+  "articleGroupIds": [
+    "B2-444"
+  ],
+  "articleId": "00-708009",
+  "articleOnlyCanonicalPath": "/produkte/president-camembert-portionen/00-708009",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "President",
+  "brandPath": "/marken/president",
+  "canonicalPath": "/produkte/president-camembert-portionen/00-708009",
+  "category": "Kühlwaren",
+  "description": "Aufgeteilt in acht einzeln verpackte Portionen lässt sich der Camembert von Président praktisch aufteilen und als Jause für unterwegs einpacken.<li>französischer Camembert aus pasteurisierter Kuhmilch<li>vollmundig und cremig dank Vollfettstufe<li>Nr. 1 in Frankreich<li>produziert in der Normandie",
+  "eanCodes": [
+    "3228023920090"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Grabenweg 58 / Top 103-3, 6020 Innsbruck",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lactalis Österreich GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "infomail@at.lactalis.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 512 214 088 14",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "https://www.lactalis.at/",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2020-07-15T00:00:00",
+      "ingredients": "Zutaten: Französischer Camembert aus pasteurisierter\nKuhmilch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.274
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Französischer Camembert aus pasteurisierter Kuhmilch, Vollfettstufe.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 265,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1100,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Frankreich",
+      "portions": 8,
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Bei +4°C bis +8°C"
+    }
+  ],
+  "grammage": "250 g Stk",
+  "grammageBadge": "250 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 kg 12.76"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Président Camembert Portionen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444/produkte/president-camembert-portionen/00-708009"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 kg 12.76"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 112580,
+  "recommendationArticleIds": [],
+  "seoDescription": "Président Camembert Portionen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Président Camembert Portionen online bestellen | BILLA",
+  "slug": "president-camembert-portionen",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/president-camembert-portionen/00-708009",
+  "vatCode": "10",
+  "video": ""
+}

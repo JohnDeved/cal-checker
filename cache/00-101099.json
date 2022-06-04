@@ -1,0 +1,210 @@
+{
+  "articleGroupIds": [
+    "B2-994"
+  ],
+  "articleId": "00-101099",
+  "articleOnlyCanonicalPath": "/produkte/brillo-seifenkissen/00-101099",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Brillo",
+  "canonicalPath": "/produkte/brillo-seifenkissen/00-101099",
+  "category": "Haushalt",
+  "description": "<li>10 multifunktionale Seifenkissen<li>Für strahlenden Glanz</li>",
+  "eanCodes": [
+    "5010182050019",
+    "5000204202335"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "TRUE"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P280"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P102"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P101"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Behälter nur völlig restentleert der Wertstoffsammlung zuführen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI BERÜHRUNG MIT DER HAUT: Mit viel Wasser und Seife waschen."
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "WARNING",
+              "valueTranslation": "Achtung"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "EXCLAMATION_MARK",
+              "valueTranslation": "Ausrufezeichen (GHS07) - Reizend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H317"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 1328\nD - 40673 Erkrath",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SC Johnson GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 - 295913",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2020-09-01T00:00:00",
+      "marketingMessage": "Brillo Seifenkissen entfernen den Schmutz und sorgen für strahlenden Glanz.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 186
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Stück",
+          "value": 10
+        }
+      ],
+      "name": "Brillo Seifenkissen",
+      "nutritions": [],
+      "preperations": [],
+      "usageHints": "Brillo Seifenkissen befeuchten und durch leichtes Reiben den Schmutz entfernen. Bei besonders hartnäckigem Schmutz befeuchten Sie die zu reinigende Oberfläche direkt und verwenden Sie das trockene Brillo Seifenkissen. Anschließend nachspülen. Achtung: Nicht für selbstreinigende Herde, nicht auf kratzempfindlichen Oberflächen, wie z.B. Aluminium, verwenden."
+    }
+  ],
+  "grammage": "10 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Brillo Seifenkissen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/reinigungsgeraete-und-tuecher/B2-994/produkte/brillo-seifenkissen/00-101099"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 90250,
+  "recommendationArticleIds": [],
+  "seoDescription": "Brillo Seifenkissen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Brillo Seifenkissen online bestellen | BILLA",
+  "slug": "brillo-seifenkissen",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/brillo-seifenkissen/00-101099",
+  "vatCode": "20",
+  "video": ""
+}

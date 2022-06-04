@@ -1,0 +1,587 @@
+{
+  "articleGroupIds": [
+    "B2-6B2"
+  ],
+  "articleId": "00-521905",
+  "articleOnlyCanonicalPath": "/produkte/knusperli-bio-porridge-apfel-und-zimt/00-521905",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Knusperli",
+  "brandPath": "/marken/knusperli",
+  "canonicalPath": "/produkte/knusperli-bio-porridge-apfel-und-zimt/00-521905",
+  "category": "Grundnahrungsmittel",
+  "description": "<li>Ohne Zuckerzusatz<li>Hafer aus Österreich</li>",
+  "eanCodes": [
+    "9002033127410"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Felixstraße 24, A-7210 Mattersburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Felix Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "08008/33549",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.knusperli.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-09-23T00:00:00",
+      "ingredients": "Zutaten: Vollkorn-HAFERFLOCKEN**, HAFERKLEIE**, HAFERMARK**, getrocknete Apfelstücke**, Apfelpulver**, Leinsamen**, Zimt**.\n**aus kontrolliert biologischem Anbau\n\nKann Spuren von Erdnüssen, Soja, Milch, Schalenfrüchten und Sesam enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 422
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 375
+        }
+      ],
+      "name": "Bio Mischung mit 87 % Hafer, 10% Äpfeln und 0,2% Zimt zur Zubereitung eines Haferbreis.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1500,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 356,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 55,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 600,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 142,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 9,
+      "preperations": [
+        {
+          "instruction": "40 g Mischung (ca. 4 EL) in einer Schale mit ca. 100 ml heißer Milch übergießen und gut umrühren. 3 Minuten ziehen quellen lassen, nochmals umrühren und warm genießen.",
+          "type": "Mischen, Anruehren von Pulver mit Wasser oder Milch"
+        }
+      ],
+      "storageHint": "Trocken und vor Wärme geschützt lagern.  Nach dem Öffnen gut verschlossen aufbewahren.",
+      "sustenanceClaim": "Ballaststoffquelle, Ohne Aromen"
+    }
+  ],
+  "grammage": "375 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 11.44"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Knusperli Bio Porridge Apfel & Zimt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/knusperli-bio-porridge-apfel-und-zimt/00-521905"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 11.44"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Knusperli Bio Porridge Apfel & Zimt online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Knusperli Bio Porridge Apfel & Zimt online bestellen | BILLA",
+  "slug": "knusperli-bio-porridge-apfel-und-zimt",
+  "storeAvalibility": [
+    "00-4690",
+    "00-3709",
+    "00-4655",
+    "00-309",
+    "00-6018",
+    "00-3501",
+    "00-3050",
+    "00-397",
+    "00-7835",
+    "00-1479",
+    "00-3506",
+    "00-5529",
+    "00-7536",
+    "00-1132",
+    "00-5363",
+    "00-2213",
+    "00-6823",
+    "00-1425",
+    "00-3042",
+    "00-7676",
+    "00-3121",
+    "00-7653",
+    "00-7920",
+    "00-836",
+    "00-4783",
+    "00-3308",
+    "00-1039",
+    "00-3848",
+    "00-6952",
+    "00-7114",
+    "00-1701",
+    "00-943",
+    "00-6024",
+    "00-4779",
+    "00-4170",
+    "00-1866",
+    "00-2223",
+    "00-3824",
+    "00-4407",
+    "00-3681",
+    "00-3259",
+    "00-3512",
+    "00-5962",
+    "00-5531",
+    "00-7539",
+    "00-2259",
+    "00-3669",
+    "00-372",
+    "00-4225",
+    "00-3688",
+    "00-2170",
+    "00-408",
+    "00-783",
+    "00-239",
+    "00-3196",
+    "00-3700",
+    "00-3214",
+    "00-2098",
+    "00-8235",
+    "00-3025",
+    "00-3150",
+    "00-7616",
+    "00-2222",
+    "00-7229",
+    "00-2840",
+    "00-6021",
+    "00-1207",
+    "00-330",
+    "00-3005",
+    "00-4770",
+    "00-3780",
+    "00-115",
+    "00-2201",
+    "00-4441",
+    "00-5871",
+    "00-2899",
+    "00-987",
+    "00-2111",
+    "00-4424",
+    "00-4982",
+    "00-3713",
+    "00-7544",
+    "00-8173",
+    "00-4126",
+    "00-1913",
+    "00-3014",
+    "00-3135",
+    "00-3940",
+    "00-2808",
+    "00-3023",
+    "00-1480",
+    "00-7783",
+    "00-1070",
+    "00-1457",
+    "00-7535",
+    "00-9894",
+    "00-2295",
+    "00-4107",
+    "00-8076",
+    "00-2109",
+    "00-3114",
+    "00-2923",
+    "00-6353",
+    "00-5104",
+    "00-643",
+    "00-1265",
+    "00-3044",
+    "00-3633",
+    "00-281",
+    "00-2011",
+    "00-3253",
+    "00-950",
+    "00-3157",
+    "00-4090",
+    "00-4605",
+    "00-6724",
+    "00-3146",
+    "00-133",
+    "00-1003",
+    "00-521",
+    "00-2907",
+    "00-4932",
+    "00-176",
+    "00-1524",
+    "00-355",
+    "00-2260",
+    "00-1027",
+    "00-3027",
+    "00-8241",
+    "00-3617",
+    "00-1900",
+    "00-3010",
+    "00-3143",
+    "00-497",
+    "00-3125",
+    "00-4707",
+    "00-7393",
+    "00-7075",
+    "00-7857",
+    "00-5000",
+    "00-6845",
+    "00-209",
+    "00-3947",
+    "00-1943",
+    "00-3105",
+    "00-3322",
+    "00-6274",
+    "00-2204",
+    "00-5603",
+    "00-10",
+    "00-5027",
+    "00-2218",
+    "00-174",
+    "00-1550",
+    "00-3120",
+    "00-208",
+    "00-1017",
+    "00-6745",
+    "00-388",
+    "00-117",
+    "00-3510",
+    "00-823",
+    "00-7336",
+    "00-249",
+    "00-2238",
+    "00-7743",
+    "00-2342",
+    "00-6372",
+    "00-2313",
+    "00-3830",
+    "00-3047",
+    "00-7667",
+    "00-411",
+    "00-3420",
+    "00-3600",
+    "00-7860",
+    "00-2208",
+    "00-6022",
+    "00-7204",
+    "00-3022",
+    "00-2154",
+    "00-7592",
+    "00-6219",
+    "00-4540",
+    "00-3583",
+    "00-289",
+    "00-1631",
+    "00-8012",
+    "00-7675",
+    "00-4478",
+    "00-112",
+    "00-3234",
+    "00-3103",
+    "00-9290",
+    "00-5003",
+    "00-282",
+    "00-4249",
+    "00-702",
+    "00-2306",
+    "00-6740",
+    "00-7491",
+    "00-7642",
+    "00-4672",
+    "00-5359",
+    "00-3431",
+    "00-1455",
+    "00-1041",
+    "00-5108",
+    "00-2220",
+    "00-2131",
+    "00-6676",
+    "00-3401",
+    "00-3011",
+    "00-1826",
+    "00-7368",
+    "00-7629",
+    "00-3405",
+    "00-4551",
+    "00-3062",
+    "00-2369",
+    "00-6819",
+    "00-3569",
+    "00-7600",
+    "00-7358",
+    "00-119",
+    "00-6001",
+    "00-4421",
+    "00-6480",
+    "00-4270",
+    "00-7606",
+    "00-1409",
+    "00-4755",
+    "00-6910",
+    "00-4675",
+    "00-6138",
+    "00-3384",
+    "00-6864",
+    "00-1771",
+    "00-6884",
+    "00-720",
+    "00-703",
+    "00-3140",
+    "00-7424",
+    "00-3445",
+    "00-3170",
+    "00-6684",
+    "00-1901",
+    "00-4813",
+    "00-7538",
+    "00-1911",
+    "00-3138",
+    "00-5391",
+    "00-7245",
+    "00-99202"
+  ],
+  "url": "/produkte/knusperli-bio-porridge-apfel-und-zimt/00-521905",
+  "vatCode": "10",
+  "video": ""
+}

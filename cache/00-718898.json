@@ -1,0 +1,208 @@
+{
+  "articleGroupIds": [
+    "B2-756"
+  ],
+  "articleId": "00-718898",
+  "articleOnlyCanonicalPath": "/produkte/haribo-nimm-dir-saures-dose/00-718898",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Haribo",
+  "brandPath": "/marken/haribo",
+  "canonicalPath": "/produkte/haribo-nimm-dir-saures-dose/00-718898",
+  "category": "Süßes & Salziges",
+  "description": "Unter dem Motto „Nimm Dir Saures“ lädt die Vorratsbox von Haribo zum Genießen ein. Die Fruchtgummi-Mischung richtet sich an Liebhaber des sauren Geschmacks.<li>saures Fruchtgummi<li>teilweise mit Cola-Geschmack<li>aus Frucht- und Pflanzenkonzentraten",
+  "eanCodes": [
+    "4001686346099"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Industriezeile 68, A-4020 Linz, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Haribo Austria GmbH & Co KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.haribo.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2021-03-11T00:00:00",
+      "ingredients": "Zutaten: Glukosesirup; Zucker; Gelatine; Dextrose; Stärke; Säuerungsmittel: Citronensäure, Apfelsäure, Weinsäure, Fumarsäure;  Frucht- und Pflanzenkonzentrate: Saflor,  Karotte, Spirulina, Rettich,  Apfel, Süßkartoffel, Schwarze Johannisbeere, Hibiskus, Zitrone, Orange,  Holunderbeere; Aroma; Karamellsirup; Überzugsmittel: Carnaubawachs; Invertzuckersirup. Kann Spuren von MILCH, WEIZEN enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 510
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "FRUCHTGUMMI, TEILWEISE MIT COLA-GESCHMACK",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 339,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1443,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 79,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 50,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 20,
+      "preperations": [],
+      "storageHint": "Vor Wärme und Feuchtigkeit schützen."
+    }
+  ],
+  "grammage": "500 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "100 g .86"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Haribo Nimm Dir Saures Dose",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/fruchtgummi/B2-756/produkte/haribo-nimm-dir-saures-dose/00-718898"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "100 g .86"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1480,
+  "recommendationArticleIds": [],
+  "seoDescription": "Haribo Nimm Dir Saures Dose online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Haribo Nimm Dir Saures Dose online bestellen | BILLA",
+  "slug": "haribo-nimm-dir-saures-dose",
+  "storeAvalibility": [
+    "00-7539",
+    "00-10",
+    "00-99202",
+    "00-7075",
+    "00-350"
+  ],
+  "url": "/produkte/haribo-nimm-dir-saures-dose/00-718898",
+  "vatCode": "10",
+  "video": ""
+}

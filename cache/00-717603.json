@@ -1,0 +1,179 @@
+{
+  "articleGroupIds": [
+    "B2-343"
+  ],
+  "articleId": "00-717603",
+  "articleOnlyCanonicalPath": "/produkte/hochriegl-trocken-halbflasche/00-717603",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hochriegl",
+  "brandPath": "/marken/hochriegl",
+  "canonicalPath": "/produkte/hochriegl-trocken-halbflasche/00-717603",
+  "category": "Getränke",
+  "description": "Österreichischer Sekt höchster Qualität<br>Hochriegl steht für österreichischen Sekt höchster Qualität mit Tradition seit 1890 und bietet ein edles Genusserlebnis für jeden Anlass zum Feiern der kleinen und großen Glücksmomente im Leben.<br><br><li>Rebsorten: Vorwiegend Grüner Veltliner & Welschriesling<li>Dosage: Trocken<br><br>Verkostungsnotiz: Helles Gelb mit zarten Grünreflexen. Feine Frucht, leichte Anmutung von Sommeräpfeln. Am Gaumen bilden sich zarte Fruchtnoten; elegant, ausgewogen, glatt, weicher Abgang.<br><br>Speiseempfehlung: Der Klassiker passt optimal zu leichteren Vorspeisen wie Grissini, leichten Antipasti, Caprese oder Crackern mit Käse.",
+  "eanCodes": [
+    "9001560003112",
+    "9005701012735"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Radelmayerg. 5, A-1190 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Hochriegl Sektkellerei GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hochriegl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-11T00:00:00",
+      "ingredients": "enthält Sulfite",
+      "marketingMessage": "Hochriegl, die absatzstaerkste oesterreichische Sektmarke, steht fuer oesterreichischen Sekthoechster Qualitaet mit Tradition seit 1890 und bietet ein edles Genusserlebnis fuer jeden Anlass zum Feiern der kleinen und großen Gluecksmomente im Leben. Fuer Hochriegl gelten hoechste Qualitaetsstandards, wie die sorgfaeltige Auswahl der Grundweine, sowie die vollendete Konzeption der Cuvées. Die erfolgreichen Innovationen des Hauses Hochriegl beleben stetig den Markt und schaffen zusaetzliche Kaufanlaesse, nicht zuletzt deswegen, weil Hochriegl DER oesterreichische Sekt mit dem besten Preis-Leistungsverhaeltnis ist, Tradition seit 1890 mit Moderne verbindet und saemtliche Konsumbeduerfnisse mit seiner Sortenvielfalt abdeckt. Tasting Notes:  Farbe: Weiniges Hellgelb; Nase: Feine Frucht, leichte Anmutung von Sommeraepfeln. Gaumen : Zarte Frucht, elegant, ausgewogen, glatt, weicher Abgang. Speiseempfehlung: Der Klassiker passt optimal zu leichteren Vorspeisen wie Grissini, leichten Antipasti, ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.375
+        }
+      ],
+      "name": "Sekt, trocken",
+      "nutritions": [],
+      "preperations": [],
+      "usageHints": "Verschluss beim Öffnen sichern."
+    }
+  ],
+  "grammage": "0.375 l Flasche",
+  "grammageBadge": "0.375 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.89,
+    "unit": "1 l 13.04"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Hochriegl Trocken Halbflasche",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/sekt-und-champagner2/sekt/B2-343/produkte/hochriegl-trocken-halbflasche/00-717603"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.89,
+    "unit": "1 l 13.04"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 66670,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hochriegl Trocken Halbflasche online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hochriegl Trocken Halbflasche online bestellen | BILLA",
+  "slug": "hochriegl-trocken-halbflasche",
+  "storeAvalibility": [
+    "00-176",
+    "00-3780",
+    "00-2342",
+    "00-99202",
+    "00-117",
+    "00-10"
+  ],
+  "url": "/produkte/hochriegl-trocken-halbflasche/00-717603",
+  "vatCode": "20",
+  "video": ""
+}

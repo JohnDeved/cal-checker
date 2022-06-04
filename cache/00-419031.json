@@ -1,0 +1,285 @@
+{
+  "articleGroupIds": [
+    "B2-448",
+    "B2-441"
+  ],
+  "articleId": "00-419031",
+  "articleOnlyCanonicalPath": "/produkte/aichinger-liptauer-scharf/00-419031",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Aichinger",
+  "canonicalPath": "/produkte/aichinger-liptauer-scharf/00-419031",
+  "category": "Kühlwaren",
+  "description": "Zu rustikalen Brotsorten oder fluffigem Weißbrot passt der scharfe Liptauer von Aichinger. Der pikante Brotaufstrich bereichert Jause und Abendessen.<li>Frischkäsebrotaufstrich mit 45 % Fett i.T.<li>im 150 g Becher<li>mit 72 % Topfen in Vollfettstufe<li>mit Brimsen, Butter und Gemüse verfeinert",
+  "eanCodes": [
+    "0000090059766"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-8600  Bruck a.d. Mur, Fridrichallee 3",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Feinkosterzeugung Aichinger",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43/3862/31283",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-01-23T00:00:00",
+      "ingredients": "Zutaten: 72 % TOPFEN 50 % F.i.T., Gemüseerzeugnis (Gurken, Zwiebeln, Paprika, Zucker,Weingeistessig, Konservierungsstoff: Natriumbenzoat), 4 % BUTTER, BRIMESEN, Tomatenmark, SENFKORN,Speisesalz, Zucker, modifizierte Kartoffel- und Maisstärke, Knoblauch, Zuckerrübenfaser, Gewürze,Farbstoff: Paprikaextrakt, natürliches Aroma, Säuerungsmittel: Milchsäure, Verdickungsmittel:Johannisbrotkernmehl, Xanthan, Guarkernmehl, Agar-Agar, Konservierungsstoff: Kaliumsorbat.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 159.52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Frischkaesezubereitung 45 % F.i.T. Mit Zucker und Suessungsmittel.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 851,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 205,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei + 2 °C bis + 6 °C. Nach dem Öffnen innerhalb von 5 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "150 g Becher",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.55,
+    "unit": "1 kg 10.33"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Aichinger Liptauer Scharf",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schmelzkaese/B2-448/produkte/aichinger-liptauer-scharf/00-419031",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441/produkte/aichinger-liptauer-scharf/00-419031"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.55,
+    "unit": "1 kg 10.33"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 51060,
+  "recommendationArticleIds": [],
+  "seoDescription": "Aichinger Liptauer Scharf online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Aichinger Liptauer Scharf online bestellen | BILLA",
+  "slug": "aichinger-liptauer-scharf",
+  "storeAvalibility": [
+    "00-6424",
+    "00-6353",
+    "00-6745",
+    "00-6018",
+    "00-6489",
+    "00-6022",
+    "00-6892",
+    "00-6760",
+    "00-6304",
+    "00-7393",
+    "00-6372",
+    "00-6864",
+    "00-6439",
+    "00-6492",
+    "00-6810",
+    "00-7336",
+    "00-4783",
+    "00-6235",
+    "00-6508",
+    "00-6558",
+    "00-6496",
+    "00-6490",
+    "00-6554",
+    "00-6724",
+    "00-6684",
+    "00-6758",
+    "00-7358",
+    "00-6676",
+    "00-6970",
+    "00-6338",
+    "00-6740",
+    "00-6262",
+    "00-6952",
+    "00-6219",
+    "00-6255",
+    "00-6884",
+    "00-6123",
+    "00-6983",
+    "00-6871",
+    "00-6900",
+    "00-6480",
+    "00-6274",
+    "00-6138",
+    "00-6021",
+    "00-6799",
+    "00-6011",
+    "00-6932",
+    "00-6569",
+    "00-6494",
+    "00-7302",
+    "00-6533",
+    "00-6588",
+    "00-6179",
+    "00-6628",
+    "00-6979",
+    "00-7189",
+    "00-6928",
+    "00-8012",
+    "00-6916",
+    "00-6749",
+    "00-6065",
+    "00-6306",
+    "00-6897",
+    "00-8940",
+    "00-6688",
+    "00-6051",
+    "00-6559",
+    "00-6248",
+    "00-7082",
+    "00-6487",
+    "00-6843",
+    "00-8946",
+    "00-6840",
+    "00-6024",
+    "00-6975",
+    "00-6518",
+    "00-6805",
+    "00-6197",
+    "00-6811",
+    "00-6108",
+    "00-6819",
+    "00-6823",
+    "00-6877",
+    "00-8433",
+    "00-6281",
+    "00-99202"
+  ],
+  "url": "/produkte/aichinger-liptauer-scharf/00-419031",
+  "vatCode": "10",
+  "video": ""
+}

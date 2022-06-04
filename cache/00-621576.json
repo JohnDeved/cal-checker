@@ -1,0 +1,236 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-621576",
+  "articleOnlyCanonicalPath": "/produkte/rauch-happy-day-holunder-limette-sprizz/00-621576",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rauch",
+  "brandPath": "/marken/rauch",
+  "canonicalPath": "/produkte/rauch-happy-day-holunder-limette-sprizz/00-621576",
+  "category": "Getränke",
+  "description": "So wird jeder Tag zum Happy Day: Das Erfrischungsgetränk Happy Day Holunder-Limette Sprizz von Rauch vereint die feine Säure der Limette mit der zarten Süße von Holunder.<li>enthält Kohlensäure<li>mit Holunderblüten-Extrakt und Limettensaft aus Limettensaft-Konzentrat",
+  "eanCodes": [
+    "9008700158718"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PET_TO_PET",
+              "valueTranslation": "PET to PET (Recycling von PET Flaschen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Langgasse 1, A-6830 Rankweil, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rauch Fruchtsäfte GmbH & Co OG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2017-09-18T00:00:00",
+      "ingredients": "Zutaten: Natürliches Mineralwasser, Zucker, Holunderblütenextrakt, 1% Limettensaft aus Limettensaftkonzentrat, Kohlensäure, Säuerungsmittel: Citronensäure; Aroma, Antioxidationsmittel: Ascorbinsäure; Farbstoff: Zuckerkulör.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1072
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Karbonisiertes Holunderblüten-Limettengetränk.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 28,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 118,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Geöffnet gekühlt 3 Tage haltbar."
+    }
+  ],
+  "grammage": "1 l Flasche (Einweg)",
+  "grammageBadge": "1 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l 1,29 €"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Rauch Happy Day Holunder-Limette Sprizz",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/rauch-happy-day-holunder-limette-sprizz/00-621576"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l 1,29 €"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 99470,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rauch Happy Day Holunder-Limette Sprizz online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rauch Happy Day Holunder-Limette Sprizz online bestellen | BILLA",
+  "slug": "rauch-happy-day-holunder-limette-sprizz",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/rauch-happy-day-holunder-limette-sprizz/00-621576",
+  "vatCode": "20",
+  "video": ""
+}

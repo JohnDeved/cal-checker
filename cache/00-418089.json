@@ -1,0 +1,274 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-418089",
+  "articleOnlyCanonicalPath": "/produkte/schaerdinger-marillentraum/00-418089",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schärdinger",
+  "brandPath": "/marken/schaerdinger",
+  "canonicalPath": "/produkte/schaerdinger-marillentraum/00-418089",
+  "category": "Kühlwaren",
+  "description": "Der Schärdinger Marillen Traum ist ein besonders cremiges Fruchtjoghurt mit viel Frucht im praktischen 400g Becher mit Deckel zum Wiederverschließen.",
+  "eanCodes": [
+    "9066000200100"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: JOGHURT, Zucker, Pfirsich, Marillensaft aus Marillensaftkonzentrat, Marillen, modifizierte Stärke, Stabilisator Pektin, Säuerungsmittel Citronensäure, Natriumcitrate; Farbstoff Beta-Carotin, Aroma",
+      "marketingMessage": "Schärdinger Fruchtjoghurtträume sind besonders cremige Fruchtjoghurtvarianten mit viel Frucht im praktischen 400 g Becher mit Deckel zum Wiederverschließen. Erhältlich sind die Fruchtjoghurts in den Sorten: Erdbeer-Rhabarber, Marille-Pfirsich, Bourbon-Vanille, Beeren und Mango mit Papaya.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.419
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 91,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 383,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Marillen und Pfirsiche stammen aus der EU.",
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt bei 3-6 °C lagern. Ungeöffnet mindestens haltbar bis: siehe Deckel. Nach dem Öffnen innerhalb weniger Tage verbrauchen."
+    }
+  ],
+  "grammage": "400 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.13,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.13,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.13,
+    "unit": "1 kg 2.83"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schärdinger Marillentraum",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/schaerdinger-marillentraum/00-418089"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.13,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.13,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.13,
+    "unit": "1 kg 2.83"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schärdinger Marillentraum online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schärdinger Marillentraum online bestellen | BILLA",
+  "slug": "schaerdinger-marillentraum",
+  "storeAvalibility": [
+    "00-3860",
+    "00-1866",
+    "00-3044",
+    "00-9183",
+    "00-2111",
+    "00-6496",
+    "00-7082",
+    "00-3321",
+    "00-3050",
+    "00-2098",
+    "00-2313",
+    "00-323",
+    "00-4783",
+    "00-7062",
+    "00-10",
+    "00-1107",
+    "00-1710",
+    "00-7229",
+    "00-2345",
+    "00-2190",
+    "00-3681",
+    "00-7336",
+    "00-4466",
+    "00-6424",
+    "00-7114",
+    "00-2222",
+    "00-3857",
+    "00-9753",
+    "00-7675",
+    "00-3114",
+    "00-3713",
+    "00-3063",
+    "00-3384",
+    "00-3580",
+    "00-281",
+    "00-430",
+    "00-9555",
+    "00-4834",
+    "00-2201",
+    "00-1900",
+    "00-3042",
+    "00-3120",
+    "00-7245",
+    "00-2223",
+    "00-2808",
+    "00-9290",
+    "00-3234",
+    "00-3569",
+    "00-112",
+    "00-2131",
+    "00-9894",
+    "00-2204",
+    "00-99202"
+  ],
+  "url": "/produkte/schaerdinger-marillentraum/00-418089",
+  "vatCode": "10",
+  "video": ""
+}

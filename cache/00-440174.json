@@ -1,0 +1,326 @@
+{
+  "articleGroupIds": [
+    "B2-444"
+  ],
+  "articleId": "00-440174",
+  "articleOnlyCanonicalPath": "/produkte/schaerdinger-oesterkron/00-440174",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_spezeig",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schärdinger",
+  "brandPath": "/marken/schaerdinger",
+  "canonicalPath": "/produkte/schaerdinger-oesterkron/00-440174",
+  "category": "Kühlwaren",
+  "description": "Der laktosefreie Österkron veredelt Aufstriche, Suppen und Dressings. Er wurde mehrfach als beliebtester Edelschimmelkäse Österreichs ausgezeichnet.<li>Gewicht frei wählbar<li>österreichischer Grünschimmelkäse <li>laktosefrei<li>aus der Traditionskäserei Gröbming<li>in wiederverschließbarer Verpackung",
+  "eanCodes": [
+    "9005600123129",
+    "9005600123105"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.3
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.25
+        }
+      ],
+      "name": "Österreichischer Grünschimmelkäse, 55 % Fett i. Tr., aus pasteurisierter Milch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 389,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1612,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.9,
+    "unit": "100 g 1.99"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Schärdinger Österkron",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444/produkte/schaerdinger-oesterkron/00-440174"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.9,
+    "unit": "100 g 1.99"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 80380,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schärdinger Österkron online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schärdinger Österkron online bestellen | BILLA",
+  "slug": "schaerdinger-oesterkron",
+  "storeAvalibility": [
+    "00-6487",
+    "00-3822",
+    "00-3744",
+    "00-6018",
+    "00-3700",
+    "00-3044",
+    "00-7368",
+    "00-3063",
+    "00-281",
+    "00-3120",
+    "00-2313",
+    "00-176",
+    "00-7223",
+    "00-7535",
+    "00-2131",
+    "00-5391",
+    "00-6130",
+    "00-1901",
+    "00-3512",
+    "00-7232",
+    "00-10",
+    "00-115",
+    "00-7114",
+    "00-4551",
+    "00-7204",
+    "00-5363",
+    "00-1480",
+    "00-5199",
+    "00-7565",
+    "00-7358",
+    "00-1911",
+    "00-6676",
+    "00-2364",
+    "00-330",
+    "00-5454",
+    "00-3055",
+    "00-7084",
+    "00-6353",
+    "00-440",
+    "00-117",
+    "00-174",
+    "00-8441",
+    "00-290",
+    "00-3501",
+    "00-5359",
+    "00-112",
+    "00-3118",
+    "00-6502",
+    "00-7606",
+    "00-2259",
+    "00-6021",
+    "00-7336",
+    "00-6900",
+    "00-7073",
+    "00-836",
+    "00-1710",
+    "00-9209",
+    "00-3253",
+    "00-7860",
+    "00-3780",
+    "00-4466",
+    "00-1866",
+    "00-3401",
+    "00-323",
+    "00-9266",
+    "00-2808",
+    "00-4932",
+    "00-8243",
+    "00-119",
+    "00-570",
+    "00-5967",
+    "00-7539",
+    "00-4478",
+    "00-3059",
+    "00-3857",
+    "00-3143",
+    "00-5290",
+    "00-3321",
+    "00-3042",
+    "00-430",
+    "00-3848",
+    "00-1801",
+    "00-5322",
+    "00-3103",
+    "00-8185",
+    "00-3005",
+    "00-5078",
+    "00-7393",
+    "00-2342",
+    "00-6138",
+    "00-355",
+    "00-2156",
+    "00-3296",
+    "00-372",
+    "00-6494",
+    "00-6108",
+    "00-3384",
+    "00-2312",
+    "00-950",
+    "00-3214",
+    "00-6740",
+    "00-4016",
+    "00-7424",
+    "00-4107",
+    "00-5027",
+    "00-4283",
+    "00-8193",
+    "00-6281",
+    "00-225",
+    "00-99202"
+  ],
+  "url": "/produkte/schaerdinger-oesterkron/00-440174",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

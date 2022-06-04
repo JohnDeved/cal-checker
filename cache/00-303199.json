@@ -1,0 +1,310 @@
+{
+  "articleGroupIds": [
+    "B2-6E2",
+    "B2-751",
+    "B2-758"
+  ],
+  "articleId": "00-303199",
+  "articleOnlyCanonicalPath": "/produkte/schaer-chocolate-os-glutenfrei/00-303199",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schär",
+  "brandPath": "/marken/schaer",
+  "canonicalPath": "/produkte/schaer-chocolate-os-glutenfrei/00-303199",
+  "category": "Grundnahrungsmittel",
+  "description": "Dunkler Sandwich-Keks mit leckerer Milchcremefüllung. Perfekt zu Tee oder Kaffee, oder einfach für zwischendurch!",
+  "eanCodes": [
+    "8008698005231"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Enthält: Milch, Soja, Laktose. Kann Spuren von Lupinen enthalten",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Winkelau 9 - 39014 Burgstall / Postal (BZ) - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Dr. Schär AG / SPA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: MILCHCREME 35% (pflanzliches Fett (Kokos und Palm), VOLLMILCHPULVER 6,5 %, Dextrose, Zucker, LAKTOSE, Emulgator: SOJALECITHIN, natürliches Aroma), Maisstärke, Zucker, Palmfett, Maismehl, Magerkakaopulver 5%, SOJAMEHL, Kartoffelstärke, VOLLMILCHPULVER, Salz, Backtriebmittel: Ammonium- und Natriumhydrogencarbonat. Kann Spuren von LUPINEN enthalten.",
+      "marketingMessage": "Dunkler Sandwich-Keks mit leckerer Milchcremefüllung",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 196
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 165
+        }
+      ],
+      "name": "Glutenfreie Kakaokekse mit Milchcreme-Füllung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2087,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 499,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 62,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 31,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "1 Biscuit",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 215,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 51,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Bei Raumtemperatur trocken lagern",
+      "sustenanceClaim": "Glutenfrei, Weizenfrei"
+    }
+  ],
+  "grammage": "165 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.99,
+    "unit": "1 kg 12.06"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schär Chocolate O's Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/schaer-chocolate-os-glutenfrei/00-303199",
+    "~/warengruppe/suesses-und-salziges/suesses2/feingebaeck-und-kekse/B2-751/produkte/schaer-chocolate-os-glutenfrei/00-303199",
+    "~/warengruppe/suesses-und-salziges/suesses2/suesse-spezialitaeten/B2-758/produkte/schaer-chocolate-os-glutenfrei/00-303199"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.99,
+    "unit": "1 kg 12.06"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51610,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schär Chocolate O's Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schär Chocolate O's Glutenfrei online bestellen | BILLA",
+  "slug": "schaer-chocolate-os-glutenfrei",
+  "storeAvalibility": [
+    "00-355",
+    "00-4551",
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/schaer-chocolate-os-glutenfrei/00-303199",
+  "vatCode": "10",
+  "video": ""
+}

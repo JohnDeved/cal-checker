@@ -1,0 +1,209 @@
+{
+  "articleGroupIds": [
+    "B2-68"
+  ],
+  "articleId": "00-473955",
+  "articleOnlyCanonicalPath": "/produkte/efko-kartoffelsalat-mit-mayonnaise/00-473955",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Efko",
+  "brandPath": "/marken/efko",
+  "canonicalPath": "/produkte/efko-kartoffelsalat-mit-mayonnaise/00-473955",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9000451005891"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4070 Eferding, Hinzenbach 38, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "efko",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-02-15T00:00:00",
+      "ingredients": "Zutaten: 56% Kartoffeln, Wasser, 10% Mayonnaise 50% Fett (Rapsöl, Wasser, EIGELB, modifizierte Stärke, Zucker, Weingeistessig, Senf [Wasser, SENFSAAT, Weingeistessig, Zucker, Speisesalz, Gewürze, Aroma], Speisesalz, Konservierungsstoffe: Natriumbenzoat, Kaliumsorbat, Verdickungsmittel: Xanthan), Zucker, Gurken, Weingeistessig, Speisesalz, Zwiebel, Senf (Wasser, SENFSAAT, Weingeistessig, Zucker, Speisesalz, Gewürze), Rapsöl, Antioxidationsmittel: Ascorbinsäure, Farbstoff, Riboflavin, Süßungsmittel: Saccharin, Gewürzextrakt.",
+      "marketingMessage": "Die Klassiker \nmit cremiger Mayonnaise",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.99
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 700
+        }
+      ],
+      "name": "Kartoffelsalat mit Mayonnaise. Mit Zucker und Süßungsmittel. Pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 117,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 491,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Mindestens haltbar bis: siehe Etikette. Vor direkter Sonneneinstrahlung schützen. Nach dem Öffnen nur wenige Tage im Kühlschrank haltbar."
+    }
+  ],
+  "grammage": "700 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 3.99"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "efko Kartoffelsalat mit Mayonnaise",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/B2-68/produkte/efko-kartoffelsalat-mit-mayonnaise/00-473955"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 3.99"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "efko Kartoffelsalat mit Mayonnaise online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "efko Kartoffelsalat mit Mayonnaise online bestellen | BILLA",
+  "slug": "efko-kartoffelsalat-mit-mayonnaise",
+  "storeAvalibility": [
+    "00-225",
+    "00-4551",
+    "00-10",
+    "00-5108",
+    "00-1032",
+    "00-355",
+    "00-783",
+    "00-7653",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/efko-kartoffelsalat-mit-mayonnaise/00-473955",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-211",
+    "B2-F"
+  ],
+  "articleId": "00-913791",
+  "articleOnlyCanonicalPath": "/produkte/meggle-baguette-knoblauchbutter/00-913791",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Meggle",
+  "brandPath": "/marken/meggle",
+  "canonicalPath": "/produkte/meggle-baguette-knoblauchbutter/00-913791",
+  "category": "Brot & Gebäck",
+  "description": "Das MEGGLE Baguette Knoblauchbutter verführt jeden Knoblauch-Fan mit seinem unwiderstehlich Geschmack.<br>Der knusprig, lockere Teig ist mit der MEGGLE Knoblauch-Butter gefüllt, die mit ihren Knoblauchstücken für einen intensiven Genuss sorgt.<br>Ob zum Grillen, auf Buffets, zu Salaten oder als Snack - das MEGGLE Baguette Knoblauchbutter ist der perfekte Begleiter für jeden Anlass.",
+  "eanCodes": [
+    "4034900032416",
+    "4034900324160"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Megglestr. 6-12\n83512 Wasserburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "MEGGLE GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Weizenmehl, Wasser, Butter 15%, Zwiebeln, Knoblauch, Petersilie, Gewürze, Buttermilch, Roggenmehl, Hartweizengrieß, Weizengluten, Salz, Stärke, Hefe, Säuerungsmittel: Citronensäure; Knoblauchextrakt, natürliches Aroma.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 187
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 160
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1267,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 302,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 38,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Nach kurzem Aufbacken ist das Baguette verzehrfertig.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ]
+    }
+  ],
+  "grammage": "160 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 12.44"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Meggle Baguette Knoblauchbutter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/meggle-baguette-knoblauchbutter/00-913791",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/meggle-baguette-knoblauchbutter/00-913791"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 12.44"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Meggle Baguette Knoblauchbutter online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Meggle Baguette Knoblauchbutter online bestellen | BILLA",
+  "slug": "meggle-baguette-knoblauchbutter",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/meggle-baguette-knoblauchbutter/00-913791",
+  "vatCode": "10",
+  "video": ""
+}

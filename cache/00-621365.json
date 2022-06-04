@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-621365",
+  "articleOnlyCanonicalPath": "/produkte/vorarlberger-milch-laendle-milch-mit-vanille/00-621365",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Vorarlberg Milch",
+  "canonicalPath": "/produkte/vorarlberger-milch-laendle-milch-mit-vanille/00-621365",
+  "category": "Kühlwaren",
+  "description": "Die Ländle Milch mit Vanille von Vorarlberger Milch ist ein ideales Pausengetränk und schmeckt am besten gut gekühlt und einmal geschüttelt.<li>wärmebehandelte Vanillemilch aus Milch mit 2,5 % Fett",
+  "eanCodes": [
+    "9021700180206"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "LAENDLE_QUALITAET",
+              "valueTranslation": "LAENDLE-Qualitätssiegel - (Vorarlberger Produkte, definierte Qualitätsstandards)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Nofler Straße 62, A-6800 Feldkirch",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberg Milch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: MILCH, Wasser, Zucker, Karamellcreme, natürliches Bourbon-Vanillearoma, Bourbon Vanilleschotenextrakt, Verdickungsmittel: Guarkernmehl, Farbstoff: Carotin, Säureregulator: Trinatriumcitrat.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 335
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 300
+        }
+      ],
+      "name": "Vanillemilch aus Milch mit 2,5% Fett, wärmebehandelt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 70,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 296,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt (+6°C) mindestens haltbar bis: siehe Packungsoberseite",
+      "usageHints": "Gut schütteln!"
+    }
+  ],
+  "grammage": "300 Milliliter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.85,
+    "unit": "1 l 2.83"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Vorarlberger Milch Ländle Milch mit Vanille",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/vorarlberger-milch-laendle-milch-mit-vanille/00-621365"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.85,
+    "unit": "1 l 2.83"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 42300,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vorarlberger Milch Ländle Milch mit Vanille online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vorarlberger Milch Ländle Milch mit Vanille online bestellen",
+  "slug": "vorarlberger-milch-laendle-milch-mit-vanille",
+  "storeAvalibility": [
+    "00-8395",
+    "00-8400",
+    "00-8409",
+    "00-99202"
+  ],
+  "url": "/produkte/vorarlberger-milch-laendle-milch-mit-vanille/00-621365",
+  "vatCode": "10",
+  "video": ""
+}

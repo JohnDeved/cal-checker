@@ -1,0 +1,322 @@
+{
+  "articleGroupIds": [
+    "B2-623"
+  ],
+  "articleId": "00-361005",
+  "articleOnlyCanonicalPath": "/produkte/hipp-dinkel-hafer-ringe/00-361005",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-dinkel-hafer-ringe/00-361005",
+  "category": "Grundnahrungsmittel",
+  "description": "Gepufftes Bio-Getreideprodukt",
+  "eanCodes": [
+    "4062300394834",
+    "4062300363557"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-09-22T00:00:00",
+      "ingredients": "Zutaten: Bio-DINKELVOLLKORNMEHL** 33%, Bio-Maismehl, Bio-Reismehl, Bio-HAFERVOLLKORNMEHL 15%, Vitamin B1. **Dinkel ist eine Weizenart. Kann Spuren enthalten von: MILCH",
+      "mandatoryIndicator": "Wichtig für Ihr Kind: Verschluckgefahr! Dinkel-Hafer Ringe grundsätzlich nicht im Liegen geben. Bitte beaufsichtigen Sie Ihr Kind beim Knabbern. Achten Sie auf regelmäßige Zahnpflege ab dem 1. Zähnchen. #Achten Sie auf eine ausgewogene Ernährung und gesunde Lebensweise. #ab 8. Monat #Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 36
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 30
+        }
+      ],
+      "name": "Gepufftes Bio-Getreideprodukt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 384,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1626,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 78.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 180,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.9,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 7,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.005,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 60,
+      "preperations": [],
+      "storageHint": "Trocken und bei Raumtemperatur lagern. Angebrochene Packung luftdicht (am besten mit einem Clip) verschließen und zügig aufbrauchen.",
+      "usageHints": "Tagesportion: Ab dem 8. Monat 3-5 Stück/ab dem 10. Monat 5-10 Stück. Idealerweise als Teil einer Zwischenmahlzeit. #Dieses Produkt hat unser Haus in einwandfreiem Zustand verlassen. Bitte überzeugen Sie sich vor Verwendung, dass die Verpackung unversehrt geblieben ist."
+    }
+  ],
+  "grammage": "30 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 43.00"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Dinkel Hafer Ringe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623/produkte/hipp-dinkel-hafer-ringe/00-361005"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 43.00"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hipp Dinkel Hafer Ringe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Dinkel Hafer Ringe online bestellen | BILLA",
+  "slug": "hipp-dinkel-hafer-ringe",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-dinkel-hafer-ringe/00-361005",
+  "vatCode": "10",
+  "video": ""
+}

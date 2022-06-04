@@ -1,0 +1,316 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-73"
+  ],
+  "articleId": "00-134946",
+  "articleOnlyCanonicalPath": "/produkte/corny-big-schoko/00-134946",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Corny",
+  "brandPath": "/marken/corny",
+  "canonicalPath": "/produkte/corny-big-schoko/00-134946",
+  "category": "Grundnahrungsmittel",
+  "description": "Großer Müsliriegel für unterwegs: Der Corny Big Schoko mit ausgewähltem Getreide und zarter Schokolade schmeckt Kindern und Erwachsenen.<li>mit wertvollen Getreide-Zutaten und feiner Milchschokolade",
+  "eanCodes": [
+    "4011800520052",
+    "4011800546519"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FAIRTRADE_COCOA",
+              "valueTranslation": "FAIRTRADE KAKAO-Programm"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "23608 Bad Schwartau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Schwartauer Werke GmbH & Co. KGaA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-05-27T00:00:00",
+      "ingredients": "Zutaten: MILCHSCHOKOLADE 20% (Zucker, Kakaomasse, Kakaobutter, MAGERMILCHPULVER, BUTTERFETT, Emulgator Lecithine), Getreidecrispies (WEIZENMEHL, Zucker, Reismehl, Maismehl, GERSTENMALZEXTRAKT, Salz, Karamellzuckersirup), Glukosesirup, Glukose-Fruktose-Sirup, Vollkorngetreideflocken 10% (HAFER-, WEIZEN-, GERSTEN-), geröstete ERDNÜSSE, Zucker, Kokosfett,\nCornflakes (Mais, Salz, GERSTENMALZEXTRAKT), Honig, Salz, natürliche Aromen, Karamellzuckersirup,\nEmulgator Lecithine.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 51
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 50
+        }
+      ],
+      "name": "Müsliriegel Milchschokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1859,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 443,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 48,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 66.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 34,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.53,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "Pro Riegel (50g)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 930,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 221,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.26,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Vor Wärme schützen. Kühl und trocken lagern."
+    }
+  ],
+  "grammage": "50 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.95,
+    "unit": "1 kg 19.00"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Corny Big Schoko",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/corny-big-schoko/00-134946",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/corny-big-schoko/00-134946"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.95,
+    "unit": "1 kg 19.00"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 58250,
+  "recommendationArticleIds": [],
+  "seoDescription": "Corny Big Schoko online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Corny Big Schoko online bestellen | BILLA",
+  "slug": "corny-big-schoko",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/corny-big-schoko/00-134946",
+  "vatCode": "10",
+  "video": ""
+}

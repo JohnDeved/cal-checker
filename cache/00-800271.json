@@ -1,0 +1,664 @@
+{
+  "articleGroupIds": [
+    "B2-572"
+  ],
+  "articleId": "00-800271",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-ristorante-pizza-quatro-formaggi/00-800271",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-ristorante-pizza-quatro-formaggi/00-800271",
+  "category": "Tiefkühl",
+  "description": "Die Dr. Oetker Ristorante Pizza Quatro Formaggi mit dem knusprigen Boden und dem kräftigen Käse schmeckt wie frisch aus einer italienischen Trattoria.<li>belegt mit Mozzarella-, Edamer-, Emmentaler- und Blauschimmelkäse<li>einfache Zubereitung: im Ofen backen<li>für die schnelle Küche",
+  "eanCodes": [
+    "4001724818922",
+    "4001724818908",
+    "4001724038870"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-02-28T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, 13% passierte Tomaten, 10% schnittfester MOZZARELLA KÄSE, 10% EDAMER KÄSE, Wasser, SCHLAGSAHNE, 6,6% Tomatenkonzentrat, 4,2% EMMENTALER KÄSE, Rapsöl, Backhefe, 0,8% BLAUSCHIMMELKÄSE, Salz, Zucker, Basilikum, SOJASAUCE (Wasser, SOJABOHNEN, Salz, WEIZENMEHL), Olivenöl nativ extra, modifizierte Stärke, Gewürze, Oregano, Knoblauch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 426
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 340
+        }
+      ],
+      "name": "Pizza reich belegt mit Mozzarella-, Edamer-, Emmentaler- und Blauschimmelkäse auf knusprig dünnem Boden, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1050,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 251,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1) Backofen vorheizen. Ober-/Unterhitze: 220°C, Heißluft: 200°C, Gas: 4 (FR/UK:6). 2) Folie entfernen. 3) Tiefgekühlte Pizza auf dem Rost im unteren Drittel des Backofens backen. Backzeit: 11-13 Min.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern."
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, 13% passierte Tomaten, 10% schnittfester MOZZARELLA KÄSE, 10% EDAMER KÄSE, Wasser, SCHLAGSAHNE, 6,6% Tomatenkonzentrat, 4,2% EMMENTALER KÄSE, Rapsöl, Backhefe, 0,8% BLAUSCHIMMELKÄSE, Salz, Zucker, Basilikum, SOJASAUCE (Wasser, SOJABOHNEN, Salz, WEIZENMEHL), Olivenöl nativ extra, modifizierte Stärke, Gewürze, Oregano, Knoblauch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 426
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 340
+        }
+      ],
+      "name": "Pizza reich belegt mit Mozzarella-, Edamer-, Emmentaler- und Blauschimmelkäse auf knusprig dünnem Boden, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1050,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 251,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1) Backofen vorheizen. Ober-/Unterhitze: 220°C, Heißluft: 200°C, Gas: 4 (FR/UK:6). 2) Folie entfernen. 3) Tiefgekühlte Pizza auf dem Rost im unteren Drittel des Backofens backen. Backzeit: 11-13 Min.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern."
+    }
+  ],
+  "grammage": "340 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 9.97"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Ristorante Pizza Quatro Formaggi",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/dr-oetker-ristorante-pizza-quatro-formaggi/00-800271"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 9.97"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 142080,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Ristorante Pizza Quatro Formaggi online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Ristorante Pizza Quatro Formaggi online bestellen",
+  "slug": "dr-oetker-ristorante-pizza-quatro-formaggi",
+  "storeAvalibility": [
+    "00-1771",
+    "00-3001",
+    "00-3401",
+    "00-9183",
+    "00-6130",
+    "00-2111",
+    "00-2313",
+    "00-3384",
+    "00-3669",
+    "00-1500",
+    "00-6248",
+    "00-6001",
+    "00-3180",
+    "00-9233",
+    "00-2223",
+    "00-5391",
+    "00-1596",
+    "00-6490",
+    "00-7616",
+    "00-4605",
+    "00-2261",
+    "00-1425",
+    "00-4770",
+    "00-397",
+    "00-8400",
+    "00-1070",
+    "00-1107",
+    "00-3713",
+    "00-5108",
+    "00-8426",
+    "00-4912",
+    "00-6676",
+    "00-8085",
+    "00-3584",
+    "00-2013",
+    "00-2306",
+    "00-3125",
+    "00-3059",
+    "00-3569",
+    "00-4016",
+    "00-3841",
+    "00-6138",
+    "00-9290",
+    "00-3010",
+    "00-4655",
+    "00-5027",
+    "00-1866",
+    "00-4748",
+    "00-6811",
+    "00-2220",
+    "00-6065",
+    "00-3005",
+    "00-5454",
+    "00-10",
+    "00-3022",
+    "00-3561",
+    "00-7114",
+    "00-1524",
+    "00-2312",
+    "00-7229",
+    "00-3047",
+    "00-3146",
+    "00-4126",
+    "00-1212",
+    "00-3102",
+    "00-3560",
+    "00-6502",
+    "00-3681",
+    "00-6197",
+    "00-7075",
+    "00-6024",
+    "00-6219",
+    "00-6424",
+    "00-6910",
+    "00-290",
+    "00-4707",
+    "00-1039",
+    "00-2045",
+    "00-3296",
+    "00-2213",
+    "00-6916",
+    "00-6975",
+    "00-4690",
+    "00-2170",
+    "00-2287",
+    "00-249",
+    "00-3700",
+    "00-950",
+    "00-3308",
+    "00-2109",
+    "00-3379",
+    "00-4107",
+    "00-4756",
+    "00-8646",
+    "00-3501",
+    "00-6892",
+    "00-4675",
+    "00-8940",
+    "00-2154",
+    "00-3860",
+    "00-7710",
+    "00-3027",
+    "00-3452",
+    "00-9209",
+    "00-7073",
+    "00-7860",
+    "00-2098",
+    "00-3711",
+    "00-8243",
+    "00-9030",
+    "00-7084",
+    "00-3234",
+    "00-1027",
+    "00-823",
+    "00-8185",
+    "00-1417",
+    "00-4001",
+    "00-3512",
+    "00-7611",
+    "00-3551",
+    "00-4783",
+    "00-8235",
+    "00-4673",
+    "00-4813",
+    "00-6353",
+    "00-5223",
+    "00-1108",
+    "00-3011",
+    "00-4540",
+    "00-3444",
+    "00-225",
+    "00-7336",
+    "00-3617",
+    "00-3143",
+    "00-1901",
+    "00-1265",
+    "00-4291",
+    "00-2131",
+    "00-6928",
+    "00-6281",
+    "00-4441",
+    "00-7058",
+    "00-3714",
+    "00-4440",
+    "00-99202",
+    "00-7358",
+    "00-3103",
+    "00-3044",
+    "00-3744",
+    "00-6569",
+    "00-4078",
+    "00-6900",
+    "00-7245",
+    "00-720",
+    "00-4551",
+    "00-7424",
+    "00-1117",
+    "00-3780",
+    "00-4672",
+    "00-6011",
+    "00-7139",
+    "00-4099",
+    "00-1041",
+    "00-6979",
+    "00-9266",
+    "00-4421",
+    "00-6884",
+    "00-9753",
+    "00-3322",
+    "00-3120",
+    "00-3050",
+    "00-7204",
+    "00-4881",
+    "00-6760",
+    "00-7743",
+    "00-1120",
+    "00-6749",
+    "00-4513",
+    "00-1913",
+    "00-9373",
+    "00-2204",
+    "00-3206",
+    "00-7062",
+    "00-5363",
+    "00-6496",
+    "00-3114",
+    "00-6533",
+    "00-3871",
+    "00-3709",
+    "00-4090",
+    "00-5552",
+    "00-4840",
+    "00-4879",
+    "00-3082",
+    "00-2011",
+    "00-3214",
+    "00-7721",
+    "00-3157",
+    "00-3445",
+    "00-1710",
+    "00-1826",
+    "00-5962",
+    "00-1018",
+    "00-3947",
+    "00-3420",
+    "00-4838",
+    "00-1900",
+    "00-5531",
+    "00-6051",
+    "00-3105",
+    "00-6274",
+    "00-323",
+    "00-7302",
+    "00-1198",
+    "00-3848",
+    "00-5603",
+    "00-3055",
+    "00-3135",
+    "00-4424",
+    "00-9589",
+    "00-4283",
+    "00-6823",
+    "00-7082",
+    "00-6304",
+    "00-3118",
+    "00-7328",
+    "00-6843",
+    "00-9894",
+    "00-3580",
+    "00-7653",
+    "00-8946",
+    "00-7232",
+    "00-2201",
+    "00-4629",
+    "00-3259",
+    "00-4847",
+    "00-6845",
+    "00-6021",
+    "00-3196",
+    "00-4270",
+    "00-1476",
+    "00-4925",
+    "00-208",
+    "00-8395",
+    "00-7223",
+    "00-3042",
+    "00-1132",
+    "00-4565",
+    "00-3062",
+    "00-7606",
+    "00-2259",
+    "00-7249",
+    "00-7393",
+    "00-1480",
+    "00-6559",
+    "00-4466",
+    "00-4003",
+    "00-7766",
+    "00-6306",
+    "00-4619",
+    "00-2808",
+    "00-8241",
+    "00-4755",
+    "00-4834",
+    "00-4478",
+    "00-3739",
+    "00-3025",
+    "00-3094",
+    "00-5359",
+    "00-3212",
+    "00-6508",
+    "00-3032",
+    "00-3349",
+    "00-3857",
+    "00-3253",
+    "00-7017",
+    "00-6970",
+    "00-4170",
+    "00-4932",
+    "00-1098",
+    "00-7368",
+    "00-1121",
+    "00-6235",
+    "00-6724",
+    "00-3740",
+    "00-6179",
+    "00-3856",
+    "00-2342",
+    "00-6864",
+    "00-6745",
+    "00-3601",
+    "00-9357",
+    "00-3321"
+  ],
+  "url": "/produkte/dr-oetker-ristorante-pizza-quatro-formaggi/00-800271",
+  "vatCode": "10",
+  "video": ""
+}

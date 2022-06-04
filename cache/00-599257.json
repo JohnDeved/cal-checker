@@ -1,0 +1,237 @@
+{
+  "articleGroupIds": [
+    "B2-6C2"
+  ],
+  "articleId": "00-599257",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-indisches-curry/00-599257",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-indisches-curry/00-599257",
+  "category": "Grundnahrungsmittel",
+  "description": "Indisches Curry von Alnatura basiert auf einem indischen Rezept. Es bildet die Grundlage für schmackhaftes Curry mit Gemüse, Hühnchen und Rindfleisch.<li>Bio-Curry-Soße nach indischem Rezept<li>mit Tomaten, Zwiebeln, Paprika, Brechbohnen und Karotten<li>aus hochwertigen Bio-Zutaten<li>Gemisch aus indischen Gewürzen",
+  "eanCodes": [
+    "4104420213128",
+    "4104420183926"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2020-06-12T00:00:00",
+      "ingredients": "Zutaten: Wasser, Tomatenkonzentrat*, Zwiebeln*, Karotten*, Brechbohnen*, Roter Paprika* 4%, Sonnenblumenöl*, CURRYPULVER* 2,3% ( Knoblauch*, Koriandersamen*, Kreuzkümmel*, Ingwer*, Kurkuma*,Paprika*, Chili*, Zimt*) , Rohrohrzucker* ,Maisstärke*, CASHEWNÜSSE*, Meersalz, Zitronensaftkonzentrat* *aus biologischer Landwirtschaft . Kann Spuren von Soja und Sellerie enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 530
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.325
+        }
+      ],
+      "name": "Bio Curry-Sauce, indisch gewürzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 315,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 76,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Im Topf kurz erhitzen.",
+          "type": "Erhitzen und servieren - Vor dem Servieren erhitzen oder erwaermen"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen im Kühlschrank aufbewahren und innerhalb von 2 - 3 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "330 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 7.85"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Indisches Curry",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/sugo-und-pesto/B2-6C2/produkte/alnatura-indisches-curry/00-599257"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 7.85"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 207240,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Indisches Curry online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Indisches Curry online bestellen | BILLA",
+  "slug": "alnatura-indisches-curry",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-indisches-curry/00-599257",
+  "vatCode": "10",
+  "video": ""
+}

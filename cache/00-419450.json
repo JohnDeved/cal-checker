@@ -1,0 +1,262 @@
+{
+  "articleGroupIds": [
+    "B2-45A"
+  ],
+  "articleId": "00-419450",
+  "articleOnlyCanonicalPath": "/produkte/tirol-milch-tiroler-speisetopfen-0/00-419450",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tirol-milch-tiroler-speisetopfen-0/00-419450",
+  "category": "Kühlwaren",
+  "description": "Besonders kalorienarm und dabei schmackhaft ist der Tiroler Speisetopfen mit nahezu 0 % Fettanteil aus bester Tiroler Alpenmilch.<li>Magertopfen mit nur 0,2 % Fettanteil<li>erhöhter Anteil an Molkeneiweiß<li>streichfähig und köstlich im Geschmack<li>ohne Gentechnik",
+  "eanCodes": [
+    "9006020033111"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "RENNET_TYPE",
+              "description": "Labart Typ",
+              "hasTranslation": "True",
+              "value": "ANIMAL_RENNET",
+              "valueTranslation": "Tierisches Lab"
+            },
+            {
+              "attributeCode": "FAT_PERCENTAGE_IN_DRY_MATTER",
+              "description": "Fett in Trockenmasse %",
+              "hasTranslation": "False",
+              "value": "5"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch Molkerei Wörgl, Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-07-24T00:00:00",
+      "marketingMessage": "Den Tiroler Speisetopfen gibt es in verschiedenen Fettstufen. Für jedes Ihrer Gerichte haben wir die passende Topfengrundlage aus feinster Tiroler Alpenmilch. Topfen mit 20 % F.i.Tr. eignet sich besonders gut für Aufstriche in den verschiedensten Varianten. Desserts und Nachspeisen gelingen am besten mit dem Tiroler Speisetopfen 40 %. Für besonders Ernährungs- und Figurbewusste gibt es den Tiroler Speisetopfen mager.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.265
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Tiroler Speisetopfen Magerstufe, streichfähig, mit erhöhtem Gehalt an Molkeneiweiß, aus pasteurisierter Milch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 67,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 286,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3 - 7 °C) lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet mindestens haltbar bis: siehe Verpackungsaufdruck."
+    }
+  ],
+  "grammage": "250 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 4.76"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tirol Milch Tiroler Speisetopfen 0%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A/produkte/tirol-milch-tiroler-speisetopfen-0/00-419450"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 4.76"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 66250,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tirol Milch Tiroler Speisetopfen 0% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tirol Milch Tiroler Speisetopfen 0% online bestellen | BILLA",
+  "slug": "tirol-milch-tiroler-speisetopfen-0",
+  "storeAvalibility": [
+    "00-8075",
+    "00-8070",
+    "00-8646",
+    "00-8657",
+    "00-8155",
+    "00-8159",
+    "00-8193",
+    "00-8151",
+    "00-8235",
+    "00-8230",
+    "00-8636",
+    "00-8243",
+    "00-8140",
+    "00-8213",
+    "00-8417",
+    "00-8085",
+    "00-8895",
+    "00-8334",
+    "00-8022",
+    "00-8076",
+    "00-8606",
+    "00-8173",
+    "00-8241",
+    "00-8154",
+    "00-8031",
+    "00-8188",
+    "00-8426",
+    "00-7866",
+    "00-8185",
+    "00-99202"
+  ],
+  "url": "/produkte/tirol-milch-tiroler-speisetopfen-0/00-419450",
+  "vatCode": "10",
+  "video": ""
+}

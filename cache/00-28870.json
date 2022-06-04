@@ -1,0 +1,253 @@
+{
+  "articleGroupIds": [
+    "B2-45A"
+  ],
+  "articleId": "00-28870",
+  "articleOnlyCanonicalPath": "/produkte/salzburgmilch-premium-topfen-mager/00-28870",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "SalzburgMilch",
+  "canonicalPath": "/produkte/salzburgmilch-premium-topfen-mager/00-28870",
+  "category": "Kühlwaren",
+  "description": "Der magere Premium Topfen von SalzburgMilch bietet den vollen Geschmack. Er ist streichfähig und kann als Aufstrich oder zum Kochen und Backen verwendet werden.<li>aus pasteurisierter Milch<li>hergestellt in Österreich<li>ohne Gentechnik",
+  "eanCodes": [
+    "9004584040217",
+    "0000090214271"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SalzburgMilch GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.milch.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Von Familien für Familien: Premium Milch von kleinstrukturierten, familiengeführten Bauernhöfen. Im Schnitt nur 16 Milchkühe, ermöglicht emotionale Tiergesundheit. Premium Produkte zum Verwöhnen Ihrer Familie. SalzburgMilch ist Pionier der Tiergesundheit: Alle SalzburgMilch Milchkühe gehen regelmäßig zur Tiergesundheits-Vorsorge, damit die gesamte Kuhherde gesund bleibt. Denn nur eine gesunde Herde gibt Premium Milch und damit besten Geschmack.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.2581
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Premium Speisetopfen, mager, streichfähig, aus pasteurisierter Milch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 70,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 297,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt mindestens haltbar bis: siehe Platine. Nach dem Öffnen gekühlt lagern und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "250 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.15,
+    "unit": "1 kg 4.60"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "SalzburgMilch Premium Topfen mager",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A/produkte/salzburgmilch-premium-topfen-mager/00-28870"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.15,
+    "unit": "1 kg 4.60"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 70630,
+  "recommendationArticleIds": [],
+  "seoDescription": "SalzburgMilch Premium Topfen mager online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "SalzburgMilch Premium Topfen mager online bestellen | BILLA",
+  "slug": "salzburgmilch-premium-topfen-mager",
+  "storeAvalibility": [
+    "00-5078",
+    "00-5223",
+    "00-5067",
+    "00-5363",
+    "00-5003",
+    "00-5414",
+    "00-5359",
+    "00-5290",
+    "00-5165",
+    "00-5031",
+    "00-5962",
+    "00-5391",
+    "00-5199",
+    "00-5104",
+    "00-5381",
+    "00-5405",
+    "00-5181",
+    "00-5306",
+    "00-5552",
+    "00-5945",
+    "00-5082",
+    "00-5737",
+    "00-5108",
+    "00-5531",
+    "00-5000",
+    "00-5529",
+    "00-5322",
+    "00-5027",
+    "00-5112",
+    "00-5226",
+    "00-5447",
+    "00-5454",
+    "00-4813",
+    "00-99202"
+  ],
+  "url": "/produkte/salzburgmilch-premium-topfen-mager/00-28870",
+  "vatCode": "10",
+  "video": ""
+}

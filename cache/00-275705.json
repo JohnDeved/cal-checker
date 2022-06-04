@@ -1,0 +1,293 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-275705",
+  "articleOnlyCanonicalPath": "/produkte/schaerdinger-acidophilus-milch/00-275705",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Schärdinger",
+  "brandPath": "/marken/schaerdinger",
+  "canonicalPath": "/produkte/schaerdinger-acidophilus-milch/00-275705",
+  "category": "Kühlwaren",
+  "description": "Die Schärdinger Acidophilusmilch wird mit wertvollen Lakotabazillus Acidophilus Kulturen gesäuert.<br>Diese Kulturen wirken positiv auf die Darmflora und stabilisieren das natürliche Gleichgewicht im Magen-Darm-Trakt.",
+  "eanCodes": [
+    "9066000166505"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2018-11-15T00:00:00",
+      "marketingMessage": "Die Schärdinger Acidophilusmilch wird mit wertvollen Lakotabazillus Acidophilus Kulturen gesäuert. Diese Kulturen wirken positiv auf die Darmflora und stabilisieren das natürliche Gleichgewicht im Magen-Darm-Trakt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.535
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Acidophilusmilch 3,5% Fett, aus pasteurisierter Milch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 61,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 255,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet, gekühlt (3-6 °C) mindestens haltbar bis: siehe Giebel. Vor dem Genuss bitte gut schütteln."
+    }
+  ],
+  "grammage": "500 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.89,
+    "unit": "1 l 1.78"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schärdinger Acidophilus Milch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/schaerdinger-acidophilus-milch/00-275705"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.89,
+    "unit": "1 l 1.78"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 56730,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schärdinger Acidophilus Milch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schärdinger Acidophilus Milch online bestellen | BILLA",
+  "slug": "schaerdinger-acidophilus-milch",
+  "storeAvalibility": [
+    "00-4407",
+    "00-4660",
+    "00-4028",
+    "00-4200",
+    "00-4925",
+    "00-4099",
+    "00-4513",
+    "00-4756",
+    "00-4170",
+    "00-4674",
+    "00-4605",
+    "00-4283",
+    "00-3560",
+    "00-4424",
+    "00-4126",
+    "00-4524",
+    "00-4619",
+    "00-4021",
+    "00-4001",
+    "00-4478",
+    "00-4629",
+    "00-4675",
+    "00-4016",
+    "00-4601",
+    "00-4469",
+    "00-4881",
+    "00-4748",
+    "00-4879",
+    "00-4838",
+    "00-4912",
+    "00-4226",
+    "00-4489",
+    "00-4673",
+    "00-4090",
+    "00-4690",
+    "00-4755",
+    "00-5777",
+    "00-9589",
+    "00-3322",
+    "00-4421",
+    "00-4945",
+    "00-4655",
+    "00-3378",
+    "00-4441",
+    "00-5967",
+    "00-4076",
+    "00-4707",
+    "00-4440",
+    "00-4847",
+    "00-4003",
+    "00-4270",
+    "00-4700",
+    "00-4932",
+    "00-3379",
+    "00-4107",
+    "00-4779",
+    "00-4104",
+    "00-4146",
+    "00-3196",
+    "00-4249",
+    "00-4952",
+    "00-4350",
+    "00-3979",
+    "00-4059",
+    "00-4225",
+    "00-4982",
+    "00-4540",
+    "00-99202"
+  ],
+  "url": "/produkte/schaerdinger-acidophilus-milch/00-275705",
+  "vatCode": "10",
+  "video": ""
+}

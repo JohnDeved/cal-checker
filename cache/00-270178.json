@@ -1,0 +1,253 @@
+{
+  "articleGroupIds": [
+    "B2-446"
+  ],
+  "articleId": "00-270178",
+  "articleOnlyCanonicalPath": "/produkte/zillertaler-graukaese-jung/00-270178",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Sennerei Zillertaler",
+  "canonicalPath": "/produkte/zillertaler-graukaese-jung/00-270178",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9004831014855"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hollenzen 116, A-6290 Mayrhofen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "ErlebnisSennerei Zillertal",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2018-10-30T00:00:00",
+      "ingredients": "Zutaten: HEUMILCH g.t.S., unjodiertes Salz, Pfeffer, Käsereikulturen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 204
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Sauermilchkäse mit weniger als 2% Fett.i.Tr.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 122,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 520,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Zillertal",
+      "preperations": [],
+      "storageHint": "Ungeöffnet mindestens haltbar bis: siehe Aufdruck.\nGekühlt bei +4°C - + 8°C lagern.",
+      "sustenanceClaim": "Eiweißreich und Fettarm",
+      "usageHints": "Nach dem Öffnen innerhalb von 2-3 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "200 g Stk",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69,
+    "unit": "1 kg 18.45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Zillertaler Graukäse Jung",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/kaesespezialitaeten/B2-446/produkte/zillertaler-graukaese-jung/00-270178"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69,
+    "unit": "1 kg 18.45"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Zillertaler Graukäse Jung online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Zillertaler Graukäse Jung online bestellen | BILLA",
+  "slug": "zillertaler-graukaese-jung",
+  "storeAvalibility": [
+    "00-8895",
+    "00-8646",
+    "00-8606",
+    "00-8151",
+    "00-8185",
+    "00-8426",
+    "00-8334",
+    "00-8636",
+    "00-8657",
+    "00-8022",
+    "00-8213",
+    "00-8230",
+    "00-8159",
+    "00-8085",
+    "00-8158",
+    "00-8075",
+    "00-8154",
+    "00-8031",
+    "00-8076",
+    "00-8360",
+    "00-8188",
+    "00-8173",
+    "00-8241",
+    "00-8417",
+    "00-8140",
+    "00-8155",
+    "00-8070",
+    "00-8193",
+    "00-8243",
+    "00-99202"
+  ],
+  "url": "/produkte/zillertaler-graukaese-jung/00-270178",
+  "vatCode": "10",
+  "video": ""
+}

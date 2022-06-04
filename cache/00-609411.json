@@ -1,0 +1,693 @@
+{
+  "articleGroupIds": [
+    "B2-533"
+  ],
+  "articleId": "00-609411",
+  "articleOnlyCanonicalPath": "/produkte/iglo-mini-tirolerknoedel/00-609411",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-mini-tirolerknoedel/00-609411",
+  "category": "Tiefkühl",
+  "description": "Die Mini-Tirolerknödel von Iglo bringen herzhaft leckere Hausmannskost auf den Teller. Mit Sauerkraut oder in der Suppe schmecken die Speckknödel am besten.<li>tiefgekühlte Mini-Knödel mit Selchfleischwürfel und Röstzwiebeln<li>mit 100 % Fleisch aus Österreich<li>Zubereitung im Kochtopf: in siedendem Wasser",
+  "eanCodes": [
+    "9008695921427"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-08-02T00:00:00",
+      "ingredients": "Zutaten: Semmelwürfel 30% (WEIZENMEHL, Hefe, Salz, Wasser), VOLLMILCH, Schweinefleisch geselcht 20% [Schweinefleisch, Schweinebauch, Wasser, Nitritpökelsalz (Salz, Konservierungsstoff: Natriumnitrit**), Maltodextrin, Gewürzextrakte, Rauch], Wasser, EI, Röstzwiebel (Zwiebel, Sonnenblumenöl), Dextrose geräuchert, Sonnenblumenöl, WEIZENMEHL, Petersilie, Speisesalz jodiert (Salz, Kaliumjodat), Muskat, Pfeffer.\n\n\n\n**Natriumnitrit ist eine traditionelle Zutat, die gepökeltem Fleisch seine typische Farbe und den charakteristischen Geschmack verleiht.",
+      "marketingMessage": "Mini-Tirolerknödel, tiefgekühlt, 350g.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 380
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Mini-Tirolerknödel, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 986,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 235,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion (=150 g, 3 Knödel)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1479,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 353,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 41,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Im Kochtopf:\n\nIglo Mini-Tirolerknödel noch tiefgekühlt in siedendes, leicht gesalzenes Wasser einlegen und nach neuerlichem Aufwallen nicht zugedeckt ca. 11-12 Minuten leicht köcheln lassen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\n\nOhne künstliche Farbstoffe\n\nOhne künstliche Aromastoffe\n\n\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung im Kochtopf.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-05-24T00:00:00",
+      "ingredients": "Zutaten: Semmelwürfel 30% (WEIZENMEHL, Hefe, Salz, Wasser), VOLLMILCH, Schweinefleisch geselcht 20% [Schweinefleisch, Schweinebauch, Wasser, Nitritpökelsalz (Salz, Konservierungsstoff: Natriumnitrit**), Maltodextrin, Gewürzextrakte, Rauch], Wasser, EI, Röstzwiebel (Zwiebel, Sonnenblumenöl), Dextrose geräuchert, Sonnenblumenöl, WEIZENMEHL, Petersilie, Speisesalz jodiert (Salz, Kaliumjodat), Muskat, Pfeffer.\n\n**Natriumnitrit ist eine traditionelle Zutat, die gepökeltem Fleisch seine typische Farbe und den charakteristischen Geschmack verleiht.",
+      "marketingMessage": "Mini-Tirolerknödel, tiefgekühlt, 350g.\n\nNutri-Score \"D\", iglo.at/nutriscore, Nutri Score wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 380
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Mini-Tirolerknödel, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 986,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 235,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion (=150 g, 3 Knödel)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1479,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 353,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 41,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Im Kochtopf:\nIglo Mini-Tirolerknödel noch tiefgekühlt in siedendes, leicht gesalzenes Wasser einlegen und nach neuerlichem Aufwallen nicht zugedeckt ca. 11-12 Minuten leicht köcheln lassen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farbstoffe\nOhne künstliche Aromastoffe\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung im Kochtopf.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    }
+  ],
+  "grammage": "350 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 9.97"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Mini Tirolerknödel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/knoedel-und-beilagen/B2-533/produkte/iglo-mini-tirolerknoedel/00-609411"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 9.97"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 87170,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Mini Tirolerknödel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Mini Tirolerknödel online bestellen | BILLA",
+  "slug": "iglo-mini-tirolerknoedel",
+  "storeAvalibility": [
+    "00-6910",
+    "00-4834",
+    "00-3445",
+    "00-1132",
+    "00-8085",
+    "00-3105",
+    "00-3711",
+    "00-1070",
+    "00-4605",
+    "00-4551",
+    "00-7424",
+    "00-7120",
+    "00-3005",
+    "00-2259",
+    "00-2111",
+    "00-4690",
+    "00-3740",
+    "00-6884",
+    "00-3042",
+    "00-6304",
+    "00-2098",
+    "00-3856",
+    "00-9183",
+    "00-7114",
+    "00-3118",
+    "00-3050",
+    "00-3120",
+    "00-6864",
+    "00-6024",
+    "00-4748",
+    "00-7139",
+    "00-1425",
+    "00-5603",
+    "00-7743",
+    "00-1108",
+    "00-2131",
+    "00-6843",
+    "00-2204",
+    "00-2306",
+    "00-6760",
+    "00-3212",
+    "00-7223",
+    "00-950",
+    "00-3055",
+    "00-4283",
+    "00-6424",
+    "00-2313",
+    "00-823",
+    "00-1826",
+    "00-1710",
+    "00-3234",
+    "00-3512",
+    "00-4783",
+    "00-10",
+    "00-3384",
+    "00-4440",
+    "00-4421",
+    "00-2220",
+    "00-3744",
+    "00-6021",
+    "00-2287",
+    "00-7860",
+    "00-3114",
+    "00-4016",
+    "00-4879",
+    "00-9209",
+    "00-4270",
+    "00-7204",
+    "00-99202",
+    "00-6724",
+    "00-4078",
+    "00-5962",
+    "00-3580",
+    "00-9894",
+    "00-8946",
+    "00-7606",
+    "00-1198",
+    "00-3780",
+    "00-6281",
+    "00-1417",
+    "00-8426",
+    "00-6928",
+    "00-7075",
+    "00-3860",
+    "00-3011",
+    "00-3047",
+    "00-3062",
+    "00-2201",
+    "00-6353",
+    "00-3059",
+    "00-7393",
+    "00-6219",
+    "00-3713",
+    "00-2223",
+    "00-7336",
+    "00-9030",
+    "00-6011",
+    "00-4912",
+    "00-3857",
+    "00-7084",
+    "00-5552",
+    "00-6745",
+    "00-7082",
+    "00-7368",
+    "00-7766",
+    "00-2808",
+    "00-2045",
+    "00-6975",
+    "00-3617",
+    "00-3253",
+    "00-4756",
+    "00-8940",
+    "00-9290",
+    "00-7653",
+    "00-2011",
+    "00-1107",
+    "00-4090",
+    "00-7616",
+    "00-7245",
+    "00-9753",
+    "00-4441",
+    "00-2342",
+    "00-4655",
+    "00-3379",
+    "00-3549",
+    "00-7358",
+    "00-4466",
+    "00-3709",
+    "00-3027",
+    "00-6676"
+  ],
+  "url": "/produkte/iglo-mini-tirolerknoedel/00-609411",
+  "vatCode": "10",
+  "video": ""
+}

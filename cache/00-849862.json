@@ -1,0 +1,201 @@
+{
+  "articleGroupIds": [
+    "B2-459"
+  ],
+  "articleId": "00-849862",
+  "articleOnlyCanonicalPath": "/produkte/darbo-tagtraum-erdbeere-himbeere/00-849862",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Darbo",
+  "brandPath": "/marken/darbo",
+  "canonicalPath": "/produkte/darbo-tagtraum-erdbeere-himbeere/00-849862",
+  "category": "Kühlwaren",
+  "description": "Gönnen Sie sich mit dem Fruchtmousse von Darbo eine kleine Auszeit vom Alltag. Die Kombination aus erlesenen Früchten und Kokosnussextrakt ergibt durch langsames Aufschlagen eine lockere und zarte Fruchtcreme. Einfach zum träumen.<br><br><li>Vegan</li><li>Laktosefrei</li>",
+  "eanCodes": [
+    "9001432044106"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "6135 Stans/Tirol, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "A. Darbo AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.darbo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-11-08T00:00:00",
+      "ingredients": "Zutaten: 39% Erdbeeren, 37% Himbeeren, Zucker, Kokosnussextrakt, \nAroniasaftkonzentrat, Zitronensaftkonzentrat,  Verdickungsmittel (Agar-Agar, Johannisbrotkernmehl), Stickstoff*, Speisesalz. *zum Aufschlagen",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 190
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 90
+        }
+      ],
+      "name": "Cremig aufgeschlagenes Früchtedessert Erdbeere-Himbeere",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 137,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 575,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt (max. +8°C) mindestens haltbar bis: siehe Deckelrand.",
+      "sustenanceClaim": "Laktosegehalt <0,1g je 100g"
+    }
+  ],
+  "grammage": "90 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 kg 17.67"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Darbo Tagtraum Erdbeere-Himbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/pudding-und-desserts/B2-459/produkte/darbo-tagtraum-erdbeere-himbeere/00-849862"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 kg 17.67"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 85460,
+  "recommendationArticleIds": [],
+  "seoDescription": "Darbo Tagtraum Erdbeere-Himbeere online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Darbo Tagtraum Erdbeere-Himbeere online bestellen | BILLA",
+  "slug": "darbo-tagtraum-erdbeere-himbeere",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/darbo-tagtraum-erdbeere-himbeere/00-849862",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,374 @@
+{
+  "articleGroupIds": [
+    "B2-6B1"
+  ],
+  "articleId": "00-105869",
+  "articleOnlyCanonicalPath": "/produkte/weetabix-original/00-105869",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Weetabix",
+  "canonicalPath": "/produkte/weetabix-original/00-105869",
+  "category": "Grundnahrungsmittel",
+  "description": "Mit schmackhaften Cerealien in den Tag starten: Weetabix Original ist ein gehaltvolles Vollkorn-Frühstück – energiereich und gut.<li>95 % Vollkornweizen<li>reich an Vitaminen, Eiweiß und Ballaststoffen, wenig Fett und Zucker",
+  "eanCodes": [
+    "5010029002416",
+    "5010029000214",
+    "5010029203004"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Meytensgasse 27, A-1131 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Maresi Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: VOLLKORNWEIZEN (95%), GERSTENMALZEXTRAKT, Zucker, Salz, Niacin, Eisensulfat, Vitamin B2, Vitamin B1, Folsäure. \nFür allergenhaltige Cerealien, welche Gluten enthalten, beachten Sie die fettgedruckten Zutaten in der Liste.",
+      "marketingMessage": "95% Vollkorn",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.517
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 430
+        }
+      ],
+      "name": "Vollkornweizen Cerealie mit Vitaminen & Eisen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 362,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1531,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 69,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.28,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 86,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 85,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 170,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 88,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 14,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 85,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.94,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 86,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.2,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro 2 Biskuits",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 136,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 574,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 4.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 64,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 5.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.35,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.45,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 12,
+      "preperations": [
+        {
+          "instruction": "Warum versuchen Sie es nicht einmal mit Joghurt, warmer Milch oder Ihren Lieblingsfrüchten?",
+          "type": ""
+        }
+      ],
+      "storageHint": "Trocken, kühl und in einem geruchsfreien Raum lagern",
+      "sustenanceClaim": "- Quelle für Eiweiß - Ballaststoffreich - Zuckerarm - Fettarm"
+    }
+  ],
+  "grammage": "430 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 7.65"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Weetabix Original",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/cerealien/B2-6B1/produkte/weetabix-original/00-105869"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 7.65"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 127170,
+  "recommendationArticleIds": [
+    "00-504029"
+  ],
+  "seoDescription": "Weetabix Original online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Weetabix Original online bestellen | BILLA",
+  "slug": "weetabix-original",
+  "storeAvalibility": [
+    "00-4655",
+    "00-3114",
+    "00-4779",
+    "00-3617",
+    "00-4249",
+    "00-3143",
+    "00-6823",
+    "00-3234",
+    "00-1457",
+    "00-4605",
+    "00-2369",
+    "00-3780",
+    "00-4126",
+    "00-3700",
+    "00-7860",
+    "00-10",
+    "00-355",
+    "00-7857",
+    "00-4421",
+    "00-7606",
+    "00-2342",
+    "00-4690",
+    "00-7653",
+    "00-4675",
+    "00-1826",
+    "00-3146",
+    "00-4107",
+    "00-99202"
+  ],
+  "url": "/produkte/weetabix-original/00-105869",
+  "vatCode": "10",
+  "video": ""
+}

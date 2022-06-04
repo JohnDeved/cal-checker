@@ -1,0 +1,216 @@
+{
+  "articleGroupIds": [
+    "B2-683"
+  ],
+  "articleId": "00-411645",
+  "articleOnlyCanonicalPath": "/produkte/beach-flower-maiskoerner/00-411645",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Beach Flower",
+  "brandPath": "/marken/beach-flower",
+  "canonicalPath": "/produkte/beach-flower-maiskoerner/00-411645",
+  "category": "Grundnahrungsmittel",
+  "description": "Mais ist ein beliebtes Gemüse und eine schmackhafte Zutat vieler Speisen. Die Maiskörner von Beach Flower gibt es in der praktischen Dose.<li>lose, ganze Maiskörner<li>in Wasser und Salz eingelegt",
+  "eanCodes": [
+    "9001458021907"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Untere Donaustraße 11, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMGRO GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "UNGARN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Ganze Maiskörner, Wasser, Zucker, Salz.",
+      "mandatoryIndicator": "Vakuum Pack\nBitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 285
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.401
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 340
+        }
+      ],
+      "name": "Maiskörner",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 61,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 258,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.97,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt und trocken lagern. Nach dem Öffnen in einem nicht-metallischen Behälter gekühlt lagern und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "340 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 3.79"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Beach Flower Maiskörner",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683/produkte/beach-flower-maiskoerner/00-411645"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 3.79"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 55690,
+  "recommendationArticleIds": [
+    "00-624541"
+  ],
+  "seoDescription": "Beach Flower Maiskörner online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Beach Flower Maiskörner online bestellen | BILLA",
+  "slug": "beach-flower-maiskoerner",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/beach-flower-maiskoerner/00-411645",
+  "vatCode": "10",
+  "video": ""
+}

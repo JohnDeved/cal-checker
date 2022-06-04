@@ -1,0 +1,270 @@
+{
+  "articleGroupIds": [
+    "B2-490",
+    "B2-442"
+  ],
+  "articleId": "00-793297",
+  "articleOnlyCanonicalPath": "/produkte/ziegenrolle-schnittlauch---die-kaesemacher/00-793297",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Die Käsemacher",
+  "brandPath": "/marken/die-kaesemacher",
+  "canonicalPath": "/produkte/ziegenrolle-schnittlauch---die-kaesemacher/00-793297",
+  "category": "Kühlwaren",
+  "description": "Die Ziegenkäserolle von DIE KÄSEMACHER wird mit Liebe und Leidenschaft, per Hand und Stück für Stück in Schnittlauch gewälzt. Dieser Schnittlauch-Mantel legt sich schützend über die Frischkäsezubereitung und gibt dem Käse seinen unverwechselbaren Geschmack.</li>",
+  "eanCodes": [
+    "9003454108002",
+    "9003454124606"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europastraße 5, A-3902 Vitis",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Die Käsemacher",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-04-25T00:00:00",
+      "ingredients": "Zutaten: 99% Ziegenfrischkäsezubereitung mind. 45% Fett i. Tr. (ZIEGENFRISCHKÄSE, Speisesalz, Knoblauch, Verdickungsmittel: Guarkernmehl, Konservierungsstoff: Kaliumsorbat), 1% Schnittlauch",
+      "mandatoryIndicator": "Unter Schmutzatmosphäre verpackt",
+      "marketingMessage": "Die Ziegenkäserolle von DIE KÄSEMACHER wird mit Liebe und Leidenschaft, per Hand und Stück für Stück in Schnittlauch gewälzt. Dieser Schnittlauch-Mantel legt sich schützend über die Frischkäsezubereitung und gibt dem Käse seinen unverwechselbaren Geschmack.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.105
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Ziegenfrischkäsezubereitung mind. 45% Fett i. Tr. mit Schnittlauch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 292,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1212,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.79,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet und gekühlt (4 -7°C)",
+      "usageHints": "Nach dem Öffnen innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "100 g Stk",
+  "grammageBadge": "100 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.39,
+    "unit": "1 kg 23,90 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ziegenrolle Schnittlauch - Die Käsemacher",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/ziegenrolle-schnittlauch---die-kaesemacher/00-793297",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/ziegenrolle-schnittlauch---die-kaesemacher/00-793297"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.39,
+    "unit": "1 kg 23,90 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ziegenrolle Schnittlauch - Die Käsemacher online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ziegenrolle Schnittlauch - Die Käsemacher online bestellen",
+  "slug": "ziegenrolle-schnittlauch---die-kaesemacher",
+  "storeAvalibility": [
+    "00-3384",
+    "00-3118",
+    "00-5027",
+    "00-1017",
+    "00-281",
+    "00-7539",
+    "00-309",
+    "00-3050",
+    "00-3452",
+    "00-1710",
+    "00-3234",
+    "00-408",
+    "00-3593",
+    "00-6676",
+    "00-10",
+    "00-176",
+    "00-3857",
+    "00-5078",
+    "00-99202",
+    "00-3082",
+    "00-117",
+    "00-950",
+    "00-3120",
+    "00-2342",
+    "00-355",
+    "00-8185",
+    "00-3042",
+    "00-1457",
+    "00-174",
+    "00-119",
+    "00-3044",
+    "00-836",
+    "00-115",
+    "00-3780",
+    "00-2313"
+  ],
+  "url": "/produkte/ziegenrolle-schnittlauch---die-kaesemacher/00-793297",
+  "vatCode": "10",
+  "video": ""
+}

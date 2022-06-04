@@ -1,0 +1,315 @@
+{
+  "articleGroupIds": [
+    "B2-6A2",
+    "B2-632"
+  ],
+  "articleId": "00-13126",
+  "articleOnlyCanonicalPath": "/produkte/farina-goldgriess/00-13126",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Farina",
+  "brandPath": "/marken/farina",
+  "canonicalPath": "/produkte/farina-goldgriess/00-13126",
+  "category": "Grundnahrungsmittel",
+  "description": "Sonne bringt Engergie und Genuss ins Leben und beides sollte in einer guten Küche nicht fehlen. Deshalb wird für Farina nur hochwertiges, <b>sonnengereiftes Getreide</b> verwendet und auch bei der Produktion auf Sonnenernergie gesetzt. Farina Goldgrieß ist universell einsetzbar und sorgt für beste Back- und Kochergebnisse.",
+  "eanCodes": [
+    "9002433000016"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Emil-Mann-Gasse 1\nA-8074 Raaba",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Farina-Mühle",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Farina bringt jeden zum Strahlen. Mit Farina Goldgrieß gelingen Back- und Kochrezepte nicht nur am besten, es wird auch klimafreundlich und regional aus sonnengereiftem Getreide hergestellt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 507
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Hartweizengrieß",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 370,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1569,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 76,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken lagern!",
+      "usageHints": "Mehle und Teige sind nicht zum Rohverzehr bestimmt und müssen gut durchgebacken werden."
+    }
+  ],
+  "grammage": "500 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 2.58"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Farina Goldgrieß",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/getreideprodukte/B2-6A2/produkte/farina-goldgriess/00-13126",
+    "~/warengruppe/grundnahrungsmittel/backen/backmischungen-und-fuellungen/B2-632/produkte/farina-goldgriess/00-13126"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 2.58"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 135730,
+  "recommendationArticleIds": [],
+  "seoDescription": "Farina Goldgrieß online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Farina Goldgrieß online bestellen | BILLA",
+  "slug": "farina-goldgriess",
+  "storeAvalibility": [
+    "00-6975",
+    "00-6065",
+    "00-6740",
+    "00-6724",
+    "00-6306",
+    "00-6979",
+    "00-8441",
+    "00-6021",
+    "00-8012",
+    "00-6932",
+    "00-6554",
+    "00-6179",
+    "00-7204",
+    "00-6895",
+    "00-6952",
+    "00-6490",
+    "00-7082",
+    "00-8433",
+    "00-6811",
+    "00-6262",
+    "00-7245",
+    "00-7302",
+    "00-6197",
+    "00-6676",
+    "00-6255",
+    "00-5108",
+    "00-6805",
+    "00-6022",
+    "00-6819",
+    "00-6372",
+    "00-6024",
+    "00-6884",
+    "00-6628",
+    "00-8953",
+    "00-6684",
+    "00-7358",
+    "00-6424",
+    "00-3252",
+    "00-6130",
+    "00-6051",
+    "00-10",
+    "00-6248",
+    "00-6235",
+    "00-6508",
+    "00-6304",
+    "00-7189",
+    "00-6843",
+    "00-6011",
+    "00-6439",
+    "00-7393",
+    "00-6533",
+    "00-6559",
+    "00-6916",
+    "00-8946",
+    "00-6758",
+    "00-6487",
+    "00-6799",
+    "00-6928",
+    "00-6366",
+    "00-6864",
+    "00-6219",
+    "00-6569",
+    "00-7336",
+    "00-6018",
+    "00-6877",
+    "00-6810",
+    "00-6274",
+    "00-6108",
+    "00-6892",
+    "00-7743",
+    "00-6749",
+    "00-6489",
+    "00-6338",
+    "00-6910",
+    "00-6760",
+    "00-6588",
+    "00-6823",
+    "00-6845",
+    "00-6900",
+    "00-6492",
+    "00-6123",
+    "00-6518",
+    "00-6871",
+    "00-6353",
+    "00-6688",
+    "00-4783",
+    "00-6281",
+    "00-6138",
+    "00-6840",
+    "00-6745",
+    "00-7224",
+    "00-6496",
+    "00-6558",
+    "00-6970",
+    "00-8940",
+    "00-6897",
+    "00-6502",
+    "00-7139",
+    "00-6494",
+    "00-6480",
+    "00-6983",
+    "00-6001",
+    "00-7229",
+    "00-99202"
+  ],
+  "url": "/produkte/farina-goldgriess/00-13126",
+  "vatCode": "10",
+  "video": ""
+}

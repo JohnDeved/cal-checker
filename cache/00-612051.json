@@ -1,0 +1,221 @@
+{
+  "articleGroupIds": [
+    "B2-483"
+  ],
+  "articleId": "00-612051",
+  "articleOnlyCanonicalPath": "/produkte/handl-tyrol-feinster-bacon/00-612051",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Handl Tyrol",
+  "brandPath": "/marken/handl-tyrol",
+  "canonicalPath": "/produkte/handl-tyrol-feinster-bacon/00-612051",
+  "category": "Kühlwaren",
+  "description": "Handl Tyrol Feinster Bacon, die würzige Schinken-Spezialität aus kalt geräuchertem, luftgetrocknetem Schweinebauch, ergibt ein herzhaftes Frühstück.<li>mild gesalzener Bacon aus luftgetrocknetem Schweinebauch<li>ideal zum Frühstück<li>auch für die Pfanne geeignet",
+  "eanCodes": [
+    "9001745056483"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6551 Pians 33",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Handl Tyrol GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "speckmeister@handltyrol.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.handltyrol.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2018-06-05T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Nitritpökelsalz (Meersalz, Konservierungsstoff: Natriumnitrit), Dextrose, Gewürze, Antioxidationsmittel: Natriumascorbat; Gewürzextrakte, Rauch.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 97
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 80
+        }
+      ],
+      "name": "Rohpökelspezialität, Schweinebauch, kalt geräuchert und luftgetrocknet",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 378,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1567,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Schon probiert: Besonders einfach & schnell\n\ngelingt unser Feinster Bacon auch in der Mikrowelle.\n\nHierzu die Scheiben auf Küchenpapier auslegen und\n\nfür ca. 2-3 Minuten bei hoher Leistung goldbraun\n\nbraten.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ]
+    }
+  ],
+  "grammage": "80 g Packung",
+  "grammageBadge": "80 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 41.13"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Handl Tyrol Feinster Bacon",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483/produkte/handl-tyrol-feinster-bacon/00-612051"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 41.13"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 154900,
+  "recommendationArticleIds": [],
+  "seoDescription": "Handl Tyrol Feinster Bacon online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Handl Tyrol Feinster Bacon online bestellen | BILLA",
+  "slug": "handl-tyrol-feinster-bacon",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202",
+    "00-4283"
+  ],
+  "url": "/produkte/handl-tyrol-feinster-bacon/00-612051",
+  "vatCode": "10",
+  "video": ""
+}

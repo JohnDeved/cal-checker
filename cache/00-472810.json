@@ -1,0 +1,226 @@
+{
+  "articleGroupIds": [
+    "B2-6D4"
+  ],
+  "articleId": "00-472810",
+  "articleOnlyCanonicalPath": "/produkte/heinz-american-mustard-mild/00-472810",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Heinz",
+  "brandPath": "/marken/heinz",
+  "canonicalPath": "/produkte/heinz-american-mustard-mild/00-472810",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "0000087157697"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_LABEL_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 140555, 40075 Düsseldorf, Deutschland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "H. J. Heinz GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, SENFKÖRNER (17%), Branntweinessig*, Malzessig (GERSTE), Zucker, Salz, Honig, Gewürze, natürliches Aroma, Stabilisator (Xanthan), Paprikaextrakt.\n*Österreich: Weingeistessig",
+      "marketingMessage": "Milder Senf nach amerikanischer Art.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 268
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 220
+        }
+      ],
+      "name": "Senf",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 120,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 504,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig: zum sofortigen Verzehr",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen gekühlt aufbewahren.",
+      "usageHints": "Vor Gebrauch gut schütteln."
+    }
+  ],
+  "grammage": "220 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 10.41"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Heinz American Mustard mild",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/saucen-und-dressings/senf-und-kren/B2-6D4/produkte/heinz-american-mustard-mild/00-472810"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 10.41"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 212660,
+  "recommendationArticleIds": [],
+  "seoDescription": "Heinz American Mustard mild online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Heinz American Mustard mild online bestellen | BILLA",
+  "slug": "heinz-american-mustard-mild",
+  "storeAvalibility": [
+    "00-355",
+    "00-7603",
+    "00-7606",
+    "00-7665",
+    "00-7675",
+    "00-7653",
+    "00-3780",
+    "00-7759",
+    "00-4834",
+    "00-99202"
+  ],
+  "url": "/produkte/heinz-american-mustard-mild/00-472810",
+  "vatCode": "10",
+  "video": ""
+}

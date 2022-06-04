@@ -1,0 +1,256 @@
+{
+  "articleGroupIds": [
+    "B2-642"
+  ],
+  "articleId": "00-317666",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-leinoel/00-317666",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-leinoel/00-317666",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Alnatura Bio-Leinöl stammt aus erster kalter Pressung. Es hat ein typisches nussiges, leicht bitteres Aroma, das gut zu Quark, Kartoffeln, Gemüse und herzhaften Salaten passt.",
+  "eanCodes": [
+    "4104420025929"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "NON_EU_AGRICULTURE",
+              "valueTranslation": "Nicht-EU Landwirtschaft - Alle Rohmaterialien in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "KASACHSTAN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "marketingMessage": "Natives Bio-Leinöl aus erster kalter Pressung. Mit seinem nussigen, leicht bitteren Aroma schmeckt es in Salaten, zu Kartoffeln mit Quark und mehr. Reich an Omega-3-Fettsäuren, daher nicht erhitzen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 498
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Bio Leinöl nativ",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 837,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3441,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 93,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 63,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Omega-3-Fettsäuren",
+              "nutritionalValue": 48,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme und direktem Sonnenlicht schützen und nach Anbruch im Kühlschrank aufbewahren."
+    }
+  ],
+  "grammage": "250 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 11.96"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Leinöl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/essig-und-oel/oel/B2-642/produkte/alnatura-leinoel/00-317666"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 11.96"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 173130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Leinöl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Leinöl online bestellen | BILLA",
+  "slug": "alnatura-leinoel",
+  "storeAvalibility": [
+    "00-521",
+    "00-4707",
+    "00-10",
+    "00-2045",
+    "00-4551",
+    "00-355",
+    "00-5108",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-leinoel/00-317666",
+  "vatCode": "10",
+  "video": ""
+}

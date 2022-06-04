@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-6E2",
+    "B2-211"
+  ],
+  "articleId": "00-281910",
+  "articleOnlyCanonicalPath": "/produkte/reschundfrisch-jausenspitz-4er-glutenfrei/00-281910",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Resch&Frisch",
+  "brandPath": "/marken/reschfrisch",
+  "canonicalPath": "/produkte/reschundfrisch-jausenspitz-4er-glutenfrei/00-281910",
+  "category": "Grundnahrungsmittel",
+  "description": "Glutenfreies Gebäck - einzigartig gut!<br>Der Jausenspitz: Rustikales, herzhaft kräftiges Gebäck, passt ideal zu Wurst und Käse!",
+  "eanCodes": [
+    "9006366000969"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schloßstraße 14, 4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Resch&Frisch Holding GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Glutenfreie WEIZENSTÄRKE, Wasser, SOJAMEHL, Speisesalz, Reismehl, Backhefe, pflanzliches Öl (Raps), Flohsamenschalen, Leinsamen, Verdickungsmittel: Hydroxypropylmethylcellulose, Zucker, Farbstoff: Ammoniumsulfit-Zuckerkulör. Kann Spuren von Sesam enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 60
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 60
+        }
+      ],
+      "name": "Backware glutenfrei, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 986,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 233,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 47.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Im Original Back's Ofen Programm 2 oder im E-Herd 7-10 min bei 160 °C Ober-/Unterhitze fertig backen. Kurz in Stoffserviette nachziehen lassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "lagern bei -18°C, nach dem Auftauen nicht wieder einfrieren"
+    }
+  ],
+  "grammage": "4 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.49,
+    "unit": "1 Stk 1.62"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Resch&Frisch Jausenspitz 4er Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/reschundfrisch-jausenspitz-4er-glutenfrei/00-281910",
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/reschundfrisch-jausenspitz-4er-glutenfrei/00-281910"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.49,
+    "unit": "1 Stk 1.62"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 95520,
+  "recommendationArticleIds": [],
+  "seoDescription": "Resch&Frisch Jausenspitz 4er Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Resch&Frisch Jausenspitz 4er Glutenfrei online bestellen | BILLA",
+  "slug": "reschundfrisch-jausenspitz-4er-glutenfrei",
+  "storeAvalibility": [
+    "00-7491",
+    "00-7603",
+    "00-7857",
+    "00-7606",
+    "00-4707",
+    "00-7609",
+    "00-7653",
+    "00-10",
+    "00-99202",
+    "00-7860"
+  ],
+  "url": "/produkte/reschundfrisch-jausenspitz-4er-glutenfrei/00-281910",
+  "vatCode": "10",
+  "video": ""
+}

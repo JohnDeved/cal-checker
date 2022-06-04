@@ -1,0 +1,520 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-772402",
+  "articleOnlyCanonicalPath": "/produkte/san-pellegrino-limonata/00-772402",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "San Pellegrino",
+  "canonicalPath": "/produkte/san-pellegrino-limonata/00-772402",
+  "category": "Getränke",
+  "description": "Pure Erfrischung und intensiven Geschmack bietet die San Pellegrino Limonata. Das prickelnde Fruchtgetränk aus der Dose enthält 16 % spritzigen Zitronensaft.<li>Zitronenlimonade aus der handlichen Dose<li>mit natürlichem Zitronenaroma<li>enthält Kohlensäure",
+  "eanCodes": [
+    "8002270626791",
+    "8002270856501"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "55130 Mainz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Waters Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2022-02-25T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zitronensaft aus Zitronensaftkonzentrat (16%), Zucker, Kohlensäure, natürliches Zitronenaroma, Antioxidationsmittel: Ascorbinsäure",
+      "mandatoryIndicator": "SAN PELLEGRINO TERME (BERGAMO) ITALIEN",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 362
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Kohlensäurehaltiges Zitronenfruchtsaftgetränk mit 16% Zitronensaft",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 191,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 45,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "pro Portion 330 ml",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 630,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 149,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 34.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 37,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Sonne und Frost schützen und an einem sauberen, trockenen, kühlen und geruchslosen Ort lagern."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "60523 Frankfurt am Main",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Waters Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2022-05-12T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zitronensaft aus Konzentrat 11%, Zucker, Zitronensaft 5%, Kohlendioxid, natürliches Zitronenaroma.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 353
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Kohlensäurehaltiges Zitronenfruchtsaftgetränk mit 16% Zitrone",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 147,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 35,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 486,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 114,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 26.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 29,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 26.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.003,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Vor Sonne und Frost schützen und an einem trockenen, sauberen und geruchlosen\nOrt lagern."
+    }
+  ],
+  "grammage": "330 ml Dose (Einweg)",
+  "grammageBadge": "330 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.33,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.33,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.33,
+    "unit": "1 l 4.03"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "San Pellegrino Limonata",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/san-pellegrino-limonata/00-772402"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.33,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.33,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.33,
+    "unit": "1 l 4.03"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 144070,
+  "recommendationArticleIds": [
+    "00-288648"
+  ],
+  "seoDescription": "San Pellegrino Limonata online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "San Pellegrino Limonata online bestellen | BILLA",
+  "slug": "san-pellegrino-limonata",
+  "storeAvalibility": [
+    "00-7114",
+    "00-2342",
+    "00-9225",
+    "00-355",
+    "00-7857",
+    "00-3780",
+    "00-323",
+    "00-7653",
+    "00-3055",
+    "00-3114",
+    "00-2213",
+    "00-3512",
+    "00-5165",
+    "00-112",
+    "00-6255",
+    "00-6108",
+    "00-3059",
+    "00-7606",
+    "00-3431",
+    "00-99202",
+    "00-10",
+    "00-1457",
+    "00-2154",
+    "00-4982",
+    "00-350",
+    "00-1041",
+    "00-1107",
+    "00-2923",
+    "00-9290",
+    "00-3032",
+    "00-4655",
+    "00-2015",
+    "00-7539",
+    "00-7017",
+    "00-3871",
+    "00-4513",
+    "00-1132",
+    "00-7393"
+  ],
+  "url": "/produkte/san-pellegrino-limonata/00-772402",
+  "vatCode": "20",
+  "video": ""
+}

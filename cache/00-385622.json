@@ -1,0 +1,201 @@
+{
+  "articleGroupIds": [
+    "B2-6E7",
+    "B2-73",
+    "B2-6B3"
+  ],
+  "articleId": "00-385622",
+  "articleOnlyCanonicalPath": "/produkte/foodspring-protein-bar-double-choc-cashew/00-385622",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Foodspring",
+  "brandPath": "/marken/foodspring",
+  "canonicalPath": "/produkte/foodspring-protein-bar-double-choc-cashew/00-385622",
+  "category": "Grundnahrungsmittel",
+  "description": "Echte Geschmacksexplosion statt Zuckerbombe.<br>Wir haben gegrübelt, getestet und probiert. Und als wir dachten, das wird nichts mehr, haben wir die perfekte Riegelrezeptur gefunden: Kalorienarm gesüßter Kakao, und feinste Cashewkerne. Natürlich ohne zugesetzten Zucker. Und deshalb mit viel weniger Kalorien*.<p>*Im Vergleich zu handelsüblichen Schokoriegeln.",
+  "eanCodes": [
+    "4260363487542"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lobeckstr. 30-35, 10969 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "foodspring GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2020-09-01T00:00:00",
+      "ingredients": "Zutaten: Milchprotein, Feuchthaltemittel (Glycerin), Schokolade mit Süßungsmittel (17,7 %) (Kakaomasse, Süßungsmittel (Maltitol), Kakaobutter, Milchfett, Emulgator (Sojalecithin), Vanille), Füllung mit Karamellgeschmack (Maltodextrin, Süßungsmittel (Maltitol), Kakaobutter, Vollmilchpulver, Milchprotein, Sonnenblumenöl, Feuchthaltemittel (Glycerin), Emulgator (Sonnenblumenlecithin, Sojalecithin), Aromen, Salz, Vanille), Sojagranulat, Kakaomasse, Cashewnüsse (2,7 %), Kakaobutter, fettarmer Kakao, Salz, Emulgator (Sonnenblumenlecithin, Sojalecithin), Pflanzenfasern (Gummi Arabicum), Aromen, Süßungsmittel (Steviolglykoside).",
+      "marketingMessage": "Knackige Erdnüsse, knusprige Kokosflocken oder samtweiches Karamell. Umhüllt von zartschmelzender Vollmilchschokolade. Aber damit nicht genug. Süße weiße Schokolade mit Mandeln oder die doppelte Portion Schokolade versetzt mit feinen Cashewkernen. So viel Auswahl, so viel Genuss.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 67
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 65
+        }
+      ],
+      "name": "Nahrungsergänzungsmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1537,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 368,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 33.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 30.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.45,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern."
+    }
+  ],
+  "grammage": "65 Gramm Schachtel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 38.31"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Foodspring Protein Bar Double Choc Cashew",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/nahrungsergaenzung/B2-6E7/produkte/foodspring-protein-bar-double-choc-cashew/00-385622",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/foodspring-protein-bar-double-choc-cashew/00-385622",
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/foodspring-protein-bar-double-choc-cashew/00-385622"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 38.31"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Foodspring Protein Bar Double Choc Cashew online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Foodspring Protein Bar Double Choc Cashew online bestellen",
+  "slug": "foodspring-protein-bar-double-choc-cashew",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/foodspring-protein-bar-double-choc-cashew/00-385622",
+  "vatCode": "10",
+  "video": ""
+}

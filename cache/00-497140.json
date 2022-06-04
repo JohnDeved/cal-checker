@@ -1,0 +1,217 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-497140",
+  "articleOnlyCanonicalPath": "/produkte/frucade-orange/00-497140",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Frucade",
+  "brandPath": "/marken/frucade",
+  "canonicalPath": "/produkte/frucade-orange/00-497140",
+  "category": "Getränke",
+  "description": "In der Limonade Frucade Orange stecken nur ausgewählte, besonders saftige Süßorangen – ein prickelndes, unvergleichlich fruchtiges Geschmackserlebnis.<li>fruchtige Limonade mit Orangengeschmack<li>praktische Dose für den Durst unterwegs",
+  "eanCodes": [
+    "0000090173196"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-83026 Rosenheim",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DrinkStar GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Wasser, Zucker, Orangensaftkonzentrat, Kohlensäure, natürlicher   Orangenextrakt, Zitronensaftkonzentrat, Stabilisatoren Pektin und Guarkernmehl, Säuerungsmittel Zitronensäure, natürliches Aroma, Antioxidationsmittel Ascorbinsäure.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.366
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Orangenfruchtsaftlimonade Fruchtgehalt: 10 % (8 % Orange).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 39,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 163,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Produkt aus Österreich",
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur lagern.",
+      "usageHints": "Bei Raumtemperatur lagern."
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.85,
+    "unit": "1 l 2.58"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Frucade Orange",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/frucade-orange/00-497140"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.85,
+    "unit": "1 l 2.58"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 163230,
+  "recommendationArticleIds": [
+    "00-417647"
+  ],
+  "seoDescription": "Frucade Orange online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frucade Orange online bestellen | BILLA",
+  "slug": "frucade-orange",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/frucade-orange/00-497140",
+  "vatCode": "20",
+  "video": ""
+}

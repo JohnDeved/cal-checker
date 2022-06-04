@@ -1,0 +1,733 @@
+{
+  "articleGroupIds": [
+    "B2-6B2"
+  ],
+  "articleId": "00-929421",
+  "articleOnlyCanonicalPath": "/produkte/knusperli-waldbeer-knuspermuesli-ohne-zuckerzusatz/00-929421",
+  "attributes": [
+    "s_marke",
+    "s_zucker",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Knusperli",
+  "brandPath": "/marken/knusperli",
+  "canonicalPath": "/produkte/knusperli-waldbeer-knuspermuesli-ohne-zuckerzusatz/00-929421",
+  "category": "Grundnahrungsmittel",
+  "description": "<li>0% Zucker, 100% Gerschmack</li><li>Ohne Zusatz von Geschmacksverstärkern, Konservierungsstoffen und Farbstoffen</li>",
+  "eanCodes": [
+    "9002033130052"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Felixstraße 24, A-7210 Mattersburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FELIX Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "08008/33549",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.knusperli.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-04-20T00:00:00",
+      "ingredients": "ZUTATEN: Vollkorn-HAFERFLOCKEN (48%), Süßungsmittel: Maltitsirup, Oligofruktosesirup, WEIZENMEHL, Palmöl, Inulin, Maisstärke, WEIZENMALZMEHL, Reismehl, gefriergetrocknete schwarze Johannisbeeren, gefriergetrocknete Himbeeren, gefriergetrocknete Brombeeren, gefriergetrocknete Erdbeerstücke, GERSTENMALZMEHL, Salz, Aroma.\n\n\n\nKann Spuren von Erdnüssen, Soja, Milch, Schalenfrüchten und Sesam enthalten.",
+      "mandatoryIndicator": "Kann bei übermäßigem Verzehr abführend wirken.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 585
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 525
+        }
+      ],
+      "name": "Knusper Müsli mit gefriergetrockneten Beeren (1,6%) ohne Zuckerzusatz mit Süßungsmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1583,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 378,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 59,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.54,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 633,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 151,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.22,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 13,
+      "preperations": [
+        {
+          "instruction": "Genießen Sie Knusperli Knusper Müsli 0% Zuckerzusatz* Pur einfach so wie es ist -\n\noder verfeinern Sie es mit Milch, Fruchtsäften, Joghurt oder frischen Früchten.",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Felixstraße 24, A-7210 Mattersburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FELIX Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "08008/33549",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.knusperli.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-05-30T00:00:00",
+      "ingredients": "ZUTATEN: Vollkorn-HAFERFLOCKEN (48%), Süßungsmittel: Maltitsirup, Oligofruktosesirup, WEIZENMEHL, Palmöl, Inulin, Maisstärke, WEIZENMALZMEHL, Reismehl, gefriergetrocknete schwarze Johannisbeeren, gefriergetrocknete Himbeeren, gefriergetrocknete Brombeeren, gefriergetrocknete Erdbeerstücke, GERSTENMALZMEHL, Salz, Aroma.\n\n\n\nKann Spuren von Erdnüssen, Soja, Milch, Schalenfrüchten und Sesam enthalten.",
+      "mandatoryIndicator": "Kann bei übermäßige\nDa es sich um ein Naturprodukt handelt, können Kern- und Schalenteile enthalten sein. Füllhöhe technisch bedingt.m Verzehr abführend wirken.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 585
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 525
+        }
+      ],
+      "name": "Knusper Müsli mit gefriergetrockneten Beeren (1,6%) ohne Zuckerzusatz mit Süßungsmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1583,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 378,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 59,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.54,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 633,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 151,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.22,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 13,
+      "preperations": [
+        {
+          "instruction": "Genießen Sie Knusperli Knusper Müsli 0% Zuckerzusatz* Pur einfach so wie es ist -\n\noder verfeinern Sie es mit Milch, Fruchtsäften, Joghurt oder frischen Früchten.",
+          "type": ""
+        }
+      ],
+      "storageHint": "Trocken und vor Wärme geschützt lagern.  Nach dem Öffnen gut verschlossen aufbewahren.",
+      "sustenanceClaim": "0% Zuckerzusatz*\n\n*enthält von Natur aus Zucker\n\nohne Zusatz von.. Geschmacksverstärkern, Konservierungsstoffen (lt. Verordnung), Farbstoffen\n\n48% Vollkornanteil"
+    }
+  ],
+  "grammage": "525 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": true,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 9.50"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Knusperli Waldbeer Knuspermüsli ohne Zuckerzusatz",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/knusperli-waldbeer-knuspermuesli-ohne-zuckerzusatz/00-929421"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 9.50"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 69550,
+  "recommendationArticleIds": [],
+  "seoDescription": "Knusperli Waldbeer Knuspermüsli ohne Zuckerzusatz online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Knusperli Waldbeer Knuspermüsli ohne Zuckerzusatz online bestelle",
+  "slug": "knusperli-waldbeer-knuspermuesli-ohne-zuckerzusatz",
+  "storeAvalibility": [
+    "00-3709",
+    "00-4770",
+    "00-2907",
+    "00-6740",
+    "00-5359",
+    "00-7358",
+    "00-6745",
+    "00-2131",
+    "00-281",
+    "00-836",
+    "00-309",
+    "00-397",
+    "00-1480",
+    "00-1070",
+    "00-2170",
+    "00-3512",
+    "00-2109",
+    "00-3125",
+    "00-3114",
+    "00-1039",
+    "00-7114",
+    "00-4675",
+    "00-7783",
+    "00-1866",
+    "00-3700",
+    "00-7860",
+    "00-2098",
+    "00-4107",
+    "00-4932",
+    "00-7743",
+    "00-2259",
+    "00-1457",
+    "00-7368",
+    "00-2840",
+    "00-4126",
+    "00-3322",
+    "00-3050",
+    "00-7229",
+    "00-119",
+    "00-6021",
+    "00-3506",
+    "00-5027",
+    "00-3848",
+    "00-4672",
+    "00-3940",
+    "00-4551",
+    "00-1425",
+    "00-239",
+    "00-3105",
+    "00-249",
+    "00-7606",
+    "00-2111",
+    "00-7616",
+    "00-1901",
+    "00-7544",
+    "00-3824",
+    "00-1207",
+    "00-2011",
+    "00-4270",
+    "00-8012",
+    "00-7204",
+    "00-6952",
+    "00-10",
+    "00-3384",
+    "00-3025",
+    "00-7857",
+    "00-3027",
+    "00-1479",
+    "00-6480",
+    "00-7245",
+    "00-3401",
+    "00-3023",
+    "00-4755",
+    "00-3600",
+    "00-1455",
+    "00-643",
+    "00-1027",
+    "00-6823",
+    "00-6676",
+    "00-4249",
+    "00-3617",
+    "00-2223",
+    "00-7653",
+    "00-3140",
+    "00-3022",
+    "00-1017",
+    "00-3234",
+    "00-408",
+    "00-4421",
+    "00-3121",
+    "00-3062",
+    "00-330",
+    "00-8235",
+    "00-2306",
+    "00-3157",
+    "00-6372",
+    "00-4707",
+    "00-3830",
+    "00-1041",
+    "00-4605",
+    "00-3143",
+    "00-372",
+    "00-3044",
+    "00-6724",
+    "00-6845",
+    "00-7535",
+    "00-9290",
+    "00-2204",
+    "00-7424",
+    "00-6022",
+    "00-943",
+    "00-3510",
+    "00-6138",
+    "00-4982",
+    "00-99202",
+    "00-5962",
+    "00-3005",
+    "00-6910",
+    "00-5603",
+    "00-3681",
+    "00-2899",
+    "00-6684",
+    "00-4690",
+    "00-3047",
+    "00-174",
+    "00-1132",
+    "00-3042",
+    "00-4478",
+    "00-4170",
+    "00-2213",
+    "00-3196",
+    "00-1913",
+    "00-703",
+    "00-8076",
+    "00-3445",
+    "00-5363",
+    "00-3780",
+    "00-4441",
+    "00-2342",
+    "00-1524",
+    "00-2313",
+    "00-3011",
+    "00-1771",
+    "00-3103",
+    "00-3420",
+    "00-3146",
+    "00-4655",
+    "00-7491",
+    "00-4813",
+    "00-3431",
+    "00-282",
+    "00-208",
+    "00-2222",
+    "00-7539",
+    "00-8241",
+    "00-4783",
+    "00-1409",
+    "00-3214",
+    "00-987",
+    "00-2218",
+    "00-1631",
+    "00-3010",
+    "00-4407",
+    "00-3120",
+    "00-7393",
+    "00-4424",
+    "00-355",
+    "00-3253",
+    "00-3308",
+    "00-6864",
+    "00-6024",
+    "00-6219",
+    "00-209",
+    "00-1826",
+    "00-783",
+    "00-3405",
+    "00-289",
+    "00-5391",
+    "00-4540",
+    "00-3688",
+    "00-1550",
+    "00-3947",
+    "00-6884",
+    "00-2220",
+    "00-720",
+    "00-1900",
+    "00-2369",
+    "00-5871",
+    "00-3569",
+    "00-3150",
+    "00-823",
+    "00-3138",
+    "00-1943",
+    "00-2208",
+    "00-3501",
+    "00-4779",
+    "00-1265",
+    "00-6353",
+    "00-8173",
+    "00-5531",
+    "00-5529"
+  ],
+  "url": "/produkte/knusperli-waldbeer-knuspermuesli-ohne-zuckerzusatz/00-929421",
+  "vatCode": "10",
+  "video": ""
+}

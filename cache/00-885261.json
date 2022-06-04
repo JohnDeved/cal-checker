@@ -1,0 +1,177 @@
+{
+  "articleGroupIds": [
+    "B2-993"
+  ],
+  "articleId": "00-885261",
+  "articleOnlyCanonicalPath": "/produkte/cillit-bang-wc-hygiene/00-885261",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Cillit Bang",
+  "brandPath": "/marken/cillit-bang",
+  "canonicalPath": "/produkte/cillit-bang-wc-hygiene/00-885261",
+  "category": "Haushalt",
+  "description": "<b>+ einfache Anwendung<br><br>+ für makellose Reinheit<br><br>+ bleichend<br><br>+ entfernt 99% der Bakterien</b>",
+  "eanCodes": [
+    "4002448074090"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H290"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Sofort Giftinformationszentrum oder Arzt anrufen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Schutzhandschuhe tragen."
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "DANGER",
+              "valueTranslation": "Gefahr"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "CORROSION",
+              "valueTranslation": "Ätzwirkung (GHS05) - Ätzend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H318"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H314"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Guglgasse 15,\nA-1110 Wien\nTel.: +43 (0) 174003-0",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Reckitt Benckiser Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2018-07-05T00:00:00",
+      "marketingMessage": "Das Cillit Bang WC Kraft Gel - Hygiene und Schmutz - macht ihre Toilette nicht nur hygienisch sauber sondern hinterlässt ihr WC dank seiner Aktiv-Chlor Formel auch strahlend weiß.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 815
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 750
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "usageHints": "1. Den Toilettensitz anheben und die Spritzdüse unter den WC-Rand ansetzten.\n\n2. Flasche drücken und langsam genügend Flüssigkeit zur vollständigen Benetzung der WC-Schüssel verteilen. \n\n3. Für beste Resultate 15 Minuten einwirken lassen, dann bürsten\n\nund spülen. Nach Anwendung Verschlusskappe wieder bis zum Einrasten zuschrauben. Um die Kappe zu öffnen: Kappe an der Seite zusammendrücken und drehen. Um die Kappe zu schließen: Drehen bis es klickt."
+    }
+  ],
+  "grammage": "750 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 l 1.99"
+  },
+  "maximalOrderQuantity": 10,
+  "minimalOrderQuantity": 0,
+  "name": "Cillit Bang WC Hygiene",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/wc--und-badreiniger/B2-993/produkte/cillit-bang-wc-hygiene/00-885261"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 l 1.99"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 205540,
+  "recommendationArticleIds": [],
+  "seoDescription": "Cillit Bang WC Hygiene online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Cillit Bang WC Hygiene online bestellen | BILLA",
+  "slug": "cillit-bang-wc-hygiene",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/cillit-bang-wc-hygiene/00-885261",
+  "vatCode": "20",
+  "video": ""
+}

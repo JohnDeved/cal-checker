@@ -1,0 +1,226 @@
+{
+  "articleGroupIds": [
+    "B2-451"
+  ],
+  "articleId": "00-29645",
+  "articleOnlyCanonicalPath": "/produkte/laendle-suessrahm-teebutter/00-29645",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Ländle",
+  "brandPath": "/marken/laendle",
+  "canonicalPath": "/produkte/laendle-suessrahm-teebutter/00-29645",
+  "category": "Kühlwaren",
+  "description": "Österreichische Teebutter ist ein reines Naturprodukt aus pasteurisiertem Rahm, 82% Milchfett. Aus frischer Milch zu Rahm verarbeitet und sorgfältig gebuttert.",
+  "eanCodes": [
+    "9021700252101"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "LAENDLE_QUALITAET",
+              "valueTranslation": "LAENDLE-Qualitätssiegel - (Vorarlberger Produkte, definierte Qualitätsstandards)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Nofler Straße 62, A-6800 Feldkirch",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberg Milch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Österreichische Teebutter ist ein reines Naturprodukt aus pasteurisiertem Rahm, 82% Milchfett. Aus frischer Milch zu Rahm verarbeitet und sorgfältig gebuttert.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 253
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Österreichische Teebutter aus pasteurisiertem Rahm, 82% Milchfett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 743,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3056,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 82,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 57,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt (+6°C) mindestens haltbar bis: siehe Aufdruck"
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 9.96"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ländle Süßrahm Teebutter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/butter/B2-451/produkte/laendle-suessrahm-teebutter/00-29645"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 9.96"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 79480,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ländle Süßrahm Teebutter online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ländle Süßrahm Teebutter online bestellen | BILLA",
+  "slug": "laendle-suessrahm-teebutter",
+  "storeAvalibility": [
+    "00-8400",
+    "00-8409",
+    "00-8530",
+    "00-8395",
+    "00-99202"
+  ],
+  "url": "/produkte/laendle-suessrahm-teebutter/00-29645",
+  "vatCode": "10",
+  "video": ""
+}

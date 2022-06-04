@@ -1,0 +1,377 @@
+{
+  "articleGroupIds": [
+    "B2-684"
+  ],
+  "articleId": "00-264771",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-apfelmark-guave---mango---maracuja/00-264771",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-apfelmark-guave---mango---maracuja/00-264771",
+  "category": "Grundnahrungsmittel",
+  "description": "Ein Bio-Apfelmark mit feinem Guaven- und Mangopüree sowie Maracujasaftkonzentrat; aus hundert Prozent Frucht und ohne Zuckerzusatz hergestellt. Schmeckt pur oder auch als Dessertbegleiter.",
+  "eanCodes": [
+    "4104420214484"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2018-09-26T00:00:00",
+      "ingredients": "Zutaten: Äpfel* 71%, Guaven* 15%, Mangos* 10%, Maracujasaft* 4 % *aus biologischer Landwirtschaft.",
+      "marketingMessage": "Ein Bio-Apfelmark mit feinem Guaven- und Mangopüree sowie Maracujasaftkonzentrat; aus hundert Prozent Frucht und ohne Zuckerzusatz hergestellt. Schmeckt pur, als Dessert, zu Milchreis, Eierkuchen und",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 571
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.36
+        }
+      ],
+      "name": "Bio Apfelmark mit Guavenpüree,\nMangopüree und Maracujasaft",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 211,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 50,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen im Kühlschrank aufbewahren und innerhalb von 3 Tagen verbrauchen."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-13T00:00:00",
+      "ingredients": "Zutaten: Äpfel* 71%, Guaven* 15%, Mangos* 10%, Maracujasaft* 4 % *aus biologischer Landwirtschaft.",
+      "marketingMessage": "Ein Bio-Apfelmark mit feinem Guaven- und Mangopüree sowie Maracujasaftkonzentrat; aus hundert Prozent Frucht und ohne Zuckerzusatz hergestellt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 571
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.36
+        }
+      ],
+      "name": "Bio Apfelmark mit Guavenpüree, Mangopüree und Maracujasaft",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 211,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 50,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen im Kühlschrank aufbewahren und innerhalb von 3 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "360 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 4.14"
+  },
+  "maximalOrderQuantity": 60,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Apfelmark Guave - Mango - Maracuja",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/obst-und-kompotte/B2-684/produkte/alnatura-apfelmark-guave---mango---maracuja/00-264771"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 4.14"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Apfelmark Guave - Mango - Maracuja online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Apfelmark Guave - Mango - Maracuja online bestellen",
+  "slug": "alnatura-apfelmark-guave---mango---maracuja",
+  "storeAvalibility": [
+    "00-10",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-apfelmark-guave---mango---maracuja/00-264771",
+  "vatCode": "10",
+  "video": ""
+}

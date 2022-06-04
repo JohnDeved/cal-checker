@@ -1,0 +1,182 @@
+{
+  "articleGroupIds": [
+    "B2-883"
+  ],
+  "articleId": "00-277997",
+  "articleOnlyCanonicalPath": "/produkte/gillette-skinguard-sensitive-rasierschaum/00-277997",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Gillette",
+  "brandPath": "/marken/gillette",
+  "canonicalPath": "/produkte/gillette-skinguard-sensitive-rasierschaum/00-277997",
+  "category": "Pflege",
+  "description": "Für empfindliche Haut.",
+  "eanCodes": [
+    "7702018493746"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "BEGRENZTE_MENGE_ADR",
+              "description": "Begrenzte Menge gemäß ADR (M189)",
+              "hasTranslation": "False",
+              "value": "USED"
+            },
+            {
+              "attributeCode": "GEFAHRNUMMER_GEFAHRZAHL",
+              "description": "Gefahrnummer/Gefahrzahl (M188)",
+              "hasTranslation": "False",
+              "value": "20"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_VERPACKUNGSGRUPPE",
+              "description": "Verpackungsgruppe Gefahrgut (M191)",
+              "hasTranslation": "False",
+              "value": "NA"
+            },
+            {
+              "attributeCode": "GEFAHRGUTNUMMER_UN",
+              "description": "UN Gefahrgutnummer (M194)",
+              "hasTranslation": "False",
+              "value": "1950"
+            },
+            {
+              "attributeCode": "TECHNISCHER_NAME",
+              "description": "Technischer Name (M193)",
+              "hasTranslation": "False",
+              "value": "DRUCKGASPACKUNGEN, erstickend (vorher 2.2)"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSE",
+              "description": "Gefahrgutklasse (M185)",
+              "hasTranslation": "False",
+              "value": "2"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSIFIZIERUNG",
+              "description": "Gefahrgut Klassifizierungscode (M186)",
+              "hasTranslation": "False",
+              "value": "5A"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 13, 1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Procter & Gamble Austria - Zweigniederlassung der Procter & Gamble GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2019-01-01T00:00:00",
+      "mandatoryIndicator": "Behälter steht unter Druck: Kann bei Erhitzen bersten. Von Hitze, heißen Oberflächen, Funken, offenen Flammen und anderen Zündquellen fernhalten. Nicht rauchen. Nicht durchstechen oder verbrennen, auch nicht nach der Verwendung. Vor Sonnenlicht schützen. Nicht Temperaturen über 50 °C aussetzen. Außerhalb der Reichweite von Kindern aufbewahren. Enthält 3,24 Massenprozent entzündliche Bestandteile.",
+      "marketingMessage": "Gillette SkinGuard Sensitive Rasierschaum für Männer mit einem Hauch von Aloe, kühlt Ihre Haut und lässt den Rasierer sanft über die Haut gleiten, um sie während der Rasur zu schützen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 319.18
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "250 Milliliter Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Gillette Skinguard Sensitive Rasierschaum",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/pflege/rasierbedarf/rasierschaum-und--gel/B2-883/produkte/gillette-skinguard-sensitive-rasierschaum/00-277997"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 155480,
+  "recommendationArticleIds": [],
+  "seoDescription": "Gillette Skinguard Sensitive Rasierschaum online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gillette Skinguard Sensitive Rasierschaum online bestellen",
+  "slug": "gillette-skinguard-sensitive-rasierschaum",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/gillette-skinguard-sensitive-rasierschaum/00-277997",
+  "vatCode": "20",
+  "video": ""
+}

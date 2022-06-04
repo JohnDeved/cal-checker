@@ -1,0 +1,206 @@
+{
+  "articleGroupIds": [
+    "B2-511"
+  ],
+  "articleId": "00-571203",
+  "articleOnlyCanonicalPath": "/produkte/oatly-hafer-eis-hazelnut-swirl/00-571203",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Oatly",
+  "brandPath": "/marken/oatly",
+  "canonicalPath": "/produkte/oatly-hafer-eis-hazelnut-swirl/00-571203",
+  "category": "Tiefkühl",
+  "description": "Okay, vielleicht haben wir die Genialität des simplen Genusses schon bei einigen unserer Eissorten erwähnt - aber mal ehrlich, wer will schon etwas Schlichtes, wenn es Hazelnut Swirl Eis gibt?<br>Oh ja, es ist genauso übers-Ziel-hinausschießend-überragend wie es klingt. Vielleicht zweifelst du gerade daran, ob man alles glauben sollte, was Haferdrinkunternehmen im Internet über ihre eigenen Produkte verbreiten; aber kein Eis ist besser als dieses.",
+  "eanCodes": [
+    "7394376618918"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VEGAN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mehringdamm 33\n10961 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Oatly Germany GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEDEN"
+      ],
+      "fromDate": "2022-03-01T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zucker, Glukosesirup, Hafer, Dextrose, Rapsöl, Haselnüsse 6%, pflanzliche Öle ganz gehärtet (Kokos, Raps), Kokosöl, Tapiokastärke, natürliches Aroma, Salz, Emulgatoren (Mono- und Diglyceride von Speisefettsäuren), karamellisierter Zucker, Stabilisatoren (Johannisbrotkernmehl, Guarkernmehl)",
+      "marketingMessage": "Unfassbar cremig dank hohem Haferanteil.\nOhne Sojageschmack oder Mandelnote.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 358
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "name": "Oatly Hafer Eis Vanille",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 986,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 236,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.28,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei -18°C oder kälter aufbewahren\nNach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "500 Milliliter Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 11.98"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Oatly Hafer Eis Hazelnut Swirl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/eisbecher/B2-511/produkte/oatly-hafer-eis-hazelnut-swirl/00-571203"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 11.98"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Oatly Hafer Eis Hazelnut Swirl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Oatly Hafer Eis Hazelnut Swirl online bestellen | BILLA",
+  "slug": "oatly-hafer-eis-hazelnut-swirl",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/oatly-hafer-eis-hazelnut-swirl/00-571203",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,254 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-317526",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-tomatensaft/00-317526",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-tomatensaft/00-317526",
+  "category": "Getränke",
+  "description": "Der Alnatura Tomatensaft ist ein naturtrüber Direktsaft, der aus sonnengereiften, frisch geernteten Bio-Tomaten hergestellt wird. Der milde Geschmack ist durch etwas Zitronensaft und eine Prise Meersalz abgerundet.",
+  "eanCodes": [
+    "4104420072787"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_AGRICULTURE",
+              "valueTranslation": "EU Landwirtschaft - Alle Rohmaterialien in der EU angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Tomatensaft* 99,6%, Meersalz \n*aus biologischer Landwirtschaft\n.",
+      "marketingMessage": "Ein Bio-Direktsaft aus Tomaten für die Zubereitung von Saucen und Suppen oder den puren Genuss, zum Beispiel mit etwas Pfeffer. Vegan.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 539.02
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Bio Tomatensaft mit Meersalz,\npasteurisiert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 70,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 16,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen imKühlschrank aufbewahren und innerhalb von 3 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "0.5 l Packung (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 2.98"
+  },
+  "maximalOrderQuantity": 30,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Tomatensaft",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/alnatura-tomatensaft/00-317526"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 2.98"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 215770,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Tomatensaft online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Tomatensaft online bestellen | BILLA",
+  "slug": "alnatura-tomatensaft",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-tomatensaft/00-317526",
+  "vatCode": "20",
+  "video": ""
+}

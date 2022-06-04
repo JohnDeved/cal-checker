@@ -1,0 +1,230 @@
+{
+  "articleGroupIds": [
+    "B2-449"
+  ],
+  "articleId": "00-564432",
+  "articleOnlyCanonicalPath": "/produkte/landliebe-landkaese-sanft-aromatisch/00-564432",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Landliebe",
+  "brandPath": "/marken/landliebe",
+  "canonicalPath": "/produkte/landliebe-landkaese-sanft-aromatisch/00-564432",
+  "category": "Kühlwaren",
+  "description": "<li>Cremig und vollmundig im Geschmack</li><li>Mit Landliebe Milch hergestellt</li><li>Ohne Gentechnik und ohne Konservierungsstoffe</li>",
+  "eanCodes": [
+    "8710912055617"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "OHNE_GEN_TECHNIK",
+              "valueTranslation": "OHNE GENTECHNIK (kontrolliert von VLOG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "74078 Heilbronn DEUTSCHLAND",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Landliebe Molkereiprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-03-09T00:00:00",
+      "ingredients": "Zutaten: Pasteurisierte KUHMILCH,  Speisesalz, Käsereikulturen, mikrobielles Lab.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 165
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Gouda 48% Fett i. Tr.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1452,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 350,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 106,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 765,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 68,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 1.7,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet bei +8 °C mindestens haltbar bis:\nsiehe Verpackungsaufdruck.",
+      "sustenanceClaim": "Laktosefrei durch natütliche Reifung (Laktosegehalt <0,1 g pro 100 g). Von Natur aus glutenfrei.",
+      "usageHints": "Oft länger gut."
+    }
+  ],
+  "grammage": "150 g Packung",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 14.60"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Landliebe Landkäse sanft-aromatisch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schnittkaese/B2-449/produkte/landliebe-landkaese-sanft-aromatisch/00-564432"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 14.60"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 168160,
+  "recommendationArticleIds": [],
+  "seoDescription": "Landliebe Landkäse sanft-aromatisch online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Landliebe Landkäse sanft-aromatisch online bestellen | BILLA",
+  "slug": "landliebe-landkaese-sanft-aromatisch",
+  "storeAvalibility": [],
+  "url": "/produkte/landliebe-landkaese-sanft-aromatisch/00-564432",
+  "vatCode": "10",
+  "video": ""
+}

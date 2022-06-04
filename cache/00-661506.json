@@ -1,0 +1,204 @@
+{
+  "articleGroupIds": [
+    "B2-992"
+  ],
+  "articleId": "00-661506",
+  "articleOnlyCanonicalPath": "/produkte/frosch-himbeer-essig-anti-kalk/00-661506",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Frosch",
+  "brandPath": "/marken/frosch",
+  "canonicalPath": "/produkte/frosch-himbeer-essig-anti-kalk/00-661506",
+  "category": "Haushalt",
+  "description": "<li>Kraftvolle Reinigung von Armaturen, Waschbecken, Badewannen, Duschen und Kacheln<li>Die Rezeptur mit Himbeeressig und Säuren entfernt hartnäckige Kalk und Schmutzablagerungen<li>Hinterlässt einen angenehm frischen Himbeerduft</li><u>Anwendung:</u><li>Düse nach links drehen, bis Sprühkopfsymbol oben steht<li>Den Reiniger auf die zu reinigende Fläche sprühen, kurz einwirken lassen, dann Schmutz und Kalk einfach nass abwischen oder abspülen und mit trockenem Tuch nachwischen<li>Tipp: Richtige Dosierung spart Kosten und schont die Umwelt</li><u>Hinweise:</u><li>Nicht geeignet für säureempfindliche Materialien wie z. B. Marmor, Terrazzo, Naturstein, Armaturen mit Gold- oder Silberbad oder emaillierte Badewannen. Auf empfindlichen Oberflächen vorab an unauffälliger Stelle ausprobieren.<li>Bei empfindlicher Haut wird das Tragen von Gummihandschuhen empfohlen</li>",
+  "eanCodes": [
+    "4001499939884"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Neualmerstrasse 11-13\nA-5400 Hallein",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Erdal GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2017-07-31T00:00:00",
+      "marketingMessage": "Eigenschaften:\n* Kraftvolle Reinigung von Armaturen, Waschbecken, Badewannen, Duschen und Kacheln.\n* Die Rezeptur mit Himbeeressig und Säuren entfernt hartnäckige Kalk und Schmutzablagerungen. \n* Hinterlässt einen angenehm frischen Himbeerduft.\n\nAnwendung:\n* Düse nach links drehen, bis Sprühkopfsymbol oben steht.\n* Den Reiniger auf die zu reinigende Fläche sprühen, kurz einwirken lassen, dann Schmutz und Kalk einfach nass abwischen oder abspülen und mit trockenem Tuch nachwischen. \n* Tipp: Richtige Dosierung spart Kosten und schont die Umwelt.\n\nHinweise:\n* Außer Reichweite von Kindern aufbewahren. \n* Nicht mit anderen Produkten mischen. \n* Sprühnebel nicht einatmen. \n* Nicht geeignet für säureempfindliche Materialien wie z. B. Marmor, Terrazzo, Naturstein, Armaturen mit Gold- oder Silberbad oder emaillierte Badewannen. Auf empfindlichen\nOberflächen vorab an unauffälliger Stelle ausprobieren.\n* Bei empfindlicher Haut wird das Tragen von Gummihandschuhen empfohlen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 564
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 5.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Frosch Himbeer-Essig Anti-Kalk",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/diverse-haushaltsreiniger/B2-992/produkte/frosch-himbeer-essig-anti-kalk/00-661506"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 5.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frosch Himbeer-Essig Anti-Kalk online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frosch Himbeer-Essig Anti-Kalk online bestellen | BILLA",
+  "slug": "frosch-himbeer-essig-anti-kalk",
+  "storeAvalibility": [
+    "00-8646",
+    "00-4847",
+    "00-6749",
+    "00-7535",
+    "00-7783",
+    "00-6001",
+    "00-3584",
+    "00-4107",
+    "00-7733",
+    "00-9030",
+    "00-3996",
+    "00-3005",
+    "00-4270",
+    "00-7963",
+    "00-3580",
+    "00-3780",
+    "00-10",
+    "00-7653",
+    "00-8173",
+    "00-8235",
+    "00-7857",
+    "00-5603",
+    "00-7743",
+    "00-99202",
+    "00-1114",
+    "00-8395",
+    "00-6022",
+    "00-6760",
+    "00-2201",
+    "00-6496",
+    "00-9415",
+    "00-6916",
+    "00-3583",
+    "00-2223",
+    "00-3445",
+    "00-4441",
+    "00-2313",
+    "00-5290",
+    "00-3420",
+    "00-7609",
+    "00-4783",
+    "00-8151",
+    "00-1425",
+    "00-3714",
+    "00-4283",
+    "00-3688",
+    "00-6255",
+    "00-5003"
+  ],
+  "url": "/produkte/frosch-himbeer-essig-anti-kalk/00-661506",
+  "vatCode": "20",
+  "video": ""
+}

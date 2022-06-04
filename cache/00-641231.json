@@ -1,0 +1,238 @@
+{
+  "articleGroupIds": [
+    "B2-683"
+  ],
+  "articleId": "00-641231",
+  "articleOnlyCanonicalPath": "/produkte/le-baron-rote-kidneybohnen/00-641231",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Le Baron",
+  "brandPath": "/marken/le-baron",
+  "canonicalPath": "/produkte/le-baron-rote-kidneybohnen/00-641231",
+  "category": "Grundnahrungsmittel",
+  "description": "Mit den roten Kidneybohnen von Le Baron lässt sich das beliebte Chili con Carne ebenso zubereiten wie Eintöpfe, Salate, Suppen und vieles mehr.<li>in leicht gesalzenem Wasser eingelegt – fertig zur Weiterverwendung<li>weiche, mehlige Konsistenz und leicht süßlicher Geschmack<li>pflanzliche Eiweißquelle",
+  "eanCodes": [
+    "9001458021587"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Untere Donaustraße 11, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMGRO GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Kidneybohnen, Wasser, Salz, Zucker.",
+      "mandatoryIndicator": "Bitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 480
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.895
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 800
+        }
+      ],
+      "name": "Red Kidney Bohnen",
+      "nutritions": [
+        {
+          "householdPortion": "Durchschnittliche Nährwerte per 100g (abgetropft):",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 110,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 463,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.74,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt und trocken lagern. Nach dem Öffnen in einen nicht metallischen Behälter leeren, gekühlt lagern und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "800 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 1.86"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Le Baron Rote Kidneybohnen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683/produkte/le-baron-rote-kidneybohnen/00-641231"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 1.86"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 85130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Le Baron Rote Kidneybohnen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Le Baron Rote Kidneybohnen online bestellen | BILLA",
+  "slug": "le-baron-rote-kidneybohnen",
+  "storeAvalibility": [
+    "00-2342",
+    "00-10",
+    "00-4779",
+    "00-1529",
+    "00-1132",
+    "00-3780",
+    "00-7139",
+    "00-4655",
+    "00-3617",
+    "00-99202",
+    "00-4605",
+    "00-720",
+    "00-7606",
+    "00-7653"
+  ],
+  "url": "/produkte/le-baron-rote-kidneybohnen/00-641231",
+  "vatCode": "10",
+  "video": ""
+}

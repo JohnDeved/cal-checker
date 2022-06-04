@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-680783",
+  "articleOnlyCanonicalPath": "/produkte/frosta-gemuese-pfanne-curry-kokos/00-680783",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Frosta",
+  "brandPath": "/marken/frosta",
+  "canonicalPath": "/produkte/frosta-gemuese-pfanne-curry-kokos/00-680783",
+  "category": "Tiefkühl",
+  "description": "Fertig gewürzte Gemüse Pfanne mit gelben Karotten, Brokkoli, roter Paprika, Fisolen und Mangowürfeln in einer Curry-Kokosnuss Sauce.<br>Ideal als Grundlage für ein Currygericht mit Reis.",
+  "eanCodes": [
+    "4008366007196"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 57 02 24, 22771 Hamburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FRoSTA Tiefkühlkost GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-11-30T00:00:00",
+      "ingredients": "Zutaten: Gemüse 72% (gelbe Karotten, Zwiebeln, Brokkoli, roter Paprika, Brechbohnen (für AT: Fisolen, für CH: grüne Bohnen)), Trinkwasser, Kokosnussmilch (6%) (Kokosnuss, Trinkwasser), Mango, Speisesalz, Curry (Ingwer, Koriander, Kreuzkümmel, Paprika gemahlen, Curcuma, Cayennepfeffer, schwarzer Pfeffer), Kartoffelstärke. Kann Spuren von Gluten, Eiern, Soja, Milch, Sellerie und Senf enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.519
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.48
+        }
+      ],
+      "name": "Gemüsemischung mit 14% Brokkoli und 6% Mango. Fertig gewürzt. Tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 185,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 44,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.86,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Bitte das Produkt tiefgefroren zubereiten.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "*-Fach oder Eiswürfelfach (-6°C): 4 Tage\n **-Fach (-12°C): 3 Wochen\n***-Fach (-18°C): mindestens haltbar bis Ende: siehe Aufdruck\nNach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "480 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 8.94"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Frosta Gemüse Pfanne Curry Kokos",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/frosta-gemuese-pfanne-curry-kokos/00-680783"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 8.94"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frosta Gemüse Pfanne Curry Kokos online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frosta Gemüse Pfanne Curry Kokos online bestellen | BILLA",
+  "slug": "frosta-gemuese-pfanne-curry-kokos",
+  "storeAvalibility": [
+    "00-2342",
+    "00-10",
+    "00-2111",
+    "00-99202",
+    "00-3780",
+    "00-3120"
+  ],
+  "url": "/produkte/frosta-gemuese-pfanne-curry-kokos/00-680783",
+  "vatCode": "10",
+  "video": ""
+}

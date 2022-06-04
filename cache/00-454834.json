@@ -1,0 +1,225 @@
+{
+  "articleGroupIds": [
+    "B2-432"
+  ],
+  "articleId": "00-454834",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-huehner-schnitzel4/00-454834",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_rezept",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-huehner-schnitzel4/00-454834",
+  "category": "Kühlwaren",
+  "description": "Ob paniert, gefüllt oder angebraten und mit Sauce serviert: Das zarte Fleisch der Henderl Schnitzel von Hofstädter bildet die Grundlage für viele Gerichte.<li>zwei bratfertige Schnitzel pro Packung<li>in Österreich geborene, aufgewachsene und geschlachtete Tiere<li>regionaler Hersteller",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "-"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-11-13T00:00:00",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-61992-EG\r\nHandelsklasse A\r\nfrisch \r\nKüchenhygiene ist wichtig: Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen (mind. 75°C)!\r\nGeboren in: Österreich \r\nAufgezogen in: Österreich \r\nGeschlachtet in: Österreich \r\nZerlegt in: Österreich ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Hühner Schnitzel, frisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 428,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5.1,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 101,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1.4,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 46,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.3,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei -1 bis 4°C.",
+      "usageHints": "Nach dem Öffnen zur unmittelbaren Verarbeitung bestimmt.\n"
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.99,
+    "unit": "1 kg 17,99 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.5,
+  "name": "Hofstädter Hühner-Schnitzel",
+  "orderQuantityStepSize": 0.5,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432/produkte/hofstaedter-huehner-schnitzel4/00-454834"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.99,
+    "unit": "1 kg 17,99 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 147720,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Hühner-Schnitzel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Hühner-Schnitzel online bestellen | BILLA",
+  "slug": "hofstaedter-huehner-schnitzel4",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/hofstaedter-huehner-schnitzel4/00-454834",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    50,
+    100,
+    150,
+    200,
+    250
+  ]
+}

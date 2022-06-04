@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-443"
+  ],
+  "articleId": "00-582148",
+  "articleOnlyCanonicalPath": "/produkte/patros-ziegenkaese/00-582148",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Patros",
+  "brandPath": "/marken/patros",
+  "canonicalPath": "/produkte/patros-ziegenkaese/00-582148",
+  "category": "Kühlwaren",
+  "description": "Der Patros Ziegenkäse wird nach traditionellem Rezept in Griechenland aus 100% griechischer Ziegenmilch hergestellt.<br>Er hat ein typisches, charaktervolles Geschmacksprofil ohne dabei zu dominant zu sein. Dadurch lässt er sich vielseitig einsetzen und bringt den griechisch-mediterranen Genuss nach Hause.",
+  "eanCodes": [
+    "4002468204217"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "OHNE_GEN_TECHNIK",
+              "valueTranslation": "OHNE GENTECHNIK (kontrolliert von VLOG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Kemptener Straße 17, D-88178 Heimenkirch",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Patros",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GRIECHENLAND"
+      ],
+      "fromDate": "2022-03-07T00:00:00",
+      "ingredients": "Zutaten: ZIEGENMILCH, Speisesalz, Lab, Kulturen.",
+      "mandatoryIndicator": "55% Fett i.Tr.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 143
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 140
+        }
+      ],
+      "name": "Käse aus Ziegenmilch in Salzlake gereift",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 313,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1297,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei +4 - +8°C mindestens haltbar bis: siehe Verpackungsaufdruck"
+    }
+  ],
+  "grammage": "140 g Packung",
+  "grammageBadge": "140 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.75,
+    "unit": "1 kg 19.64"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Patros Ziegenkäse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/feta-und-mozzarella/B2-443/produkte/patros-ziegenkaese/00-582148"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.75,
+    "unit": "1 kg 19.64"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Patros Ziegenkäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Patros Ziegenkäse online bestellen | BILLA",
+  "slug": "patros-ziegenkaese",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/patros-ziegenkaese/00-582148",
+  "vatCode": "10",
+  "video": ""
+}

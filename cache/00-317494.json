@@ -1,0 +1,263 @@
+{
+  "articleGroupIds": [
+    "B2-14",
+    "B2-638"
+  ],
+  "articleId": "00-317494",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-rosinen/00-317494",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-rosinen/00-317494",
+  "category": "Obst & Gemüse",
+  "description": "<li>als Müslizutat, für Süßspeisen, Früchtebrot und Backwaren<li>in Fleisch- und Fischgerichten<li>orientalischen Salaten, Reisgerichten und Couscous",
+  "eanCodes": [
+    "4104420024762"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "NON_EU_AGRICULTURE",
+              "valueTranslation": "Nicht-EU Landwirtschaft - Alle Rohmaterialien in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "TÜRKEI"
+      ],
+      "fromDate": "2022-04-15T00:00:00",
+      "ingredients": "Zutaten: Rosinen* 99,5%, Sonnenblumenöl* 0,5% *aus biologischer Landwirtschaft. Kann Spuren von Erdnuss, Mandel und Nüssen enthalten.",
+      "marketingMessage": "Diese ungeschwefelten Bio-Rosinen werden nur durch Trocknen haltbar gemacht. Mit ihrem süß-aromatischen Geschmack passen sie in Müsli, Süßspeisen und Backwaren sowie zu Fleisch, Reis sowie in Salate.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 505
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.5
+        }
+      ],
+      "name": "Bio Rosinen, geölt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 327,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1385,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 73,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 68,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bitte trocken lagern und vor Wärme schützen."
+    }
+  ],
+  "grammage": "500 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 6.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Rosinen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/obst-und-gemuese/trockenfruechte-und-nuesse/B2-14/produkte/alnatura-rosinen/00-317494",
+    "~/warengruppe/grundnahrungsmittel/backen/trockenfruechte/B2-638/produkte/alnatura-rosinen/00-317494"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 6.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 195470,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Rosinen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Rosinen online bestellen | BILLA",
+  "slug": "alnatura-rosinen",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-rosinen/00-317494",
+  "vatCode": "10",
+  "video": ""
+}

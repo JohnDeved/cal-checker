@@ -1,0 +1,233 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-400238",
+  "articleOnlyCanonicalPath": "/produkte/exquisa-frischkaese-der-sahnige-kraeuter/00-400238",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Exquisa",
+  "canonicalPath": "/produkte/exquisa-frischkaese-der-sahnige-kraeuter/00-400238",
+  "category": "Kühlwaren",
+  "description": "<li>Besonders cremig gerührt<li>Mit erlesenen Kräutern<li>Ohne Gentechnik</li>",
+  "eanCodes": [
+    "0000040193168"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-86802 Buchloe",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Karwendel",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: FRISCHKÄSE, Kräuter, Zwiebeln, Knoblauch, Gewürzextrakte, Speisesalz, Verdickungsmittel: Johannisbrotkernmehl.\n\nKann Spuren von Sellerie enthalten.",
+      "marketingMessage": "besonders cremig gerührt; mit erlesenen Kräutern; ohne Gentechnik; Verbesserte Rezeptur",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 213.75
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Frischkäse wärmebehandelt, Doppelrahmstufe",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 235,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 969,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet bei 2-8°C mindestens haltbar bis: siehe Boden.",
+      "usageHints": "Nach dem Öffnen alsbald verzehren."
+    }
+  ],
+  "grammage": "200 g Becher",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 8.75"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Exquisa Frischkäse Der Sahnige Kräuter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/exquisa-frischkaese-der-sahnige-kraeuter/00-400238"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 8.75"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Exquisa Frischkäse Der Sahnige Kräuter online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Exquisa Frischkäse Der Sahnige Kräuter online bestellen | BILLA",
+  "slug": "exquisa-frischkaese-der-sahnige-kraeuter",
+  "storeAvalibility": [
+    "00-7653",
+    "00-4707",
+    "00-4690",
+    "00-4756",
+    "00-355",
+    "00-2342",
+    "00-4126",
+    "00-2923",
+    "00-7539",
+    "00-5108",
+    "00-6676",
+    "00-521",
+    "00-10",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/exquisa-frischkaese-der-sahnige-kraeuter/00-400238",
+  "vatCode": "10",
+  "video": ""
+}

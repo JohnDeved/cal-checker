@@ -1,0 +1,344 @@
+{
+  "articleGroupIds": [
+    "B2-491",
+    "B2-481"
+  ],
+  "articleId": "00-439981",
+  "articleOnlyCanonicalPath": "/produkte/campofrio-salami-ducal/00-439981",
+  "attributes": [
+    "mengemin",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/campofrio-salami-ducal/00-439981",
+  "category": "Kühlwaren",
+  "description": "Diese luftgetrocknete feinkörnige Salami mit typischem Aroma und würzigem Geschmack stammt aus Kastilien-León und ist ein Klassiker unter den spanischen Salamis.<br>Die sorgfältige Auswahl der Zutaten und eine kontrollierte Reifezeit von 40-45 Tagen garantieren die hohe Qualität.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Avda. de Europa, 24. Alcobendas, Madrid, Spanien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "CAMPOFRIO FOOD GROUP, S. A.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SPANIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch und Schweinefett, LAKTOSE, Salz, SOJAPROTEIN, MILCHPROTEIN, Gewürze, Zucker,\n\nDextrose, Aroma, Raucharoma, Antioxidationsmittel: E301, Starterkulturen, Farbstoff: E120, Konservierungsstoffe: E250, E252. Oberfläche mit E202 behandelt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 2
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.9
+        }
+      ],
+      "name": "luftgetrocknete Salami",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 462,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1940,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 42,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Zwischen 0°C und +7°C lagern"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 20.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 20.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 20.9,
+    "unit": "100 g 2.09"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Campofrio Salami Ducal",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/campofrio-salami-ducal/00-439981",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/campofrio-salami-ducal/00-439981"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 20.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 20.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 20.9,
+    "unit": "100 g 2.09"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 120890,
+  "recommendationArticleIds": [],
+  "seoDescription": "Campofrio Salami Ducal online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Campofrio Salami Ducal online bestellen | BILLA",
+  "slug": "campofrio-salami-ducal",
+  "storeAvalibility": [
+    "00-3050",
+    "00-7860",
+    "00-9498",
+    "00-1039",
+    "00-3860",
+    "00-7223",
+    "00-6353",
+    "00-3131",
+    "00-3700",
+    "00-4932",
+    "00-3713",
+    "00-6749",
+    "00-1117",
+    "00-2295",
+    "00-950",
+    "00-2111",
+    "00-3871",
+    "00-6508",
+    "00-6018",
+    "00-5027",
+    "00-6864",
+    "00-4283",
+    "00-3512",
+    "00-9266",
+    "00-5967",
+    "00-7245",
+    "00-9894",
+    "00-3384",
+    "00-6900",
+    "00-4551",
+    "00-8012",
+    "00-3501",
+    "00-6496",
+    "00-3600",
+    "00-4673",
+    "00-3296",
+    "00-7969",
+    "00-6823",
+    "00-3146",
+    "00-7539",
+    "00-5414",
+    "00-4107",
+    "00-6108",
+    "00-6024",
+    "00-355",
+    "00-174",
+    "00-6628",
+    "00-3401",
+    "00-8940",
+    "00-3044",
+    "00-6884",
+    "00-9209",
+    "00-2204",
+    "00-10",
+    "00-3135",
+    "00-6979",
+    "00-4478",
+    "00-7204",
+    "00-7368",
+    "00-9357",
+    "00-6518",
+    "00-2156",
+    "00-3259",
+    "00-350",
+    "00-7535",
+    "00-9290",
+    "00-5391",
+    "00-836",
+    "00-323",
+    "00-3005",
+    "00-7765",
+    "00-7393",
+    "00-4016",
+    "00-7075",
+    "00-6745",
+    "00-2131",
+    "00-6676",
+    "00-3617",
+    "00-6372",
+    "00-176",
+    "00-6197",
+    "00-4540",
+    "00-3940",
+    "00-8441",
+    "00-3214",
+    "00-4755",
+    "00-3059",
+    "00-3822",
+    "00-7424",
+    "00-9753",
+    "00-3103",
+    "00-4099",
+    "00-7336",
+    "00-3253",
+    "00-9167",
+    "00-2213",
+    "00-5447",
+    "00-4629",
+    "00-3780",
+    "00-6138",
+    "00-5359",
+    "00-1710",
+    "00-6179",
+    "00-7546",
+    "00-3143",
+    "00-3206",
+    "00-3055",
+    "00-119",
+    "00-117",
+    "00-3063",
+    "00-1479",
+    "00-5078",
+    "00-3118",
+    "00-3569",
+    "00-6932",
+    "00-3869",
+    "00-7082",
+    "00-5290",
+    "00-281",
+    "00-3120",
+    "00-5108",
+    "00-3105",
+    "00-2808",
+    "00-3735",
+    "00-7229",
+    "00-3688",
+    "00-9639",
+    "00-115",
+    "00-7114",
+    "00-2313",
+    "00-3011",
+    "00-3212",
+    "00-4748",
+    "00-1866",
+    "00-3162",
+    "00-3042",
+    "00-99202"
+  ],
+  "url": "/produkte/campofrio-salami-ducal/00-439981",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

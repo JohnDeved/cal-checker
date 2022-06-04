@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-406318",
+  "articleOnlyCanonicalPath": "/produkte/om-vollmilch-35/00-406318",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Obersteirische Molkerei",
+  "canonicalPath": "/produkte/om-vollmilch-35/00-406318",
+  "category": "Kühlwaren",
+  "description": "Die OM Vollmilch mit 3,5% stammt von den Wiesen der Steiermark und schmeckt frisch und natürlich. Sie ist pasteurisiert und bleibt lange haltbar.<li>Vollmilch aus der Steiermark<li>3,5 % Fettanteil",
+  "eanCodes": [
+    "9004599001005"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hautzenbichlstraße 1, A- 8720 Knittelfeld",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Obersteirische Molkerei eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1032
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1062
+        }
+      ],
+      "name": "Vollmilch 3,5 % Fett, pasteurisiert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 66,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 274,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "öffnen und verzehren",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor und nach dem Öffnen gekühlt lagern.\nNach dem Öffnen ehebaldigst verbrauchen."
+    }
+  ],
+  "grammage": "1 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.35,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.35,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.35
+  },
+  "maximalOrderQuantity": 120,
+  "minimalOrderQuantity": 0,
+  "name": "OM Vollmilch 3.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/om-vollmilch-35/00-406318"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.35,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.35,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.35
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    12,
+    24,
+    36,
+    48,
+    60,
+    72,
+    84,
+    96,
+    108,
+    120
+  ],
+  "rank": 47980,
+  "recommendationArticleIds": [],
+  "seoDescription": "OM Vollmilch 3.5% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "OM Vollmilch 3.5% online bestellen | BILLA",
+  "slug": "om-vollmilch-35",
+  "storeAvalibility": [
+    "00-6864",
+    "00-6255",
+    "00-6569",
+    "00-6897",
+    "00-6760",
+    "00-6439",
+    "00-6197",
+    "00-6749",
+    "00-6487",
+    "00-6688",
+    "00-8946",
+    "00-6932",
+    "00-99202"
+  ],
+  "url": "/produkte/om-vollmilch-35/00-406318",
+  "vatCode": "10",
+  "video": ""
+}

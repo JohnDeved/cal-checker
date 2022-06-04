@@ -1,0 +1,222 @@
+{
+  "articleGroupIds": [
+    "B2-443"
+  ],
+  "articleId": "00-428269",
+  "articleOnlyCanonicalPath": "/produkte/galbani-mozzarella-stange/00-428269",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Galbani",
+  "brandPath": "/marken/galbani",
+  "canonicalPath": "/produkte/galbani-mozzarella-stange/00-428269",
+  "category": "Kühlwaren",
+  "description": "Ob Pizza, Auflauf oder Gratin: Mit der Galbani Mozzarella Stange verleihen Sie jedem überbackenen Gericht einen besonderen Pfiff.<li>schnittfester Mozzarella ohne Lake<li>besonders schmelzend<li>für die warme und kalte Küche geeignet",
+  "eanCodes": [
+    "8000430132045",
+    "9002233428478",
+    "8000430132014"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Grabenweg 58 / Top 103-3, 6020 Innsbruck",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lactalis Österreich GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "infomail@at.lactalis.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 512 214 088 14",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "https://www.lactalis.at/",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2020-06-19T00:00:00",
+      "ingredients": "Zutaten: MILCH, Salz, mikrobielles Lab, Säuerungsmittel:\nCitronensäure",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.405
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Mozzarella, schnittfest, 45% Fett i.Tr.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 260,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1080,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 13.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt aufbewahren bei +4°C bis +7°C"
+    }
+  ],
+  "grammage": "400 g Beutel",
+  "grammageBadge": "400 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 10.98"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Galbani Mozzarella Stange",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/feta-und-mozzarella/B2-443/produkte/galbani-mozzarella-stange/00-428269"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 10.98"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 29920,
+  "recommendationArticleIds": [],
+  "seoDescription": "Galbani Mozzarella Stange online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Galbani Mozzarella Stange online bestellen | BILLA",
+  "slug": "galbani-mozzarella-stange",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/galbani-mozzarella-stange/00-428269",
+  "vatCode": "10",
+  "video": ""
+}

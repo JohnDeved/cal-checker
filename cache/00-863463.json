@@ -1,0 +1,291 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-371"
+  ],
+  "articleId": "00-863463",
+  "articleOnlyCanonicalPath": "/produkte/alpquell-mineralwasser-mild/00-863463",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_naehrsto"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Alpquell",
+  "canonicalPath": "/produkte/alpquell-mineralwasser-mild/00-863463",
+  "category": "Getränke",
+  "description": "Aus den Bergen Tirols direkt auf den Tisch: Alpquell Mild ist ein natürliches, mit wenig Kohlensäure versetztes Mineralwasser aus den Zillertaler Alpen.<li>1 Flasche pro Tag deckt den Großteil des durchschnittlichen Flüssigkeitsbedarfs<li>natürliches Mineralwasser aus Tirol<li>mit wenig Kohlensäure versetzt",
+  "eanCodes": [
+    "9015260033034"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6232 Münster, Lichtwerth 403",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rieder`s Quellen-Betriebe GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alpquell.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-09-07T00:00:00",
+      "marketingMessage": "Das Alpen-Mineralwasser aus den Bergen Tirols",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.534
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser mit Kohlensäure versetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 4.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 5.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 1.64,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 250,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 39,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 264,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 530,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "origin": "Alpquell Quelle IV",
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme und direkter Sonneneinstrahlung schützen. Nicht einfrieren.",
+      "sustenanceClaim": "Auszug aus der Mineralwasseranalyse vom 16.03.2016 der Hydrologischen Untersuchungsstelle Salzburg (akkreditierte Prüf- und Inspektionstelle) A-5020 Salzburg."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.34,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.34,
+    "unit": "1 l .23"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Alpquell Mineralwasser Mild",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/alpquell-mineralwasser-mild/00-863463",
+    "~/warengruppe/getraenke/mineralwasser/mild/B2-371/produkte/alpquell-mineralwasser-mild/00-863463"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.34,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.34,
+    "unit": "1 l .23"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 94870,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alpquell Mineralwasser Mild online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alpquell Mineralwasser Mild online bestellen | BILLA",
+  "slug": "alpquell-mineralwasser-mild",
+  "storeAvalibility": [
+    "00-5414",
+    "00-5078",
+    "00-8400",
+    "00-8155",
+    "00-5359",
+    "00-8185",
+    "00-5405",
+    "00-4146",
+    "00-8075",
+    "00-8076",
+    "00-5104",
+    "00-8213",
+    "00-8606",
+    "00-8193",
+    "00-5737",
+    "00-5529",
+    "00-5391",
+    "00-8188",
+    "00-8895",
+    "00-5322",
+    "00-8085",
+    "00-5181",
+    "00-8173",
+    "00-5454",
+    "00-5067",
+    "00-5082",
+    "00-5027",
+    "00-5363",
+    "00-99202",
+    "00-5552",
+    "00-5447",
+    "00-8070",
+    "00-8241",
+    "00-5306",
+    "00-8530",
+    "00-8360",
+    "00-8657",
+    "00-8151",
+    "00-8417",
+    "00-8646",
+    "00-5945",
+    "00-10",
+    "00-5199",
+    "00-6001",
+    "00-5112",
+    "00-5290",
+    "00-8159",
+    "00-8426",
+    "00-5165",
+    "00-5031",
+    "00-5000",
+    "00-5381",
+    "00-8140",
+    "00-8158",
+    "00-5223",
+    "00-8031",
+    "00-8243",
+    "00-8334",
+    "00-5531",
+    "00-5226",
+    "00-8409",
+    "00-8230",
+    "00-8636",
+    "00-8953",
+    "00-8154",
+    "00-8395",
+    "00-5003",
+    "00-5108",
+    "00-8022"
+  ],
+  "url": "/produkte/alpquell-mineralwasser-mild/00-863463",
+  "vatCode": "20",
+  "video": ""
+}

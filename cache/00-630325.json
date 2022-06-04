@@ -1,0 +1,214 @@
+{
+  "articleGroupIds": [
+    "B2-753"
+  ],
+  "articleId": "00-630325",
+  "articleOnlyCanonicalPath": "/produkte/lindt-les-grandes-noir-noisette/00-630325",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lindt",
+  "brandPath": "/marken/lindt",
+  "canonicalPath": "/produkte/lindt-les-grandes-noir-noisette/00-630325",
+  "category": "Süßes & Salziges",
+  "description": "<li>Milchschokolade<li>Mit ganzen gerösteten Haselnüssen und caramelisierten Haselnüssen</li>",
+  "eanCodes": [
+    "7610400066211"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Zucker, HASELNÜSSE 34%, Kakaomasse, Kakaobutter, BUTTERreinfett, Emulgator (SOJAlecithin), Aromen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 158
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Dunkle Schokolade mit Haselnüssen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 573,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2382,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 40,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 42,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 39,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "150 Gramm Tafel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "100 g 2.13"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lindt Les Grandes Noir Noisette",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/schokoladentafeln/B2-753/produkte/lindt-les-grandes-noir-noisette/00-630325"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "100 g 2.13"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 67450,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lindt Les Grandes Noir Noisette online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lindt Les Grandes Noir Noisette online bestellen | BILLA",
+  "slug": "lindt-les-grandes-noir-noisette",
+  "storeAvalibility": [
+    "00-3947",
+    "00-4551",
+    "00-1911",
+    "00-355",
+    "00-4707",
+    "00-99202",
+    "00-10",
+    "00-350",
+    "00-7539"
+  ],
+  "url": "/produkte/lindt-les-grandes-noir-noisette/00-630325",
+  "vatCode": "10",
+  "video": ""
+}

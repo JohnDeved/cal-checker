@@ -1,0 +1,256 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-854963",
+  "articleOnlyCanonicalPath": "/produkte/hipp-gemuese-risotto/00-854963",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-gemuese-risotto/00-854963",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Gemüse-Risotto Babynahrung von Hipp schmeckt kleinen Leckermäulchen ab dem 4. Monat, enthält 54 % biologisches Gemüse und ist glutenfrei.<li>Babynahrung im Glas<li>Altersempfehlung: nach dem 4. Monat<li>glutenfrei<li>enthält Sahne",
+  "eanCodes": [
+    "4062300379060",
+    "4062300021419"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Karotten* 30 %, Reis* gekocht 20 %, Tomaten* 17 %, entrahmte MILCH* 11 %, Kartoffeln*, SAHNE*, entrahmtes MILCHPULVER*, BUTTER*, Zwiebeln*, Rapsöl* 0,9 %. *Aus biologischer Erzeugung.",
+      "mandatoryIndicator": "glutenfrei #ab 5. Monat #Achten Sie auf eine ausgewogene Ernährung und gesunde Lebensweise.",
+      "marketingMessage": "Das Gemüse für HiPP wird gemäß den strengen Richtlinien des biologischen Landbaus angebaut - ohne künstliche Dünge- und Spritzmittel. Es ist ideal für den Start mit der Beikost ab dem 5. Monat. HiPP Gemüsegläschen sind besonders auf die Ernährungsbedürfnisse des Babys abgestimmt. So wie es für die erste Beikost empfohlen wird, setzen wir kein Salz zu - deshalb bitte auch nicht nachwürzen. HiPP Gemüse-Risotto sorgt aufgrund der ausgesuchten Gemüsesorten für einen babygerechten Geschmack.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 298
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 190
+        }
+      ],
+      "name": "BIO Gemüse-Risotto, mit 59% Gemüse",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 88,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 368,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Simmern/Koecheln - Zubereitung in Wasser, welches knapp unter dem Siedepunkt gehalten wird"
+        }
+      ],
+      "storageHint": "Nicht erwärmten Rest verschlossen im Kühlschrank lagern und am nächsten Tag aufbrauchen.",
+      "usageHints": "In den ersten Beikostwochen vor der Milchmahlzeit. Für eine komplette Mahlzeit ½ Glas HiPP Bio-Gemüse (190 g) mit ½ Glas HiPP Bio-Fleischzubereitung und 1 Teelöffel HiPP Bio-Rapsöl (2 g) mischen. Bei Bedarf auch mehr Gemüse. #Bitte überzeugen Sie sich vor Verwendung, dass das Glas unversehrt geblieben ist. #Bitte Plastiklöffel verwenden."
+    }
+  ],
+  "grammage": "190 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 6.79"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Gemüse-Risotto",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-gemuese-risotto/00-854963"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 6.79"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 46420,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hipp Gemüse-Risotto online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Gemüse-Risotto online bestellen | BILLA",
+  "slug": "hipp-gemuese-risotto",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-gemuese-risotto/00-854963",
+  "vatCode": "10",
+  "video": ""
+}

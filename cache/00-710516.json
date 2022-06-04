@@ -1,0 +1,251 @@
+{
+  "articleGroupIds": [
+    "B2-758",
+    "B2-759"
+  ],
+  "articleId": "00-710516",
+  "articleOnlyCanonicalPath": "/produkte/austria-mozartkugeln-25er/00-710516",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Austria Mozartkugeln",
+  "canonicalPath": "/produkte/austria-mozartkugeln-25er/00-710516",
+  "category": "Süßes & Salziges",
+  "description": "<li>Schokolade-Pralinen gefüllt mit Marzipan (40%) und Nougatcreme (33%) umhüllt von Schokolade</li>",
+  "eanCodes": [
+    "9001508084746"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FAIRTRADE_COCOA",
+              "valueTranslation": "FAIRTRADE KAKAO-Programm"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R05"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wilhelminenstraße 6, 1170 Wien, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Josef Manner & Comp. AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.austria-mozartkugel.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Zucker, Kakaomasse, MANDELN, Palmfett, HASELNÜSSE (17% in der Creme), VOLLMILCHPULVER, Kakaobutter, MILCHZUCKER, Feuchthaltemittel: Sorbit, Invertase; mageres Kakaopulver, BUTTERREINFETT, Emulgator: Lecithine (SOJA); Aromen, MAGERMILCHPULVER, Säuerungsmittel: Citronensäure; SÜSSMOLKENPULVER.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.4215
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 412.5
+        }
+      ],
+      "name": "Schokolade-Pralinen gefüllt mit Marzipan (40%) und Nougatcreme (33%), umhüllt von Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 510,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2133,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 60,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 55,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Zimmertemperatur und trocken lagern."
+    }
+  ],
+  "grammage": "412.5 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.89,
+    "unit": "100 g 1.43"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Austria Mozartkugeln 25er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/suesse-spezialitaeten/B2-758/produkte/austria-mozartkugeln-25er/00-710516",
+    "~/warengruppe/suesses-und-salziges/suesses2/bonbonniere-und-spezialitaeten/B2-759/produkte/austria-mozartkugeln-25er/00-710516"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.89,
+    "unit": "100 g 1.43"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 85770,
+  "recommendationArticleIds": [],
+  "seoDescription": "Austria Mozartkugeln 25er online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Austria Mozartkugeln 25er online bestellen | BILLA",
+  "slug": "austria-mozartkugeln-25er",
+  "storeAvalibility": [
+    "00-7017",
+    "00-783",
+    "00-4551",
+    "00-355",
+    "00-4707",
+    "00-2045",
+    "00-99202",
+    "00-10",
+    "00-6130",
+    "00-7075",
+    "00-7539",
+    "00-9225",
+    "00-350",
+    "00-174"
+  ],
+  "url": "/produkte/austria-mozartkugeln-25er/00-710516",
+  "vatCode": "10",
+  "video": ""
+}

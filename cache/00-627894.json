@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-634",
+    "B2-6A3",
+    "B2-6E2"
+  ],
+  "articleId": "00-627894",
+  "articleOnlyCanonicalPath": "/produkte/schaer-mehl-glutenfrei/00-627894",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schär",
+  "brandPath": "/marken/schaer",
+  "canonicalPath": "/produkte/schaer-mehl-glutenfrei/00-627894",
+  "category": "Grundnahrungsmittel",
+  "description": "Das glutenfreie Mehl von Schär eignet sich perfekt zum Backen und Kochen. Die Maismehlmischung besteht aus natürlichen Ingredienzien ohne Konservierungsstoffe.<li>gluten- und laktosefreies Produkt<li>auf Maisbasis<li>perfekt für Nudeln, Nockerln, Palatschinken, Kuchenteig und vieles mehr",
+  "eanCodes": [
+    "8008698005118"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "allergyIndicator": "SOJA",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Winkelau 9 - 39014 Burgstall / Postal (BZ) - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Dr. Schär AG / SPA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Maisstärke, Reismehl,\nMaismehl, Verdickungsmittel: Guarkernmehl; Dextrose. Kann Spuren\nvon SOJA enthalten. LAKTOSEFREI",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1020
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Glutenfreie Mehlmischung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1459,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 344,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 82,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur trocken lagern"
+    }
+  ],
+  "grammage": "1000 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 2.99"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schär Mehl Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/mehl/B2-634/produkte/schaer-mehl-glutenfrei/00-627894",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/schaer-mehl-glutenfrei/00-627894",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/schaer-mehl-glutenfrei/00-627894"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 2.99"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 69330,
+  "recommendationArticleIds": [
+    "00-966380"
+  ],
+  "seoDescription": "Schär Mehl Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schär Mehl Glutenfrei online bestellen | BILLA",
+  "slug": "schaer-mehl-glutenfrei",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202",
+    "00-355",
+    "00-4551"
+  ],
+  "url": "/produkte/schaer-mehl-glutenfrei/00-627894",
+  "vatCode": "10",
+  "video": ""
+}

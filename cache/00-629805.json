@@ -1,0 +1,252 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-629805",
+  "articleOnlyCanonicalPath": "/produkte/laendle-bio-vollmilch-laenger-frisch/00-629805",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Ländle",
+  "brandPath": "/marken/laendle",
+  "canonicalPath": "/produkte/laendle-bio-vollmilch-laenger-frisch/00-629805",
+  "category": "Kühlwaren",
+  "description": "Ländle BIO Vollmilch stammt ausschließlich von biologischen Ländle Bauernhöfen. Das bedeutet Frische und Qualität, die man schmeckt.<li>Vollmilch mit 3,5% Fett, hocherhitzt<li>mit Kalzium und Vitaminen",
+  "eanCodes": [
+    "9021700190007"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_ORGANIC_SEAL",
+              "valueTranslation": "AMA-Biozeichen (Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "LAENDLE_QUALITAET",
+              "valueTranslation": "LAENDLE-Qualitätssiegel - (Vorarlberger Produkte, definierte Qualitätsstandards)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "FARMING_COUNTRY_OF_ORIGIN",
+              "valueTranslation": "Verweis auf Herkunftsland-Landwirtschaft - alles wurde in einem Land hergestellt"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Nofler Straße 62, A-6800 Feldkirch",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberg Milch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1059
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Vollmilch 3,5% Fett, hocherhitzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 62,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 259,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.16,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt (+6°C) mindestens haltbar bis: siehe Packungsoberseite",
+      "usageHints": "Bei gekühlter Lagerung ungeöffnet länger frisch, nach dem Öffnen wie Frischmilch verbrauchen."
+    }
+  ],
+  "grammage": "1 Liter Stück (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.55
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ländle BIO Vollmilch länger frisch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/laendle-bio-vollmilch-laenger-frisch/00-629805"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.55
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 109730,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ländle BIO Vollmilch länger frisch online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ländle BIO Vollmilch länger frisch online bestellen | BILLA",
+  "slug": "laendle-bio-vollmilch-laenger-frisch",
+  "storeAvalibility": [
+    "00-8400",
+    "00-8409",
+    "00-99202",
+    "00-8530",
+    "00-8395"
+  ],
+  "url": "/produkte/laendle-bio-vollmilch-laenger-frisch/00-629805",
+  "vatCode": "10",
+  "video": ""
+}

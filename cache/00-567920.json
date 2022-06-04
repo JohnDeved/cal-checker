@@ -1,0 +1,230 @@
+{
+  "articleGroupIds": [
+    "B2-488",
+    "B2-F"
+  ],
+  "articleId": "00-567920",
+  "articleOnlyCanonicalPath": "/produkte/clever-huehner-extrawurst/00-567920",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_hkland",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new",
+    "s_aut"
+  ],
+  "brand": "Clever",
+  "brandPath": "/marken/clever",
+  "canonicalPath": "/produkte/clever-huehner-extrawurst/00-567920",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9010437010023"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "--"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH ",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-03-10T00:00:00",
+      "ingredients": "Zutaten: Hühnerfleisch (73%), Trinkwasser, Geflügelfett (Pute & Huhn), Speisesalz, Stabilisator: Di-, Triphosphate, Gewürze, Zucker, Antioxidationsmittel: Ascorbinsäure, Gewürzextrakte, Konservierungsstoff: Natriumnitrit.\n",
+      "mandatoryIndicator": "Wursthülle nicht zum Verzehr geeignet\r\nAT-10132-EG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Portionsgroesse",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Hühner-Extrawurst\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 7.8,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 156,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 648,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 29,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.2,
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.6,
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 42,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-6 °C",
+      "usageHints": "Nach dem Öffnen ehebaldigst \nverbrauchen."
+    }
+  ],
+  "grammage": "500 g Stk",
+  "grammageBadge": "500 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69,
+    "unit": "1 kg 7.38"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Clever Hühner Extrawurst",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/clever-huehner-extrawurst/00-567920",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/clever-huehner-extrawurst/00-567920"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69,
+    "unit": "1 kg 7.38"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Clever Hühner Extrawurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Clever Hühner Extrawurst online bestellen | BILLA",
+  "slug": "clever-huehner-extrawurst",
+  "storeAvalibility": [
+    "00-281",
+    "00-3857",
+    "00-3871",
+    "00-4513",
+    "00-4690",
+    "00-1107",
+    "00-7393",
+    "00-2360",
+    "00-10",
+    "00-9290",
+    "00-1480",
+    "00-4482",
+    "00-3709",
+    "00-323",
+    "00-355",
+    "00-3059",
+    "00-4283",
+    "00-3856",
+    "00-4126",
+    "00-1457",
+    "00-1032",
+    "00-99202"
+  ],
+  "url": "/produkte/clever-huehner-extrawurst/00-567920",
+  "vatCode": "10",
+  "video": ""
+}

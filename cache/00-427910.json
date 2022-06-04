@@ -1,0 +1,282 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-427910",
+  "articleOnlyCanonicalPath": "/produkte/salzburgmilch-heidelbeer-vanille-trinkjoghurt/00-427910",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "s_ranking",
+    "s_spezern",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "SalzburgMilch",
+  "canonicalPath": "/produkte/salzburgmilch-heidelbeer-vanille-trinkjoghurt/00-427910",
+  "category": "Kühlwaren",
+  "description": "Pur genießen oder mischen!<br>Die SalzburgMilch Premium Trinkjogurts sind lactosefrei, enthalten jetzt noch mehr Fruchtanteil und gleichzeitig weniger Zucker und sind so ein idealer Genuss für jede Gelegenheit. Die Trinkjogurts eignen sich aber auch hervorragend fürs Frühstücksmüsli oder für cremige Smoothies ¿ probieren Sie es aus!",
+  "eanCodes": [
+    "9004584011279"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SalzburgMilch GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.milch.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-10T00:00:00",
+      "ingredients": "Zutaten: JOGURT, Zucker, 5% Heidelbeeren, 2% Heidelbeersaft (aus Konzentrat), natürliches Bourbon Vanillearoma, Verdickungsmittel: Pektine; Bourbon Vanilleextrakt, Rote Beete Saftkonzentrat, Aroma, Laktase.",
+      "marketingMessage": "weniger als 1% Fett",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.525
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Trinkjogurt Heidelbeer-Vanille aus pasteurisierter Milch mit 1 % Fett, laktosefrei*.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 61,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 257,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt mindestens haltbar bis: siehe Oberseite. Nach dem Öffnen gekühlt lagern und innerhalb von 2 Tagen verbrauchen.",
+      "sustenanceClaim": "Laktosegehalt < 0,1g/100g.",
+      "usageHints": "Vor Genuss schütteln."
+    }
+  ],
+  "grammage": "500 Gramm Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.07,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.07,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.07,
+    "unit": "1 kg 2.14"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "SalzburgMilch Heidelbeer Vanille Trinkjoghurt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/salzburgmilch-heidelbeer-vanille-trinkjoghurt/00-427910"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.07,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.07,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.07,
+    "unit": "1 kg 2.14"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 205600,
+  "recommendationArticleIds": [],
+  "seoDescription": "SalzburgMilch Heidelbeer Vanille Trinkjoghurt online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "SalzburgMilch Heidelbeer Vanille Trinkjoghurt online bestellen",
+  "slug": "salzburgmilch-heidelbeer-vanille-trinkjoghurt",
+  "storeAvalibility": [
+    "00-5391",
+    "00-5290",
+    "00-5381",
+    "00-5223",
+    "00-5529",
+    "00-5414",
+    "00-5104",
+    "00-6366",
+    "00-8140",
+    "00-5363",
+    "00-5359",
+    "00-5454",
+    "00-5552",
+    "00-5226",
+    "00-5945",
+    "00-5405",
+    "00-5000",
+    "00-8441",
+    "00-5322",
+    "00-6001",
+    "00-5003",
+    "00-5737",
+    "00-4813",
+    "00-5199",
+    "00-5181",
+    "00-5112",
+    "00-5027",
+    "00-5031",
+    "00-5306",
+    "00-5962",
+    "00-5531",
+    "00-5078",
+    "00-5108",
+    "00-8953",
+    "00-5165",
+    "00-5082",
+    "00-6895",
+    "00-5447",
+    "00-6845",
+    "00-5067",
+    "00-6910",
+    "00-99202"
+  ],
+  "url": "/produkte/salzburgmilch-heidelbeer-vanille-trinkjoghurt/00-427910",
+  "vatCode": "10",
+  "video": ""
+}

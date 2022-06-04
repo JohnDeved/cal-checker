@@ -1,0 +1,259 @@
+{
+  "articleGroupIds": [
+    "B2-653",
+    "B2-663"
+  ],
+  "articleId": "00-639588",
+  "articleOnlyCanonicalPath": "/produkte/auinger-klare-suppe/00-639588",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Auinger",
+  "canonicalPath": "/produkte/auinger-klare-suppe/00-639588",
+  "category": "Grundnahrungsmittel",
+  "description": "Das österreichische Familienunternehmen Auinger ist für seine glutamatfreien Lebensmittel bekannt. Die Klare Suppe ist ein Auinger-Klassiker.<li>ohne Hefe und Geschmacksverstärker<li>köstlich als vielseitiges Gewürz sowie für Suppen und Soßen<li>auf Gemüsebasis",
+  "eanCodes": [
+    "9120004490032"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bahnhofstraße 66, A-4150 Rohrbach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Fa. Alexander Auinger e.U.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@auinger-suppen.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-10-04T00:00:00",
+      "ingredients": "Zutaten: Speisesalz, Kartoffelstärke, Aroma, Dextrose, Karotten, 1 % Gewürze, Zwiebel, 1 % Kräuter",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 602
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 540
+        }
+      ],
+      "name": "Würzmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 174,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 728,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 50,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Als Suppe 20 g = 1 EL Trockensuppenpulver in 1 Liter kochendes Wasser geben, fertig ist die köstliche Suppe. Oder mit Beilagen wie Ei, Teigwaren, Grieß, Reis, Backerbsen usw.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Gut verschlossen und vor Wärme geschützt trocken lagern!"
+    }
+  ],
+  "grammage": "540 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 9.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 9.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 9.99
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Auinger Klare Suppe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/suppenwuerfel/B2-653/produkte/auinger-klare-suppe/00-639588",
+    "~/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/gewuerzmischungen/B2-663/produkte/auinger-klare-suppe/00-639588"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 9.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 9.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 9.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 67530,
+  "recommendationArticleIds": [],
+  "seoDescription": "Auinger Klare Suppe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Auinger Klare Suppe online bestellen | BILLA",
+  "slug": "auinger-klare-suppe",
+  "storeAvalibility": [
+    "00-4424",
+    "00-4270",
+    "00-4478",
+    "00-4350",
+    "00-4028",
+    "00-4291",
+    "00-4551",
+    "00-4770",
+    "00-4672",
+    "00-4779",
+    "00-4707",
+    "00-4249",
+    "00-4104",
+    "00-3196",
+    "00-4945",
+    "00-4655",
+    "00-4076",
+    "00-4690",
+    "00-4840",
+    "00-4524",
+    "00-4540",
+    "00-4513",
+    "00-4407",
+    "00-4090",
+    "00-4605",
+    "00-4441",
+    "00-4170",
+    "00-4982",
+    "00-4813",
+    "00-4756",
+    "00-4881",
+    "00-4660",
+    "00-4146",
+    "00-4755",
+    "00-99202",
+    "00-4078",
+    "00-4107",
+    "00-4601",
+    "00-4466",
+    "00-4099",
+    "00-4421",
+    "00-4629",
+    "00-5871",
+    "00-4003",
+    "00-4489",
+    "00-4016",
+    "00-4001",
+    "00-4126",
+    "00-4226",
+    "00-4879",
+    "00-4834",
+    "00-4847",
+    "00-4952",
+    "00-4700",
+    "00-4482",
+    "00-4059",
+    "00-4440",
+    "00-4225",
+    "00-4619",
+    "00-5603",
+    "00-4283",
+    "00-5967",
+    "00-4021",
+    "00-4932",
+    "00-4673",
+    "00-4674",
+    "00-4200",
+    "00-4912",
+    "00-4838",
+    "00-4565",
+    "00-4925",
+    "00-5777",
+    "00-4748",
+    "00-4469"
+  ],
+  "url": "/produkte/auinger-klare-suppe/00-639588",
+  "vatCode": "10",
+  "video": ""
+}

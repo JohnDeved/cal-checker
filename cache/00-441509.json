@@ -1,0 +1,297 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-441509",
+  "articleOnlyCanonicalPath": "/produkte/salzburgmilch-premium-alpenmilch-laenger-haltbar-352/00-441509",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "SalzburgMilch",
+  "canonicalPath": "/produkte/salzburgmilch-premium-alpenmilch-laenger-haltbar-352/00-441509",
+  "category": "Kühlwaren",
+  "description": "Premium Alpenmilch steht für exzellenten Geschmack bei jedem Schluck. Ob pur im Glas oder zu Speisen verarbeitet, die 3,5 % Fett sorgen für vollmundigen Genuss.<li>von Milchkühen, die regelmäßig Gesundheits-Checks erhalten<li>aus kleinen Familienbetrieben im Salzburger Land<li>eignet sich zum Aufschäumen für Kaffeegetränke",
+  "eanCodes": [
+    "9004584001928"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SalzburgMilch GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.milch.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.06
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Vollmilch 3,5% Fett, hocherhitzt, homogenisiert, länger haltbar.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 267,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 64,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt mindestens haltbar bis: siehe Oberseite. Nach dem Öffnen gekühlt lagern und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "1 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.45
+  },
+  "maximalOrderQuantity": 120,
+  "minimalOrderQuantity": 0,
+  "name": "SalzburgMilch Premium Alpenmilch länger haltbar 3,5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/salzburgmilch-premium-alpenmilch-laenger-haltbar-352/00-441509"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.45
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    12,
+    24,
+    36,
+    48,
+    60,
+    72,
+    84,
+    96,
+    108,
+    120
+  ],
+  "rank": 184850,
+  "recommendationArticleIds": [
+    "00-404725"
+  ],
+  "seoDescription": "SalzburgMilch Premium Alpenmilch länger haltbar 3,5% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "SalzburgMilch Premium Alpenmilch länger haltbar 3,5% online beste",
+  "slug": "salzburgmilch-premium-alpenmilch-laenger-haltbar-352",
+  "storeAvalibility": [
+    "00-5003",
+    "00-5000",
+    "00-5322",
+    "00-5078",
+    "00-99202",
+    "00-5945",
+    "00-5165",
+    "00-5112",
+    "00-5552",
+    "00-5962",
+    "00-5359",
+    "00-5104",
+    "00-5067",
+    "00-5027",
+    "00-4813",
+    "00-5181",
+    "00-5447",
+    "00-5531",
+    "00-5529",
+    "00-5363",
+    "00-5737",
+    "00-5290",
+    "00-5306",
+    "00-5381",
+    "00-5226",
+    "00-5414",
+    "00-5199",
+    "00-5082",
+    "00-5405",
+    "00-5391",
+    "00-5108",
+    "00-5031",
+    "00-5223",
+    "00-5454"
+  ],
+  "url": "/produkte/salzburgmilch-premium-alpenmilch-laenger-haltbar-352/00-441509",
+  "vatCode": "10",
+  "video": ""
+}

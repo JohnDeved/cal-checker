@@ -1,0 +1,189 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-491"
+  ],
+  "articleId": "00-731122",
+  "articleOnlyCanonicalPath": "/produkte/frierss-kaerntner-hauswuerstel-xxl/00-731122",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Frierss",
+  "brandPath": "/marken/frierss",
+  "canonicalPath": "/produkte/frierss-kaerntner-hauswuerstel-xxl/00-731122",
+  "category": "Kühlwaren",
+  "description": "Die Kärntner Hauswürstel XXL von Frierrs schmecken herzhaft würzig und erfreuen mit einer herrlich pfeffrigen Note. Sie bereichern jede Brettljause.<li>über Buchenholz geräuchert und sechs Wochen getrocknet<li>in Kärnter Bergluft gereift<li>mit Schweine- und Rindfleisch, enthält Speck",
+  "eanCodes": [
+    "9002792065107"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gewerbezeile 4, 9500 Villach, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rudolf Frierss und Söhne GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 142g Schweine- und Rindfleisch für 100g Hauswürstel, Speck, Speisesalz, Dextrose, Gewürze, MAGERMILCHPULVER, Maltodextrin, Stabilisator: Diphosphate, Geschmacksverstärker: Mononatriumglutamat, Antioxidationsmittel: Natriumascorbat, Konservierungsstoff: Natriumnitrit.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.31
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.3
+        }
+      ],
+      "name": "Kärntner Hauswürstel geräuchert und getrocknet",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 467,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1934,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 38.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 26.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "ungekühlt lagern bis +22°C"
+    }
+  ],
+  "grammage": "300 g Packung",
+  "grammageBadge": "300 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.29,
+    "unit": "1 kg 20.97"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Frierss Kärntner Hauswürstel XXL",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/frierss-kaerntner-hauswuerstel-xxl/00-731122",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/frierss-kaerntner-hauswuerstel-xxl/00-731122"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.29,
+    "unit": "1 kg 20.97"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 152340,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frierss Kärntner Hauswürstel XXL online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frierss Kärntner Hauswürstel XXL online bestellen | BILLA",
+  "slug": "frierss-kaerntner-hauswuerstel-xxl",
+  "storeAvalibility": [],
+  "url": "/produkte/frierss-kaerntner-hauswuerstel-xxl/00-731122",
+  "vatCode": "10",
+  "video": ""
+}

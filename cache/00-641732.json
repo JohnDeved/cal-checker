@@ -1,0 +1,318 @@
+{
+  "articleGroupIds": [
+    "B2-6E2",
+    "B2-751"
+  ],
+  "articleId": "00-641732",
+  "articleOnlyCanonicalPath": "/produkte/schaer-butterkeks-glutenfrei/00-641732",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schär",
+  "brandPath": "/marken/schaer",
+  "canonicalPath": "/produkte/schaer-butterkeks-glutenfrei/00-641732",
+  "category": "Grundnahrungsmittel",
+  "description": "Die weizen- und glutenfreien Butterkekse von Schär eignen sich gut als Snack für zwischendurch. Butter verfeinert die klassische Bäckerei.<li>knusprig zarter Keks mit Maismehl<li>hergestellt ohne Palmöl und ohne Konservierungsstoffe",
+  "eanCodes": [
+    "8008698003077",
+    "8008698012857"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Enthält: Milch, Eier. Kann Spuren von Soja und Lupinen enthalten",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Winkelau 9 - 39014 Burgstall / Postal (BZ) - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Dr. Schär AG / SPA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Maisstärke, Maismehl, Butter 10% (MILCH), Zucker, modifizierte Tapiokastärke, EIER, VOLLMILCHPULVER, Zuckerrübensirup, Emulgator: Mono- und Diacetylweinsäureester von Mono- und Diglyceriden von Speisefettsäuren; Backtriebmittel:  Ammoniumhydrogencarbonat, Natriumhydrogencarbonat; Salz, natürliche Aromen, Säuerungsmittel: Zitronensäure. Kann Spuren von SOJA und LUPINEN enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 176
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 165
+        }
+      ],
+      "name": "Glutenfreie Butterkekse",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1930,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 458,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 80,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "1 Keks",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 36,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 150,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Bei Raumtemperatur trocken lagern",
+      "sustenanceClaim": "Glutenfrei, Weizenfrei, ohne Palmöl"
+    }
+  ],
+  "grammage": "165 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 18.12"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schär Butterkeks Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/schaer-butterkeks-glutenfrei/00-641732",
+    "~/warengruppe/suesses-und-salziges/suesses2/feingebaeck-und-kekse/B2-751/produkte/schaer-butterkeks-glutenfrei/00-641732"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 18.12"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 50490,
+  "recommendationArticleIds": [
+    "00-887604"
+  ],
+  "seoDescription": "Schär Butterkeks Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schär Butterkeks Glutenfrei online bestellen | BILLA",
+  "slug": "schaer-butterkeks-glutenfrei",
+  "storeAvalibility": [
+    "00-4551",
+    "00-355",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/schaer-butterkeks-glutenfrei/00-641732",
+  "vatCode": "10",
+  "video": ""
+}

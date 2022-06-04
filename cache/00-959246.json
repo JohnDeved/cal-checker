@@ -1,0 +1,208 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-959246",
+  "articleOnlyCanonicalPath": "/produkte/barilla-collezione-fusilli-bucati-corti/00-959246",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Barilla",
+  "brandPath": "/marken/barilla",
+  "canonicalPath": "/produkte/barilla-collezione-fusilli-bucati-corti/00-959246",
+  "category": "Grundnahrungsmittel",
+  "description": "Barilla stellt seit über 140 Jahren authentisch italienische Teigwaren her.<br>Unsere Collezione Fusilli Bucati Corti passen dank ihrer einzigartigen Textur, gut zu Fleisch- und Gemüsesaucen sowie Meeresfrüchten.<br>Für ein original italienisches Geschmackserlebnis empfiehlt sich die Zubereitung mit Zucchini und Garnelen.<br>Kochzeit: 10 Minuten",
+  "eanCodes": [
+    "8076809574631"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via Mantova 166, Parma - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Barilla G. e R. Fratelli - Società per Azioni",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-17T00:00:00",
+      "ingredients": "Zutaten: HARTWEIZENGRIESS, Wasser. KANN SPUREN VON SOJABOHNEN ENTHALTEN",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 530.571
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Teigwaren aus Hartweizengriess",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1521,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 359,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 71.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.013,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Salz in kochendes Wasser geben.\nPasta hinzugeben, ab und zu umrühren. Kochzeit 10 Min.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ]
+    }
+  ],
+  "grammage": "500 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 4.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Barilla Collezione Fusilli Bucati Corti",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/barilla-collezione-fusilli-bucati-corti/00-959246"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 4.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Barilla Collezione Fusilli Bucati Corti online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Barilla Collezione Fusilli Bucati Corti online bestellen | BILLA",
+  "slug": "barilla-collezione-fusilli-bucati-corti",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/barilla-collezione-fusilli-bucati-corti/00-959246",
+  "vatCode": "10",
+  "video": ""
+}

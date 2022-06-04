@@ -1,0 +1,200 @@
+{
+  "articleGroupIds": [
+    "B2-6E2",
+    "B2-741",
+    "B2-742"
+  ],
+  "articleId": "00-342885",
+  "articleOnlyCanonicalPath": "/produkte/vaya-hummus-creamy-herbs-snack/00-342885",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Zweifel",
+  "brandPath": "/marken/zweifel",
+  "canonicalPath": "/produkte/vaya-hummus-creamy-herbs-snack/00-342885",
+  "category": "Grundnahrungsmittel",
+  "description": "Der harmonische Snack auf Kicher- und Gelberbsenbasis verlockt mit einer feinen cremigen Kräuternote, 40% weniger Fett sowie einem hohen Anteil an wertvollen Ballaststoffen.",
+  "eanCodes": [
+    "7610095237002"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Zweifelstrasse 5, CH-8957 Spreitenbach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Zweifel Pomy-Chips AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "Consumer Service: (+41) 0800 44 22 11",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-08-14T00:00:00",
+      "ingredients": "Kichererbsenmehl 27%, gelbe Erbsen 20%, schwarze Bohnen 16%, Sonnenblumenöl, Reismehl, Kartoffelstärke, Gewürzzubereitung (Reismehl, Zucker, Salz, natürliches Aroma, Zwiebeln, Knoblauch, Kräuter (Thymian, Basilikum, Oregano, Rosmarin, Salbei), Stärke). Kann Spuren von Soja enthalten.",
+      "marketingMessage": "Der harmonische Snack auf Kicher- und Gelberbsenbasis (47%) verlockt mit einer feinen cremigen Kräuternote, 40% weniger Fett sowie einem hohen Anteil an wertvollen Ballaststoffen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.085
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.08
+        }
+      ],
+      "name": "Gewürzter Snack aus Kichererbsen, Erbsen und Bohnen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1753,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 417,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 56,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern, vor Wärme schützen."
+    }
+  ],
+  "grammage": "80 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "100 g 3.11"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Vaya Hummus Creamy Herbs Snack",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/vaya-hummus-creamy-herbs-snack/00-342885",
+    "~/warengruppe/suesses-und-salziges/chips-und-co/chips/B2-741/produkte/vaya-hummus-creamy-herbs-snack/00-342885",
+    "~/warengruppe/suesses-und-salziges/chips-und-co/knabbereien/B2-742/produkte/vaya-hummus-creamy-herbs-snack/00-342885"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "100 g 3.11"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 200791,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vaya Hummus Creamy Herbs Snack online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vaya Hummus Creamy Herbs Snack online bestellen | BILLA",
+  "slug": "vaya-hummus-creamy-herbs-snack",
+  "storeAvalibility": [
+    "00-10",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/vaya-hummus-creamy-herbs-snack/00-342885",
+  "vatCode": "10",
+  "video": ""
+}

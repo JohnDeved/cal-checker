@@ -1,0 +1,201 @@
+{
+  "articleGroupIds": [
+    "B2-686"
+  ],
+  "articleId": "00-100767",
+  "articleOnlyCanonicalPath": "/produkte/hutesa-oliven-gruen-ohne-kern/00-100767",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Hutesa",
+  "canonicalPath": "/produkte/hutesa-oliven-gruen-ohne-kern/00-100767",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "8426622201205"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Crta. Nacional 334, KM 136 - 29520 - Fuente de Piedra",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HUTESA AGROALIMENTARIA, SA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SPANIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Wasser, Oliven, Speisesalz, Säuerungsmittel: Milchsäure",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 313
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 156
+        }
+      ],
+      "name": "156ml Grüne Oliven ohne Kern",
+      "nutritions": [
+        {
+          "householdPortion": "Valores nutricionales medios por 100g",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 7.04,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 591,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 7.04,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 141,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2.8,
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.9,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Spanien",
+      "preperations": [],
+      "storageHint": "Nicht über Zimmertemperatur lagern. Nach dem öffnen im Kühlschrank aufbewahren und innerhalb von 3 Tagen aufbrauchen.",
+      "usageHints": "Nicht über Zimmertemperatur lagern. Nach dem öffnen im Kühlschrank aufbewahren und innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "140 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 8.50"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Hutesa Oliven Grün ohne Kern",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686/produkte/hutesa-oliven-gruen-ohne-kern/00-100767"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 8.50"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 80040,
+  "recommendationArticleIds": [
+    "00-542989"
+  ],
+  "seoDescription": "Hutesa Oliven Grün ohne Kern online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hutesa Oliven Grün ohne Kern online bestellen | BILLA",
+  "slug": "hutesa-oliven-gruen-ohne-kern",
+  "storeAvalibility": [
+    "00-4551",
+    "00-5108",
+    "00-3780",
+    "00-7653",
+    "00-10",
+    "00-225",
+    "00-355",
+    "00-783",
+    "00-1032",
+    "00-99202"
+  ],
+  "url": "/produkte/hutesa-oliven-gruen-ohne-kern/00-100767",
+  "vatCode": "10",
+  "video": ""
+}

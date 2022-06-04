@@ -1,0 +1,248 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-786369",
+  "articleOnlyCanonicalPath": "/produkte/recheis-goldmarke-hohlnudeln/00-786369",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Recheis",
+  "brandPath": "/marken/recheis",
+  "canonicalPath": "/produkte/recheis-goldmarke-hohlnudeln/00-786369",
+  "category": "Grundnahrungsmittel",
+  "description": "Eier und Hartweizen aus Österreich.",
+  "eanCodes": [
+    "9000452040563"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R05"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fassergasse 8-10\n6060 Hall in Tirol, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Josef Recheis Eierteigwaren und Walzmühle GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@recheis.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800/880999 (kostenlos)",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.recheis.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-18T00:00:00",
+      "ingredients": "Zutaten: HARTWEIZENGRIESS, EIER (15 %). 3 Eier je kg Hartweizengrieß",
+      "marketingMessage": "* Seit über 130 Jahren mit Liebe und Sorgfalt hergestellt\n* 100 % Qualität und Zutaten aus Österreich\n* Aus bestem Hartweizen, sorgfältig angebaut von unseren österreichischen Vertragslandwirten\n* Nudelteig wird mit kristallklarem Tiroler Wasser aus dem Naturschutzgebiet Karwendel zubereitet\n* Mit herkunftsgesicherten österreichischen Eiern aus AMA zertifizierten Betrieben\n* CO2 neutral\n* Verpackung frei von Weichmachern (BPA)\n* Zertifiziert gentechnikfrei\n* Infos und Rezeptideen unter www.recheis.at",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 505
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Teigwaren aus österreichischem Hartweizengrieß mit Eiern aus Österreich.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1505,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 355,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 66,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "KOCHANLEITUNG: Nudeln in reichlich kochendes, gesalzenes Wasser geben (1 Liter/100 g Nudeln). Öfter umrühren. Nach ca. 5 Minuten sind die Nudeln bissfest gekocht. Dank der Zugabe von besten österreichischen Eiern sind Recheis Nudeln auch nach etwas längerer Kochzeit ein Genuss.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Bei trockener, vor Sonnenlicht geschützter Lagerung mindestens haltbar bis Ende: Siehe Aufdruck"
+    }
+  ],
+  "grammage": "500 Gramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 4.38"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Recheis Goldmarke Hohlnudeln",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/recheis-goldmarke-hohlnudeln/00-786369"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 4.38"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 55330,
+  "recommendationArticleIds": [],
+  "seoDescription": "Recheis Goldmarke Hohlnudeln online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Recheis Goldmarke Hohlnudeln online bestellen | BILLA",
+  "slug": "recheis-goldmarke-hohlnudeln",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/recheis-goldmarke-hohlnudeln/00-786369",
+  "vatCode": "10",
+  "video": ""
+}

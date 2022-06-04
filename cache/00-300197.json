@@ -1,0 +1,241 @@
+{
+  "articleGroupIds": [
+    "B2-741",
+    "B2-742",
+    "B2-6E2"
+  ],
+  "articleId": "00-300197",
+  "articleOnlyCanonicalPath": "/produkte/vaya-bean-salt-snack/00-300197",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Zweifel",
+  "brandPath": "/marken/zweifel",
+  "canonicalPath": "/produkte/vaya-bean-salt-snack/00-300197",
+  "category": "Süßes & Salziges",
+  "description": "Der knusprige Snack auf Kichererbsenbasis verführt mit einer feinen Note Salz, 40% weniger Fett, extra viel Erbsen und Bohnen sowie einem hohen Anteil an Ballaststoffen.",
+  "eanCodes": [
+    "7610095231505"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Zweifelstrasse 5, CH-8957 Spreitenbach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Zweifel Pomy-Chips AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "Consumer Service: (+41) 0800 44 22 11",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-04-18T00:00:00",
+      "ingredients": "Kichererbsenmehl (26%), grüne Erbsen (15%), gelbe Erbsen (15%), schwarze Bohnen (10%), Sonnenblumenöl, Reismehl, Kartoffelstärke, Salz, Antioxidationsmittel (Rosmarinextrakt). Kann Spuren von Soja enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.085
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.08
+        }
+      ],
+      "name": "gesalzener Snack aus Kichererbsen-, Erbsen- und Bohnen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1779,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 424,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 56.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern, vor Wärme schützen."
+    }
+  ],
+  "grammage": "80 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "100 g 3.11"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Vaya Bean Salt Snack",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/chips/B2-741/produkte/vaya-bean-salt-snack/00-300197",
+    "~/warengruppe/suesses-und-salziges/chips-und-co/knabbereien/B2-742/produkte/vaya-bean-salt-snack/00-300197",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/vaya-bean-salt-snack/00-300197"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "100 g 3.11"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 200793,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vaya Bean Salt Snack online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vaya Bean Salt Snack online bestellen | BILLA",
+  "slug": "vaya-bean-salt-snack",
+  "storeAvalibility": [
+    "00-4107",
+    "00-2109",
+    "00-3234",
+    "00-2015",
+    "00-4249",
+    "00-4655",
+    "00-7606",
+    "00-3023",
+    "00-2154",
+    "00-3118",
+    "00-4551",
+    "00-1457",
+    "00-3114",
+    "00-7857",
+    "00-3206",
+    "00-3617",
+    "00-1027",
+    "00-7204",
+    "00-2098",
+    "00-4707",
+    "00-7114",
+    "00-355",
+    "00-3709",
+    "00-7368",
+    "00-3780",
+    "00-10",
+    "00-2342",
+    "00-2045",
+    "00-1911",
+    "00-7860",
+    "00-7393",
+    "00-4779",
+    "00-783",
+    "00-1529",
+    "00-99202",
+    "00-3143",
+    "00-4690",
+    "00-7653",
+    "00-3157",
+    "00-4126",
+    "00-3507",
+    "00-6910",
+    "00-3146",
+    "00-9290",
+    "00-4675"
+  ],
+  "url": "/produkte/vaya-bean-salt-snack/00-300197",
+  "vatCode": "10",
+  "video": ""
+}

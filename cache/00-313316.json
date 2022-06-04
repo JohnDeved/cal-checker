@@ -1,0 +1,215 @@
+{
+  "articleGroupIds": [
+    "B2-759"
+  ],
+  "articleId": "00-313316",
+  "articleOnlyCanonicalPath": "/produkte/hofbauer-rohkost-schokofruechte/00-313316",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Hofbauer",
+  "brandPath": "/marken/hofbauer",
+  "canonicalPath": "/produkte/hofbauer-rohkost-schokofruechte/00-313316",
+  "category": "Süßes & Salziges",
+  "description": "Handverlesene Früchte, kandiert und mit feinherber Zartbitter-Schokolade veredelt, ergeben als Hofbauer Rohkost Schokofrüchte einen saftig-weichen Gaumenschmaus.<li>Früchte in Zartbitter-Schokolade<li>mit Pflaumen, Aprikosen, Feigen, Datteln, Orangen und Ananas",
+  "eanCodes": [
+    "9003600500155",
+    "9003600502173"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-12-06T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 313
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Früchte (51%) und saftige Kokosstäbchen (14%) in dunkler Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 386,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1618,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 57,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 48,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 8.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 8.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 8.49,
+    "unit": "100 g 3.40"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Hofbauer Rohkost Schokofrüchte",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/bonbonniere-und-spezialitaeten/B2-759/produkte/hofbauer-rohkost-schokofruechte/00-313316"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 8.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 8.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 8.49,
+    "unit": "100 g 3.40"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 67720,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofbauer Rohkost Schokofrüchte online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofbauer Rohkost Schokofrüchte online bestellen | BILLA",
+  "slug": "hofbauer-rohkost-schokofruechte",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/hofbauer-rohkost-schokofruechte/00-313316",
+  "vatCode": "10",
+  "video": ""
+}

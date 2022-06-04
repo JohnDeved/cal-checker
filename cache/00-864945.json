@@ -1,0 +1,161 @@
+{
+  "articleGroupIds": [
+    "B2-992"
+  ],
+  "articleId": "00-864945",
+  "articleOnlyCanonicalPath": "/produkte/emsal-stein-und-fliese/00-864945",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Emsal",
+  "canonicalPath": "/produkte/emsal-stein-und-fliese/00-864945",
+  "category": "Haushalt",
+  "description": "Der Stein- und Fliesenreiniger von Emsal pflegt im Innen- und Außenbereich Natur- und Steinböden und versiegelt sie mit einem wirkungsvollen Oberflächenschutz.<li>Oberflächen- und Fugenschutz auf glasierten Fliesen und Feinsteinzeugfliesen<li>streifenfreie Sauberkeit<li>pflegende Imprägnierung",
+  "eanCodes": [
+    "4001499133619",
+    "4001499944697",
+    "4001499544699"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5400 Hallein, Neualmerstraße 13",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "ERDAL GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-03-30T00:00:00",
+      "marketingMessage": "Eigenschaften:\n* Dauerhafter Schutz vor Schmutz und Wasserecken\nauf Oberächen und Fugen \n* Streifenfreie Sauberkeit für alle Arten von Fliesen und\nSteinoberflächen\n* Gleichmäßiges Abtrocknen\n* Pflegende Imprägnierung - ohne Schichtenbildung\n\nAnwendung:\nAnwendbar im Innen- und Außenbereich:\n* Glasierte Fliesen, Feinsteinzeugfliesen * Hochglänzende und matte Fliesen * Glatte und raue Fliesen * Offenporige\nSteinböden wie Terrakotta, Marmor, Terrazzo, Schiefer, Granit * Terrasseniesen, Pflastersteine und Außentreppen (Reinigungs- und Pflegeanweisung des Belagherstellers beachten.) Laufende Reinigung und Pflege (verdünnte Anwendung): * 2 Kappen emsal Stein & Fliesen auf einen\nEimer lauwarmes Wasser (5 Liter) geben. * Mit einem ausgewrungenen Wischtuch wie gewohnt wischen.\n* Tipp: Bei Bedarf zunächst starke Verschmutzungen oder alte Glanzschichten mit dem emsal Kraft-Reiniger entfernen.\n\nHinweise:\n* Außer Reichweite von Kindern aufbewahren.\n* Vor Frost schützen.\n* Nicht geeignet für Puranwen",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1064
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 1000
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "1 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.14,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 3.14
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Emsal Stein Und Fliese",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/diverse-haushaltsreiniger/B2-992/produkte/emsal-stein-und-fliese/00-864945"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.14,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 3.14
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 112920,
+  "recommendationArticleIds": [],
+  "seoDescription": "Emsal Stein Und Fliese online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Emsal Stein Und Fliese online bestellen | BILLA",
+  "slug": "emsal-stein-und-fliese",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/emsal-stein-und-fliese/00-864945",
+  "vatCode": "20",
+  "video": ""
+}

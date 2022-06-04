@@ -1,0 +1,175 @@
+{
+  "articleGroupIds": [
+    "B2-A4"
+  ],
+  "articleId": "00-885127",
+  "articleOnlyCanonicalPath": "/produkte/tierell-sittich-alleinfutter/00-885127",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Tierell",
+  "canonicalPath": "/produkte/tierell-sittich-alleinfutter/00-885127",
+  "category": "Haustier",
+  "description": "Das Alleinfutter für Wellensittiche von Tierell ist ein nährstoffreicher Getreide-Mix aus verschiedenen Hirse-Arten, Kanariensaat und Rollhafer.<li>mit vielen wichtigen Vitaminen: A, D3, E, B1, B2, B6 und B12<li>mit wertvollem Roh-Protein",
+  "eanCodes": [
+    "9001542067200"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "Zusatzstoffe pro kg Futtermittel: Ernährungsphysiologische: Vitamin A (all-trans-Retinol) 1300IE, Vitamin D3 (Cholecalciferol) 230IE, Vitamin E (all-rac-ü-Tocopherylacetat) 5,3mg, Vitamin B1 (Thiaminmononitrat) 9mg, Vitamin B2 (Riboflavin) 1,5mg, Vitamin B6 (Pyridoxinhydrochlorid) 0,015mg, Vitamin B12 (Cyanocobalamin) 2,2mcg, Biotin (D-(+)-Biiotin) 4,5mcg, Jod (Calciumjodat, wasserfrei) 0,25 mg. Sensorische Zusatzstoffe: Farbsstoffe"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile pro kg Futtermittel: Rohprotein 119 g, Fettgehalt 47g, Rohfaser 82g, Rohasche 30g"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Ca. 15g (1 - 2 EL) pro Tag, pro Tier, frisches Wasser, Obst und Gemüse, Kalk (Sepia), frisches Badewasser und frischen Sand für ausreichende Hygiene. Nicht alleine halten."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "AT 2016"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Getreide (Gelbhirse), Platahirse, Glanzsamen, Rothirse, Rollhafer, Vitaminhirse), Backwarenerzeugnisse."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-2325 Himberg, Haideäckerstraße 8",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HESA Saateb",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hesa.co.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-07-11T00:00:00",
+      "mandatoryIndicator": "Standbeutel unter Schutzatmosphäre mit ZIPP",
+      "marketingMessage": "Die Österreichische Qualitätsmarke.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 509
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Sittichfutter, Alleinfuttermittel",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 kg 3.18"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Tierell Sittich Alleinfutter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/voegel/B2-A4/produkte/tierell-sittich-alleinfutter/00-885127"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 kg 3.18"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 69410,
+  "recommendationArticleIds": [
+    "00-742888"
+  ],
+  "seoDescription": "Tierell Sittich Alleinfutter online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tierell Sittich Alleinfutter online bestellen | BILLA",
+  "slug": "tierell-sittich-alleinfutter",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/tierell-sittich-alleinfutter/00-885127",
+  "vatCode": "13",
+  "video": ""
+}

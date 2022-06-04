@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-441452",
+  "articleOnlyCanonicalPath": "/produkte/om-vollmilch-laenger-frisch-35/00-441452",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Obersteirische Molkerei",
+  "canonicalPath": "/produkte/om-vollmilch-laenger-frisch-35/00-441452",
+  "category": "Kühlwaren",
+  "description": "Diese Vollmilch aus der Steiermark ist pasteurisiert und bleibt dadurch länger frisch. Dank ihres 3,5 % Fettgehalts hat sie Tiefe und schmeckt vollmundig.<li>geprüfte Qualität aus Österreich",
+  "eanCodes": [
+    "9004599001258"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hautzenbichlstraße 1, A- 8720 Knittelfeld",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Obersteirische Molkerei eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1062
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Vollmilch 3,5 % Fett, länger frisch, pasteurisiert, mikrofiltriert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 66,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 274,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "öffnen und verzehren",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Ungeöffnet und gekühlt (+ 6°C) mindestens haltbar bis: siehe Giebelaufdruck. Vor und nach dem Öffnen gekühlt lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen."
+    }
+  ],
+  "grammage": "1 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39
+  },
+  "maximalOrderQuantity": 120,
+  "minimalOrderQuantity": 0,
+  "name": "OM Vollmilch länger frisch 3.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/om-vollmilch-laenger-frisch-35/00-441452"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    12,
+    24,
+    36,
+    48,
+    60,
+    72,
+    84,
+    96,
+    108,
+    120
+  ],
+  "rank": 41370,
+  "recommendationArticleIds": [],
+  "seoDescription": "OM Vollmilch länger frisch 3.5% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "OM Vollmilch länger frisch 3.5% online bestellen | BILLA",
+  "slug": "om-vollmilch-laenger-frisch-35",
+  "storeAvalibility": [
+    "00-8946",
+    "00-6439",
+    "00-6760",
+    "00-6932",
+    "00-6197",
+    "00-6749",
+    "00-6688",
+    "00-6864",
+    "00-6569",
+    "00-6487",
+    "00-6897",
+    "00-6255",
+    "00-99202"
+  ],
+  "url": "/produkte/om-vollmilch-laenger-frisch-35/00-441452",
+  "vatCode": "10",
+  "video": ""
+}

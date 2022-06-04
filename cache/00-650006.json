@@ -1,0 +1,314 @@
+{
+  "articleGroupIds": [
+    "B2-6E7"
+  ],
+  "articleId": "00-650006",
+  "articleOnlyCanonicalPath": "/produkte/doppelherz-magnesium-400/00-650006",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Doppelherz",
+  "brandPath": "/marken/doppelherz",
+  "canonicalPath": "/produkte/doppelherz-magnesium-400/00-650006",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Brausetabletten von Doppelherz enthalten neben 400 mg Magnesium - davon 50 mg Magnesium in Form von Magnesiumcitrat - ausgewählte B-Vitamine, einschließlich der Folsäure.<br>Magnesium unterstützt die normale Muskelfunktion. Für die normale Funktion des Nervensystems und des Energiestoffwechsels spielen die Vitamine B1, B6 und B12 eine Rolle. Folsäure hat eine Funktion bei der Zellteilung und leistet einen Beitrag zur normalen Blutbildung.<br>Eine Nahrungsergänzung mit Doppelherz Magnesium 400 + B1 + B6 + B12 + Folsäure Brausetabletten empfiehlt sich bei unausgewogener Ernährung oder einem erhöhten Nährstoffbedarf, z.B. bei körperlicher Anstrengungen wie Sport.",
+  "eanCodes": [
+    "4009932008463"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schleswiger Str. 74\n24941 Flensburg\nDEUTSCHLAND",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Queisser Pharma GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-11-11T00:00:00",
+      "healthClaim": "Folsäure hat eine Funktion bei der Zellteilung. Vitamin B1, B6, B12 tragen zu einem normalen Energiestoffwechsel bei. Magnesium trägt zu einer normalen Muskelfunktion bei.",
+      "ingredients": "Zutaten:\nSäuerungsmittel Citronensäure, Magnesiumcarbonat, Säureregulatoren Natriumhydrogencarbonat und Natriumcarbonat, Trimagnesiumdicitrat, Süßungsmittel Natriumcyclamat und Natriumsaccharin, Aroma, Stärke, Vitamin B6, Vitamin B1, Folsäure, Farbstoff Riboflavin-5´-Phosphat, Vitamin B12",
+      "mandatoryIndicator": "Die angegebene empfohlene tägliche Verzehrsmenge darf nicht überschritten werden. Nahrungsergänzungsmittel sind kein Ersatz für eine ausgewogene und abwechslungsreiche Ernährung und eine gesunde Lebensweise.\nFür kleine Kinder unzugänglich aufbewahren.\nNur für Erwachsene.\nMengen über 250 mg Magnesium können bei empfindlichen Personen abführend wirken.\nEine Tablette täglich in einem Glas Wasser (200 ml) aufgelöst trinken.",
+      "marketingMessage": "Die Brausetabletten von Doppelherz enthalten neben 400 mg Magnesium - davon 50 mg Magnesium in Form von Magnesiumcitrat - ausgewählte B-Vitamine, einschließlich der Folsäure. Für die normale Funktion des Nervensystems und des Energiestoffwechsels spielen die Vitamine B1, B6 und B12 eine Rolle. Folsäure hat eine Funktion bei der Zellteilung und leistet einen Beitrag zur normalen Blutbildung. Eine Nahrungsergänzung mit Doppelherz Magnesium 400 + B1 + B6 + B12 + Folsäure Brausetabletten empfiehlt sich bei unausgewogener Ernährung oder einem erhöhten Nährstoffbedarf, z. B. bei körperlicher Anstrengungen wie Sport.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 118
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Stück",
+          "value": 15
+        }
+      ],
+      "name": "Nahrungsergänzungsmittel mit Süßungsmitteln\nBrausetabletten mit Magnesium und B-Vitaminen",
+      "nutritions": [
+        {
+          "householdPortion": "1 Brausetablette",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 300,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 600,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 107,
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 400,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 1.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 200,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 5,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 300,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 4.2,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 15,
+      "preperations": [],
+      "storageHint": "Trocken und nicht über 25°C lagern.",
+      "sustenanceClaim": "lactosefrei glutenfrei"
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schleswiger Str. 74\n24941 Flensburg\nDEUTSCHLAND",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Queisser Pharma GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-19T00:00:00",
+      "ingredients": "Zutaten:\nSäuerungsmittel Citronensäure, Magnesiumcarbonat, Säureregulatoren Natriumhydrogencarbonat und Natriumcarbonat, Trimagnesiumdicitrat, Süßungsmittel Natriumcyclamat und Natriumsaccharin, Aroma, Stärke, Vitamin B6, Vitamin B1, Folsäure, Farbstoff Riboflavin-5´-Phosphat, Vitamin B12",
+      "mandatoryIndicator": "Die angegebene empfohlene tägliche Verzehrsmenge darf nicht überschritten werden. Nahrungsergänzungsmittel sind kein Ersatz für eine ausgewogene und abwechslungsreiche Ernährung und eine gesunde Lebensweise. Für kleine Kinder unzugänglich aufbewahren. \nNur für Erwachsene.\nEine Tablette täglich in einem Glas Wasser (200 ml) aufgelöst trinken.\nMengen über 250 mg Magnesium können bei empfindlichen Personen abführend wirken.",
+      "marketingMessage": "Die Brausetabletten von Doppelherz enthalten neben 400 mg Magnesium - davon 50 mg Magnesium in Form von Magnesiumcitrat - ausgewählte B-Vitamine, einschließlich der Folsäure. Für die normale Funktion des Nervensystems und des Energiestoffwechsels spielen die Vitamine B1, B6 und B12 eine Rolle. Folsäure hat eine Funktion bei der Zellteilung und leistet einen Beitrag zur normalen Blutbildung. Eine Nahrungsergänzung mit Doppelherz Magnesium 400 + B1 + B6 + B12 + Folsäure Brausetabletten empfiehlt sich bei unausgewogener Ernährung oder einem erhöhten Nährstoffbedarf, z. B. bei körperlicher Anstrengungen wie Sport.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 118
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Stück",
+          "value": 15
+        }
+      ],
+      "name": "Nahrungsergänzungsmittel mit Süßungsmitteln\nBrausetabletten mit Magnesium und B-Vitaminen",
+      "nutritions": [
+        {
+          "householdPortion": "1 Brausetablette",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 300,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 600,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 107,
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 400,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 1.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 200,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 5,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 300,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 4.2,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 15,
+      "preperations": [],
+      "storageHint": "Trocken und nicht über 25°C lagern.",
+      "sustenanceClaim": "lactosefrei glutenfrei Folsäure hat eine Funktion bei der Zellteilung. Vitamin B1, B6, B12 tragen zu einem normalen Energiestoffwechsel bei. Magnesium trägt zu einer normalen Muskelfunktion bei."
+    }
+  ],
+  "grammage": "15 Stück Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Doppelherz Magnesium 400",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/nahrungsergaenzung/B2-6E7/produkte/doppelherz-magnesium-400/00-650006"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Doppelherz Magnesium 400 online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Doppelherz Magnesium 400 online bestellen | BILLA",
+  "slug": "doppelherz-magnesium-400",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/doppelherz-magnesium-400/00-650006",
+  "vatCode": "10",
+  "video": ""
+}

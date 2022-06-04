@@ -1,0 +1,296 @@
+{
+  "articleGroupIds": [
+    "B2-446"
+  ],
+  "articleId": "00-16114",
+  "articleOnlyCanonicalPath": "/produkte/wiesner-abkochter-kochkaese/00-16114",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Wiesner",
+  "canonicalPath": "/produkte/wiesner-abkochter-kochkaese/00-16114",
+  "category": "Kühlwaren",
+  "description": "Regionale Käsespezialität nach altem Hausrezept.",
+  "eanCodes": [
+    "9015240340022",
+    "0000090152429"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gewerbepark 1,  4707 Schlüßlberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Wiesner Kochkäse Ges.m.b.H.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 52% SAUERMILCHTOPFEN mager, Trinkwasser, 5% ungehärtetes Palmfett, Schmelzsalze (Polyphosphate), Speisesalz jodiert, Gewürze, Farbstoff (Beta Carotin)",
+      "marketingMessage": "Regionale Käsespezialität nach altem Hausrezept",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 260
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Kochkäsezubereitung mit 5% pflanzlichem Fett, streichfähig, Trockenmassegehalt ca. 24%",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 107,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 447,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [
+        {
+          "instruction": "Brotaufstrich",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Ungeöffnete Packung bei max. +9°C. Geöffnete Packung innerhalb 3-4 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "250 g Stk",
+  "grammageBadge": "250 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 10.36"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Wiesner Abkochter Kochkäse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/kaesespezialitaeten/B2-446/produkte/wiesner-abkochter-kochkaese/00-16114"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 10.36"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Wiesner Abkochter Kochkäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Wiesner Abkochter Kochkäse online bestellen | BILLA",
+  "slug": "wiesner-abkochter-kochkaese",
+  "storeAvalibility": [
+    "00-3560",
+    "00-4076",
+    "00-5871",
+    "00-4090",
+    "00-4690",
+    "00-4847",
+    "00-4551",
+    "00-4170",
+    "00-4779",
+    "00-4672",
+    "00-3135",
+    "00-4655",
+    "00-4834",
+    "00-4912",
+    "00-4881",
+    "00-4673",
+    "00-4660",
+    "00-4748",
+    "00-4540",
+    "00-4675",
+    "00-4440",
+    "00-4565",
+    "00-4021",
+    "00-4469",
+    "00-4001",
+    "00-4707",
+    "00-4482",
+    "00-4879",
+    "00-4838",
+    "00-4126",
+    "00-4524",
+    "00-3322",
+    "00-4424",
+    "00-3326",
+    "00-4078",
+    "00-4225",
+    "00-4107",
+    "00-4629",
+    "00-4813",
+    "00-4003",
+    "00-4601",
+    "00-4489",
+    "00-4099",
+    "00-4249",
+    "00-4945",
+    "00-4756",
+    "00-4441",
+    "00-4932",
+    "00-4925",
+    "00-5603",
+    "00-4421",
+    "00-4952",
+    "00-4478",
+    "00-4407",
+    "00-4059",
+    "00-4016",
+    "00-4982",
+    "00-4291",
+    "00-4200",
+    "00-4226",
+    "00-4270",
+    "00-4104",
+    "00-3196",
+    "00-5967",
+    "00-4350",
+    "00-4755",
+    "00-9589",
+    "00-3378",
+    "00-4700",
+    "00-4283",
+    "00-4619",
+    "00-3379",
+    "00-4466",
+    "00-4028",
+    "00-3420",
+    "00-4513",
+    "00-4770",
+    "00-5777",
+    "00-4674",
+    "00-4605",
+    "00-4840",
+    "00-4146",
+    "00-99202"
+  ],
+  "url": "/produkte/wiesner-abkochter-kochkaese/00-16114",
+  "vatCode": "10",
+  "video": ""
+}

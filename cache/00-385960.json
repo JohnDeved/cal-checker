@@ -1,0 +1,297 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-385960",
+  "articleOnlyCanonicalPath": "/produkte/delamaris-makrelen-picnic/00-385960",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Delamaris",
+  "canonicalPath": "/produkte/delamaris-makrelen-picnic/00-385960",
+  "category": "Grundnahrungsmittel",
+  "description": "Makrelenfilets gestückelt mit Gemüse",
+  "eanCodes": [
+    "3838929568656"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "SX",
+              "valueTranslation": "Wadennetze (ohne nähere Angabe)"
+            },
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "TX",
+              "valueTranslation": "Sonstige Schleppnetze (ohne nähere Angaben)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R41"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Johannesgasse 23, A-1010 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Glatz GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SLOWENIEN"
+      ],
+      "fromDate": "2021-02-25T00:00:00",
+      "ingredients": "Zutaten: MAKRELENSTÜCKE 36 %, Tomatensauce 32 % (Wasser, Sonnenblumenöl, Tomatenkonzentrat, Kochsalz, Gewürze und Weingeistessig), Gemüse in veränderlichen Gewichtsanteilen 32% (Weiße Bohnen, Gurken).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.14
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Makrelenfilets gestückelt mit Gemüse (Scomber scombrus)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 175,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 726,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Omega-3-Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "125 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Dosen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 kg 8.96"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Delamaris Makrelen Picnic",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/delamaris-makrelen-picnic/00-385960"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Dosen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 kg 8.96"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Delamaris Makrelen Picnic online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Delamaris Makrelen Picnic online bestellen | BILLA",
+  "slug": "delamaris-makrelen-picnic",
+  "storeAvalibility": [
+    "00-521",
+    "00-4779",
+    "00-4249",
+    "00-7114",
+    "00-4170",
+    "00-5108",
+    "00-4421",
+    "00-3700",
+    "00-3512",
+    "00-3780",
+    "00-3114",
+    "00-4707",
+    "00-7075",
+    "00-2045",
+    "00-4605",
+    "00-4690",
+    "00-1457",
+    "00-7857",
+    "00-3947",
+    "00-4783",
+    "00-4675",
+    "00-3617",
+    "00-9753",
+    "00-6740",
+    "00-7675",
+    "00-10",
+    "00-5027",
+    "00-6024",
+    "00-783",
+    "00-6108",
+    "00-4655",
+    "00-4107",
+    "00-2218",
+    "00-2100",
+    "00-225",
+    "00-2342",
+    "00-4283",
+    "00-4551",
+    "00-7539",
+    "00-7606",
+    "00-3979",
+    "00-3143",
+    "00-4078",
+    "00-355",
+    "00-3713",
+    "00-6864",
+    "00-9290",
+    "00-4932",
+    "00-7653",
+    "00-350",
+    "00-4126",
+    "00-99202"
+  ],
+  "url": "/produkte/delamaris-makrelen-picnic/00-385960",
+  "vatCode": "10",
+  "video": ""
+}

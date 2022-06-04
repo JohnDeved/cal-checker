@@ -1,0 +1,215 @@
+{
+  "articleGroupIds": [
+    "B2-672"
+  ],
+  "articleId": "00-422179",
+  "articleOnlyCanonicalPath": "/produkte/chivers-english-orange-marmelade/00-422179",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Chivers",
+  "canonicalPath": "/produkte/chivers-english-orange-marmelade/00-422179",
+  "category": "Grundnahrungsmittel",
+  "description": "Very British: Durch ihre ausgeglichene Süße und Bitterkeit mit mittelgroß geschnittener Orangenschale die perfekte und typische Orangen Marmelade.<br>Chivers wird nur mit den besten Früchten und Zutaten hergestellt. So erhalten sie ihren besonders fruchtigen Geschmack und sind nicht nur für den Frühstückstisch perfekt, sondern auch ideal zum Kochen, Backen und für Desserts.",
+  "eanCodes": [
+    "5000183529379",
+    "5098732000738"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Platin Road, Drogheda,Co. Meath, Ireland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Chivers, Boyne Valley Group",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Glukose-Fruktose-Sirup, Orangen, Zucker, Säuerungsmittel (Citronensäure), Geliermittel (Pektine), Säureregulator (Natriumcitrate). Hergestellt aus 20g Früchten je 100 g.",
+      "marketingMessage": "Die perfekte und typische Orangen Marmelade durch ihre ausgeglichene Süße und Bitterkeit, mit mittelgroß geschnittener Orangenschale.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 583
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 340
+        }
+      ],
+      "name": "Orangenmarmelade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 264,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1121,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 64,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 47,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Orangen aus der EU",
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen im Kühlschrank aufbewahren und innerhalb von 6 Wochen aufbrauchen.",
+      "sustenanceClaim": "Gesamtzuckergehalt: 67g pro 100g."
+    }
+  ],
+  "grammage": "340 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 8.79"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Chivers English Orange Marmelade",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/marmeladen-und-konfitueren/B2-672/produkte/chivers-english-orange-marmelade/00-422179"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 8.79"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 30210,
+  "recommendationArticleIds": [],
+  "seoDescription": "Chivers English Orange Marmelade online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Chivers English Orange Marmelade online bestellen | BILLA",
+  "slug": "chivers-english-orange-marmelade",
+  "storeAvalibility": [
+    "00-6130",
+    "00-4707",
+    "00-521",
+    "00-10",
+    "00-4551",
+    "00-7539",
+    "00-99202",
+    "00-4756",
+    "00-2045",
+    "00-355",
+    "00-225",
+    "00-5108"
+  ],
+  "url": "/produkte/chivers-english-orange-marmelade/00-422179",
+  "vatCode": "10",
+  "video": ""
+}

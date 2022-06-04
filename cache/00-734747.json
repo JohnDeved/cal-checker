@@ -1,0 +1,199 @@
+{
+  "articleGroupIds": [
+    "B2-311",
+    "B2-331",
+    "B2-457"
+  ],
+  "articleId": "00-734747",
+  "articleOnlyCanonicalPath": "/produkte/starbucks-caramel-macchiato2/00-734747",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Starbucks",
+  "brandPath": "/marken/starbucks",
+  "canonicalPath": "/produkte/starbucks-caramel-macchiato2/00-734747",
+  "category": "Getränke",
+  "description": "Der Starbuchs Caramel Macchiato verwöhnt dich mit kräftigem Espresso, cremiger Milch und süßem Karamellgeschmack.",
+  "eanCodes": [
+    "5760466920490"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "1240 Wien, Birostrasse 14",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HMWeihs",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DÄNEMARK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 75% MILCH mit 1,8% Fettgehalt, Kaffeezubereitung (Wasser und Kaffee-Extrakt)20%, Zucker 5%, Aroma, Säureregulator: Kaliumcarbonat,Stabilisatoren: Carrageen, Guarkernmehl, Emulgatoren:Mono- und Diglyceride von pflanzlichen Speisefettsäuren. Kaffee und Zucker nach Fairtrade Standards gehandelt, Gesamtanteil 95%, ausgenommen flüssige Zutaten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 256
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 220
+        }
+      ],
+      "name": "Milchmischgetränk mit Kaffee",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 62,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 260,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.09,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt aufbewahren bei 2-8°C"
+    }
+  ],
+  "grammage": "220 ml Becher (Einweg)",
+  "grammageBadge": "220 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "1 l 8.86"
+  },
+  "maximalOrderQuantity": 50,
+  "minimalOrderQuantity": 0,
+  "name": "Starbucks Caramel Macchiato",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311/produkte/starbucks-caramel-macchiato2/00-734747",
+    "~/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331/produkte/starbucks-caramel-macchiato2/00-734747",
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/starbucks-caramel-macchiato2/00-734747"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "1 l 8.86"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "rank": 179590,
+  "recommendationArticleIds": [],
+  "seoDescription": "Starbucks Caramel Macchiato online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Starbucks Caramel Macchiato online bestellen | BILLA",
+  "slug": "starbucks-caramel-macchiato2",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202",
+    "00-281"
+  ],
+  "url": "/produkte/starbucks-caramel-macchiato2/00-734747",
+  "vatCode": "20",
+  "video": ""
+}

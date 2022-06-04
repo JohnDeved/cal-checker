@@ -1,0 +1,236 @@
+{
+  "articleGroupIds": [
+    "B2-68"
+  ],
+  "articleId": "00-258976",
+  "articleOnlyCanonicalPath": "/produkte/il-conte-knoblauchzehen/00-258976",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Il Conte",
+  "brandPath": "/marken/il-conte",
+  "canonicalPath": "/produkte/il-conte-knoblauchzehen/00-258976",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9001458033252"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Untere Donaustraße 11, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMGRO GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Knoblauchzehen, Wasser, Salz, Olivenöl, Säuerungsmittel: Milchsäure, Konservierungsstoff: KaliumSULFIT.",
+      "mandatoryIndicator": "Bitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 85
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.304
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Knoblauchzehen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 39,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 164,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lichtgeschützt und trocken lagern. Nach dem Öffnen gekühlt lagern und innerhalb 5 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "150 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 7.93"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Il Conte Knoblauchzehen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/B2-68/produkte/il-conte-knoblauchzehen/00-258976"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 7.93"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Il Conte Knoblauchzehen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Il Conte Knoblauchzehen online bestellen | BILLA",
+  "slug": "il-conte-knoblauchzehen",
+  "storeAvalibility": [
+    "00-4551",
+    "00-355",
+    "00-3780",
+    "00-10",
+    "00-5108",
+    "00-225",
+    "00-1032",
+    "00-783",
+    "00-7653",
+    "00-99202"
+  ],
+  "url": "/produkte/il-conte-knoblauchzehen/00-258976",
+  "vatCode": "10",
+  "video": ""
+}

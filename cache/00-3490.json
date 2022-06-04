@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-759"
+  ],
+  "articleId": "00-3490",
+  "articleOnlyCanonicalPath": "/produkte/lindt-hauchduenn-taefelchen-milch/00-3490",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lindt",
+  "brandPath": "/marken/lindt",
+  "canonicalPath": "/produkte/lindt-hauchduenn-taefelchen-milch/00-3490",
+  "category": "Süßes & Salziges",
+  "description": "Das Lindt Hauchdünn Täfelchen Milch ist eine hauchzarte Milchschokolade von dem renommierten Schweizer Schokoladen-Hersteller Lindt.<li>nach Schweizer Tradition hergestellt<li>hauchdünner Schokoladen-Genuss<li>kann Spuren von Nüssen enthalten",
+  "eanCodes": [
+    "7610400029810",
+    "7610400023047"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Zucker, Kakaobutter, Kakaomasse, VollMILCHpulver, LAKTOSE, MagerMILCHpulver, BUTTERreinfett, Emulgator (SOJAlecithin), GERSTENmalzextrakt, Aromen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 175
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Schweizer Milchschokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 556,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2319,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 52,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.17,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "125 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.89,
+    "unit": "100 g 3.91"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lindt Hauchdünn Täfelchen Milch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/bonbonniere-und-spezialitaeten/B2-759/produkte/lindt-hauchduenn-taefelchen-milch/00-3490"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.89,
+    "unit": "100 g 3.91"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 61130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lindt Hauchdünn Täfelchen Milch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lindt Hauchdünn Täfelchen Milch online bestellen | BILLA",
+  "slug": "lindt-hauchduenn-taefelchen-milch",
+  "storeAvalibility": [
+    "00-4707",
+    "00-10",
+    "00-2045",
+    "00-783",
+    "00-4551",
+    "00-7075",
+    "00-7017",
+    "00-6130",
+    "00-99202",
+    "00-350",
+    "00-9225",
+    "00-7539",
+    "00-355"
+  ],
+  "url": "/produkte/lindt-hauchduenn-taefelchen-milch/00-3490",
+  "vatCode": "10",
+  "video": ""
+}

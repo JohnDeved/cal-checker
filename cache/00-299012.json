@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-362"
+  ],
+  "articleId": "00-299012",
+  "articleOnlyCanonicalPath": "/produkte/bertoldi-suedtiroler-kalterer-see/00-299012",
+  "attributes": [
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_weinart",
+    "mengenstep",
+    "s_produzen",
+    "s_rebsorte"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/bertoldi-suedtiroler-kalterer-see/00-299012",
+  "category": "Getränke",
+  "eanCodes": [
+    "8000861200306",
+    "8000861200313",
+    "8000861200320",
+    "8000861200337"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 12,
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Cortaccia (Italy)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Cantina Kurtatsch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2021-04-20T00:00:00",
+      "ingredients": "enthält Sulfite",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.132
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 750
+        }
+      ],
+      "name": "Rotwein aus Italien",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "Ein vielseitiger Speisenbegleiter. Passt zu leichten Speisen, Speck, weißem Fleisch und mildem Käse.\nServiertemperatur: 14° C.",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "alcoholicPercentage": 12,
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Cortaccia (Italy)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Cantina Kurtatsch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2022-05-11T00:00:00",
+      "ingredients": "enthält Sulfite",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.132
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 750
+        }
+      ],
+      "name": "Rotwein aus Italien",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "Ein vielseitiger Speisenbegleiter. Passt zu leichten Speisen, Speck, weißem Fleisch und mildem Käse.\nServiertemperatur: 14° C.",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "0.75 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 5.24,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 5.24,
+    "unit": "1 l 9.32"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Bertoldi Südtiroler Kalterer See",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/wein/rotwein-und-rose/B2-362/produkte/bertoldi-suedtiroler-kalterer-see/00-299012"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 5.24,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 5.24,
+    "unit": "1 l 9.32"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 71970,
+  "recommendationArticleIds": [],
+  "seoDescription": "Bertoldi Südtiroler Kalterer See online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bertoldi Südtiroler Kalterer See online bestellen | BILLA",
+  "slug": "bertoldi-suedtiroler-kalterer-see",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/bertoldi-suedtiroler-kalterer-see/00-299012",
+  "vatCode": "20",
+  "video": ""
+}

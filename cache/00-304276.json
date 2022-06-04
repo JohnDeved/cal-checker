@@ -1,0 +1,234 @@
+{
+  "articleGroupIds": [
+    "B2-6D4"
+  ],
+  "articleId": "00-304276",
+  "articleOnlyCanonicalPath": "/produkte/ramsa-wiener-spezial-senf/00-304276",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Ramsa",
+  "canonicalPath": "/produkte/ramsa-wiener-spezial-senf/00-304276",
+  "category": "Grundnahrungsmittel",
+  "description": "Feinster Senf aus Österreich",
+  "eanCodes": [
+    "9001439008415"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1140 Wien, Albert-Schweitzer-G. 6/C",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Senfspezialitäten Ramsa-Wolf GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@ramsa-wolf.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "01/4862243",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.ramsa-wolf.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-10-21T00:00:00",
+      "ingredients": "Zutaten: Wasser, SENFSAAT, Weingeistessig, Zucker, Salz, Gewürze.",
+      "marketingMessage": "Feinster Senf aus Österreich",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 109
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Wiener Spezial Senf",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 127,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 532,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Wärmegeschützt lagern. Nach dem Öffnen gekühlt lagern.",
+      "usageHints": "Vor Gebrauch schütteln."
+    }
+  ],
+  "grammage": "100 Gramm Tube",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 11.90"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Ramsa Wiener Spezial Senf",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/saucen-und-dressings/senf-und-kren/B2-6D4/produkte/ramsa-wiener-spezial-senf/00-304276"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 11.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 71460,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ramsa Wiener Spezial Senf online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ramsa Wiener Spezial Senf online bestellen | BILLA",
+  "slug": "ramsa-wiener-spezial-senf",
+  "storeAvalibility": [
+    "00-119",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/ramsa-wiener-spezial-senf/00-304276",
+  "vatCode": "10",
+  "video": ""
+}

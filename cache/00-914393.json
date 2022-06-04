@@ -1,0 +1,242 @@
+{
+  "articleGroupIds": [
+    "B2-449"
+  ],
+  "articleId": "00-914393",
+  "articleOnlyCanonicalPath": "/produkte/laendle-bergkaese-scheiben/00-914393",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Vorarlberg Milch",
+  "canonicalPath": "/produkte/laendle-bergkaese-scheiben/00-914393",
+  "category": "Kühlwaren",
+  "description": "Der Vorarlberger Bergkäse bietet beste Qualität aus dem Ländle. Grundlage des Käses ist hochwertige, ohne den Einsatz von Silofutter erzeugte Heumilch.<li>heimische Produktion und Herkunft garantiert<li>aromatischer Hartkäse<li>in praktischen Scheiben",
+  "eanCodes": [
+    "9021700316308"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "LAENDLE_QUALITAET",
+              "valueTranslation": "LAENDLE-Qualitätssiegel - (Vorarlberger Produkte, definierte Qualitätsstandards)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "HEUMILCH",
+              "valueTranslation": "HEUMILCH (Österreich) (natürlichste Form der Milchproduktion)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Nofler Straße 62, A-6800 Feldkirch",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberg Milch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-08T00:00:00",
+      "ingredients": "Zutaten: HEUMILCH g.t.S., Speisesalz, Mikroorganismenkulturen, Lab",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 161
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Österreichischer Hartkäse, 45% Fett i. Tr., mit Rohmilch hergestellt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 361,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1498,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt (+4°C bis +8°C) mindestens haltbar bis: siehe Aufdruck",
+      "sustenanceClaim": "Durch natürliche Reifung laktosefrei. Laktosegehalt <0,1g / 100g"
+    }
+  ],
+  "grammage": "150 g Packung",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 17.27"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ländle Bergkäse Scheiben",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schnittkaese/B2-449/produkte/laendle-bergkaese-scheiben/00-914393"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 17.27"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 60700,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ländle Bergkäse Scheiben online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ländle Bergkäse Scheiben online bestellen | BILLA",
+  "slug": "laendle-bergkaese-scheiben",
+  "storeAvalibility": [
+    "00-8530",
+    "00-8409",
+    "00-8395",
+    "00-99202",
+    "00-8400"
+  ],
+  "url": "/produkte/laendle-bergkaese-scheiben/00-914393",
+  "vatCode": "10",
+  "video": ""
+}

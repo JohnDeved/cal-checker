@@ -1,0 +1,574 @@
+{
+  "articleGroupIds": [
+    "B2-531",
+    "B2-537"
+  ],
+  "articleId": "00-425784",
+  "articleOnlyCanonicalPath": "/produkte/iglo-rindsgulasch-mit-nockerl/00-425784",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-rindsgulasch-mit-nockerl/00-425784",
+  "category": "Tiefkühl",
+  "description": "Das Schmankerl Rindsgulasch mit Nockerln eignet sich für die Zubereitung in der Mikrowelle. Es wurde fein mit Majoran, Knoblauch und Kümmel abgeschmeckt.<li>54 % Rindsgulasch<li>46 % Nockerln aus Weizenmehl und -grieß<li>kann auch im Backofen erhitzt werden",
+  "eanCodes": [
+    "9000143323722"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-08-02T00:00:00",
+      "ingredients": "Zutaten:\n\nRindsgulasch 54 %: Wasser, Rindfleisch gegart 25 %, Zwiebeln, Schweineschmalz, Tomatenmark, Paprikapulver, Rindsuppe (Speisesalz, Stärke, Rindfleischextrakt, Zucker, Sonnenblumenöl, Zwiebel, Karotten, Karamellzucker, Tomaten, SELLERIE, Lauch, Maltodextrin, Petersilie, Knoblauch, Gewürzextrakt), WEIZENMEHL, Stärke, Weingeistessig, Kümmel, Knoblauch, Majoran.\n\nNockerl 46 %: Wasser, WEIZENMEHL, WEIZENGRIESS, EI, Sonnenblumenöl, Speisesalz jodiert (Salz, Kaliumjodid), Muskatnuss.",
+      "marketingMessage": "Köstlich saftiges Rindsgulasch klassisch serviert mit Nockerl: der beliebte Iglo Klassiker schmeckt wie selbstgemacht- und das in Minutenschnelle.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 435
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Rindsgulasch mit Nockerl tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 572,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 136,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2003,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 477,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 52,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "origin": "Steirisches Ennstal",
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Im Backrohr:\n\nBackrohr auf 160°C vorheizen. Teller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet auf die mittlere Schiene des Backrohrs geben. Bei 160°C ca. 35 Minuten (Heißluft) bzw. ca. 45 Minuten (Ober- und Unterhitze) erhitzen. Die angegebene Backrohrtemperatur nicht überschreiten! Nach dem Erhitzen 1 Minute ruhen lassen, dann die Folie abziehen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "In der Mikrowelle: (empfohlen)\n\nTeller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet in die Mikrowelle stellen. Bei 600 Watt ca. 8 Minuten erhitzen. Nach dem Erhitzen 2 Minuten ruhen lassen, dann die Folie abziehen. Die ideale Zubereitungszeit hängt vom jeweiligen Mikrowellenherd ab.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\n\nOhne künstliche Farb- und Aromastoffe\n\n\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung in der Mikrowelle.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\n\n\n\nTeller nicht wiederverwenden!"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-05-24T00:00:00",
+      "ingredients": "Zutaten:\nRindsgulasch 54 %: Wasser, Rindfleisch gegart 25 %, Zwiebeln, Schweineschmalz, Tomatenmark, Paprikapulver, Rindsuppe (Speisesalz, Stärke, Rindfleischextrakt, Zucker, Sonnenblumenöl, Zwiebel, Karotten, Karamellzucker, Tomaten, SELLERIE, Lauch, Maltodextrin, Petersilie, Knoblauch, Gewürzextrakt), WEIZENMEHL, Stärke, Weingeistessig, Kümmel, Knoblauch, Majoran.\nNockerl 46 %: Wasser, WEIZENMEHL, WEIZENGRIESS, EI, Sonnenblumenöl, Speisesalz jodiert (Salz, Kaliumjodid), Muskatnuss.",
+      "marketingMessage": "Köstlich saftiges Rindsgulasch klassisch serviert mit Nockerl: der beliebte Iglo Klassiker schmeckt wie selbstgemacht- und das in Minutenschnelle.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 435
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Rindsgulasch mit Nockerl tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 572,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 136,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2003,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 477,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 52,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "origin": "Steirisches Ennstal",
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Im Backrohr:\nBackrohr auf 160°C vorheizen. Teller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet auf die mittlere Schiene des Backrohrs geben. Bei 160°C ca. 35 Minuten (Heißluft) bzw. ca. 45 Minuten (Ober- und Unterhitze) erhitzen. Die angegebene Backrohrtemperatur nicht überschreiten! Nach dem Erhitzen 1 Minute ruhen lassen, dann die Folie abziehen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "In der Mikrowelle: (empfohlen)\nTeller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet in die Mikrowelle stellen. Bei 600 Watt ca. 8 Minuten erhitzen. Nach dem Erhitzen 2 Minuten ruhen lassen, dann die Folie abziehen. Die ideale Zubereitungszeit hängt vom jeweiligen Mikrowellenherd ab.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farb- und Aromastoffe\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung in der Mikrowelle.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\n\nTeller nicht wiederverwenden!"
+    }
+  ],
+  "grammage": "350 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 14.26"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Rindsgulasch mit Nockerl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/fleisch-und-fisch/B2-531/produkte/iglo-rindsgulasch-mit-nockerl/00-425784",
+    "~/warengruppe/tiefkuehl/fertiggerichte/pasta-pfannen-und-schmankerl/B2-537/produkte/iglo-rindsgulasch-mit-nockerl/00-425784"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 14.26"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 123300,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Rindsgulasch mit Nockerl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Rindsgulasch mit Nockerl online bestellen | BILLA",
+  "slug": "iglo-rindsgulasch-mit-nockerl",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-rindsgulasch-mit-nockerl/00-425784",
+  "vatCode": "10",
+  "video": ""
+}

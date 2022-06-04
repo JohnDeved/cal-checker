@@ -1,0 +1,222 @@
+{
+  "articleGroupIds": [
+    "B2-655"
+  ],
+  "articleId": "00-252636",
+  "articleOnlyCanonicalPath": "/produkte/daily-meal-paprika-chili-suppe/00-252636",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Daily Meal",
+  "canonicalPath": "/produkte/daily-meal-paprika-chili-suppe/00-252636",
+  "category": "Grundnahrungsmittel",
+  "description": "Diese Bio-Suppe mit fruchtiger Paprika und der Schärfe von Chili ist eine leckere, vegane Mahlzeit im Glas für jeden Tag. Und dazu ganz einfach und schnell zuzubereiten: Schütteln, Öffnen, Erhitzen und dann einfach Genießen.",
+  "eanCodes": [
+    "4007680107049"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Feldstraße 7, 24568 Kaltenkirchen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Jürgen Langbein GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2018-08-09T00:00:00",
+      "ingredients": "Zutaten: Gemüse* (46%: Paprika* (38%), Tomatenpüree*, Zwiebeln*, SELLERIE*, Paprikapüree* (8,3%)), Wasser, CRÈME FRAÎCHE*, Tomatenmark*, Rohrzucker*, Meersalz, Verdickungsmittel: Guarkernmehl*, Johannisbrotkernmehl*; Knoblauch*, Speisestärke*,Gewürze* (enthält SENF*), Branntweinessig*, Palmfett*, konzentrierter Zitronensaft*, Chillies*, Dextrose*, Maltodextrin*, Karamellzucker*, Hefeextrakt*, Sonnenblumenöl*/*aus kontrolliert ökologischem Anbau",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 611
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 350
+        }
+      ],
+      "name": "Paprika-Chili-Suppe BIO",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 41,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 172,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Glas schütteln, öffnen und bei 600 Watt 3 Minuten in der Mikrowelle erhitzen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ]
+    }
+  ],
+  "grammage": "350 Milliliter Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 11.40"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Daily Meal Paprika-Chili Suppe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/dosensuppen/B2-655/produkte/daily-meal-paprika-chili-suppe/00-252636"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 11.40"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Daily Meal Paprika-Chili Suppe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Daily Meal Paprika-Chili Suppe online bestellen | BILLA",
+  "slug": "daily-meal-paprika-chili-suppe",
+  "storeAvalibility": [
+    "00-10",
+    "00-174",
+    "00-5078",
+    "00-115",
+    "00-176",
+    "00-6676",
+    "00-119",
+    "00-99202"
+  ],
+  "url": "/produkte/daily-meal-paprika-chili-suppe/00-252636",
+  "vatCode": "10",
+  "video": ""
+}

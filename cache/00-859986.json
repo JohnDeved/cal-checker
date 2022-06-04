@@ -1,0 +1,357 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-859986",
+  "articleOnlyCanonicalPath": "/produkte/groebi-waldbeere/00-859986",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_zucker",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Gröbi",
+  "brandPath": "/marken/groebi",
+  "canonicalPath": "/produkte/groebi-waldbeere/00-859986",
+  "category": "Getränke",
+  "description": "Wie ein Früchtekorb frisch im Wald gepflückt. Den Geschmack heimischer Früchte von Brombeere bis Erdbeere vereint GRÖBI mit herrlich spritzigem Wasser aus eigener Quelle und vielen Vitaminen zur puren Erfrischung - ganz ohne überflüssige Kalorien.<br>Eine fruchtig-beerige Mischung für figurbewusste Genießer.<br>GRÖBI. Null Zucker, viele Vitamine, voller Fruchtgeschmack!",
+  "eanCodes": [
+    "4019313008036"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-83026 Rosenheim",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DrinkStar GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Zutaten: Wasser, Kohlensäure, färbende Konzentrate aus Karotte, Hibiskus und Granatapfel, Säuerungsmittel Citronensäure, Süßungsmittel Natriumcyclamat, Acesulfam K, Aspartam und Natriumsaccharin, Aroma, Vitaminmischung (Niacin, Vitamin B6 und Vitamin B1).\n\nEnthält eine Phenylalaninquelle.",
+      "mandatoryIndicator": "mit Süßungsmitteln",
+      "marketingMessage": "Wie ein Früchtekorb frisch im Wald gepflückt. Den Geschmack heimischer Früchte von Brombeere bis Erdbeere vereint GRÖBI mit herrlich spritzigem Wasser aus eigener Quelle und vielen Vitaminen zur puren Erfrischung - ganz ohne überflüssige Kalorien. Eine fruchtig-beerige Mischung für figurbewusste Genießer. GRÖBI. Null Zucker, viele Vitamine, voller Fruchtgeschmack!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.533
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Zuckerfreies Erfrischungsgetränk mit Waldbeerengeschmack.\nMit 3 Vitaminen. Mit Süßungsmitteln.  Vegan.",
+      "nutritions": [
+        {
+          "householdPortion": "Glas (250 ml)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 6,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 2.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.2,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Vor Wärme und Licht schützen.",
+      "sustenanceClaim": "7 VITAMINE\n0% KALORIEN*\n* Energie pro 250ml-Portion (15 kJ/3 kcal): 0 % der Referenzmenge für einen durchschnittlichen Erwachsenen (8.400 kJ/2.000 kcal)"
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": true,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 l .75"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Gröbi Waldbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/groebi-waldbeere/00-859986"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 l .75"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 178190,
+  "recommendationArticleIds": [
+    "00-317627"
+  ],
+  "seoDescription": "Gröbi Waldbeere online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gröbi Waldbeere online bestellen | BILLA",
+  "slug": "groebi-waldbeere",
+  "storeAvalibility": [
+    "00-2907",
+    "00-7120",
+    "00-3114",
+    "00-3125",
+    "00-3856",
+    "00-3509",
+    "00-6884",
+    "00-3143",
+    "00-2201",
+    "00-3681",
+    "00-9498",
+    "00-471",
+    "00-10",
+    "00-6745",
+    "00-3506",
+    "00-3401",
+    "00-7424",
+    "00-2369",
+    "00-3569",
+    "00-1771",
+    "00-9209",
+    "00-2295",
+    "00-7302",
+    "00-9290",
+    "00-309",
+    "00-7393",
+    "00-1027",
+    "00-1532",
+    "00-3996",
+    "00-3709",
+    "00-7224",
+    "00-7232",
+    "00-2045",
+    "00-3027",
+    "00-3857",
+    "00-1207",
+    "00-3025",
+    "00-3860",
+    "00-2109",
+    "00-7114",
+    "00-1265",
+    "00-1041",
+    "00-7653",
+    "00-6892",
+    "00-2111",
+    "00-3871",
+    "00-2154",
+    "00-3512",
+    "00-3744",
+    "00-99202",
+    "00-1425",
+    "00-2098",
+    "00-3669",
+    "00-3326",
+    "00-372",
+    "00-6724",
+    "00-1032",
+    "00-1900",
+    "00-3062",
+    "00-1016",
+    "00-7743",
+    "00-3259",
+    "00-2313",
+    "00-2170",
+    "00-2204",
+    "00-6492",
+    "00-3157",
+    "00-3050",
+    "00-2342",
+    "00-2899",
+    "00-3055",
+    "00-7759",
+    "00-3023",
+    "00-3384",
+    "00-7229",
+    "00-3700",
+    "00-1198",
+    "00-3780",
+    "00-2015",
+    "00-7082",
+    "00-3146",
+    "00-3118",
+    "00-7073",
+    "00-7204",
+    "00-7139",
+    "00-3102",
+    "00-6424",
+    "00-3059"
+  ],
+  "url": "/produkte/groebi-waldbeere/00-859986",
+  "vatCode": "20",
+  "video": ""
+}

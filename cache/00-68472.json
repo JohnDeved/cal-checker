@@ -1,0 +1,292 @@
+{
+  "articleGroupIds": [
+    "B2-353"
+  ],
+  "articleId": "00-68472",
+  "articleOnlyCanonicalPath": "/produkte/underberg-rheinberger-kraeuter-3er/00-68472",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Underberg",
+  "canonicalPath": "/produkte/underberg-rheinberger-kraeuter-3er/00-68472",
+  "category": "Getränke",
+  "description": "Underberg - Auf die Kräuter kommt es an!<br><br>Entdecken Sie jetzt Underberg in seiner praktischen 3er-Packung! Seit 1846 wird der Original Rheinberger Kräuter aus erlesenen und aromatischen Kräutern aus 43 Ländern hergestellt. Besonders nach einem guten Essen als Digestif!",
+  "eanCodes": [
+    "9005700900217",
+    "0000090057038"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "OU_KOSHER"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Underbergstraße 1, D-47493 Rheinberg/Rhld.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Underberg GmbH & Co. KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "international@underberg.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+49(0)2843/1846",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.underberg.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2016-07-11T00:00:00",
+      "ingredients": "Zutaten: Wasser, Alkohol, Kräuterextrakte",
+      "mandatoryIndicator": "enthält Süßholz",
+      "marketingMessage": "Seit 1846 wird Underberg, der Original Rheinberger Kraeuter, nach dem Geheimverfahren \"Semper idem\"\n\naus erlesenen und aromatischen Kraeutern aus 43 Laendern hergestellt. Underberg enthaelt nur\n\nWasser, Alkohol und Kraeuterextrakte. Kein Zusatz sonstiger Zutaten, insbesondere kein Zusatz von\n\nZusatzstoffen. Damit ist Underberg weit mehr als ein Bitter oder Amaro - Underberg ist einzigartig\n\nund eine Kategorie fuer sich.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.186
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.06
+        }
+      ],
+      "name": "Rheinberger Kräuter",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 248,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1026,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.55,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.07,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 49,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 205,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.06 l Packung",
+  "grammageBadge": "0.06 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.89,
+    "unit": "1 l 64.83"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Underberg Rheinberger Kräuter 3er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/spirituosen/aperitif-und-digestif/B2-353/produkte/underberg-rheinberger-kraeuter-3er/00-68472"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.89,
+    "unit": "1 l 64.83"
+  },
+  "properties": [],
+  "quantitySteps": [
+    20
+  ],
+  "rank": 45970,
+  "recommendationArticleIds": [],
+  "seoDescription": "Underberg Rheinberger Kräuter 3er online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Underberg Rheinberger Kräuter 3er online bestellen | BILLA",
+  "slug": "underberg-rheinberger-kraeuter-3er",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202",
+    "00-7539"
+  ],
+  "url": "/produkte/underberg-rheinberger-kraeuter-3er/00-68472",
+  "vatCode": "20",
+  "video": ""
+}

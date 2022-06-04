@@ -1,0 +1,417 @@
+{
+  "articleGroupIds": [
+    "B2-745"
+  ],
+  "articleId": "00-388591",
+  "articleOnlyCanonicalPath": "/produkte/knabber-nossi-kleiner-spiesser/00-388591",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Knabber Nossi",
+  "brandPath": "/marken/knabber-nossi",
+  "canonicalPath": "/produkte/knabber-nossi-kleiner-spiesser/00-388591",
+  "category": "Süßes & Salziges",
+  "description": "Das Mini-Menü: 7 köstliche Knabber Nossi Snack-Bällchen aus bestem Rind- und Schweinefleisch, Ketchup und lustigen Spießen zum Aufgabeln - so macht Essen richtig Spaß!<br><li>Ungekühlt haltbar<li>100% Fleisch aus Österreich</li>",
+  "eanCodes": [
+    "0000090026614"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 111, A-1131 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Maresi Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43/1/531 89-0",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.knabbernossi.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-02-05T00:00:00",
+      "ingredients": "Zutaten: Fleischbällchen (72,7%): [Rindfleisch (47%), Schweinespeck, Schweinefleisch (20%), Sonnenblumenöl, Kartoffelstärke, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Geschmacksverstärker: Mononatriumglutamat, Dextrose, Gewürze, Stabilisator: Polyphosphate, Paprikapulver, Gewürzextrakte, Antioxidationsmittel: Ascorbinsäure, Rauch], Ketchup (27,3%): [Tomatenmark, Wasser, Zucker, Weingeistessig, modifizierte Stärke, Speisesalz, Säuerungsmittel: Citronensäure, Verdickungsmittel: Xanthan, Konservierungsstoff: Kaliumsorbat, Natriumbenzoat, Aroma].",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "marketingMessage": "100% Fleisch aus Österreich Knabber Nossi garantiert, dass ausschließlich Fleisch aus Österreich verarbeitet wird.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.069
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 55
+        }
+      ],
+      "name": "Fleischbällchen gebraten & Ketchup",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 326,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1355,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 179,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 745,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Ungekühlt mindestens haltbar bis: Siehe Aufdruck"
+    }
+  ],
+  "grammage": "55 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 38.00"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Knabber Nossi Kleiner Spiesser",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/snacks/B2-745/produkte/knabber-nossi-kleiner-spiesser/00-388591"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 38.00"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 59090,
+  "recommendationArticleIds": [],
+  "seoDescription": "Knabber Nossi Kleiner Spiesser online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Knabber Nossi Kleiner Spiesser online bestellen | BILLA",
+  "slug": "knabber-nossi-kleiner-spiesser",
+  "storeAvalibility": [
+    "00-3143",
+    "00-7302",
+    "00-987",
+    "00-3669",
+    "00-6928",
+    "00-281",
+    "00-3579",
+    "00-4700",
+    "00-3259",
+    "00-3744",
+    "00-7539",
+    "00-4489",
+    "00-3022",
+    "00-7600",
+    "00-7229",
+    "00-7224",
+    "00-7535",
+    "00-8185",
+    "00-4655",
+    "00-3005",
+    "00-4421",
+    "00-9266",
+    "00-7676",
+    "00-290",
+    "00-4350",
+    "00-6745",
+    "00-9233",
+    "00-8241",
+    "00-943",
+    "00-6892",
+    "00-3940",
+    "00-4078",
+    "00-9209",
+    "00-5391",
+    "00-2164",
+    "00-519",
+    "00-3206",
+    "00-7114",
+    "00-7592",
+    "00-6724",
+    "00-3617",
+    "00-3349",
+    "00-3042",
+    "00-9555",
+    "00-5405",
+    "00-2342",
+    "00-3869",
+    "00-7765",
+    "00-6281",
+    "00-4660",
+    "00-7758",
+    "00-4003",
+    "00-1128",
+    "00-7189",
+    "00-7653",
+    "00-3584",
+    "00-6970",
+    "00-3841",
+    "00-4982",
+    "00-119",
+    "00-3688",
+    "00-3180",
+    "00-1550",
+    "00-3920",
+    "00-1529",
+    "00-7368",
+    "00-350",
+    "00-3819",
+    "00-3501",
+    "00-3780",
+    "00-7358",
+    "00-6684",
+    "00-6496",
+    "00-7743",
+    "00-3162",
+    "00-3405",
+    "00-3420",
+    "00-4016",
+    "00-1524",
+    "00-7969",
+    "00-408",
+    "00-4619",
+    "00-1212",
+    "00-6492",
+    "00-6138",
+    "00-1500",
+    "00-3321",
+    "00-2131",
+    "00-4783",
+    "00-2369",
+    "00-3378",
+    "00-7616",
+    "00-1866",
+    "00-2220",
+    "00-2345",
+    "00-99202",
+    "00-3560",
+    "00-4779",
+    "00-9332",
+    "00-6932",
+    "00-6749",
+    "00-3138",
+    "00-6676",
+    "00-4565",
+    "00-7232",
+    "00-1455",
+    "00-4283",
+    "00-7336",
+    "00-7245",
+    "00-1136",
+    "00-3445",
+    "00-9167",
+    "00-2190",
+    "00-4755",
+    "00-7393",
+    "00-7249",
+    "00-4672",
+    "00-3296",
+    "00-3709",
+    "00-1768",
+    "00-10",
+    "00-4629",
+    "00-3739",
+    "00-4441",
+    "00-6975",
+    "00-6688",
+    "00-8070",
+    "00-6760",
+    "00-7139",
+    "00-5290",
+    "00-4925",
+    "00-4690",
+    "00-3120",
+    "00-6952",
+    "00-7058",
+    "00-1070",
+    "00-9324",
+    "00-3583"
+  ],
+  "url": "/produkte/knabber-nossi-kleiner-spiesser/00-388591",
+  "vatCode": "10",
+  "video": ""
+}

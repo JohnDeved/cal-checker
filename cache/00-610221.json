@@ -1,0 +1,446 @@
+{
+  "articleGroupIds": [
+    "B2-6B1"
+  ],
+  "articleId": "00-610221",
+  "articleOnlyCanonicalPath": "/produkte/nestle-nesquik-maxi-pack/00-610221",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nestlé",
+  "brandPath": "/marken/nestle",
+  "canonicalPath": "/produkte/nestle-nesquik-maxi-pack/00-610221",
+  "category": "Grundnahrungsmittel",
+  "description": "Nesquik im Maxi-Pack bereitet schokoladiges Knusper-Vergnügen. Die Kugeln bereichern das Frühstück mit Vollkorn-Weizenmehl, Kakao und wichtigen Vitaminen.<li>zu 51% aus Vollkorn-Getreide<li>liefert Eisen und wichtige Vitamine<li>schmeckt mit Milch oder Joghurt",
+  "eanCodes": [
+    "3387390325621"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2022-04-01T00:00:00",
+      "ingredients": "Zutaten: 53,1% VOLLKORNWEIZENMEHL, Zucker, Maisgrieß, Glukosesirup, 5,6% fettarmer Kakao, Calciumcarbonat, Sonnenblumenöl, Salz, natürliche Aromen, Eisen, Niacin, Pantothensäure, Vit. D, Vit. B6, Thiamin (Vit. B1), Riboflavin (Vit. B2), Folsäure. Kann MILCH und NÜSSE enthalten. Für 100g NESQUIK Cerealien wurden vor dem Backen 53,1g Vollkorngetreide eingesetzt. Die Prozentangaben zum Vollkornanteil beziehen sich laut Lebensmittelinformationsverordnung auf die Einsatzmenge vor dem Backen und sind bezogen auf das Gesamtprodukt.",
+      "mandatoryIndicator": "Füllhöhenschwankungen sind transportbedingt.",
+      "marketingMessage": "NESQUIK Knusperfrühstück bringt unwiderstehlichen, schokoladigen Geschmack auf den Frühstückstisch. Und das Beste: Es macht die Milch NESQUIK-schokoladig! Mit Vollkorn als Zutat Nr. 1, wichtigen Vitaminen sowie Calcium und Eisen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 702
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 625
+        }
+      ],
+      "name": "Geröstete Getreidekost mit fettarmem Kakao",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1590,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 380,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 75.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 22.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 8.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.22,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 79,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 11,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 200,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 58,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 461,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 94,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 15,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 103,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 6.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 1.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 107,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 50,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 2.5,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion (30g) mit 125ml fettarmer Milch",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 731,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 174,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 28.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.22,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 3.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 32,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 64.6,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 36,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 290,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 29,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 4.6,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 2.3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 35,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.38,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 49,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.68,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 34,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.48,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 0.79,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 20,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen. Mindestens haltbar bis Ende: siehe Aufdruck."
+    }
+  ],
+  "grammage": "625 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 7.18"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Nestlé Nesquik Maxi-Pack",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/cerealien/B2-6B1/produkte/nestle-nesquik-maxi-pack/00-610221"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 7.18"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 66850,
+  "recommendationArticleIds": [
+    "00-504029"
+  ],
+  "seoDescription": "Nestlé Nesquik Maxi-Pack online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nestlé Nesquik Maxi-Pack online bestellen | BILLA",
+  "slug": "nestle-nesquik-maxi-pack",
+  "storeAvalibility": [
+    "00-3143",
+    "00-7857",
+    "00-1457",
+    "00-3146",
+    "00-3700",
+    "00-4690",
+    "00-4655",
+    "00-355",
+    "00-7653",
+    "00-4779",
+    "00-4605",
+    "00-3780",
+    "00-99202",
+    "00-7606",
+    "00-4126",
+    "00-4421",
+    "00-4107",
+    "00-7860",
+    "00-10",
+    "00-1826",
+    "00-3617",
+    "00-2342",
+    "00-4249",
+    "00-3114",
+    "00-6823",
+    "00-2369",
+    "00-4675",
+    "00-3234"
+  ],
+  "url": "/produkte/nestle-nesquik-maxi-pack/00-610221",
+  "vatCode": "10",
+  "video": ""
+}

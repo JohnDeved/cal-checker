@@ -1,0 +1,302 @@
+{
+  "articleGroupIds": [
+    "B2-312"
+  ],
+  "articleId": "00-386764",
+  "articleOnlyCanonicalPath": "/produkte/honest-eistee-pfirsich---rosmarin/00-386764",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Honest",
+  "canonicalPath": "/produkte/honest-eistee-pfirsich---rosmarin/00-386764",
+  "category": "Getränke",
+  "description": "Wir sind Honest. Wir legen großen Wert darauf, welche Zutaten wir für unsere Produkte verwenden. Deshalb beziehen wir ausschließlich Bio-Zutaten aus zertifizierten Quellen. Was steckt in dieser Flasche? <li>Aufgebrühte weiße Teeblätter aus organischen Gärten in China, Pfirsichpüree und Bio-Rohrzucker.<li>Wenig Kalorien.<li>Einfach Außergewöhnlich!",
+  "eanCodes": [
+    "0000054011632"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 19, 1109 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Coca-Cola HBC Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 101 222",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-01-03T00:00:00",
+      "ingredients": "Zutaten: Gebrühter Weisser Tee (Wasser, biologischer Weisstee), biologischer Rohrzucker, biologisches Pfirsichpüree, Säuerungsmittel Citronensäure, Antioxidationsmittel Ascorbinsäure, natürliches Rosmarinaroma mit anderen natürlichen Aromen.",
+      "marketingMessage": "Wir sind Honest. Wir legen großen Wert darauf, welche Zutaten wir für unsere Produkte verwenden. Deshalb beziehen wir ausschließlich Bio-Zutaten aus zertifizierten Quellen. Was steckt in dieser Flasche? Aufgebrühte weiße  Teeblätter aus organischen Gärten in China, Pfirsichpüree und Bio-Rohrzucker. Wenig Kalorien. Einfach Außergewöhnlich. \nMit 95 % gebrühtem Tee",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.545
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Bio Tee. Kalorienarmes Teegetränk mit Pfirsich-Rosmaringeschmack.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 18,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 78,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 59,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 257,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur, trocken, geruchsfrei sowie vor Wärme/Sonnenlicht geschützt lagern.\nNach dem Öffnen im Kühlschrank aufbewahren.",
+      "usageHints": "Deckel knackt beim ersten Öffnen."
+    }
+  ],
+  "grammage": "330 ml Flasche (Einweg)",
+  "grammageBadge": "330 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 4.52"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Honest Eistee Pfirsich - Rosmarin",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eistee/B2-312/produkte/honest-eistee-pfirsich---rosmarin/00-386764"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 4.52"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Honest Eistee Pfirsich - Rosmarin online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Honest Eistee Pfirsich - Rosmarin online bestellen | BILLA",
+  "slug": "honest-eistee-pfirsich---rosmarin",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/honest-eistee-pfirsich---rosmarin/00-386764",
+  "vatCode": "20",
+  "video": ""
+}

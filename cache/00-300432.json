@@ -1,0 +1,202 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-300432",
+  "articleOnlyCanonicalPath": "/produkte/fentimans-apple-blackberry/00-300432",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Fentimans",
+  "brandPath": "/marken/fentimans",
+  "canonicalPath": "/produkte/fentimans-apple-blackberry/00-300432",
+  "category": "Getränke",
+  "description": "Der Geschmack von roten Äpfeln und saftigen, reifen Brombeeren ist etwas typisch Britisches. Das fruchtige Aroma frisch gepflückter, saftiger Äpfel verbindet sich bei der Fentimans-Limonade Apple and Blackberry mit der dezenten Süße und der feinen Säure reifer Brombeeren zu einer erfrischend spritzigen Mischung.</li>",
+  "eanCodes": [
+    "5029396001540"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fearless House, Hexham, Northumberland, NE46 4TU, UK.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Fentimans Ltd",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.fentimans.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-03-27T00:00:00",
+      "ingredients": "Zutaten: Kohlensäurehaltiges Wasser, (Wasser, Kohlensäure), Zucker, Glukosesirup, Apfelsaft aus Konzentrat (13%), Brombeersaft, fermentierter Ingwerwurzelextrakt (Wasser, Glukosesirup, Ingwerwurzel, Birnensaftkonzentrat, Hefe), Säuerungsmittel (Äpfelsäure, Citronensäure), natürliche Aromen, Karotten und Hibiskuskonzentrat.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 547
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 275
+        }
+      ],
+      "name": "Erfrischungsgetränk",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 41,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 175,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.275 l Flasche (Einweg)",
+  "grammageBadge": "0.275 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 8.33"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Fentimans Apple Blackberry",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/fentimans-apple-blackberry/00-300432"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 8.33"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 67630,
+  "recommendationArticleIds": [],
+  "seoDescription": "Fentimans Apple Blackberry online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Fentimans Apple Blackberry online bestellen | BILLA",
+  "slug": "fentimans-apple-blackberry",
+  "storeAvalibility": [
+    "00-174",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/fentimans-apple-blackberry/00-300432",
+  "vatCode": "20",
+  "video": ""
+}

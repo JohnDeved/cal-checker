@@ -1,0 +1,263 @@
+{
+  "articleGroupIds": [
+    "B2-482",
+    "B2-491"
+  ],
+  "articleId": "00-271803",
+  "articleOnlyCanonicalPath": "/produkte/danke-bauer-haussalami/00-271803",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Danke Bauer",
+  "canonicalPath": "/produkte/danke-bauer-haussalami/00-271803",
+  "category": "Kühlwaren",
+  "description": "Die würzige Danke Bauer Haussalami wird zunächst sanft geräuchert, bevor sie an der Luft trocknet. Sie besteht aus bestem Rind- und Schweinefleisch mit Speck.<li>mit verschiedenen Gewürzen und Kräutern<li>aus Kärnten<li>gekühlte Lieferung",
+  "eanCodes": [
+    "9008350000344"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bichlweg 6, 9500 Villach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Danke Bauer",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@dankebauer.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 160 Gramm Schweinefleisch und Rindfleisch für 100 Gramm Erzeugnis.Speck, Gewürze, Speisesalz, Dextrose, Konservierungsmittel E250, Antioxidationsmittel E301",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 512
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Haussalami",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1748,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 422,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 37,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "500 g Stk",
+  "grammageBadge": "500 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 14.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 14.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 14.9,
+    "unit": "100 g 2.98"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Danke Bauer Haussalami",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/salami/B2-482/produkte/danke-bauer-haussalami/00-271803",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/danke-bauer-haussalami/00-271803"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 14.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 14.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 14.9,
+    "unit": "100 g 2.98"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 59450,
+  "recommendationArticleIds": [],
+  "seoDescription": "Danke Bauer Haussalami online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Danke Bauer Haussalami online bestellen | BILLA",
+  "slug": "danke-bauer-haussalami",
+  "storeAvalibility": [
+    "00-7860",
+    "00-7969",
+    "00-7653",
+    "00-7606",
+    "00-7759",
+    "00-7553",
+    "00-7538",
+    "00-7766",
+    "00-7546",
+    "00-8235",
+    "00-7536",
+    "00-7733",
+    "00-7566",
+    "00-7765",
+    "00-7963",
+    "00-7642",
+    "00-7600",
+    "00-5290",
+    "00-7584",
+    "00-7810",
+    "00-7831",
+    "00-7667",
+    "00-7603",
+    "00-5414",
+    "00-7676",
+    "00-7616",
+    "00-7609",
+    "00-9030",
+    "00-7592",
+    "00-7710",
+    "00-7856",
+    "00-7915",
+    "00-7602",
+    "00-7716",
+    "00-7681",
+    "00-7920",
+    "00-7866",
+    "00-7895",
+    "00-7975",
+    "00-7544",
+    "00-6130",
+    "00-7629",
+    "00-7675",
+    "00-7565",
+    "00-7827",
+    "00-7758",
+    "00-7857",
+    "00-7547",
+    "00-7539",
+    "00-7491",
+    "00-7535",
+    "00-7940",
+    "00-7783",
+    "00-7611",
+    "00-7980",
+    "00-7835",
+    "00-99202"
+  ],
+  "url": "/produkte/danke-bauer-haussalami/00-271803",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,237 @@
+{
+  "articleGroupIds": [
+    "B2-442",
+    "B2-490"
+  ],
+  "articleId": "00-793291",
+  "articleOnlyCanonicalPath": "/produkte/ziegenrolle-kraeuter---die-kaesemacher/00-793291",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Die Käsemacher",
+  "brandPath": "/marken/die-kaesemacher",
+  "canonicalPath": "/produkte/ziegenrolle-kraeuter---die-kaesemacher/00-793291",
+  "category": "Kühlwaren",
+  "description": "Die Ziegenkäserolle von DIE KÄSEMACHER wird mit Liebe und Leidenschaft, per Hand und Stück für Stück in feinen Wildkräutern gewälzt. Dieser Kräuter-Mantel legt sich schützend über die Frischkäsezubereitung und gibt dem Käse seinen unverwechselbaren Geschmack.</li>",
+  "eanCodes": [
+    "9003454107807",
+    "9003454124507"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europastraße 5, A-3902 Vitis",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Die Käsemacher",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-10-06T00:00:00",
+      "ingredients": "Zutaten: 98% Ziegenfrischkäsezubereitung mind. 45% Fett i. Tr. (ZIEGENFRISCHKÄSE, Speisesalz, Knoblauch, Verdickungsmittel: Guarkernmehl, Konservierungsstoff: Kaliumsorbat), 2% Wildkräuter, Paprika.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "marketingMessage": "Die Ziegenkäserolle von DIE KÄSEMACHER wird mit Liebe und Leidenschaft, per Hand und Stück für Stück in feinen Wildkräutern gewälzt. Dieser Kräuter-Mantel legt sich schützend über die Frischkäsezubereitung und gibt dem Käse seinen unverwechselbaren Geschmack.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.105
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Ziegenfrischkäsezubereitung mind. 45% Fett i. Tr. mit Wildkräutern",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 293,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1216,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.78,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet und gekühlt (4 -7°C).",
+      "usageHints": "Nach dem Öffnen innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "100 g Stk",
+  "grammageBadge": "100 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.39,
+    "unit": "1 kg 23,90 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ziegenrolle Kräuter - Die Käsemacher",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/ziegenrolle-kraeuter---die-kaesemacher/00-793291",
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/ziegenrolle-kraeuter---die-kaesemacher/00-793291"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.39,
+    "unit": "1 kg 23,90 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ziegenrolle Kräuter - Die Käsemacher online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ziegenrolle Kräuter - Die Käsemacher online bestellen | BILLA",
+  "slug": "ziegenrolle-kraeuter---die-kaesemacher",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/ziegenrolle-kraeuter---die-kaesemacher/00-793291",
+  "vatCode": "10",
+  "video": ""
+}

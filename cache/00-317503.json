@@ -1,0 +1,246 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-317503",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-apfel-mit-mango/00-317503",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-apfel-mit-mango/00-317503",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Obstbrei Apfel mit Mango von Alnatura ist ohne Zuckerzusatz hergestellt und lässt sich auch gut zum Untermischen für den Getreidebrei verwenden.<li>fein pürierte Früchtezubereitung in Bio-Qualität<li>ohne Aromazusätze, ohne Farbstoffzusatz und ohne Konservierungsstoffe",
+  "eanCodes": [
+    "4104420082281"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DEMETER_LABEL",
+              "valueTranslation": "DEMETER-Label (biologisch-dynamische Landwirtschaft)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2021-12-21T00:00:00",
+      "ingredients": "Zutaten: Äpfel* 71 %, Mangos** 29 % *aus biologisch-dynamischem Landbau **aus biologischer Landwirtschaft.",
+      "mandatoryIndicator": "nach dem 4. Monat; glutenfrei",
+      "marketingMessage": "Eine fein pürierte Zwischenmahlzeit oder Nachspeise aus hundert Prozent Bio-Frucht. In Demeter-Qualität, glutenfrei und ohne Zuckerzusatz (Zutaten enthalten von Natur aus Zucker). Für Babys nach dem 4. Lebensmonat.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 321
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 190
+        }
+      ],
+      "name": "Bio Apfel-Mango (Früchtezubereitung)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 231,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 55,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Angebrochenes Glas verschlossen im Kühlschrank aufbewahren, innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "190 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 6.26"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Apfel mit Mango",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/alnatura-apfel-mit-mango/00-317503"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 6.26"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 38900,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Apfel mit Mango online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Apfel mit Mango online bestellen | BILLA",
+  "slug": "alnatura-apfel-mit-mango",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-apfel-mit-mango/00-317503",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-417093",
+  "articleOnlyCanonicalPath": "/produkte/bojar-kren-karotte-65/00-417093",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Bojar",
+  "canonicalPath": "/produkte/bojar-kren-karotte-65/00-417093",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9066000355503"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstr. 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: RAHM, MAGERTOPFEN mit erhöhtem Gehalt an Molkeneiweiß, 6,6 % Kren, Speisesalz, 1,1 % Karottenstücke, Sonnenblumenöl, Zucker, Weingeistessig, Verdickungsmittel Guarkernmehl, Säuerungsmittel Citronensäure, Säureregulator Milchsäure",
+      "marketingMessage": "Bojar kann sehr vielseitig verwendet werden. Er eignet sich sowohl als Brotaufstrich, zur Garnierung oder als Vorspeise als auch inder warmen Küche zum Abrunden und Verfeinern von Suppen und\nSaucen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.111
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Frischkäsezubereitung 65 % Fett i. Tr. mit Kren und Karotte, wärmebehandelt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 322,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1331,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Karotten anderer Herkunft.",
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3-6 °C) lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet mindestens haltbar bis: siehe Boden."
+    }
+  ],
+  "grammage": "100 g Becher",
+  "grammageBadge": "100 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Bojar Kren-Karotte 65%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/bojar-kren-karotte-65/00-417093"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 122210,
+  "recommendationArticleIds": [],
+  "seoDescription": "Bojar Kren-Karotte 65% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bojar Kren-Karotte 65% online bestellen | BILLA",
+  "slug": "bojar-kren-karotte-65",
+  "storeAvalibility": [
+    "00-4756",
+    "00-4126",
+    "00-4690",
+    "00-521",
+    "00-355",
+    "00-5108",
+    "00-6676",
+    "00-7653",
+    "00-2923",
+    "00-7539",
+    "00-4707",
+    "00-10",
+    "00-99202",
+    "00-3780",
+    "00-2342"
+  ],
+  "url": "/produkte/bojar-kren-karotte-65/00-417093",
+  "vatCode": "10",
+  "video": ""
+}

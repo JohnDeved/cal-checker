@@ -1,0 +1,424 @@
+{
+  "articleGroupIds": [
+    "B2-4A"
+  ],
+  "articleId": "00-621110",
+  "articleOnlyCanonicalPath": "/produkte/elfin-teufelroller3/00-621110",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Elfin",
+  "brandPath": "/marken/elfin",
+  "canonicalPath": "/produkte/elfin-teufelroller3/00-621110",
+  "category": "Kühlwaren",
+  "description": "Die Heringe werden gereift und dann in traditioneller Handarbeit mit Zwiebeln eingerollt und in pikant-scharfer Tomatensauce eingelegt.<br><br>Hering ist besonders reich an Omega-3 Fettsäuren. ",
+  "eanCodes": [
+    "9001580898910"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHAREA",
+              "description": "Fangzone ",
+              "hasTranslation": "True",
+              "value": "27"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Webseite",
+          "detail": "www.elfin.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Adresse",
+          "detail": "Wegscheider Str. 27, A-4060 Leonding",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Elfin Feinkost GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-01-05T00:00:00",
+      "ingredients": "Zutaten: HERINGE (40%), Trinkwasser, Zwiebel, Tomatenmark, Säureessig (Wasser, Säuerungsmittel: Essigsäure), Zucker, Süßungsmittel: Saccharin; Speisesalz, Gewürze, Verdickungsmittel: Guarkernmehl; Aromen, Säuerungsmittel: Citronensäure; Konservierungsstoff: E211.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 275
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 790
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 520
+        }
+      ],
+      "name": "Teufelroller - gerollte Heringsfilets in scharfer Sauce, mit Zucker und Süßungsmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 100,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 414,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Omega-3-Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Fisch aus dem Nordostatlantik",
+      "preperations": [],
+      "storageHint": "Lagern bei 0°C bis +7°C.",
+      "usageHints": "Nach dem Öffnen innerhalb einiger Tage verbrauchen."
+    }
+  ],
+  "grammage": "520 g Glas",
+  "grammageBadge": "520 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 8.25"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Elfin Teufelroller",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fisch/B2-4A/produkte/elfin-teufelroller3/00-621110"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 8.25"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 81780,
+  "recommendationArticleIds": [],
+  "seoDescription": "Elfin Teufelroller online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Elfin Teufelroller online bestellen | BILLA",
+  "slug": "elfin-teufelroller3",
+  "storeAvalibility": [
+    "00-1117",
+    "00-5381",
+    "00-7743",
+    "00-4489",
+    "00-3841",
+    "00-5871",
+    "00-3025",
+    "00-3384",
+    "00-6508",
+    "00-3744",
+    "00-3857",
+    "00-6877",
+    "00-1088",
+    "00-9753",
+    "00-4021",
+    "00-2238",
+    "00-4441",
+    "00-1801",
+    "00-2923",
+    "00-3713",
+    "00-3063",
+    "00-281",
+    "00-7539",
+    "00-8646",
+    "00-5223",
+    "00-6823",
+    "00-1016",
+    "00-6910",
+    "00-2208",
+    "00-4700",
+    "00-8953",
+    "00-3512",
+    "00-3042",
+    "00-3560",
+    "00-3322",
+    "00-1380",
+    "00-702",
+    "00-10",
+    "00-4469",
+    "00-6760",
+    "00-7915",
+    "00-1114",
+    "00-8188",
+    "00-5777",
+    "00-7393",
+    "00-2259",
+    "00-1480",
+    "00-1017",
+    "00-519",
+    "00-1958",
+    "00-1039",
+    "00-7114",
+    "00-3094",
+    "00-783",
+    "00-1018",
+    "00-5003",
+    "00-1425",
+    "00-3501",
+    "00-4755",
+    "00-9589",
+    "00-5359",
+    "00-4982",
+    "00-1249",
+    "00-6676",
+    "00-8158",
+    "00-3157",
+    "00-1032",
+    "00-3114",
+    "00-3401",
+    "00-1070",
+    "00-3001",
+    "00-355",
+    "00-7358",
+    "00-3294",
+    "00-7336",
+    "00-7611",
+    "00-3220",
+    "00-3579",
+    "00-8230",
+    "00-4690",
+    "00-3920",
+    "00-2301",
+    "00-3005",
+    "00-9324",
+    "00-6219",
+    "00-2260",
+    "00-3234",
+    "00-282",
+    "00-3601",
+    "00-6255",
+    "00-1136",
+    "00-3170",
+    "00-440",
+    "00-5552",
+    "00-7073",
+    "00-2109",
+    "00-5078",
+    "00-2342",
+    "00-3254",
+    "00-99202",
+    "00-2345",
+    "00-3206",
+    "00-4881",
+    "00-6197",
+    "00-2840",
+    "00-3940",
+    "00-9209",
+    "00-4249",
+    "00-1212",
+    "00-3363",
+    "00-6490",
+    "00-2312",
+    "00-1132",
+    "00-6018",
+    "00-3296",
+    "00-6559",
+    "00-6916",
+    "00-119",
+    "00-8417",
+    "00-3253",
+    "00-8241",
+    "00-3642",
+    "00-397",
+    "00-9167",
+    "00-3709",
+    "00-7084",
+    "00-4104",
+    "00-3947",
+    "00-2100",
+    "00-225",
+    "00-2543",
+    "00-836",
+    "00-8155",
+    "00-4912",
+    "00-2190",
+    "00-2675",
+    "00-3617",
+    "00-8154",
+    "00-1101",
+    "00-4945",
+    "00-2131",
+    "00-5529",
+    "00-1913",
+    "00-2369",
+    "00-1670",
+    "00-3055",
+    "00-1457",
+    "00-1027",
+    "00-4146",
+    "00-3118",
+    "00-7328",
+    "00-7653",
+    "00-9373",
+    "00-290",
+    "00-7232",
+    "00-3120",
+    "00-8400",
+    "00-3059",
+    "00-7223",
+    "00-3162",
+    "00-5067",
+    "00-4200",
+    "00-5363",
+    "00-8185",
+    "00-2261",
+    "00-8606",
+    "00-4226",
+    "00-6021",
+    "00-1128",
+    "00-5454",
+    "00-3780",
+    "00-4673",
+    "00-3860",
+    "00-1500",
+    "00-5962",
+    "00-1529",
+    "00-3010"
+  ],
+  "url": "/produkte/elfin-teufelroller3/00-621110",
+  "vatCode": "10",
+  "video": ""
+}

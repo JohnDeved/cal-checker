@@ -1,0 +1,203 @@
+{
+  "articleGroupIds": [
+    "B2-684"
+  ],
+  "articleId": "00-793808",
+  "articleOnlyCanonicalPath": "/produkte/efko-weichselkompott-ohne-kern/00-793808",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Efko",
+  "brandPath": "/marken/efko",
+  "canonicalPath": "/produkte/efko-weichselkompott-ohne-kern/00-793808",
+  "category": "Grundnahrungsmittel",
+  "description": "Weichselkompott von Efko schmeckt zu vielen kalten und warmen Desserts, aber auch als fruchtiger Zusatz in Müsli und Joghurt.<li>süß eingelegte Weichseln ohne Kern<li>sehr saftiges, lockeres, weiches Fruchtfleisch",
+  "eanCodes": [
+    "9000451007550"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4070 Eferding, Hinzenbach 38",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "efko",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-04-07T00:00:00",
+      "ingredients": "Zutaten: Weichseln ohne Kern, Wasser, Zucker.",
+      "mandatoryIndicator": "Trotz sorgfältiger Verarbeitung können vereinzelt Kerne auftreten",
+      "marketingMessage": "ohne Kerne",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 390
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.95
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 660
+        }
+      ],
+      "name": "Weichsel Kompott. Pasteurisiert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 81,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 344,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor direkter Sonneneinstrahlung schützen. Nach dem Öffnen nur wenige Tage im Kühlschrank haltbar.\n\nMindestens haltbar bis Ende: siehe Etikette"
+    }
+  ],
+  "grammage": "660 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 4.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "efko Weichselkompott ohne Kern",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/obst-und-kompotte/B2-684/produkte/efko-weichselkompott-ohne-kern/00-793808"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 4.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 100530,
+  "recommendationArticleIds": [
+    "00-349818"
+  ],
+  "seoDescription": "efko Weichselkompott ohne Kern online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "efko Weichselkompott ohne Kern online bestellen | BILLA",
+  "slug": "efko-weichselkompott-ohne-kern",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10",
+    "00-3780"
+  ],
+  "url": "/produkte/efko-weichselkompott-ohne-kern/00-793808",
+  "vatCode": "10",
+  "video": ""
+}

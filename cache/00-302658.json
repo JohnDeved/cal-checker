@@ -1,0 +1,201 @@
+{
+  "articleGroupIds": [
+    "B2-6E7",
+    "B2-6B3",
+    "B2-73"
+  ],
+  "articleId": "00-302658",
+  "articleOnlyCanonicalPath": "/produkte/foodspring-protein-bar-soft-caramel/00-302658",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Foodspring",
+  "brandPath": "/marken/foodspring",
+  "canonicalPath": "/produkte/foodspring-protein-bar-soft-caramel/00-302658",
+  "category": "Grundnahrungsmittel",
+  "description": "Echte Geschmacksexplosion statt Zuckerbombe.<br>Wir haben gegrübelt, getestet und probiert. Und als wir dachten, das wird nichts mehr, haben wir die perfekte Riegelrezeptur gefunden: Kalorienarm gesüßter Kakao, samtweiches Karamell und Protein Crisps für extra Crunch. Natürlich ohne zugesetzten Zucker. Und deshalb mit viel weniger Kalorien*.<p>*Im Vergleich zu handelsüblichen Schokoriegeln.",
+  "eanCodes": [
+    "4260363485265"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lobeckstr. 30-35, 10969 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "foodspring GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2019-10-07T00:00:00",
+      "ingredients": "Zutaten: Milchprotein, Feuchthaltemittel (Glycerin), Milchschokolade mit Süßungsmittel (Süßungsmittel (Maltitol), Kakaobutter, Vollmilchpulver, Kakaomasse, Emulgator (Sojalecithin), natürliche Aromen) (15,4%), Füllung mit Karamellgeschmack (Füllstoff (Polydextrose), Kakaobutter, Magermilchpulver, Stabilisatoren (Xylit), Sonnenblumenöl, Salz, Emulgator (Zitronensäureester)) (14%), Sonnenblumenöl, Whey Crispies (Molkenprotein, Reismehl, Emulgatoren (Sojalecithin)), Kakaobutter, entöltes Kakaopulver, Säuerungsmittel (Zitronensäure), Salz, natürliche Aromen, Verdickungsmittel (Gummi Arabicum), Süßungsmittel (Steviolglykoside), Emulgator (Sojalecithin)",
+      "marketingMessage": "Schokoriegel ohne Schuldgefühle. Klingt zu schön um wahr zu sein? Mit Foodspring wird dieser Traum war. Holt euch den vollen Genuss eurer Lieblingsschokolade. Ohne den Zucker. Ohne die Kalorien.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 67
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 65
+        }
+      ],
+      "name": "Nahrungsergänzungsmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1440,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 345,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 31,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.55,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern."
+    }
+  ],
+  "grammage": "65 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 41.38"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Foodspring Protein Bar Soft Caramel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/nahrungsergaenzung/B2-6E7/produkte/foodspring-protein-bar-soft-caramel/00-302658",
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/foodspring-protein-bar-soft-caramel/00-302658",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/foodspring-protein-bar-soft-caramel/00-302658"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 41.38"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Foodspring Protein Bar Soft Caramel online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Foodspring Protein Bar Soft Caramel online bestellen | BILLA",
+  "slug": "foodspring-protein-bar-soft-caramel",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/foodspring-protein-bar-soft-caramel/00-302658",
+  "vatCode": "10",
+  "video": ""
+}

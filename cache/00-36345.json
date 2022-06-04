@@ -1,0 +1,242 @@
+{
+  "articleGroupIds": [
+    "B2-444"
+  ],
+  "articleId": "00-36345",
+  "articleOnlyCanonicalPath": "/produkte/schweizer-emmentaler/00-36345",
+  "attributes": [
+    "mengemin",
+    "s_ranking",
+    "s_feinkost",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/schweizer-emmentaler/00-36345",
+  "category": "Kühlwaren",
+  "description": "Schweizer Emmentaler ist ein mild-nussiger Hartkäse. Er kann gleich so mit Brot gegessen oder beim Kochen und Gratinieren verwendet werden.<li>6 Monate Reifezeit<li>45 % Fett i. Tr.<li>exzellent für Gratins, zum Überbacken oder für Käsesuppe",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Illweg 8, AT - 6714 Nüziders",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Emmi Österreich GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.emmi.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: MILCH, Salz, Kulturen, Lab",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 3
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 3
+        }
+      ],
+      "name": "Schweizer Hartkäse, mindestens 45% Fett i. Tr., mit Rohmilch hergestellt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 399,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1657,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 31,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Schweiz",
+      "preperations": [],
+      "storageHint": "Bei +4°C bis +8°C aufbewahren."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Schweizer Emmentaler",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444/produkte/schweizer-emmentaler/00-36345"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 77520,
+  "recommendationArticleIds": [
+    "00-34350"
+  ],
+  "seoDescription": "Schweizer Emmentaler online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schweizer Emmentaler online bestellen | BILLA",
+  "slug": "schweizer-emmentaler",
+  "storeAvalibility": [
+    "00-2313",
+    "00-3384",
+    "00-5027",
+    "00-119",
+    "00-5078",
+    "00-10",
+    "00-3118",
+    "00-176",
+    "00-3050",
+    "00-1710",
+    "00-408",
+    "00-836",
+    "00-309",
+    "00-355",
+    "00-3044",
+    "00-1457",
+    "00-6676",
+    "00-3780",
+    "00-3857",
+    "00-2342",
+    "00-281",
+    "00-8185",
+    "00-174",
+    "00-950",
+    "00-3120",
+    "00-3082",
+    "00-3234",
+    "00-3452",
+    "00-117",
+    "00-3042",
+    "00-7539",
+    "00-115",
+    "00-1017",
+    "00-3593",
+    "00-99202"
+  ],
+  "url": "/produkte/schweizer-emmentaler/00-36345",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

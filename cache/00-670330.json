@@ -1,0 +1,226 @@
+{
+  "articleGroupIds": [
+    "B2-632",
+    "B2-634",
+    "B2-6A1",
+    "B2-6A3",
+    "B2-6E2"
+  ],
+  "articleId": "00-670330",
+  "articleOnlyCanonicalPath": "/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Mantler",
+  "brandPath": "/marken/mantler",
+  "canonicalPath": "/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330",
+  "category": "Grundnahrungsmittel",
+  "description": "Mit dem Biskuit und Kuchenmix von Mantler lassen sich glutenfreie Rührkuchen und Biskuitteige herstellen. Das Mehl basiert auf Kartoffel-, Mais- und Reisstärke.<li>aus der Mantler-Mühle im österreichischen Rosenburg<li>glutenfrei",
+  "eanCodes": [
+    "9002869619318"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DZG_GLUTEN_FREE",
+              "valueTranslation": "GLUTEN-FREI - Zeichen der Deutschen Zöliakiegesellschaft (DZG)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-3573 Rosenburg 12",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mantler-Mühle GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@mantler-komplet.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "0043 2982 2901 30",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0043 2982 2901 0",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.mantler-glutenfrei.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2018-06-29T00:00:00",
+      "ingredients": "Zutaten: Zucker, Maisstärke, Kartoffelstärke, Reisstärke, Verdickungsmittel: Xanthan, Guarkernmehl; Salz, Emulgatoren: E475, E471, E481; Säuerungsmittel: Monokaliumtartrate Backtriebmittel: Natriumhydrogencarbonat, Aroma.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1009
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Glutenfreie Feinbackmischung für Biskuit und Rührkuchen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 369,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1555,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 89,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 45,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.45,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme schützen und trocken lagern!"
+    }
+  ],
+  "grammage": "1 Kilogramm Sack",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Mantler Biskuit & Kuchenmix Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/backmischungen-und-fuellungen/B2-632/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330",
+    "~/warengruppe/grundnahrungsmittel/backen/mehl/B2-634/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/brotbackmischungen/B2-6A1/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 50120,
+  "recommendationArticleIds": [
+    "00-651606"
+  ],
+  "seoDescription": "Mantler Biskuit & Kuchenmix Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mantler Biskuit & Kuchenmix Glutenfrei online bestellen | BILLA",
+  "slug": "mantler-biskuit-und-kuchenmix-glutenfrei",
+  "storeAvalibility": [
+    "00-355",
+    "00-99202",
+    "00-4551",
+    "00-10"
+  ],
+  "url": "/produkte/mantler-biskuit-und-kuchenmix-glutenfrei/00-670330",
+  "vatCode": "10",
+  "video": ""
+}

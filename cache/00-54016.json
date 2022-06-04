@@ -1,0 +1,270 @@
+{
+  "articleGroupIds": [
+    "B2-634",
+    "B2-6A3"
+  ],
+  "articleId": "00-54016",
+  "articleOnlyCanonicalPath": "/produkte/rauch-weizenmehl-glatt/00-54016",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Rauch",
+  "brandPath": "/marken/rauch",
+  "canonicalPath": "/produkte/rauch-weizenmehl-glatt/00-54016",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Rauch Weizenmehl Glatt hat ein hohes Bindevermögen. Dieses verleiht Teigen Elastizität und ermöglicht ihr hauchdünnes Ziehen.<li>Weizenmehl Type 700 mit feiner Körnung<li>gemahlen in der Innsbrucker Rauchmühle<li>ideal für Strudel-, Mürb- und Blätterteig<li>zum Binden von Soßen geeignet",
+  "eanCodes": [
+    "9002906000628",
+    "9002716040098"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Haller Straße 65, A-6020 Innsbruck",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Anton Rauch GmbH & Co KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.rauchmehl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL Type 700 glatt, Mehlbehandlungsmittel: Ascorbinsäure",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1010
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Weizenmehl Type 700 glatt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1453,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 343,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.47,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 68,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "vor Wärme schützen",
+      "sustenanceClaim": "*Die Nährwertangaben unterliegen den bei Naturprodukten üblichen Schwankungen."
+    }
+  ],
+  "grammage": "1 Kilogramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Rauch Weizenmehl Glatt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/mehl/B2-634/produkte/rauch-weizenmehl-glatt/00-54016",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/rauch-weizenmehl-glatt/00-54016"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 79400,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rauch Weizenmehl Glatt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rauch Weizenmehl Glatt online bestellen | BILLA",
+  "slug": "rauch-weizenmehl-glatt",
+  "storeAvalibility": [
+    "00-5359",
+    "00-8360",
+    "00-8158",
+    "00-5447",
+    "00-8031",
+    "00-8230",
+    "00-8155",
+    "00-5552",
+    "00-5454",
+    "00-5223",
+    "00-8022",
+    "00-8075",
+    "00-5181",
+    "00-8657",
+    "00-5003",
+    "00-8243",
+    "00-8426",
+    "00-5027",
+    "00-8400",
+    "00-8895",
+    "00-8636",
+    "00-5322",
+    "00-8154",
+    "00-8159",
+    "00-5529",
+    "00-8409",
+    "00-8334",
+    "00-8530",
+    "00-8241",
+    "00-5112",
+    "00-8606",
+    "00-8151",
+    "00-8417",
+    "00-8173",
+    "00-8646",
+    "00-5165",
+    "00-5306",
+    "00-8235",
+    "00-8076",
+    "00-5078",
+    "00-5000",
+    "00-8070",
+    "00-5067",
+    "00-8193",
+    "00-8140",
+    "00-8213",
+    "00-5031",
+    "00-8188",
+    "00-5082",
+    "00-5108",
+    "00-5391",
+    "00-7866",
+    "00-8185",
+    "00-5414",
+    "00-5405",
+    "00-5363",
+    "00-8395",
+    "00-5199",
+    "00-5290",
+    "00-5226",
+    "00-8085",
+    "00-5104",
+    "00-5381",
+    "00-99202"
+  ],
+  "url": "/produkte/rauch-weizenmehl-glatt/00-54016",
+  "vatCode": "10",
+  "video": ""
+}

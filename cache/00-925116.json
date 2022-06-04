@@ -1,0 +1,245 @@
+{
+  "articleGroupIds": [
+    "B2-56"
+  ],
+  "articleId": "00-925116",
+  "articleOnlyCanonicalPath": "/produkte/11er-knusper-kroketten/00-925116",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "11er",
+  "brandPath": "/marken/11er",
+  "canonicalPath": "/produkte/11er-knusper-kroketten/00-925116",
+  "category": "Tiefkühl",
+  "description": "Die 11er Knusper Kroketten werden durch ihre besondere Zapfenform außen besonders knusprig und bleiben innen kartoffelig zart. Die knusprige Beilage passt ideal zu zahlreichen Menü-Kreationen.<li>Beste Qualität aus der Alpenregion<li>Hergestellt in Österreich<li>Einfache Zubereitung in Backofen oder Heißluftfritteuse<li>Glutenfrei</li>",
+  "eanCodes": [
+    "9001442237956"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R04"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Galinastrasse 34, 6820 Frastanz, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "11er Nahrungsmittel GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@11er.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.11er.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Kartoffeln 88 %, Sonnenblumenöl 7%, Kartoffelstärke,  Salz, Dextrose, Gewürze,  VOLLMILCHPULVER.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 509
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Knusper Kroketten vorgebacken in Sonnenblumenöl, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "pro 100g tiefgekühlt",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 750,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 179,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1. Backofen: Heißluft: auf 180 °C vorheizen. Die tiefgekühlten Kroketten 1-lagig auf dem Backblech verteilen und ca. 18-20 Minuten goldgelb backen. 2. Ober- und Unterhitze: auf 200°C vorheizen und ca. 20-25 Minuten goldgelb backen. Nach der Hälfte der Backzeit wenden. Unser Tipp: Wir empfehlen die Verwendung von Backpapier.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "3. Heißluftfritteuse auf 200 °C vorheizen. Die tiefgekühlten Kroketten 1-lagig im Fritierkorb verteilen und je nach Leistung des Gerätes ca. 6 - 13 Minuten goldgelb backen. Mehrmals schütteln!",
+          "type": "Frittieren - Zubereitung eingetaucht im heißem Öl oder Fett"
+        }
+      ],
+      "storageHint": "*** Fach (-18°C): siehe Datierung, ** Fach (-12°C): 14 Tage, * Fach (-6°C): 2 Tage",
+      "usageHints": "Empfehlung das tiefgekühlte Produkt gemäß Zubereitungshinweis goldgelb zubereiten. Das Produkt bitte nicht zu stark bräunen. Bei kleineren Mengen die Zubereitungszeit entsprechend reduzieren. Nach dem Auftauen nicht wieder einfrieren!"
+    }
+  ],
+  "grammage": "500 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 6.78"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "11er Knusper Kroketten",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pommes-frites-und-co/B2-56/produkte/11er-knusper-kroketten/00-925116"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 6.78"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "11er Knusper Kroketten online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "11er Knusper Kroketten online bestellen | BILLA",
+  "slug": "11er-knusper-kroketten",
+  "storeAvalibility": [
+    "00-7075",
+    "00-99202",
+    "00-10",
+    "00-2342",
+    "00-3780"
+  ],
+  "url": "/produkte/11er-knusper-kroketten/00-925116",
+  "vatCode": "10",
+  "video": ""
+}

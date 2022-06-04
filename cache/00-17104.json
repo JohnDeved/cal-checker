@@ -1,0 +1,314 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-17104",
+  "articleOnlyCanonicalPath": "/produkte/hipp-menue-reis-mit-karotten-und-bio-pute/00-17104",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-menue-reis-mit-karotten-und-bio-pute/00-17104",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "4062300033115",
+    "4062300033108"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Wasser, Karotten* 30 %, Reis* gekocht 15 %, Putenfleisch* 8,0 %, Kartoffeln* 8 %, Rapsöl* 1,9 %. *Aus biologischer Erzeugung.",
+      "mandatoryIndicator": "Achten Sie auf eine ausgewogene Ernährung und gesunde Lebensweise. #ab 8. Monat #glutenfrei",
+      "marketingMessage": "Alle Hipp Menüs sind komplette, vollwertige Mahlzeiten ab dem Beikostalter und enthalten hochwertiges Bio-Rapsöl, das Ihr Baby mit natürlichen Omega-3-Fettsäuren versorgt. Wichtig für die gesunde Entwicklung und den Aufbau von Gehirn- und Nervenzellen. Außerdem werden alle Zutaten der Menüs schonend dampfgegart und enthalten kein Salz.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 340
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 220
+        }
+      ],
+      "name": "BIO Reis mit Karotten und Bio-Pute",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 65,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 272,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.14,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 143,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 601,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.31,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Geöffnetes Glas bzw. gewünschte Teilmenge in Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Geöffnetes Glas bzw. gewünschte Teilmenge in Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Simmern/Koecheln - Zubereitung in Wasser, welches knapp unter dem Siedepunkt gehalten wird"
+        }
+      ],
+      "storageHint": "Nicht erwärmten Rest verschlossen im Kühlschrank lagern und am nächsten Tag aufbrauchen.",
+      "usageHints": "Vollwertige Mahlzeit. #Bitte Plastiklöffel verwenden."
+    }
+  ],
+  "grammage": "220 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.14"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Menü Reis mit Karotten und Bio-Pute",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-menue-reis-mit-karotten-und-bio-pute/00-17104"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.14"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 215210,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hipp Menü Reis mit Karotten und Bio-Pute online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Menü Reis mit Karotten und Bio-Pute online bestellen | BILLA",
+  "slug": "hipp-menue-reis-mit-karotten-und-bio-pute",
+  "storeAvalibility": [],
+  "url": "/produkte/hipp-menue-reis-mit-karotten-und-bio-pute/00-17104",
+  "vatCode": "10",
+  "video": ""
+}

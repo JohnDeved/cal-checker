@@ -1,0 +1,222 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-400194",
+  "articleOnlyCanonicalPath": "/produkte/exquisa-frischkaese-der-sahnige/00-400194",
+  "attributes": [
+    "s_marke",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Exquisa",
+  "canonicalPath": "/produkte/exquisa-frischkaese-der-sahnige/00-400194",
+  "category": "Kühlwaren",
+  "description": "Exquisa Der Sahnige Natur ist besonders cremig gerührt und wird mit bestem Rahm verfeinert. Frische Milch von Bauern aus der Region sowie die besondere Herstellungsweise machen aus ihm einen herrlich cremigen Frischkäse-Genuss, der durch seinen unvergleichlichen Exquisa-Geschmack überzeugt. Und das sowohl klassisch auf Brot als auch beim Kochen und Backen.</li>",
+  "eanCodes": [
+    "0000040193151"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-86802 Buchloe",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Karwendel",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: FRISCHKÄSE (MILCH, RAHM), SAHNEJOGHURT, Speisesalz.",
+      "marketingMessage": "besonders cremig gerührt; mit bestem Rahm verfeinert; ohne Gentechnik\n\nNatürlich mit sorgfältig ausgewählten Zutaten\n\nNatürlich mit über 100 Jahren Erfahrung unseres Familienunternehmens",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 213.75
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Frischkäsezubereitung wärmebehandelt, Doppelrahmstufe",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 238,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 984,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 22.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen alsbald verzehren; Ungeöffnet bei 2-8°C mindestens haltbar bis: siehe Boden"
+    }
+  ],
+  "grammage": "200 g Becher",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 8.75"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Exquisa Frischkäse Der Sahnige",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/exquisa-frischkaese-der-sahnige/00-400194"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 8.75"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Exquisa Frischkäse Der Sahnige online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Exquisa Frischkäse Der Sahnige online bestellen | BILLA",
+  "slug": "exquisa-frischkaese-der-sahnige",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/exquisa-frischkaese-der-sahnige/00-400194",
+  "vatCode": "10",
+  "video": ""
+}

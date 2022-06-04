@@ -1,0 +1,323 @@
+{
+  "articleGroupIds": [
+    "B2-745"
+  ],
+  "articleId": "00-513932",
+  "articleOnlyCanonicalPath": "/produkte/ritz-cracker/00-513932",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Ritz",
+  "canonicalPath": "/produkte/ritz-cracker/00-513932",
+  "category": "Süßes & Salziges",
+  "eanCodes": [
+    "5000396021202"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "WEIZENMEHL, GERSTENMALZMEHL",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schönbrunner Strasse 297-307 A-1120 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mondelez Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2021-09-07T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Sonnenblumenöl 21%, Zucker, Glukose-Fruktose-Sirup, Backtriebmittel (Calciumphosphate, Ammoniumcarbonate, Natriumcarbonate, Kaliumcarbonate), Speisesalz, GERSTENMALZMEHL. KANN EI, MILCH UND SESAMSAMEN ENTHALTEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 239
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Gesalzene cracker",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2023,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 483,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 62,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 506,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 121,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.36,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 8,
+      "preperations": []
+    }
+  ],
+  "grammage": "200 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "100 g 1.00"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Ritz Cracker",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/snacks/B2-745/produkte/ritz-cracker/00-513932"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "100 g 1.00"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ritz Cracker online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ritz Cracker online bestellen | BILLA",
+  "slug": "ritz-cracker",
+  "storeAvalibility": [
+    "00-355",
+    "00-1529",
+    "00-7857",
+    "00-3709",
+    "00-4126",
+    "00-6910",
+    "00-7393",
+    "00-3146",
+    "00-783",
+    "00-4249",
+    "00-4675",
+    "00-7606",
+    "00-1911",
+    "00-2015",
+    "00-4551",
+    "00-3118",
+    "00-7114",
+    "00-3143",
+    "00-4779",
+    "00-2154",
+    "00-4655",
+    "00-4707",
+    "00-3023",
+    "00-3206",
+    "00-4107",
+    "00-1027",
+    "00-7204",
+    "00-1457",
+    "00-3617",
+    "00-10",
+    "00-99202",
+    "00-7860",
+    "00-3780",
+    "00-3157",
+    "00-7368",
+    "00-2098",
+    "00-2045",
+    "00-9290",
+    "00-7653",
+    "00-3234",
+    "00-2342",
+    "00-2109",
+    "00-3114",
+    "00-3507",
+    "00-4690"
+  ],
+  "url": "/produkte/ritz-cracker/00-513932",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,214 @@
+{
+  "articleGroupIds": [
+    "B2-489"
+  ],
+  "articleId": "00-413278",
+  "articleOnlyCanonicalPath": "/produkte/messner-teewuerstel/00-413278",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Messner",
+  "brandPath": "/marken/messner",
+  "canonicalPath": "/produkte/messner-teewuerstel/00-413278",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9001699042679"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hauptplatz 21, A-8510 Stainz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "MESSNER",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.messner-wurst.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-12-09T00:00:00",
+      "ingredients": "Zutaten: Schweine- und Rindfleisch (72%), Speck, Wasser, Speisesalz, Gewürze,Karotten, Tomaten, Rapsöl, natürliche Aromen, Würze, Kartoffelstärke, Dextrose,Antioxidationsmittel: Ascorbinsäure; Stabilisator: Diphosphate;Konservierungsstoff: Natriumnitrit; Schafsaitling, Rauch.Kann Spuren von Senf enthalten.",
+      "marketingMessage": "Messner rein. Entspricht dem österreichischem Codex. 100% österreichisches Qualitätsfleisch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 256
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Frankfurter gekocht und geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 280,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1160,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei +2° bis +6°C.",
+      "sustenanceClaim": "Ohne Zugabe von Geschmacksverstärkern",
+      "usageHints": "Nach dem Öffnen rasch verbrauchen."
+    }
+  ],
+  "grammage": "250 g Packung",
+  "grammageBadge": "250 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "1 kg 18.76"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Messner Teewürstel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wuerstel/B2-489/produkte/messner-teewuerstel/00-413278"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "1 kg 18.76"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 215600,
+  "recommendationArticleIds": [],
+  "seoDescription": "Messner Teewürstel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Messner Teewürstel online bestellen | BILLA",
+  "slug": "messner-teewuerstel",
+  "storeAvalibility": [
+    "00-3857",
+    "00-355",
+    "00-4283",
+    "00-99202"
+  ],
+  "url": "/produkte/messner-teewuerstel/00-413278",
+  "vatCode": "10",
+  "video": ""
+}

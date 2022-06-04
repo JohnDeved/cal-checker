@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-420894",
+  "articleOnlyCanonicalPath": "/produkte/schweppes-indian-tonic/00-420894",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schweppes",
+  "brandPath": "/marken/schweppes",
+  "canonicalPath": "/produkte/schweppes-indian-tonic/00-420894",
+  "category": "Getränke",
+  "description": "Schweppes Indian Tonic bringt den herben Geschmack von Tonic Water mit besten Inhaltsstoffen zusammen. Das Erfrischungsgetränk schmeckt pur oder als Longdrink.<li>chininhaltiges Erfrischungsgetränk mit herbem Geschmack<li>ideal geeignet für Cocktails und Longdrinks<li>bitterer, erfrischender Charakter mit wenig Süße",
+  "eanCodes": [
+    "4000140070099"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hagener Strasse 261, 57223 Kreuztal",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Schweppes Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser , Zucker , Kohlensäure , Säurungsmittel Citronensäure , natürliches Aroma, Aroma Chinin",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 350
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 200
+        }
+      ],
+      "name": "Erfrischungsgetränk, chininhaltig",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 163,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 37,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bitte kühl und dunkel lagern"
+    }
+  ],
+  "grammage": "0.2 l Flasche (Einweg)",
+  "grammageBadge": "0.2 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l 6.45"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Schweppes Indian Tonic",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/schweppes-indian-tonic/00-420894"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l 6.45"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 118080,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schweppes Indian Tonic online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schweppes Indian Tonic online bestellen | BILLA",
+  "slug": "schweppes-indian-tonic",
+  "storeAvalibility": [
+    "00-10",
+    "00-174",
+    "00-99202"
+  ],
+  "url": "/produkte/schweppes-indian-tonic/00-420894",
+  "vatCode": "20",
+  "video": ""
+}

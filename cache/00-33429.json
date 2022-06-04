@@ -1,0 +1,346 @@
+{
+  "articleGroupIds": [
+    "B2-484"
+  ],
+  "articleId": "00-33429",
+  "articleOnlyCanonicalPath": "/produkte/virginia-pfeffer-schinken/00-33429",
+  "attributes": [
+    "mengemin",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/virginia-pfeffer-schinken/00-33429",
+  "category": "Kühlwaren",
+  "description": "Der schonend geräucherte Virginia Pfeffer-Schinken ist mit einem herzhaften Pfeffermantel bedeckt. Er schmeckt hervorragend zur Jause oder zum Abendessen.<li>Preis pro Kilo<li>reift 2 Monate lang<li>mit echtem Meersalz und Pfeffer",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Grote Baan 200, 9920 Lievegem",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Imperial Meat Products N.V.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "BELGIEN"
+      ],
+      "fromDate": "2019-06-27T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Speisesalz, Dextrose, Gewürze, Kräuter, natürliches Aroma, Säureregulator: Natriumlactat; Geschmacksverstärker: Mononatriumglutamat; Antioxidationsmittel: Natriumascorbat; Konservierungsstoff: Natriumnitrit, Kaliumnitrat; Starterkulturen, Raucharoma, Rauch. Pfeffermantel 4%: Pfeffer, Glukosesirup, MILCHEIWEIß, Schweinegelatine, Konservierungsstoff: Kaliumsorbat, Methyl-p-hydroxybenzoat. 100g Produkt hergestellt aus 124g Schweinefleisch.",
+      "mandatoryIndicator": "Säureregulator: E325 (Natriumlactat); Geschmacksverstärker: E621 (Mononatriumglutamat); Antioxidationsmittel: E301 (Natriumascorbat); Konservierungstoffe: E250 (Natriumnitrit), E252 (Kaliumnitrat), E202 (Kaliumsorbat), E218 (Methyl-p-hydroxybenzoat).",
+      "marketingMessage": "aus der Sauen-Oberschale, trocken gesalzen, 2 Monate gereift, geräuchert über Buchenholz, mit Gewürzen und Kräutern aus Virginia, kurant geformt, mit Pfeffermantel aus grobem schwarzen und weißen Pfeffer, nur 3% Fett, ohne Schwarte, mit Anschnitt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 2036
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 2000
+        }
+      ],
+      "name": "Virginia Pfefferschinken geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 143,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 602,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Unter +7°C lagern, nach dem Öffnen innerhalb kurzer Zeit verzehren.",
+      "usageHints": "In dünne Scheiben geschnitten als Brotbelag geeignet."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 44.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 44.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 44.9,
+    "unit": "100 g 4.49"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Virginia Pfeffer-Schinken",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/schinken/B2-484/produkte/virginia-pfeffer-schinken/00-33429"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 44.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 44.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 44.9,
+    "unit": "100 g 4.49"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 147340,
+  "recommendationArticleIds": [],
+  "seoDescription": "Virginia Pfeffer-Schinken online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Virginia Pfeffer-Schinken online bestellen | BILLA",
+  "slug": "virginia-pfeffer-schinken",
+  "storeAvalibility": [
+    "00-3780",
+    "00-4673",
+    "00-3871",
+    "00-4551",
+    "00-6018",
+    "00-4932",
+    "00-6372",
+    "00-3735",
+    "00-3296",
+    "00-6932",
+    "00-350",
+    "00-3713",
+    "00-3869",
+    "00-3063",
+    "00-7336",
+    "00-5078",
+    "00-3860",
+    "00-3105",
+    "00-3501",
+    "00-4107",
+    "00-6864",
+    "00-7368",
+    "00-5290",
+    "00-4283",
+    "00-9894",
+    "00-2295",
+    "00-3050",
+    "00-115",
+    "00-3822",
+    "00-7223",
+    "00-7535",
+    "00-6508",
+    "00-6823",
+    "00-6979",
+    "00-3005",
+    "00-6138",
+    "00-7860",
+    "00-3055",
+    "00-4540",
+    "00-174",
+    "00-1479",
+    "00-4478",
+    "00-355",
+    "00-7229",
+    "00-6884",
+    "00-9266",
+    "00-5108",
+    "00-4629",
+    "00-3401",
+    "00-7075",
+    "00-4016",
+    "00-6024",
+    "00-9357",
+    "00-7546",
+    "00-1117",
+    "00-9498",
+    "00-7114",
+    "00-3135",
+    "00-3384",
+    "00-176",
+    "00-4748",
+    "00-5414",
+    "00-8012",
+    "00-323",
+    "00-9209",
+    "00-3143",
+    "00-2204",
+    "00-3162",
+    "00-3146",
+    "00-5391",
+    "00-836",
+    "00-4755",
+    "00-8940",
+    "00-7424",
+    "00-3700",
+    "00-9167",
+    "00-7969",
+    "00-4099",
+    "00-7082",
+    "00-6108",
+    "00-3120",
+    "00-3059",
+    "00-1710",
+    "00-1866",
+    "00-6179",
+    "00-2131",
+    "00-2808",
+    "00-3118",
+    "00-3600",
+    "00-3512",
+    "00-3253",
+    "00-3206",
+    "00-3569",
+    "00-5027",
+    "00-5447",
+    "00-8441",
+    "00-950",
+    "00-7765",
+    "00-7204",
+    "00-6496",
+    "00-5359",
+    "00-6628",
+    "00-9639",
+    "00-2156",
+    "00-3617",
+    "00-9753",
+    "00-119",
+    "00-117",
+    "00-9290",
+    "00-5967",
+    "00-3042",
+    "00-3212",
+    "00-6676",
+    "00-6518",
+    "00-3131",
+    "00-3011",
+    "00-3259",
+    "00-3103",
+    "00-3044",
+    "00-3940",
+    "00-281",
+    "00-7539",
+    "00-3214",
+    "00-10",
+    "00-2313",
+    "00-2111",
+    "00-6745",
+    "00-7393",
+    "00-6197",
+    "00-2213",
+    "00-3688",
+    "00-6749",
+    "00-7245",
+    "00-1039",
+    "00-6353",
+    "00-6900",
+    "00-99202"
+  ],
+  "url": "/produkte/virginia-pfeffer-schinken/00-33429",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

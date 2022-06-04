@@ -1,0 +1,218 @@
+{
+  "articleGroupIds": [
+    "B2-6G3"
+  ],
+  "articleId": "00-14047",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-schlagschaum/00-14047",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-schlagschaum/00-14047",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9008200002504"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Glukosesirup, Fruktose, pflanzliche Öle (Palmkern, Palm), Emulgator E 472b, modifizierte Stärke, MILCHEIWEISS (inkl. LAKTOSE), Aroma, Farbstoff Carotin",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 80
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 50
+        }
+      ],
+      "name": "Gezuckertes Cremepulver auf Basis pflanzlicher Fette",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 130,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 543,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Sie fügen hinzu: 1/8 l Milch für 1 Beutel Cremepulver (ergibt 1/2 l Schlagschaum) Zubereitung: 1/8 l kalte Milch in ein hohes, schmales Gefäß geben, den Inhalt eines Beutels hinzufügen und mit der Milch verrühren. 2. Das Ganze mit einem elektrischen Handrührgerät (Rührbesen) auf höchster Stufe ca. 3 Minuten bis zur gewünschten Festigkeit schlagen. Hinweis: Bitte nur pasteurisierte oder abgekochte Milch verwenden. Zubereiteten Dr. Oetker Schlagschaum bis zum Verzehr lichtgeschützt und kühl aufbewahren (wie Frischmilch).",
+          "type": "Aufschlagen mit Schneebesen oder elektrischen Mixer - Lufteinschluss fuer Volumen und Stabilitaet"
+        }
+      ],
+      "storageHint": "Trocken und nicht über Zimmertemperatur lagern!"
+    }
+  ],
+  "grammage": "2 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 Stk .60"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Schlagschaum",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fixprodukte/basis-fuer-suesses/B2-6G3/produkte/dr-oetker-schlagschaum/00-14047"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 Stk .60"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 218540,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Schlagschaum online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Schlagschaum online bestellen | BILLA",
+  "slug": "dr-oetker-schlagschaum",
+  "storeAvalibility": [
+    "00-3780",
+    "00-7676",
+    "00-174",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-oetker-schlagschaum/00-14047",
+  "vatCode": "10",
+  "video": ""
+}

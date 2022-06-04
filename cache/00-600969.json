@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-4A",
+    "B2-F"
+  ],
+  "articleId": "00-600969",
+  "articleOnlyCanonicalPath": "/produkte/sepien-gegrillt/00-600969",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Medusa",
+  "canonicalPath": "/produkte/sepien-gegrillt/00-600969",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9002275393918",
+    "8001115037617"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Krebstiere und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Weichtiere und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Herrstellungsbetrieb von Via Mazzini, 62 - Ariano Polesine (RO)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Cesare Regnoli & Figlio srl",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Sepien 80%, Sonnenblumenöl, Weinessig, Salz, Fructose, Zitronensaft, natürliche Aromen. Konservierungsmittel: Kaliumsorbat. Kann Spuren von Fisch, Krustentieren, gluten-haltigem Getreide und Milch enthalten.",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 173
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Sepien gegrillte",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 99,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 418,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Packung nicht lochen; nach dem Öffnen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verbrauchen. Bei 0°C bis +4°C"
+    }
+  ],
+  "grammage": "150 g Stk",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.99,
+    "unit": "1 kg 46.60"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Sepien Gegrillt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fisch/B2-4A/produkte/sepien-gegrillt/00-600969",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/sepien-gegrillt/00-600969"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.99,
+    "unit": "1 kg 46.60"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Sepien Gegrillt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Sepien Gegrillt online bestellen | BILLA",
+  "slug": "sepien-gegrillt",
+  "storeAvalibility": [
+    "00-99202",
+    "00-174",
+    "00-10"
+  ],
+  "url": "/produkte/sepien-gegrillt/00-600969",
+  "vatCode": "10",
+  "video": ""
+}

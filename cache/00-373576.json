@@ -1,0 +1,417 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-6E7",
+    "B2-73"
+  ],
+  "articleId": "00-373576",
+  "articleOnlyCanonicalPath": "/produkte/be-kind-protein-caramel-nuss-riegel/00-373576",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Be-Kind",
+  "canonicalPath": "/produkte/be-kind-protein-caramel-nuss-riegel/00-373576",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "5000159527149"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, A-1200 Wien.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "KIND Int. Ltd.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2020-01-23T00:00:00",
+      "ingredients": "Zutaten: ERDNUSS, MANDELN, Überzug mit Karamellgeschmack (Oligofruktose, Palmkernöl, Zucker, VOLLMILCHPULVER, MAGERMILCHPULVER, fettarmes Kakaopulver, Emulgator (Sonnenblumenlecithin), Meersalz, natürliches Aroma), Glukosesirup, SOJAPROTEINKNUSPER (SOJAPROTEINISOLAT, Tapiokastärke, Meersalz), Honig, ERDNUSSBUTTER, Emulgator (SOJALECITHIN), karamellisierter Zucker. (Kann enthalten: andere NÜSSE).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 51.3
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 50
+        }
+      ],
+      "name": "Protein-Riegel mit gemischten Nüssen (55%), Erdnussbutter (4%) und einem Überzug mit Karamellgeschmack (14%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 524,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2181,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 34,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 9.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.29,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "50g",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1091,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 262,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken und bei Zimmertemperatur lagern *"
+    }
+  ],
+  "grammage": "50 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 51.80"
+  },
+  "maximalOrderQuantity": 42,
+  "minimalOrderQuantity": 0,
+  "name": "BE-KIND Protein Caramel Nuss Riegel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/be-kind-protein-caramel-nuss-riegel/00-373576",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/nahrungsergaenzung/B2-6E7/produkte/be-kind-protein-caramel-nuss-riegel/00-373576",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/be-kind-protein-caramel-nuss-riegel/00-373576"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 51.80"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 46930,
+  "recommendationArticleIds": [],
+  "seoDescription": "BE-KIND Protein Caramel Nuss Riegel online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "BE-KIND Protein Caramel Nuss Riegel online bestellen | BILLA",
+  "slug": "be-kind-protein-caramel-nuss-riegel",
+  "storeAvalibility": [
+    "00-6274",
+    "00-836",
+    "00-4932",
+    "00-3780",
+    "00-1913",
+    "00-2342",
+    "00-2840",
+    "00-309",
+    "00-2295",
+    "00-3445",
+    "00-3569",
+    "00-2259",
+    "00-1701",
+    "00-112",
+    "00-3405",
+    "00-7675",
+    "00-7860",
+    "00-3583",
+    "00-4783",
+    "00-521",
+    "00-4107",
+    "00-176",
+    "00-1455",
+    "00-7538",
+    "00-5003",
+    "00-7606",
+    "00-3259",
+    "00-4605",
+    "00-5531",
+    "00-4655",
+    "00-9894",
+    "00-4690",
+    "00-281",
+    "00-5359",
+    "00-4090",
+    "00-4551",
+    "00-702",
+    "00-115",
+    "00-5871",
+    "00-3431",
+    "00-2220",
+    "00-7920",
+    "00-2899",
+    "00-6138",
+    "00-7667",
+    "00-282",
+    "00-7536",
+    "00-6910",
+    "00-4755",
+    "00-117",
+    "00-1132",
+    "00-2808",
+    "00-7835",
+    "00-5104",
+    "00-2923",
+    "00-3688",
+    "00-6018",
+    "00-2369",
+    "00-7491",
+    "00-7857",
+    "00-6845",
+    "00-497",
+    "00-5603",
+    "00-2313",
+    "00-6001",
+    "00-1911",
+    "00-7676",
+    "00-703",
+    "00-3135",
+    "00-2154",
+    "00-119",
+    "00-5000",
+    "00-7336",
+    "00-99202",
+    "00-2204",
+    "00-1409",
+    "00-3014",
+    "00-7743",
+    "00-2111",
+    "00-3669",
+    "00-4779",
+    "00-3011",
+    "00-7600",
+    "00-355",
+    "00-720",
+    "00-7653",
+    "00-3120",
+    "00-10",
+    "00-4672",
+    "00-7592",
+    "00-4675",
+    "00-3125",
+    "00-3633",
+    "00-3121",
+    "00-3114",
+    "00-943",
+    "00-7075",
+    "00-2260",
+    "00-4225",
+    "00-823",
+    "00-133",
+    "00-950",
+    "00-4707",
+    "00-7393",
+    "00-3713",
+    "00-411",
+    "00-1425",
+    "00-7539",
+    "00-397",
+    "00-2201",
+    "00-987",
+    "00-3617",
+    "00-2238",
+    "00-1550",
+    "00-7629",
+    "00-3042",
+    "00-1003",
+    "00-6819",
+    "00-5027",
+    "00-1524",
+    "00-7642",
+    "00-3170",
+    "00-388"
+  ],
+  "url": "/produkte/be-kind-protein-caramel-nuss-riegel/00-373576",
+  "vatCode": "10",
+  "video": ""
+}

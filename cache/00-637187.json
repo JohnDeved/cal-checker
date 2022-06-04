@@ -1,0 +1,343 @@
+{
+  "articleGroupIds": [
+    "B2-686"
+  ],
+  "articleId": "00-637187",
+  "articleOnlyCanonicalPath": "/produkte/iliada-kalamata-oliven-ohne-kern/00-637187",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iliada",
+  "brandPath": "/marken/iliada",
+  "canonicalPath": "/produkte/iliada-kalamata-oliven-ohne-kern/00-637187",
+  "category": "Grundnahrungsmittel",
+  "description": "Iliada steht für hochwertige Oliven-Produkte aus Griechenland. Die entkernten Oliven stammen aus Kalamata und begeistern pur und als Zutat in vielen Gerichten.<li>köstliches Aroma<li>mit Salz in Rotweinessig eingelegt<li>Oliven ohne Kern",
+  "eanCodes": [
+    "5201043115293"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PROTECTED_DESIGNATION_OF_ORIGIN",
+              "valueTranslation": "GESCHÜTZTE URSPRUNGSANGABE (für landwirtschaftliche Produkte oder Nahrungsmittel)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Kalamata, Griechenland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "AGRO.VI.M S.A.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GRIECHENLAND"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Kalamata Oliven entkernt, Wasser, Rotweinessig, Salz",
+      "mandatoryIndicator": "Pasteurisiert",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 150
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 558
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Kalamata Oliven entkernt",
+      "nutritions": [
+        {
+          "householdPortion": "pro 100 ml",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 990,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 240,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 25.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und trocken aufbewahren",
+      "usageHints": "Je nach bedarf (des konsumenten)"
+    }
+  ],
+  "grammage": "300 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.24,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 2.59,
+    "priceAdditionalInfo": {
+      "vptxt": "je 2 Gläser billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "1PLUS1"
+      }
+    ],
+    "sale": 1.24,
+    "unit": "1 kg 4.13"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Iliada Kalamata Oliven ohne Kern",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686/produkte/iliada-kalamata-oliven-ohne-kern/00-637187"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.24,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 2.59,
+    "priceAdditionalInfo": {
+      "vptxt": "je 2 Gläser billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "1PLUS1"
+      }
+    ],
+    "sale": 1.24,
+    "unit": "1 kg 4.13"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 117700,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iliada Kalamata Oliven ohne Kern online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iliada Kalamata Oliven ohne Kern online bestellen | BILLA",
+  "slug": "iliada-kalamata-oliven-ohne-kern",
+  "storeAvalibility": [
+    "00-355",
+    "00-6248",
+    "00-7653",
+    "00-6740",
+    "00-6235",
+    "00-3032",
+    "00-7539",
+    "00-7860",
+    "00-4107",
+    "00-4925",
+    "00-4441",
+    "00-2675",
+    "00-3394",
+    "00-7114",
+    "00-1032",
+    "00-6130",
+    "00-8360",
+    "00-3143",
+    "00-4655",
+    "00-6108",
+    "00-3979",
+    "00-3011",
+    "00-1911",
+    "00-3146",
+    "00-2287",
+    "00-8012",
+    "00-9225",
+    "00-4225",
+    "00-9290",
+    "00-1529",
+    "00-2338",
+    "00-7584",
+    "00-4170",
+    "00-8433",
+    "00-7606",
+    "00-5945",
+    "00-3871",
+    "00-2154",
+    "00-3506",
+    "00-2364",
+    "00-1071",
+    "00-1041",
+    "00-4605",
+    "00-4912",
+    "00-3023",
+    "00-10",
+    "00-3860",
+    "00-7857",
+    "00-3633",
+    "00-4551",
+    "00-2223",
+    "00-2260",
+    "00-4283",
+    "00-4524",
+    "00-4881",
+    "00-3780",
+    "00-6819",
+    "00-783",
+    "00-2342",
+    "00-3681",
+    "00-7075",
+    "00-2148",
+    "00-1132",
+    "00-6487",
+    "00-281",
+    "00-7017",
+    "00-1198",
+    "00-99202",
+    "00-3105",
+    "00-1913",
+    "00-3308",
+    "00-4783",
+    "00-323",
+    "00-2111",
+    "00-3512",
+    "00-2923",
+    "00-3452",
+    "00-3947",
+    "00-4421",
+    "00-4690",
+    "00-4078",
+    "00-8895",
+    "00-4707",
+    "00-2222",
+    "00-3617",
+    "00-6910",
+    "00-3735",
+    "00-6011",
+    "00-6024",
+    "00-6554",
+    "00-4478",
+    "00-2045",
+    "00-4982",
+    "00-7546",
+    "00-3700",
+    "00-4834",
+    "00-521",
+    "00-6864",
+    "00-1457",
+    "00-6219",
+    "00-350",
+    "00-6845",
+    "00-3114",
+    "00-4675",
+    "00-5108",
+    "00-3601",
+    "00-8022",
+    "00-4932",
+    "00-4674",
+    "00-2261",
+    "00-4126",
+    "00-4249",
+    "00-225",
+    "00-4226",
+    "00-4350",
+    "00-3501",
+    "00-4779",
+    "00-4059",
+    "00-2213",
+    "00-7665",
+    "00-1550",
+    "00-720",
+    "00-2100"
+  ],
+  "url": "/produkte/iliada-kalamata-oliven-ohne-kern/00-637187",
+  "vatCode": "10",
+  "video": ""
+}

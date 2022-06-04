@@ -1,0 +1,233 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-517127",
+  "articleOnlyCanonicalPath": "/produkte/firefly-kiwi-lime-und-mint/00-517127",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Firefly",
+  "canonicalPath": "/produkte/firefly-kiwi-lime-und-mint/00-517127",
+  "category": "Getränke",
+  "description": "Etwas Besonderes: ein Erfrischungsgetränk mit floralen Aromen. Firefly Kiwi, Lime & Mint bringt Fruchtsaft mit dezenten Jasmin-, Minz- und Rosmarin-Aromen zusammen.<li>ohne Kohlensäure<li>enthält verschiedene Fruchtsäfte, darunter Traubensaft<li>mit Jasmin- und Limonenblüten-Extrakten",
+  "eanCodes": [
+    "5060066441105"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "WS10 0BU",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Purity Soft Drinks Ltd.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.fireflydrinks.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2020-02-11T00:00:00",
+      "ingredients": "Zutaten: Wasser,  Fruchtsaft aus Fruchtsaftkonzentrat: Weiße Traube (46,7%), Ananas (4.7%), trüber Apfel (4.3%), trübe Limette (2.5%), Kiwi (1.4%), Jasmin- & Limettenblütenextrakt (0.03%), natürliches Minzaroma, natürliches Rosmarinaroma, andere natürliche Aromastoffe.",
+      "marketingMessage": "firefly - revitalising Juice Drinks",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 552
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Stilles Fruchtsaftgetränk aus Kiwi, Limone und Minze mit Kräuterextrakten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 36.5,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 155,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt innerhalb von 24 Stunden nach dem Öffnen verbrauchen. Mindestens haltbar bis Ende: siehe Flaschenhals",
+      "usageHints": "Gut schütteln."
+    }
+  ],
+  "grammage": "330 ml Flasche (Einweg)",
+  "grammageBadge": "330 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 6.64"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Firefly Kiwi, Lime & Mint",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/firefly-kiwi-lime-und-mint/00-517127"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 6.64"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 80900,
+  "recommendationArticleIds": [
+    "00-665750"
+  ],
+  "seoDescription": "Firefly Kiwi, Lime & Mint online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Firefly Kiwi, Lime & Mint online bestellen | BILLA",
+  "slug": "firefly-kiwi-lime-und-mint",
+  "storeAvalibility": [
+    "00-2260",
+    "00-2223",
+    "00-471",
+    "00-3042",
+    "00-2111",
+    "00-388",
+    "00-3214",
+    "00-836",
+    "00-10",
+    "00-2342",
+    "00-2238",
+    "00-174",
+    "00-3082",
+    "00-950",
+    "00-281",
+    "00-2675",
+    "00-3146",
+    "00-6676",
+    "00-2808",
+    "00-3206",
+    "00-2261",
+    "00-282",
+    "00-119",
+    "00-3027",
+    "00-2190",
+    "00-5078",
+    "00-2170",
+    "00-99202"
+  ],
+  "url": "/produkte/firefly-kiwi-lime-und-mint/00-517127",
+  "vatCode": "20",
+  "video": ""
+}

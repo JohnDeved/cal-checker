@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-485"
+  ],
+  "articleId": "00-441275",
+  "articleOnlyCanonicalPath": "/produkte/ablinger-haussulz/00-441275",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Ablinger",
+  "brandPath": "/marken/ablinger",
+  "canonicalPath": "/produkte/ablinger-haussulz/00-441275",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9002707322707"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "F.X. Grimm Strasse 3, A-5110 Oberndorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Franz Ablinger & Co Fleischhauereibetrieb GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.ablinger.co.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-07-22T00:00:00",
+      "ingredients": "ZUTATEN: 50% Schweinekopffleisch*, Trinkwasser, Schweinegelatine, 3% Karotten, 3% Erbsen, Weingeistessig, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Zucker, Antioxidationsmittel: Ascorbinsäure, Säuerungsmittel: Citronensäure, Speisewürzen, Gewürzextrakte.\n* aus Österreich und Deutschland",
+      "marketingMessage": "Aus Tradition das Beste",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 260
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Haussulze gekocht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 120,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 499,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 14,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Schweinekopffleisch aus Österreich und Deutschland",
+      "preperations": [],
+      "storageHint": "Gekühlt bei +2° bis +7°C\nmindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Produkt nach dem Öffnen ehestmöglich verbrauchen. 15 Minuten vor dem Verzehr öffnen!"
+    }
+  ],
+  "grammage": "250 g Packung",
+  "grammageBadge": "250 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 11.56"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ablinger Haussulz",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurstspezialitaeten/B2-485/produkte/ablinger-haussulz/00-441275"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 11.56"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 55390,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ablinger Haussulz online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ablinger Haussulz online bestellen | BILLA",
+  "slug": "ablinger-haussulz",
+  "storeAvalibility": [],
+  "url": "/produkte/ablinger-haussulz/00-441275",
+  "vatCode": "10",
+  "video": ""
+}

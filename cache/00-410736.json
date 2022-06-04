@@ -1,0 +1,244 @@
+{
+  "articleGroupIds": [
+    "B2-742",
+    "B2-741"
+  ],
+  "articleId": "00-410736",
+  "articleOnlyCanonicalPath": "/produkte/vaya-sweet-potato-rosemary-snack/00-410736",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Zweifel",
+  "brandPath": "/marken/zweifel",
+  "canonicalPath": "/produkte/vaya-sweet-potato-rosemary-snack/00-410736",
+  "category": "Süßes & Salziges",
+  "description": "Der ausgewogene Snack auf Süsskartoffel-Basis gewinnt mit einem Hauch von Rosmarin, einem hohen Anteil an reichhaltigen Ballaststoffen sowie 40% weniger Fett.",
+  "eanCodes": [
+    "7610095241009"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Zweifelstrasse 5, CH-8957 Spreitenbach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Zweifel Pomy-Chips AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "Consumer Service: (+41) 0800 44 22 11",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2021-03-08T00:00:00",
+      "ingredients": "Reismehl, Süsskartoffelwürfel 13%, grüne Erbsen 13%, Sonnenblumenöl, schwarze Bohnen 9%, Tapiokastärke, Süsskartoffelpulver 7%, Kartoffelgranulat, Kartoffelflocken, Kartoffelstärke, Salz, Süsskartoffeln violett, Farbstoff (Annatto), Rosmarin, Petersilie, Antioxidationsmittel (Rosmarinextrakt). Kann Spuren von SOJA und GLUTEN enthalten.",
+      "marketingMessage": "Der ausgewogene Snack auf Süsskartoffel-Basis (20%) gewinnt mit einem Hauch von Rosmarin, einem hohen Anteil an reichhaltigen Ballaststoffen sowie 40% weniger Fett.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.08
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.075
+        }
+      ],
+      "name": "Snack mit Süsskartoffeln, Erbsen und Bohnen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1777,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 422,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 68,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.75,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern, vor Wärme schützen."
+    }
+  ],
+  "grammage": "75 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "100 g 3.32"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Vaya Sweet Potato Rosemary Snack",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/knabbereien/B2-742/produkte/vaya-sweet-potato-rosemary-snack/00-410736",
+    "~/warengruppe/suesses-und-salziges/chips-und-co/chips/B2-741/produkte/vaya-sweet-potato-rosemary-snack/00-410736"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "100 g 3.32"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 200792,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vaya Sweet Potato Rosemary Snack online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vaya Sweet Potato Rosemary Snack online bestellen | BILLA",
+  "slug": "vaya-sweet-potato-rosemary-snack",
+  "storeAvalibility": [
+    "00-7857",
+    "00-4551",
+    "00-7653",
+    "00-3143",
+    "00-7204",
+    "00-2015",
+    "00-4675",
+    "00-7393",
+    "00-3234",
+    "00-3157",
+    "00-2109",
+    "00-2342",
+    "00-1911",
+    "00-4707",
+    "00-3206",
+    "00-1457",
+    "00-7860",
+    "00-4655",
+    "00-9290",
+    "00-4107",
+    "00-7114",
+    "00-1027",
+    "00-3780",
+    "00-2045",
+    "00-4126",
+    "00-6910",
+    "00-7368",
+    "00-783",
+    "00-99202",
+    "00-3507",
+    "00-3023",
+    "00-2154",
+    "00-4249",
+    "00-3114",
+    "00-3146",
+    "00-3118",
+    "00-4779",
+    "00-3709",
+    "00-1529",
+    "00-7606",
+    "00-4690",
+    "00-10",
+    "00-2098",
+    "00-355",
+    "00-3617"
+  ],
+  "url": "/produkte/vaya-sweet-potato-rosemary-snack/00-410736",
+  "vatCode": "10",
+  "video": ""
+}

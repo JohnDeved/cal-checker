@@ -1,0 +1,271 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-668386",
+  "articleOnlyCanonicalPath": "/produkte/alex-family-schokomilch/00-668386",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Alex",
+  "canonicalPath": "/produkte/alex-family-schokomilch/00-668386",
+  "category": "Kühlwaren",
+  "description": "Die feine Schokomilch von Alex Family in der kunterbunten Verpackung mit der Maus sorgt für gute Laune beim Trinkgenuss.<li>hergestellt aus Milch mit 1,5 % Fett<li>ultrahocherhitzt und homogenisiert",
+  "eanCodes": [
+    "9004584020608"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SalzburgMilch GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.milch.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: MILCH mit 1,5 % Fett, Zucker, 2,1 % Schokoladepulver (Kakaopulver*, Zucker, Aroma (Vanillin)), VOLLMILCHPULVER, Stabilisator: Carrageen. *1,5 % im Endprodukt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.0957
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Schokolademilch aus Milch mit 1,5 % Fett, ultrahocherhitzt, homogenisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 71,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 300,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "1 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Alex Family Schokomilch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/alex-family-schokomilch/00-668386"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 49680,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alex Family Schokomilch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alex Family Schokomilch online bestellen | BILLA",
+  "slug": "alex-family-schokomilch",
+  "storeAvalibility": [
+    "00-5454",
+    "00-5031",
+    "00-5112",
+    "00-5381",
+    "00-5226",
+    "00-5363",
+    "00-8953",
+    "00-5067",
+    "00-5165",
+    "00-5447",
+    "00-6001",
+    "00-5945",
+    "00-5082",
+    "00-5000",
+    "00-5737",
+    "00-5104",
+    "00-5405",
+    "00-8441",
+    "00-5552",
+    "00-5414",
+    "00-5199",
+    "00-99202",
+    "00-5108",
+    "00-6366",
+    "00-5359",
+    "00-5322",
+    "00-5290",
+    "00-5027",
+    "00-4813",
+    "00-5529",
+    "00-5003",
+    "00-5181",
+    "00-5306",
+    "00-5078",
+    "00-6845",
+    "00-6895",
+    "00-6910",
+    "00-5531",
+    "00-5223",
+    "00-5962",
+    "00-5391"
+  ],
+  "url": "/produkte/alex-family-schokomilch/00-668386",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,238 @@
+{
+  "articleGroupIds": [
+    "B2-453",
+    "B2-F"
+  ],
+  "articleId": "00-507670",
+  "articleOnlyCanonicalPath": "/produkte/andros-so-good-so-veggie-vanille/00-507670",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Andros",
+  "canonicalPath": "/produkte/andros-so-good-so-veggie-vanille/00-507670",
+  "category": "Kühlwaren",
+  "description": "Die Andros SO GOOD So Veggie Joghurt Alternative aus Kokosmilch harmoniert perfekt mit dem süß-würzigen, natürlichen Vanille-Aroma und sorgt daher für ein tolles, cremiges Geschmackserlebnis.<br>Der Andros SO GOOD So Veggie Vanille ist nicht nur pur ein Genuss, sondern bildet auch die perfekte Grundlage für kreative oder ganz einfache Dessert- und Müsli-Variationen. Ob Erdbeeren, Bananen, Trauben oder Äpfel - deine Lieblingsfrüchte lassen sich nach Herzenslust mit dieser veganen Joghurt Alternative auf Kokosmilchbasis kombinieren.",
+  "eanCodes": [
+    "4250950102675"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "64747 Breuberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "ODW Frischprodukte GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.androssogoodsoveggie.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-07-12T00:00:00",
+      "ingredients": "Zutaten: Fettreduzierte Kokosnussmilch (64%) (Wasser, Kokosnussextrakt), Wasser, Zucker, modifizierte Stärke, Maisstärke, Zitronensaftkonzentrat, natürliches Vanille-Aroma, gemahlene extrahierte Vanilleschoten, Erbsenprotein, Calciumphosphate, Saflorkonzentrat, Meersalz, Säuerungskulturen. \nKann Spuren von Soja, Schalenfrüchten und Gluten enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 419
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Fermentiertes Kokosnussmilchprodukt mit Vanille",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 403,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 96,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei max. +8°C mindestens haltbar bis: siehe Oberseite"
+    }
+  ],
+  "grammage": "400 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 4.98"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Andros So Good So Veggie Vanille",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/andros-so-good-so-veggie-vanille/00-507670",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/andros-so-good-so-veggie-vanille/00-507670"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 4.98"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Andros So Good So Veggie Vanille online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Andros So Good So Veggie Vanille online bestellen | BILLA",
+  "slug": "andros-so-good-so-veggie-vanille",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/andros-so-good-so-veggie-vanille/00-507670",
+  "vatCode": "10",
+  "video": ""
+}

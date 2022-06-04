@@ -1,0 +1,254 @@
+{
+  "articleGroupIds": [
+    "B2-317"
+  ],
+  "articleId": "00-707192",
+  "articleOnlyCanonicalPath": "/produkte/evian3/00-707192",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Evian",
+  "canonicalPath": "/produkte/evian3/00-707192",
+  "category": "Getränke",
+  "description": "Das Evian Mineralwasser verzichtet auf zusätzliche Inhaltsstoffe. So gelangt nur klares, natürliches Wasser in jede einzelne Flasche, was es so gut bekömmlich macht.<li>natürliches Mineralwasser<li>ohne Kohlensäure<li>ohne künstliche Zusatzstoffe",
+  "eanCodes": [
+    "3068320014067"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Leutschenbachstr. 95, 8050 Zürich, Schweiz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Evian Volvic Suisse",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.evian.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2016-07-11T00:00:00",
+      "mandatoryIndicator": "Quelle Cachat-S.A.E.M.E, 74500 Evian, France",
+      "marketingMessage": "Auf seiner 15 Jahre waehrenden Reise, im Herzen der franzoesischen Alpen durch uralte Gletscher\ngefiltert, erhaelt evian langsam aber stetig seine einzigartig ausgewogene Mineralisierung. Ohne\nKohlensaeure,  natuerlich rein und natriumarm.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.81
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Zentiliter",
+          "value": 75
+        }
+      ],
+      "name": "Natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 6.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 6.8,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 1,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 80,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 26,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 360,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kieselerde",
+              "nutritionalValue": 15,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Nitrat",
+              "nutritionalValue": 3.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 12.6,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Sonnenlicht geschützt, trocken, kühl und sauber lagern.",
+      "sustenanceClaim": "Abdampfrückstand 180°C: 309/mg/l - pH = 7,2"
+    }
+  ],
+  "grammage": "0.75 l Flasche (Einweg)",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "1 l 2.25"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Evian",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/evian3/00-707192"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "1 l 2.25"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 53960,
+  "recommendationArticleIds": [],
+  "seoDescription": "Evian online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Evian online bestellen | BILLA",
+  "slug": "evian3",
+  "storeAvalibility": [
+    "00-3005",
+    "00-6676",
+    "00-8185",
+    "00-6018",
+    "00-10",
+    "00-5359",
+    "00-3044",
+    "00-6130",
+    "00-7969",
+    "00-2342",
+    "00-281",
+    "00-3120",
+    "00-7602",
+    "00-8243",
+    "00-1017",
+    "00-220",
+    "00-5414",
+    "00-7603",
+    "00-3234",
+    "00-119",
+    "00-8417",
+    "00-5067",
+    "00-3042",
+    "00-3384",
+    "00-570",
+    "00-3780",
+    "00-5165",
+    "00-176",
+    "00-8395",
+    "00-4466",
+    "00-99202",
+    "00-7539",
+    "00-290",
+    "00-115",
+    "00-2313",
+    "00-4078",
+    "00-4551",
+    "00-6138",
+    "00-7609",
+    "00-5108",
+    "00-2923",
+    "00-6001",
+    "00-5078",
+    "00-5290",
+    "00-174"
+  ],
+  "url": "/produkte/evian3/00-707192",
+  "vatCode": "20",
+  "video": ""
+}

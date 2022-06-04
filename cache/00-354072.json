@@ -1,0 +1,196 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-354072",
+  "articleOnlyCanonicalPath": "/produkte/coconut-collaborative-natur/00-354072",
+  "attributes": [
+    "s_marke",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Coconut Collaborative",
+  "canonicalPath": "/produkte/coconut-collaborative-natur/00-354072",
+  "category": "Kühlwaren",
+  "description": "<li>Lecker-cremige und natürliche Joghurt-Alternative<li>Aus 95% Kokosnuss und Lebendkulturen<li>Köstlich und vielseitig, z.B. in deiner Frühstücksbowl oder in einem cremigen Curry</li>",
+  "eanCodes": [
+    "4008338004000"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hans-Böckler-Straße 17, 30851 Langenhagen, Germany",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "fresh & store warehouse GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "BELGIEN"
+      ],
+      "fromDate": "2019-08-16T00:00:00",
+      "ingredients": "Zutaten: Kokosmilch 71% (Kokosfruchtfleisch, Kokoswasser, Wasser), Kokoswasser 24%, Maisstärke, Kartoffelstärke,\nStabilisator: Pektin*; Kulturen: S. thermophilus, L. bulgaricus, L. acidophilus, Bifidobacterium lactis. * Aus Früchten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 367.8
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Kokoszubereitung Natur",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 125,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 519,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Bei +2 bis +7 C° mindestens haltbar bis: Siehe Deckel"
+    }
+  ],
+  "grammage": "350 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 10.83"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Coconut Collaborative Natur",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/coconut-collaborative-natur/00-354072"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 10.83"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Coconut Collaborative Natur online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Coconut Collaborative Natur online bestellen | BILLA",
+  "slug": "coconut-collaborative-natur",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/coconut-collaborative-natur/00-354072",
+  "vatCode": "10",
+  "video": ""
+}

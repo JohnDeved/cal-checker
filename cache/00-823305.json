@@ -1,0 +1,220 @@
+{
+  "articleGroupIds": [
+    "B2-6D4"
+  ],
+  "articleId": "00-823305",
+  "articleOnlyCanonicalPath": "/produkte/ramsa-estragon-senf/00-823305",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Ramsa",
+  "canonicalPath": "/produkte/ramsa-estragon-senf/00-823305",
+  "category": "Grundnahrungsmittel",
+  "description": "Österreichs beliebter Ramsa Estragon Senf wird aus gelben Senfkörnern hergestellt. Er passt zu Wurst und Fleisch und verleiht Dressings eine würzige Note.<li>enthält hausgemachten Kräuteressig aus frischem Estragon<li>würziger, leicht scharfer Geschmack",
+  "eanCodes": [
+    "9001439008200"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1140 Wien, Albert-Schweitzer-G. 6/C",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Senfspezialitäten Ramsa-Wolf GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@ramsa-wolf.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, SENFSAAT, Weingeistessig, Salz, Kräuter, Gewürze, Süßungsmittel Saccharin, Farbstoff E101.",
+      "mandatoryIndicator": "mit Süßungsmittel",
+      "marketingMessage": "Estragonsenf ist die beliebteste Senfsorte der Österreicher. Der Geschmack ist würzig, aber nicht zu scharf, das Aussehen hellgelb und glatt. Seit 2009 wird das benötigte gelbe Senfkorn für Produkte aus dem Hause Ramsa-Wolf ausschließlich in Österreich angebaut. Dadurch kann nicht nur das Bedürfnis der Kunden nach Regionalität gestillt, sondern auch die österreichische Landwirtschaft gefördert werden.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 109
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Estragonsenf",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 99,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 410,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Wärmegeschützt lagern. Nach dem Öffnen gekühlt lagern."
+    }
+  ],
+  "grammage": "100 Gramm Tube",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 kg 7.90"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Ramsa Estragon Senf",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/saucen-und-dressings/senf-und-kren/B2-6D4/produkte/ramsa-estragon-senf/00-823305"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 kg 7.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 63500,
+  "recommendationArticleIds": [
+    "00-722627"
+  ],
+  "seoDescription": "Ramsa Estragon Senf online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ramsa Estragon Senf online bestellen | BILLA",
+  "slug": "ramsa-estragon-senf",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/ramsa-estragon-senf/00-823305",
+  "vatCode": "10",
+  "video": ""
+}

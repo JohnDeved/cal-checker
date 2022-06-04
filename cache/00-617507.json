@@ -1,0 +1,202 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-370"
+  ],
+  "articleId": "00-617507",
+  "articleOnlyCanonicalPath": "/produkte/voss-still/00-617507",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Voss",
+  "canonicalPath": "/produkte/voss-still/00-617507",
+  "category": "Getränke",
+  "description": "Das natürliche Mineralwasser Voss Still wird einer ursprünglichen, reinen Gebirgsquelle entnommen. Die handliche Flasche ist ideal für unterwegs.<li>enthält nur wenig Natrium",
+  "eanCodes": [
+    "0682430611737"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Isekai 1a, 20249 Hamburg, Deutschland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Columbus Drinks GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@columbus-drinks.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "+49 (0) 40 41 42 41 299",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+49 (0) 40 41 42 41 20",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "http://columbus-drinks.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "NORWEGEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Natürliches Mineralwasser",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 690
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 375
+        }
+      ],
+      "name": "Natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 1.2,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 0.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 0.1,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "375 ml Flasche (Einweg)",
+  "grammageBadge": "375 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 5.31"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Voss Still",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/voss-still/00-617507",
+    "~/warengruppe/getraenke/mineralwasser/still/B2-370/produkte/voss-still/00-617507"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 5.31"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 83130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Voss Still online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Voss Still online bestellen | BILLA",
+  "slug": "voss-still",
+  "storeAvalibility": [
+    "00-10",
+    "00-6676",
+    "00-119",
+    "00-176",
+    "00-388",
+    "00-2342",
+    "00-174",
+    "00-3780",
+    "00-99202",
+    "00-5078",
+    "00-281",
+    "00-3700"
+  ],
+  "url": "/produkte/voss-still/00-617507",
+  "vatCode": "20",
+  "video": ""
+}

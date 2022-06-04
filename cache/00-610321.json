@@ -1,0 +1,215 @@
+{
+  "articleGroupIds": [
+    "B2-993"
+  ],
+  "articleId": "00-610321",
+  "articleOnlyCanonicalPath": "/produkte/rorax-rohrfrei-granulat/00-610321",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rorax",
+  "brandPath": "/marken/rorax",
+  "canonicalPath": "/produkte/rorax-rohrfrei-granulat/00-610321",
+  "category": "Haushalt",
+  "description": "Das Rorax Rohrfrei Granulat sorgt für eine kraftvolle Rohrreinigung. Ablagerungen und unangenehme Gerüche werden gelöst, ohne Rohre und Dichtungen zu schädigen.<li>speziell entwickelte Bio-Safe-Rezeptur<li>ohne Chlor<li>unbedenklich für Gewässer dank schneller Abbaubarkeit, zu 99 % biologisch",
+  "eanCodes": [
+    "4001499185243",
+    "4001499186905"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "TRUE"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P305+P351+P338"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P302+P335+P334"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P280"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P260"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P102"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen. Sofort GIFTINFORMATIONSZENTRUM/Arzt anrufen."
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "DANGER",
+              "valueTranslation": "Gefahr"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "CORROSION",
+              "valueTranslation": "Ätzwirkung (GHS05) - Ätzend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H318"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5400 Hallein, Neualmerstrasse 13",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Erdal GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-03-02T00:00:00",
+      "ingredients": "<5% anionische Tenside",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 669
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 600
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "600 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.39,
+    "unit": "1 kg 8.98"
+  },
+  "maximalOrderQuantity": 10,
+  "minimalOrderQuantity": 0,
+  "name": "Rorax Rohrfrei Granulat",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/wc--und-badreiniger/B2-993/produkte/rorax-rohrfrei-granulat/00-610321"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.39,
+    "unit": "1 kg 8.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 206910,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rorax Rohrfrei Granulat online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rorax Rohrfrei Granulat online bestellen | BILLA",
+  "slug": "rorax-rohrfrei-granulat",
+  "storeAvalibility": [
+    "00-3780",
+    "00-10",
+    "00-7653",
+    "00-7075",
+    "00-99202"
+  ],
+  "url": "/produkte/rorax-rohrfrei-granulat/00-610321",
+  "vatCode": "20",
+  "video": ""
+}

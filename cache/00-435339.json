@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-752"
+  ],
+  "articleId": "00-435339",
+  "articleOnlyCanonicalPath": "/produkte/salzburg-schokolade-kokosrollen/00-435339",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Salzburg Schokolade",
+  "canonicalPath": "/produkte/salzburg-schokolade-kokosrollen/00-435339",
+  "category": "Süßes & Salziges",
+  "description": "Die saftigen Salzburg Schokolade Kokosrollen sind eine typisch österreichische Nascherei, die schon unseren Eltern süße Genuss-Momente beschert hat.<li>gefüllte Röllchen, mit Kokos umhüllt<li>hergestellt in Österreich<li>in verschiedenen Farben und Geschmacks-Richtungen",
+  "eanCodes": [
+    "9025900501205"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hauptstraße 14, A-5082 Grödig",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Salzburg Schokolade GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Zucker, Kokosraspeln (25%), Glukosesirup, Feuchthaltemittel (Sorbitsirup, Invertase), fettarmer Kakao, natürliches Aroma, Salz, Säuerungsmittel (Zitronensäure), Farbstoff (E120).\nKann Spuren von Gluten, Milchbestandteilen, Soja, Erdnüssen und Schalenfrüchten enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 130
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 120
+        }
+      ],
+      "name": "Kokos-Rollen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 428,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1798,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 67,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 59,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "öffnen und genießen",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Wärme schützen und trocken lagern."
+    }
+  ],
+  "grammage": "120 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "100 g 1.41"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Salzburg Schokolade Kokosrollen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/schokoriegel/B2-752/produkte/salzburg-schokolade-kokosrollen/00-435339"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "100 g 1.41"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 103380,
+  "recommendationArticleIds": [
+    "00-586031"
+  ],
+  "seoDescription": "Salzburg Schokolade Kokosrollen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Salzburg Schokolade Kokosrollen online bestellen | BILLA",
+  "slug": "salzburg-schokolade-kokosrollen",
+  "storeAvalibility": [
+    "00-355",
+    "00-10",
+    "00-350",
+    "00-7539",
+    "00-2045",
+    "00-783",
+    "00-99202",
+    "00-6130",
+    "00-7017",
+    "00-4707",
+    "00-7075",
+    "00-9225",
+    "00-4551"
+  ],
+  "url": "/produkte/salzburg-schokolade-kokosrollen/00-435339",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,298 @@
+{
+  "articleGroupIds": [
+    "B2-441"
+  ],
+  "articleId": "00-500614",
+  "articleOnlyCanonicalPath": "/produkte/gusteria-erdaepfelkas/00-500614",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Gusteria",
+  "canonicalPath": "/produkte/gusteria-erdaepfelkas/00-500614",
+  "category": "Kühlwaren",
+  "description": "So schnell. So gut. Das Original aus Österreich! 100% ohne. Eferdinger Landl - Erdäpfel direkt vom Bauern",
+  "eanCodes": [
+    "9006037003336"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4055 Pucking",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Concept Fresh Vertriebsgesellschaft mbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.gusteria.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-12-09T00:00:00",
+      "ingredients": "Zutaten: 53% Erdäpfel*, 37% FRISCHKÄSE* 70% Fett i. Tr., Zwiebel, Speisesalz*, Pfeffer  *aus österreichischer Produktion",
+      "marketingMessage": "Gusteria Erdäpflkas - ein altbekannter und  äußerst beliebter Jausenaufstrich aus Österreich kommt jetzt in einer noch cremigeren Rezeptur! Für die Herstellung werden ausschließlich Kartoffeln und Zwiebeln der Eferdinger Landl Erdäpflbauern verwendet. Und Dank der trendgerechten Verpackung mit wiederverschließbarem Deckel ist eine optimale Aufbewahrung immer gewährleistet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.21575
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Brotaufstrich wärmebehandelt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 140,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 581,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt bei +4 - +8°C mindestens haltbar bis: siehe Deckel",
+      "sustenanceClaim": "Ohne Zusatz von Bindemitteln, Konservierungsstoffen, künstlichen Aromen, Geschmacksverstärkern, Pflanzenfett, Gelatine und Farbstoffen!",
+      "usageHints": "Geöffnete Packung innerhalb von 2 - 3 Tagen aufbrauchen"
+    }
+  ],
+  "grammage": "200 g Stk",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 kg 9.45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Gusteria Erdäpfelkas",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441/produkte/gusteria-erdaepfelkas/00-500614"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 kg 9.45"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Gusteria Erdäpfelkas online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gusteria Erdäpfelkas online bestellen | BILLA",
+  "slug": "gusteria-erdaepfelkas",
+  "storeAvalibility": [
+    "00-3326",
+    "00-4690",
+    "00-4200",
+    "00-4126",
+    "00-4655",
+    "00-4756",
+    "00-4700",
+    "00-4925",
+    "00-3196",
+    "00-4059",
+    "00-4270",
+    "00-4440",
+    "00-4840",
+    "00-4099",
+    "00-3560",
+    "00-4225",
+    "00-4605",
+    "00-4912",
+    "00-4619",
+    "00-4881",
+    "00-4673",
+    "00-4540",
+    "00-4001",
+    "00-4076",
+    "00-4847",
+    "00-4838",
+    "00-4755",
+    "00-4675",
+    "00-4813",
+    "00-4879",
+    "00-4469",
+    "00-3135",
+    "00-5777",
+    "00-4524",
+    "00-3322",
+    "00-4489",
+    "00-4748",
+    "00-4478",
+    "00-4107",
+    "00-4982",
+    "00-4660",
+    "00-4104",
+    "00-4952",
+    "00-5871",
+    "00-9589",
+    "00-3420",
+    "00-3378",
+    "00-4170",
+    "00-4021",
+    "00-4421",
+    "00-4016",
+    "00-4513",
+    "00-4779",
+    "00-4146",
+    "00-4945",
+    "00-4441",
+    "00-4674",
+    "00-4283",
+    "00-4249",
+    "00-4407",
+    "00-4707",
+    "00-4424",
+    "00-4932",
+    "00-4003",
+    "00-4601",
+    "00-5967",
+    "00-4350",
+    "00-4028",
+    "00-99202"
+  ],
+  "url": "/produkte/gusteria-erdaepfelkas/00-500614",
+  "vatCode": "10",
+  "video": ""
+}

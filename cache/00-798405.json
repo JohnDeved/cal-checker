@@ -1,0 +1,802 @@
+{
+  "articleGroupIds": [
+    "B2-6G1"
+  ],
+  "articleId": "00-798405",
+  "articleOnlyCanonicalPath": "/produkte/knorr-basis-fuer-ueberbackene-schinkenfleckerl/00-798405",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Knorr",
+  "brandPath": "/marken/knorr",
+  "canonicalPath": "/produkte/knorr-basis-fuer-ueberbackene-schinkenfleckerl/00-798405",
+  "category": "Grundnahrungsmittel",
+  "description": "Mit dieser Knorr Basis lässt sich eine wunderbare Soße für überbackene Schinkenfleckerl zubereiten. Sie enthält natürliche Gewürze.<li>mit Meersalz<li>ohne Farbstoffe oder Zusatz von Geschmacksverstärkern<li>auch als Basis für vegetarische Gerichte geeignet<li>mit nachhaltig angebauten Zwiebeln",
+  "eanCodes": [
+    "9000275642418",
+    "9000275486814"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "INGREDIENTS_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 10, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-19T00:00:00",
+      "ingredients": "Zutaten: Palmöl, WEIZENMEHL, Stärke, 16% Zwiebeln², EIGELBPULVER, jodiertes Speisesalz, Glukosesirup, MILCHEIWEISS, Petersilie², Hefeextrakt, Würze, Kochsalzersatz³, Gewürze (Pfeffer, Muskatnuss, Curcuma), Zucker, Speisesalz, Zitronensaftpulver. Kann andere glutenhaltige Getreide, Soja, Sellerie und Senf enthalten. ²aus nachhaltigem Anbau. ³gewonnen aus natürlichen Kaliummineralien.",
+      "marketingMessage": "Mit den KNORR Basis Produkten begeistern Sie Ihre ganze Familie mit Leichtigkeit: Die beliebte Würzbasis sorgt für den typischen Geschmack der Gerichte und spart wertvolle Zeit beim Würzen und Abschmecken.  Die beliebten Schinkenfleckerl gelingen ganz einfach und köstliche mit unserer Basis. Sie brauchen dazu nur noch Fleckerl, Käse, Schinken und etwas Öl",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.067
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 63
+        }
+      ],
+      "name": "Basis für Überbackene Schinkenfleckerln",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 795,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 190,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "Was Sie dazu brauchen: 150 g Nudeln (z.B. Fleckerln oder Farfalle), 150 g mageren Schinken, 50 g geriebenen Käse (16% Fett, z.B. Gouda oder Edamer), und 2 EL Öl Zubereitung: 1) Schinken in Würfel schneiden und in einem Kochtopf in 2 EL Öl anbraten. Mit ½ Liter Wasser aufgießen, Beutelinhalt einrühren und zum Kochen bringen. 2) Nudeln dazu geben und 2 Minuten mitkochen lassen. 3) Masse in einer gefetteten Auflaufform (ca. 30x16 cm) verteilen und glatt streichen. Mit Käse bestreuen und im vorgeheizten Backrohr bei 220°C (Umluft: 200°C) ca. 15 Minuten goldbraun backen. Wir empfehlen dazu einen bunten Salat.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "sustenanceClaim": "% der Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal), 3 Portionen, Das Produkt ist auch geeignet für vegetarische Gerichte, z.B. für ein Gemüsegratin mit Nudeln. Rezeptideen und Informationen zum nachhaltigen Anbau unter , ohne Farbstoffe und ohne Konservierungsstoffe lt. Gesetz, ohne geschmacksverstärkende Zusatzstoffe, Portion, Produkt wie verkauft, zubereitetes Produkt gemäß Zubereitungsanleitung"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "INGREDIENTS_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 10, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-17T00:00:00",
+      "ingredients": "Zutaten: Palmöl, WEIZENMEHL, Stärke, 16% Zwiebeln², EIGELBPULVER, jodiertes Speisesalz, Glukosesirup, MILCHEIWEISS, Petersilie², Hefeextrakt, Würze, Kochsalzersatz³, Gewürze (Pfeffer, Muskatnuss, Curcuma), Zucker, Speisesalz, Zitronensaftpulver. Kann andere glutenhaltige Getreide, Soja, Sellerie und Senf enthalten. ²aus nachhaltigem Anbau. ³gewonnen aus natürlichen Kaliummineralien.",
+      "marketingMessage": "Mit den KNORR Basis Produkten begeistern Sie Ihre ganze Familie mit Leichtigkeit: Die beliebte Würzbasis sorgt für den typischen Geschmack der Gerichte und spart wertvolle Zeit beim Würzen und Abschmecken.  Die beliebten Schinkenfleckerl gelingen ganz einfach und köstliche mit unserer Basis. Sie brauchen dazu nur noch Fleckerl, Käse, Schinken und etwas Öl",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.067
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 63
+        }
+      ],
+      "name": "Basis für Überbackene Schinkenfleckerln",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 795,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 190,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "Was Sie dazu brauchen: 150 g Nudeln (z.B. Fleckerln oder Farfalle), 150 g mageren Schinken, 50 g geriebenen Käse (16% Fett, z.B. Gouda oder Edamer), und 2 EL Öl Zubereitung: 1) Schinken in Würfel schneiden und in einem Kochtopf in 2 EL Öl anbraten. Mit ½ Liter Wasser aufgießen, Beutelinhalt einrühren und zum Kochen bringen. 2) Nudeln dazu geben und 2 Minuten mitkochen lassen. 3) Masse in einer gefetteten Auflaufform (ca. 30x16 cm) verteilen und glatt streichen. Mit Käse bestreuen und im vorgeheizten Backrohr bei 220°C (Umluft: 200°C) ca. 15 Minuten goldbraun backen. Wir empfehlen dazu einen bunten Salat.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "sustenanceClaim": "% der Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal), 3 Portionen, Das Produkt ist auch geeignet für vegetarische Gerichte, z.B. für ein Gemüsegratin mit Nudeln. Rezeptideen und Informationen zum nachhaltigen Anbau unter , ohne Farbstoffe und ohne Konservierungsstoffe lt. Gesetz, ohne geschmacksverstärkende Zusatzstoffe, Portion, Produkt wie verkauft, zubereitetes Produkt gemäß Zubereitungsanleitung"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "INGREDIENTS_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 10, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-06-03T00:00:00",
+      "ingredients": "Zutaten: Palmöl, WEIZENMEHL, Stärke, 16% Zwiebeln², EIGELBPULVER, jodiertes Speisesalz, Glukosesirup, MILCHEIWEISS, Petersilie², Hefeextrakt, Würze, Kochsalzersatz³, Gewürze (Pfeffer, Muskatnuss, Curcuma), Zucker, Speisesalz, Zitronensaftpulver. Kann andere glutenhaltige Getreide, Soja, Sellerie und Senf enthalten. ²aus nachhaltigem Anbau. ³gewonnen aus natürlichen Kaliummineralien.",
+      "marketingMessage": "Mit den KNORR Basis Produkten begeistern Sie Ihre ganze Familie mit Leichtigkeit: Die beliebte Würzbasis sorgt für den typischen Geschmack der Gerichte und spart wertvolle Zeit beim Würzen und Abschmecken.  Die beliebten Schinkenfleckerl gelingen ganz einfach und köstliche mit unserer Basis. Sie brauchen dazu nur noch Fleckerl, Käse, Schinken und etwas Öl. Was Sie dazu brauchen: 150 g Fleckerln oder andere Teigwaren (ungekocht), 150 g Schinken, 50 g geriebenen Käse (z.B. Gouda, Edamer) und 3 EL Öl Zubereitung: 1) Kleinwürfelig geschnittenen Schinken in 3 EL Öl in einem Kochtopf anbraten, mit 1/2 Liter Wasser aufgießen, Beutelinhalt einrühren und zum Kochen bringen. 2) Ungekochte Teigwaren dazugeben und kurz weiterkochen lassen. 3) Masse in einer befetteten Auflaufform (ca. 30x16 cm) verteilen und glattstreichen. Mit Käse bestreuen und im vorgeheizten Backrohr bei 220°C ca. 15 Minuten goldbraun backen. Wir empfehlen dazu einen bunten Salat. Mit den Knorr Basis Produkten begeistern Sie I",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.067
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 63
+        }
+      ],
+      "name": "Basis für Überbackene Schinkenfleckerln",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 795,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 190,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "Was Sie dazu brauchen: 150 g Nudeln (z.B. Fleckerln oder Farfalle), 150 g mageren Schinken, 50 g geriebenen Käse (16% Fett, z.B. Gouda oder Edamer), und 2 EL Öl Zubereitung: 1) Schinken in Würfel schneiden und in einem Kochtopf in 2 EL Öl anbraten. Mit ½ Liter Wasser aufgießen, Beutelinhalt einrühren und zum Kochen bringen. 2) Nudeln dazu geben und 2 Minuten mitkochen lassen. 3) Masse in einer gefetteten Auflaufform (ca. 30x16 cm) verteilen und glatt streichen. Mit Käse bestreuen und im vorgeheizten Backrohr bei 220°C (Umluft: 200°C) ca. 15 Minuten goldbraun backen. Wir empfehlen dazu einen bunten Salat.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "sustenanceClaim": "% der Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal), 3 Portionen, Das Produkt ist auch geeignet für vegetarische Gerichte, z.B. für ein Gemüsegratin mit Nudeln. Rezeptideen und Informationen zum nachhaltigen Anbau unter , ohne Farbstoffe und ohne Konservierungsstoffe lt. Gesetz, ohne geschmacksverstärkende Zusatzstoffe, Portion, Produkt wie verkauft, zubereitetes Produkt gemäß Zubereitungsanleitung"
+    }
+  ],
+  "grammage": "1 Packung Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Knorr Basis für Überbackene Schinkenfleckerl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fixprodukte/basisfixprodukte/B2-6G1/produkte/knorr-basis-fuer-ueberbackene-schinkenfleckerl/00-798405"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 77600,
+  "recommendationArticleIds": [],
+  "seoDescription": "Knorr Basis für Überbackene Schinkenfleckerl online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Knorr Basis für Überbackene Schinkenfleckerl online bestellen",
+  "slug": "knorr-basis-fuer-ueberbackene-schinkenfleckerl",
+  "storeAvalibility": [
+    "00-1212",
+    "00-7676",
+    "00-6424",
+    "00-3501",
+    "00-3005",
+    "00-3001",
+    "00-6588",
+    "00-6975",
+    "00-4847",
+    "00-6688",
+    "00-2100",
+    "00-3735",
+    "00-6496",
+    "00-6559",
+    "00-6932",
+    "00-2111",
+    "00-350",
+    "00-6724",
+    "00-8953",
+    "00-4513",
+    "00-3118",
+    "00-6492",
+    "00-6740",
+    "00-1032",
+    "00-7075",
+    "00-7733",
+    "00-1107",
+    "00-7229",
+    "00-7547",
+    "00-6749",
+    "00-5003",
+    "00-8606",
+    "00-3063",
+    "00-9290",
+    "00-6480",
+    "00-1900",
+    "00-3349",
+    "00-3042",
+    "00-3506",
+    "00-3062",
+    "00-3580",
+    "00-4107",
+    "00-4932",
+    "00-6533",
+    "00-2313",
+    "00-3326",
+    "00-5104",
+    "00-7368",
+    "00-5552",
+    "00-4952",
+    "00-7245",
+    "00-1117",
+    "00-8012",
+    "00-4350",
+    "00-8946",
+    "00-9589",
+    "00-6684",
+    "00-5082",
+    "00-6745",
+    "00-3688",
+    "00-8441",
+    "00-6810",
+    "00-8085",
+    "00-6022",
+    "00-9308",
+    "00-3114",
+    "00-3780",
+    "00-3094",
+    "00-1120",
+    "00-1455",
+    "00-6916",
+    "00-7082",
+    "00-2261",
+    "00-3420",
+    "00-4078",
+    "00-1425",
+    "00-2301",
+    "00-6897",
+    "00-3253",
+    "00-7358",
+    "00-7592",
+    "00-7975",
+    "00-6235",
+    "00-7041",
+    "00-9639",
+    "00-2220",
+    "00-6021",
+    "00-6051",
+    "00-3363",
+    "00-6760",
+    "00-4170",
+    "00-4090",
+    "00-1041",
+    "00-3321",
+    "00-2223",
+    "00-4565",
+    "00-7653",
+    "00-2222",
+    "00-4690",
+    "00-7139",
+    "00-4226",
+    "00-9688",
+    "00-2208",
+    "00-2907",
+    "00-7120",
+    "00-1476",
+    "00-3022",
+    "00-7114",
+    "00-4675",
+    "00-4016",
+    "00-1099",
+    "00-7616",
+    "00-3822",
+    "00-6439",
+    "00-3983",
+    "00-4104",
+    "00-4945",
+    "00-6255",
+    "00-5108",
+    "00-3744",
+    "00-4146",
+    "00-1132",
+    "00-4655",
+    "00-3700",
+    "00-2543",
+    "00-7940",
+    "00-7232",
+    "00-1016",
+    "00-5027",
+    "00-1198",
+    "00-4424",
+    "00-7491",
+    "00-3135",
+    "00-3025",
+    "00-3860",
+    "00-2840",
+    "00-2131",
+    "00-6884",
+    "00-3617",
+    "00-3105",
+    "00-6490",
+    "00-6024",
+    "00-2154",
+    "00-2170",
+    "00-5290",
+    "00-2011",
+    "00-3394",
+    "00-9753",
+    "00-8235",
+    "00-3157",
+    "00-4672",
+    "00-99202",
+    "00-6928",
+    "00-7539",
+    "00-3143",
+    "00-2098",
+    "00-4783",
+    "00-4813",
+    "00-3150",
+    "00-5447",
+    "00-1121",
+    "00-7535",
+    "00-4270",
+    "00-3125",
+    "00-9225",
+    "00-3512",
+    "00-4551",
+    "00-1136",
+    "00-3819",
+    "00-6805",
+    "00-209",
+    "00-823",
+    "00-220",
+    "00-7224",
+    "00-6489",
+    "00-3940",
+    "00-3445",
+    "00-3681",
+    "00-4925",
+    "00-6845",
+    "00-3740",
+    "00-3507",
+    "00-10",
+    "00-6799",
+    "00-2342",
+    "00-6823",
+    "00-3027",
+    "00-6979",
+    "00-1479",
+    "00-7566",
+    "00-1114",
+    "00-7675",
+    "00-7606",
+    "00-3379",
+    "00-5603",
+    "00-4674",
+    "00-1524",
+    "00-6864",
+    "00-6840",
+    "00-7084",
+    "00-6353",
+    "00-1457",
+    "00-6219",
+    "00-3713",
+    "00-3146",
+    "00-4838",
+    "00-7544",
+    "00-7629",
+    "00-3010",
+    "00-2190",
+    "00-6877",
+    "00-1207",
+    "00-3023",
+    "00-2109",
+    "00-7721",
+    "00-6197",
+    "00-9030",
+    "00-4779",
+    "00-4440",
+    "00-9415",
+    "00-7969",
+    "00-4283",
+    "00-6628",
+    "00-6910",
+    "00-6372",
+    "00-3669",
+    "00-3212",
+    "00-4421",
+    "00-7336",
+    "00-3140",
+    "00-7759",
+    "00-7980",
+    "00-7783",
+    "00-6895",
+    "00-1550",
+    "00-3601",
+    "00-2156",
+    "00-6843",
+    "00-7860",
+    "00-7062",
+    "00-5871",
+    "00-7743",
+    "00-6871",
+    "00-3259",
+    "00-7758",
+    "00-4605",
+    "00-4021",
+    "00-3856",
+    "00-3709",
+    "00-8530",
+    "00-1128"
+  ],
+  "url": "/produkte/knorr-basis-fuer-ueberbackene-schinkenfleckerl/00-798405",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,203 @@
+{
+  "articleGroupIds": [
+    "B2-6A3"
+  ],
+  "articleId": "00-215295",
+  "articleOnlyCanonicalPath": "/produkte/vorarlberger-pizzamehl/00-215295",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Vorarlberger Mehl",
+  "canonicalPath": "/produkte/vorarlberger-pizzamehl/00-215295",
+  "category": "Grundnahrungsmittel",
+  "description": "Pizza selber machen mit natürlichen Zutaten: Das Vorarlberger Pizzamehl ist die perfekte Grundlage für Pizzateig nach originalen Rezepten.<li>aus Weizenmehl, Type 480<li>ohne Gentechnik produziert<li>ideal für den perfekten Pizzateig",
+  "eanCodes": [
+    "9002982000413"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "OHNE_GEN_TECHNIK",
+              "valueTranslation": "OHNE GENTECHNIK (kontrolliert von VLOG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6800 Feldkirch Reichsstraße 139",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberger Mühlen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL Type 480",
+      "marketingMessage": "AUF BESTES GELINGEN",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1009
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "PizzaMehl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 344,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1442,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 72,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [
+        {
+          "instruction": "Original italienischer Pizzateig, Rezept für 4 Personen:\n400 g Vorarlberger Pizzamehl mit 1 Päckchen Trockenhefer und 1 gehäuften Teelöffel Salz sorgfältig mischen, etwa 250 ml lauwarmes Wasser zugeben und mit einem Kochlöffel verrühren. Die Teigmasse etwas 10 Minuten gut durchkneten - bis sie nicht mehr klebt, sondern weich und geschmeidig ist. Den Teig zugedeckt mind. 30 Minuten gehen lassen, dann auf die befettete Pizzaform oder das Backblech geben. Die fertig belegte Pizza für etwa 20 - 30 Minuten knusprig backen. (Heißluft: 15 Minuten bei 190 Grad anschließend 5 Minuten bei 170 Grad)\nNur selbst gemacht schmeckt wie selbst gemacht.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Bei Raumtemperatur und trockener Lagerung mindestens haltbar bis:",
+      "usageHints": "Zubereitungsanweisung lt. Verpackung"
+    }
+  ],
+  "grammage": "1 Kilogramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Vorarlberger Pizzamehl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/vorarlberger-pizzamehl/00-215295"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 45620,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vorarlberger Pizzamehl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vorarlberger Pizzamehl online bestellen | BILLA",
+  "slug": "vorarlberger-pizzamehl",
+  "storeAvalibility": [
+    "00-8530",
+    "00-8395",
+    "00-8409",
+    "00-99202",
+    "00-8400"
+  ],
+  "url": "/produkte/vorarlberger-pizzamehl/00-215295",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,229 @@
+{
+  "articleGroupIds": [
+    "B2-311"
+  ],
+  "articleId": "00-574248",
+  "articleOnlyCanonicalPath": "/produkte/emmi-caffe-latte-double-zero/00-574248",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Emmi",
+  "brandPath": "/marken/emmi",
+  "canonicalPath": "/produkte/emmi-caffe-latte-double-zero/00-574248",
+  "category": "Getränke",
+  "description": "Der Emmi CAFFÈ LATTE Double Zero kommt mit Super-Null-Status. Null zugesetzter Zucker. Null Süssungsmittel. Null Laktose. Dafür viel Geschmack für alle Kaffee-Puristen und Geniesser in geheimer Mission. Unsere Verzehrempfehlung: geschüttelt, nicht gerührt.</li>",
+  "eanCodes": [
+    "7610900016259"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Im Teelbruch122, D-45219 Essen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Emmi Deutschland GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "facebook.com/emmicaffelatte",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.emmi-caffelatte.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 82% MILCH laktosefrei, 18% Arabica-Kaffee, Stabilisator (E339), Verdickungsmittel Carrageen, Laktase. Koffeingehalt: 110mg pro Becher.",
+      "marketingMessage": "zero sugar added\n\n\n\nzero sweeteners\n\n\n\nlactosefree",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 230
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 230
+        }
+      ],
+      "name": "Milchmischerzeugnis aus Milch mit frisch gebrühtem Kaffee, mit 2,5% Fett im Milchanteil, laktosefrei. Wärmebehandelt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 47,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 198,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Schweiz",
+      "preperations": [],
+      "storageHint": "bei +8°C mindestens haltbar bis: siehe Deckel",
+      "sustenanceClaim": "Restlaktosegehalt: <0,01g/100ml. Enthält von Natur aus Zucker."
+    }
+  ],
+  "grammage": "230 ml Becher (Einweg)",
+  "grammageBadge": "230 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.91"
+  },
+  "maximalOrderQuantity": 50,
+  "minimalOrderQuantity": 0,
+  "name": "Emmi Caffè Latte Double Zero",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311/produkte/emmi-caffe-latte-double-zero/00-574248"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.91"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "rank": 99060,
+  "recommendationArticleIds": [],
+  "seoDescription": "Emmi Caffè Latte Double Zero online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Emmi Caffè Latte Double Zero online bestellen | BILLA",
+  "slug": "emmi-caffe-latte-double-zero",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/emmi-caffe-latte-double-zero/00-574248",
+  "vatCode": "20",
+  "video": ""
+}

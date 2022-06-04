@@ -1,0 +1,425 @@
+{
+  "articleGroupIds": [
+    "B2-533"
+  ],
+  "articleId": "00-348635",
+  "articleOnlyCanonicalPath": "/produkte/iglo-spinat-feta-knoedel/00-348635",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-spinat-feta-knoedel/00-348635",
+  "category": "Tiefkühl",
+  "description": "Tiefkühlen ist eine natürliche Methode der Haltbarmachung - ohne Zusatz von Konservierungsmitteln",
+  "eanCodes": [
+    "9008695959024"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Erdäpfel, Spinat 34%, WEIZENMEHL, WEIZENGRIEß, FETA KÄSE 8%, VOLLMILCH, EI, Knoblauch, Speisesalz jodiert (Salz, Kaliumjodid), Sonnenblumenöl, Pfeffer, Rindsuppe (Speisesalz, Stärke, Rindfleischextrakt, Zucker, Sonnenblumenöl, Zwiebeln, Karotten, Karamellzucker, Tomaten, SELLERIE, Lauch, Maltodextrin, Petersilie, Knoblauch, Gewürzextrakt), Muskatnuss.",
+      "marketingMessage": "Mit dem Marchfelder Spinatknödel bringt Iglo eine klassische vegetarische Knödelvariante: herzhafte Semmelknödel mit Marchfelder Spinat und würzigem Käse- sorgfältig in Österreich hergestellt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 420
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Spinat-Feta Knödel, 4 Stück, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 685,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 163,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1370,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 326,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 50,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Zubereitung im Kochtopf: Iglo Spinat-Feta Knödel noch tiefgekühlt in siedendes, leicht gesalzenes Wasser einlegen und nach neuerlichem Aufwallen nicht zugedeckt ca. 22-24 Minuten leicht köcheln lassen. Während des Kochens mehrmals umrühren.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        },
+        {
+          "instruction": "Zubereitung im Dampfgarer: Die Knödel unaufgetaut auf einen befetteten Locheinsatz geben und ca. 22-24 Minuten bei 100°C dämpfen.",
+          "type": "Dampfgaren-Zubereitung unter Druck in versiegelten Gefaess ohne Entweichen von Dampf"
+        }
+      ],
+      "storageHint": "Aufbewahrung zu Hause:\n\n***-Fach der Tiefkühltruhe (bei minus 18°C oder kälter) mindestens haltbar bis Ende: siehe Aufdruck\n\n**-Fach: 2 Wochen\n\n*-Fach oder Eiswürfelfach: 1-3 Tage",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\n\n\n\nTipp: Servieren Sie die Iglo Spinat-Feta Knödel mit frischem Tomatensalat."
+    }
+  ],
+  "grammage": "400 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 8.73"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Spinat-Feta-Knödel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/knoedel-und-beilagen/B2-533/produkte/iglo-spinat-feta-knoedel/00-348635"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 8.73"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 119110,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Spinat-Feta-Knödel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Spinat-Feta-Knödel online bestellen | BILLA",
+  "slug": "iglo-spinat-feta-knoedel",
+  "storeAvalibility": [
+    "00-3709",
+    "00-4655",
+    "00-4690",
+    "00-4090",
+    "00-3062",
+    "00-3059",
+    "00-3055",
+    "00-6353",
+    "00-7368",
+    "00-9209",
+    "00-7424",
+    "00-3005",
+    "00-4912",
+    "00-3617",
+    "00-3857",
+    "00-4756",
+    "00-7114",
+    "00-4078",
+    "00-7653",
+    "00-3445",
+    "00-4466",
+    "00-4748",
+    "00-3512",
+    "00-6676",
+    "00-7245",
+    "00-6011",
+    "00-4440",
+    "00-3047",
+    "00-3744",
+    "00-3118",
+    "00-3105",
+    "00-3050",
+    "00-8946",
+    "00-7606",
+    "00-5603",
+    "00-2201",
+    "00-7743",
+    "00-6864",
+    "00-1070",
+    "00-1108",
+    "00-9753",
+    "00-4783",
+    "00-3384",
+    "00-4283",
+    "00-3042",
+    "00-6843",
+    "00-2259",
+    "00-3212",
+    "00-3860",
+    "00-1425",
+    "00-3780",
+    "00-7075",
+    "00-7358",
+    "00-823",
+    "00-3740",
+    "00-2131",
+    "00-8426",
+    "00-2306",
+    "00-7204",
+    "00-4441",
+    "00-8940",
+    "00-7139",
+    "00-4605",
+    "00-2220",
+    "00-2011",
+    "00-7393",
+    "00-2313",
+    "00-1826",
+    "00-6760",
+    "00-9030",
+    "00-2111",
+    "00-7223",
+    "00-6724",
+    "00-6021",
+    "00-3580",
+    "00-3379",
+    "00-7766",
+    "00-4879",
+    "00-2223",
+    "00-4270",
+    "00-2204",
+    "00-2045",
+    "00-6884",
+    "00-9183",
+    "00-1198",
+    "00-9290",
+    "00-9894",
+    "00-3711",
+    "00-7860",
+    "00-5552",
+    "00-7082",
+    "00-10",
+    "00-4421",
+    "00-5962",
+    "00-3253",
+    "00-6910",
+    "00-6281",
+    "00-6219",
+    "00-1417",
+    "00-2808",
+    "00-1107",
+    "00-1710",
+    "00-3234",
+    "00-7616",
+    "00-1132",
+    "00-3114",
+    "00-6745",
+    "00-6928",
+    "00-6424",
+    "00-3120",
+    "00-4834",
+    "00-4016",
+    "00-3027",
+    "00-8085",
+    "00-2098",
+    "00-950",
+    "00-3856",
+    "00-2342",
+    "00-7336",
+    "00-2287",
+    "00-6024",
+    "00-7084",
+    "00-6975",
+    "00-3011",
+    "00-3713",
+    "00-6304",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-spinat-feta-knoedel/00-348635",
+  "vatCode": "10",
+  "video": ""
+}

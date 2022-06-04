@@ -1,0 +1,267 @@
+{
+  "articleGroupIds": [
+    "B2-6E2",
+    "B2-6B2",
+    "B2-6E3"
+  ],
+  "articleId": "00-888423",
+  "articleOnlyCanonicalPath": "/produkte/verival-bio-erdbeer-chia-porridge-glutenfrei/00-888423",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Verival",
+  "brandPath": "/marken/verival",
+  "canonicalPath": "/produkte/verival-bio-erdbeer-chia-porridge-glutenfrei/00-888423",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9004617066580"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "allergyIndicator": "glutenfrei",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Sportplatzweg 7, 6336 Langkampfen, ÖSTERREICH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vita+ Naturprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-04-01T00:00:00",
+      "ingredients": "ZUTATEN: Vollkorn-Haferschrot* glutenfrei 74%, Datteln* geschnitten (Datteln* 97%, Reismehl*), Apfelwürfel*, MANDELN* gehackt und geröstet, Erdbeeren* 3%, Chiasamen* üSalvia Hispanicaü 3%, Leinsaat* braun. * Aus kontrolliert biologischem Anbau.",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 376
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Grundmischung zur Zubereitung eines Haferbreies mit Erdbeeren und Chia aus kontrolliert biologischem Anbau",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1563,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 372,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Herkunft Hafer: EU",
+      "preperations": [
+        {
+          "instruction": "50 g Porridge (6 EL) in einer Schüssel mit ca.110 ml (je nach gewünschter Sämigkeit) kochendem Wasser oder 90 ml heißer Milch übergießen, umrühren, 3 Minuten quellen lassen und warm genießen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Vor Wärme und Feuchtigkeit schützen",
+      "usageHints": "Vor Wärme und Feuchtigkeit schützen"
+    }
+  ],
+  "grammage": "350 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 14.26"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Verival Bio Erdbeer Chia Porridge Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/verival-bio-erdbeer-chia-porridge-glutenfrei/00-888423",
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/verival-bio-erdbeer-chia-porridge-glutenfrei/00-888423",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/laktosefrei/B2-6E3/produkte/verival-bio-erdbeer-chia-porridge-glutenfrei/00-888423"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 14.26"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Verival Bio Erdbeer Chia Porridge Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Verival Bio Erdbeer Chia Porridge Glutenfrei online bestellen",
+  "slug": "verival-bio-erdbeer-chia-porridge-glutenfrei",
+  "storeAvalibility": [
+    "00-3114",
+    "00-4779",
+    "00-4107",
+    "00-3780",
+    "00-2369",
+    "00-4675",
+    "00-355",
+    "00-7860",
+    "00-4655",
+    "00-99202",
+    "00-7606",
+    "00-7653",
+    "00-2342",
+    "00-7857",
+    "00-4605",
+    "00-10",
+    "00-4690",
+    "00-3617"
+  ],
+  "url": "/produkte/verival-bio-erdbeer-chia-porridge-glutenfrei/00-888423",
+  "vatCode": "10",
+  "video": ""
+}

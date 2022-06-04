@@ -1,0 +1,442 @@
+{
+  "articleGroupIds": [
+    "B2-244",
+    "B2-6E2"
+  ],
+  "articleId": "00-627860",
+  "articleOnlyCanonicalPath": "/produkte/schaer-bon-matin-glutenfrei/00-627860",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schär",
+  "brandPath": "/marken/schaer",
+  "canonicalPath": "/produkte/schaer-bon-matin-glutenfrei/00-627860",
+  "category": "Brot & Gebäck",
+  "description": "Bon Matin von Schär bietet glutenfreien Genuss zum Frühstück oder als Snack zwischendurch. Die süßen Brötchen schmecken pur und mit Aufstrichen köstlich.<li>verzehrfertiges Produkt<li>aus Reismehl<li>mit pflanzlichen Fetten<li>enthält Ei",
+  "eanCodes": [
+    "8008698001059"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "EI, SOJA, LUPINE, SENF",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Winkelau 9 - 39014 Burgstall / Postal (BZ) - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Dr. Schär AG / SPA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-04-23T00:00:00",
+      "ingredients": "Zutaten: Reismehl, Maisstärke, Wasser, Zucker, EI, Reisstärke, pflanzliche Margarine (Palmfett, Wasser, Rapsöl, Salz, Emulgator: Mono- und Diglyceride von Speisefettsäuren; Säuerungsmittel: Zitronensäure; natürliches Aroma), Glukosesirup, pflanzliche Faser (Psyllium), Verdickungsmittel: Guarkernmehl, Hydroxypropylmethylcellulose; Hefe, Emulgator: Mono- und Diglyzeride von Speisefettsäuren; Salz, Säuerungsmittel: Zitronensäure; Aroma. Kann Spuren von SOJA, LUPINEN und SENF enthalten",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 212
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Glutenfreie süße Brötchen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1181,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 280,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 50,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.59,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Kühl und trocken lagern.",
+      "sustenanceClaim": "Glutenfrei, Weizenfrei, Laktosefrei"
+    }
+  ],
+  "grammage": "200 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 12.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schär Bon Matin Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/kuchen-und-co/striezel-brioche-und-croissants/B2-244/produkte/schaer-bon-matin-glutenfrei/00-627860",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/schaer-bon-matin-glutenfrei/00-627860"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 12.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 67900,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schär Bon Matin Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schär Bon Matin Glutenfrei online bestellen | BILLA",
+  "slug": "schaer-bon-matin-glutenfrei",
+  "storeAvalibility": [
+    "00-3143",
+    "00-836",
+    "00-3055",
+    "00-5962",
+    "00-7629",
+    "00-1631",
+    "00-3560",
+    "00-1409",
+    "00-4834",
+    "00-3735",
+    "00-4932",
+    "00-5363",
+    "00-9332",
+    "00-1710",
+    "00-4690",
+    "00-6424",
+    "00-176",
+    "00-2213",
+    "00-7592",
+    "00-7600",
+    "00-4912",
+    "00-1114",
+    "00-1132",
+    "00-323",
+    "00-7606",
+    "00-330",
+    "00-3681",
+    "00-2045",
+    "00-350",
+    "00-1041",
+    "00-3118",
+    "00-7336",
+    "00-1003",
+    "00-703",
+    "00-3114",
+    "00-4675",
+    "00-9225",
+    "00-3234",
+    "00-2260",
+    "00-388",
+    "00-1550",
+    "00-3512",
+    "00-367",
+    "00-720",
+    "00-1529",
+    "00-3010",
+    "00-2342",
+    "00-112",
+    "00-1120",
+    "00-1455",
+    "00-3860",
+    "00-3405",
+    "00-4421",
+    "00-225",
+    "00-3105",
+    "00-133",
+    "00-7866",
+    "00-3822",
+    "00-4540",
+    "00-220",
+    "00-7860",
+    "00-943",
+    "00-3510",
+    "00-6533",
+    "00-3025",
+    "00-4779",
+    "00-3830",
+    "00-7368",
+    "00-1750",
+    "00-289",
+    "00-4126",
+    "00-1943",
+    "00-1425",
+    "00-3157",
+    "00-10",
+    "00-1002",
+    "00-7857",
+    "00-1128",
+    "00-249",
+    "00-3501",
+    "00-7114",
+    "00-987",
+    "00-6011",
+    "00-5223",
+    "00-2218",
+    "00-6724",
+    "00-411",
+    "00-6051",
+    "00-6281",
+    "00-7075",
+    "00-3063",
+    "00-430",
+    "00-3121",
+    "00-4756",
+    "00-3979",
+    "00-3445",
+    "00-7084",
+    "00-3688",
+    "00-5082",
+    "00-3042",
+    "00-4672",
+    "00-2222",
+    "00-329",
+    "00-3617",
+    "00-4249",
+    "00-2223",
+    "00-6740",
+    "00-1524",
+    "00-2899",
+    "00-355",
+    "00-6588",
+    "00-7358",
+    "00-7665",
+    "00-282",
+    "00-6819",
+    "00-6372",
+    "00-1532",
+    "00-4605",
+    "00-4655",
+    "00-6910",
+    "00-2369",
+    "00-521",
+    "00-6024",
+    "00-6975",
+    "00-3601",
+    "00-3032",
+    "00-7539",
+    "00-7536",
+    "00-99202",
+    "00-6108",
+    "00-3780",
+    "00-6219",
+    "00-3633",
+    "00-2840",
+    "00-2364",
+    "00-8012",
+    "00-497",
+    "00-4478",
+    "00-6022",
+    "00-5027",
+    "00-115",
+    "00-4551",
+    "00-604",
+    "00-3506",
+    "00-7653",
+    "00-2259",
+    "00-4674",
+    "00-7602",
+    "00-3044",
+    "00-783",
+    "00-1649",
+    "00-2675",
+    "00-3857",
+    "00-9498",
+    "00-3023",
+    "00-281",
+    "00-309",
+    "00-2201",
+    "00-4441",
+    "00-4482",
+    "00-3011",
+    "00-3150",
+    "00-2261",
+    "00-3713",
+    "00-3606",
+    "00-3744",
+    "00-9290",
+    "00-239",
+    "00-7759",
+    "00-2208",
+    "00-3125",
+    "00-7393",
+    "00-9308",
+    "00-4707",
+    "00-771",
+    "00-1913",
+    "00-9894",
+    "00-3322",
+    "00-3700",
+    "00-3308",
+    "00-702",
+    "00-4925",
+    "00-6864",
+    "00-1457",
+    "00-6554",
+    "00-3146",
+    "00-2808",
+    "00-7920",
+    "00-2109",
+    "00-4755",
+    "00-4982",
+    "00-2923",
+    "00-3709",
+    "00-4283",
+    "00-6823",
+    "00-7538",
+    "00-6845",
+    "00-4945",
+    "00-8433",
+    "00-3947",
+    "00-6480"
+  ],
+  "url": "/produkte/schaer-bon-matin-glutenfrei/00-627860",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,235 @@
+{
+  "articleGroupIds": [
+    "B2-317"
+  ],
+  "articleId": "00-858403",
+  "articleOnlyCanonicalPath": "/produkte/volvic-mineralwasser/00-858403",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Volvic",
+  "canonicalPath": "/produkte/volvic-mineralwasser/00-858403",
+  "category": "Getränke",
+  "description": "Das stille Mineralwasser wird durch vulkanische Gesteinsschichten gefiltert und ist angenehm zu trinken. Seine Inhaltsstoffe sind für Baby-Gerichte geeignet.<li>für die Zubereitung von Babynahrung geeignet",
+  "eanCodes": [
+    "3057640100178"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Leutschenbachstr. 95, 8050 Zürich, Schweiz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Evian-Volvic Suisse S.A.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.volvic.ch",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2016-07-11T00:00:00",
+      "mandatoryIndicator": "Clairvic, Société des Eaux de Volvic\n63530 Volvic France",
+      "marketingMessage": "Volvic - die Kraft der Vulkane! Volvic, das natuerliche stille Mineralwasser, entspringt in einem\nder groeßten Naturschutzgebiete Europas - in der Vulkanlandschaft der Auvergne - im Herzen\nFrankreichs. Gefiltert durch sechs Gesteinsschichten erhaelt Volvic seine spezifische\nMineralisierung. Volvic nimmt so das Gute aus der Natur auf und gibt es an den Koerper weiter.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.58
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 15,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 8,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 74,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kieselerde",
+              "nutritionalValue": 32,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Nitrat",
+              "nutritionalValue": 6.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 9,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern sowie vor direkter Sonneneinstrahlung schützen",
+      "sustenanceClaim": "Abdampfrückstand 180°C: 309/mg/l - pH = 7,2"
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 l .93"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Volvic Mineralwasser",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/volvic-mineralwasser/00-858403"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 l .93"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 109360,
+  "recommendationArticleIds": [
+    "00-868687"
+  ],
+  "seoDescription": "Volvic Mineralwasser online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Volvic Mineralwasser online bestellen | BILLA",
+  "slug": "volvic-mineralwasser",
+  "storeAvalibility": [
+    "00-2342",
+    "00-3780",
+    "00-5737",
+    "00-5454",
+    "00-10",
+    "00-5306",
+    "00-388",
+    "00-99202",
+    "00-6138",
+    "00-8185",
+    "00-5078"
+  ],
+  "url": "/produkte/volvic-mineralwasser/00-858403",
+  "vatCode": "20",
+  "video": ""
+}

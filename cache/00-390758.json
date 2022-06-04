@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-211"
+  ],
+  "articleId": "00-390758",
+  "articleOnlyCanonicalPath": "/produkte/reschundfrisch-kaeseweckerl-3er/00-390758",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Resch&Frisch",
+  "brandPath": "/marken/reschfrisch",
+  "canonicalPath": "/produkte/reschundfrisch-kaeseweckerl-3er/00-390758",
+  "category": "Brot & Gebäck",
+  "eanCodes": [
+    "9006366110071"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schloßstraße 14, 4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Resch&Frisch Holding GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-12-15T00:00:00",
+      "ingredients": "Zutaten: Mehl (WEIZEN, ROGGEN), KÄSE 45% F.i.T. (24%), Wasser, Backhefe,\nSpeisesalz, WEIZENMALZMEHL, getrockneter\nWEIZENNATURSAUERTEIG, Dextrose. Kann Spuren von Soja und Sesam\nenthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 225
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 225
+        }
+      ],
+      "name": "Käseweckerl, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1277,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 305,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 43.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Im Original Back's Ofen Programm 2 oder im E-Herd 7-10 min bei 160 °C Ober-\n/Unterhitze fertig backen. Kurz in Stoffserviette nachziehen lassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Bei -18°C mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "3 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.59,
+    "unit": "1 Stk 1.53"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Resch&Frisch Käseweckerl 3er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/reschundfrisch-kaeseweckerl-3er/00-390758"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.59,
+    "unit": "1 Stk 1.53"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 139830,
+  "recommendationArticleIds": [],
+  "seoDescription": "Resch&Frisch Käseweckerl 3er online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Resch&Frisch Käseweckerl 3er online bestellen | BILLA",
+  "slug": "reschundfrisch-kaeseweckerl-3er",
+  "storeAvalibility": [
+    "00-7653",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/reschundfrisch-kaeseweckerl-3er/00-390758",
+  "vatCode": "10",
+  "video": ""
+}

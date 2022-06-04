@@ -1,0 +1,195 @@
+{
+  "articleGroupIds": [
+    "B2-343"
+  ],
+  "articleId": "00-421267",
+  "articleOnlyCanonicalPath": "/produkte/kattus-organic-bio-sekt/00-421267",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Kattus",
+  "canonicalPath": "/produkte/kattus-organic-bio-sekt/00-421267",
+  "category": "Getränke",
+  "description": "Erlesener Bio-Sekt aus Grünem Veltliner für nachhaltigen Genuss. <li>Biologisch und umweltschonend hergestellt<li>Aus fein selektierten Trauben von regionalen Winzern, vom Weingarten bis zum fertigen Sekt.",
+  "eanCodes": [
+    "9001560005147"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "FARMING_COUNTRY_OF_ORIGIN",
+              "valueTranslation": "Verweis auf Herkunftsland-Landwirtschaft - alles wurde in einem Land hergestellt"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1190 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Johann Kattus GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kattus.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-07-10T00:00:00",
+      "ingredients": "ENTHÄLT SULFITE",
+      "marketingMessage": "Erlesener Bio-Sekt aus Grünem Veltliner für nachhaltigen Genuss-biologisch und umweltschonend hergestellt-aus fein selektierten Trauben von regionalen Winzern, vom Weingarten bis zum fertigen Sekt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.54
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "Österreichischer Bio-Sekt, Trocken",
+      "nutritions": [],
+      "origin": "Niederösterreich g.U.",
+      "preperations": []
+    }
+  ],
+  "grammage": "0.75 l Flasche",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 9.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 9.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 9.99,
+    "unit": "1 l 13.32"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Kattus Organic Bio Sekt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/sekt-und-champagner2/sekt/B2-343/produkte/kattus-organic-bio-sekt/00-421267"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 9.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 9.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 9.99,
+    "unit": "1 l 13.32"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kattus Organic Bio Sekt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kattus Organic Bio Sekt online bestellen | BILLA",
+  "slug": "kattus-organic-bio-sekt",
+  "storeAvalibility": [
+    "00-10",
+    "00-174",
+    "00-7539",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/kattus-organic-bio-sekt/00-421267",
+  "vatCode": "20",
+  "video": ""
+}

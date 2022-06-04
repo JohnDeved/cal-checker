@@ -1,0 +1,361 @@
+{
+  "articleGroupIds": [
+    "B2-483"
+  ],
+  "articleId": "00-240479",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-bratenspeck-knoblauch/00-240479",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-bratenspeck-knoblauch/00-240479",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9009865001857"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-11-19T00:00:00",
+      "ingredients": "Zutaten: Schweinebauchfleisch, Speisesalz, 1% Knoblauch, Zucker, Gewürze, Dextrose, Antioxidationsmittel: E301, E316; Gewürzextrakte, Konservierungsstoff: E250; Buchenrauch.",
+      "mandatoryIndicator": "AT-92540-EG\r\ngebraten \r\ngeräuchert ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.25
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Schweinebauch geräuchert und gebraten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1674,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 404,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 51,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 75,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.4,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.1,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 42,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor dem Öffnen bei Raumtemperatur lagern, bis max. 22°C",
+      "usageHints": "Nach dem Öffnen gekühlt bei +2°C bis +6°C lagern, innerhalb von einigen Tagen verzehren."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 23.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 23.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 23.9,
+    "unit": "1 kg 23.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.25,
+  "name": "Hofstädter Bratenspeck Knoblauch",
+  "orderQuantityStepSize": 0.25,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483/produkte/hofstaedter-bratenspeck-knoblauch/00-240479"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 23.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 23.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 23.9,
+    "unit": "1 kg 23.90"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 133720,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Bratenspeck Knoblauch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Bratenspeck Knoblauch online bestellen | BILLA",
+  "slug": "hofstaedter-bratenspeck-knoblauch",
+  "storeAvalibility": [
+    "00-4565",
+    "00-3579",
+    "00-4489",
+    "00-3841",
+    "00-4672",
+    "00-3920",
+    "00-3022",
+    "00-3445",
+    "00-3669",
+    "00-7969",
+    "00-3321",
+    "00-3583",
+    "00-3940",
+    "00-3120",
+    "00-6892",
+    "00-4690",
+    "00-3162",
+    "00-2220",
+    "00-4655",
+    "00-6496",
+    "00-9332",
+    "00-4283",
+    "00-408",
+    "00-9233",
+    "00-7245",
+    "00-1128",
+    "00-3560",
+    "00-5405",
+    "00-6684",
+    "00-9324",
+    "00-1136",
+    "00-2369",
+    "00-3780",
+    "00-987",
+    "00-9167",
+    "00-7600",
+    "00-7139",
+    "00-281",
+    "00-5391",
+    "00-3501",
+    "00-7302",
+    "00-7229",
+    "00-2345",
+    "00-7393",
+    "00-7592",
+    "00-3688",
+    "00-4003",
+    "00-6676",
+    "00-7114",
+    "00-1455",
+    "00-7535",
+    "00-3420",
+    "00-3744",
+    "00-1524",
+    "00-4619",
+    "00-7743",
+    "00-3709",
+    "00-3259",
+    "00-1500",
+    "00-6952",
+    "00-4016",
+    "00-6138",
+    "00-1070",
+    "00-4982",
+    "00-7358",
+    "00-6745",
+    "00-2190",
+    "00-1768",
+    "00-519",
+    "00-8241",
+    "00-3869",
+    "00-8070",
+    "00-1212",
+    "00-7765",
+    "00-6975",
+    "00-1866",
+    "00-1550",
+    "00-3378",
+    "00-4783",
+    "00-7336",
+    "00-9555",
+    "00-3143",
+    "00-4925",
+    "00-4779",
+    "00-7224",
+    "00-3819",
+    "00-290",
+    "00-4629",
+    "00-7058",
+    "00-6724",
+    "00-4078",
+    "00-2131",
+    "00-7676",
+    "00-943",
+    "00-4700",
+    "00-119",
+    "00-8185",
+    "00-6749",
+    "00-3405",
+    "00-3349",
+    "00-7539",
+    "00-3584",
+    "00-4755",
+    "00-2342",
+    "00-3739",
+    "00-6688",
+    "00-3180",
+    "00-3138",
+    "00-6492",
+    "00-3206",
+    "00-3296",
+    "00-7758",
+    "00-7368",
+    "00-3042",
+    "00-7653",
+    "00-4350",
+    "00-6970",
+    "00-10",
+    "00-7249",
+    "00-6760",
+    "00-1529",
+    "00-6928",
+    "00-2164",
+    "00-3005",
+    "00-4441",
+    "00-6932",
+    "00-5290",
+    "00-4421",
+    "00-9266",
+    "00-9209",
+    "00-3617",
+    "00-7232",
+    "00-6281",
+    "00-4660",
+    "00-350",
+    "00-99202",
+    "00-7189"
+  ],
+  "url": "/produkte/hofstaedter-bratenspeck-knoblauch/00-240479",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    25,
+    50,
+    75,
+    100,
+    125
+  ]
+}

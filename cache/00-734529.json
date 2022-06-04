@@ -1,0 +1,308 @@
+{
+  "articleGroupIds": [
+    "B2-6E3",
+    "B2-572",
+    "B2-6E2"
+  ],
+  "articleId": "00-734529",
+  "articleOnlyCanonicalPath": "/produkte/schaer-pizza-margherita-glutenfrei/00-734529",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern",
+    "s_tiefgek",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schär",
+  "brandPath": "/marken/schaer",
+  "canonicalPath": "/produkte/schaer-pizza-margherita-glutenfrei/00-734529",
+  "category": "Grundnahrungsmittel",
+  "description": "Die laktosefreie Variante der Pizza Margherita.<br><li>Steinofen-Pizza mit dünnem, knusprigem Boden</li><li>Mit Qualitätsmozzarella belegt</li><li>Mit würziger Tomatensauce</li>",
+  "eanCodes": [
+    "8008698026090",
+    "8008698013632",
+    "8008698006818"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "MILCH, SOJA",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Winkelau 9 - 39014 Burgstall / Postal (BZ) - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Dr. Schär AG / SPA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Pizzaboden 55%: Maisstärke, Wasser, Reismehl, Sauerteig 9% (Reismehl, Wasser), Verdickungsmittel: Cellulose, Hydroxypropylmethylcellulose;\nReisstärke, natives Olivenöl extra 3,6%, Hefe, Maismehl, Sonnenblumenöl, jodiertes Speisesalz (Salz, Kaliumiodid), Früchteextrakt (Johannisbrotkernmehl, Apfel), Zucker, Dextrose, Backtriebmittel: Natriumhydrogencarbonat, Glucono-delta-lacton; Säuerungsmittel: Weinsäure, Zitronensäure. Belag 45%: Mozzarella Käse 55% (pasteurisierte laktosefreie MILCH, Salz, mikrobielles Lab, Säuerungsmittel: Zitronensäure), pürierte Tomaten 44%, jodiertes Speisesalz (Salz, Kaliumiodid), Oregano. Kann Spuren von SOJA enthalten. LAKTOSEFREI",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 374
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Gluten- & laktosefreie Pizza Margherita - tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 964,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 230,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "1 Pizza",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 34,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2892,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 34,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 690,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 39,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 75,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 32,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 82,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 45,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 55,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "bei 220°C 10-12 min. im Backofen backen",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "10 min. Auftauen",
+          "type": "Auftauen des Produktes zur Raumtemperatur oder einem noch gekuehlten Zustand"
+        }
+      ],
+      "storageHint": "Das Produkt nach dem Auftauen nicht wieder tiefkühlen",
+      "sustenanceClaim": "Glutenfrei, Weizenfrei, Laktosefrei"
+    }
+  ],
+  "grammage": "300 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 13.30"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Schär Pizza Margherita Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/laktosefrei/B2-6E3/produkte/schaer-pizza-margherita-glutenfrei/00-734529",
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/schaer-pizza-margherita-glutenfrei/00-734529",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/schaer-pizza-margherita-glutenfrei/00-734529"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 13.30"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 8190,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schär Pizza Margherita Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schär Pizza Margherita Glutenfrei online bestellen | BILLA",
+  "slug": "schaer-pizza-margherita-glutenfrei",
+  "storeAvalibility": [
+    "00-2342",
+    "00-3780",
+    "00-4551",
+    "00-99202",
+    "00-7075",
+    "00-10"
+  ],
+  "url": "/produkte/schaer-pizza-margherita-glutenfrei/00-734529",
+  "vatCode": "10",
+  "video": ""
+}

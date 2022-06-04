@@ -1,0 +1,308 @@
+{
+  "articleGroupIds": [
+    "B2-535"
+  ],
+  "articleId": "00-342665",
+  "articleOnlyCanonicalPath": "/produkte/iglo-spinat-stangerl/00-342665",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-spinat-stangerl/00-342665",
+  "category": "Tiefkühl",
+  "description": "Cremiger Spinat umhüllt wie von Bäckerhand.<br>Die einzigartige Panier aus herzhaften Laugenbrezeln verleiht den Spinat Stangerln das knusprige Extra.",
+  "eanCodes": [
+    "9008695976113"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-02-03T00:00:00",
+      "ingredients": "Zutaten:\nSpinat (40 %), Brezelpanier (15 %) (WEIZENMEHL, Brezellauge (Säureregulator: Natriumhydroxid *), Hefe, Rapsöl, Salz), Kartoffelflocken, WEIZENMEHL, Rapsöl, Brösel, (WEIZENMEHL, Brezellauge (Säureregulator: Natriumhydroxid *), Zucker, Salz, Dextrose, Hefe, Paprikapulver), OBERS (5 %), Wasser, MAGERMILCHPULVER, Stärke, Zucker, Salz, Kartoffeln, Meersalz, Gewürze, Hefe.\n*wird traditionell bei der Herstellung von\nLaugengebäck eingesetzt",
+      "marketingMessage": "Cremiger Spinat umhüllt wie von Bäckerhand. Die einzigartige Panier aus herzhaften Laugenbrezeln verleiht den Spinat Stangerln das knusprige Extra. \n\nNutri-Score \"B\", iglo.at/nutriscore, Nutri Score wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 300
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 284
+        }
+      ],
+      "name": "Spinat Stangerl mit Brezel-Paniermehl paniert, vorgebraten und tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1074,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 256,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 32,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 257,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion ** (=142g, 5 Stück) ** zubereitet nach Anleitung im Backr",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1523,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 363,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 50,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 47,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 365,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Im Backrohr:\nBackrohr vorheizen (Ober- und Unterhitze 220 °C,Heißluft 200 °C). Spinat Stangerl unaufgetaut auf ein mit Backpapier belegtes Backblech legen. Auf mittlerer Schiene ca. 9-10 Min. backen. Nach 5-6 Min einmal wenden.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "In der Pfanne:\nÖl (ca. 1/2 cm) in einer Pfanne erhitzen. Spinat Stangerl unaufgetaut hineinlegen. Das Fett darf dabei nicht zu stark abkühlen. Unter mehrmaligem Wenden bei mittlerer Hitze ca. 4 Min. backen.\nAbschließend die Spinat Stangerl kurz auf Küchenpapier abtropfen lassen, um überfüssiges Fett aufzusaugen.",
+          "type": "Frittieren - Zubereitung eingetaucht im heißem Öl oder Fett"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern.\nOhne künstliche Farb- und Aromastoffe.\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\nLegen Sie Wert auf eine fettarme Zubereitung, so bereiten Sie die Spinat Stangerl im Backrohr zu. Bitte achten Sie darauf, dass das Produkt vor dem Genuss vollständig durcherhitzt ist!\nDie ideale Zubereitungszeit hängt vom jeweiligen Küchengerät ab."
+    }
+  ],
+  "grammage": "284 Gramm Schachtel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 14.05"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Spinat Stangerl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/reis-und-gemuese/B2-535/produkte/iglo-spinat-stangerl/00-342665"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 14.05"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 99530,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Spinat Stangerl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Spinat Stangerl online bestellen | BILLA",
+  "slug": "iglo-spinat-stangerl",
+  "storeAvalibility": [
+    "00-7120",
+    "00-10",
+    "00-3549",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-spinat-stangerl/00-342665",
+  "vatCode": "10",
+  "video": ""
+}

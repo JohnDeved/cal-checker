@@ -1,0 +1,210 @@
+{
+  "articleGroupIds": [
+    "B2-211"
+  ],
+  "articleId": "00-890771",
+  "articleOnlyCanonicalPath": "/produkte/reschundfrisch-jour-salzstangerl-6er/00-890771",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Resch&Frisch",
+  "brandPath": "/marken/reschfrisch",
+  "canonicalPath": "/produkte/reschundfrisch-jour-salzstangerl-6er/00-890771",
+  "category": "Brot & Gebäck",
+  "description": "Der Klassiker im Kleinformat bestreut mit einer Hagelsalz-Kümmelmischung. Das Jour-Salzstangerl schmeckt einfach herrlich knusprig und passt besonders gut zum festlich gedeckten Tisch oder als Knabbergebäck zu Bier und Wein.",
+  "eanCodes": [
+    "9006366210016"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Resch&Frisch Franchise GmbH, Schloßstraße 14, 4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Resch&Frisch Franchise GmbH, Schloßstraße 14, 4600 Wels",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Mehl (WEIZEN, ROGGEN) Wasser, Speisesalz, Backhefe, Zucker, WEIZENMALZMEHL, Kümmel, Rapsöl, GERSTENMALZ. Kann Spuren von Sesam und Soja enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 25
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 25
+        }
+      ],
+      "name": "Weizengebäck, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1137,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 269,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 53.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Im Original Back's Ofen Programm 1 oder im E-Herd 3-6 min bei 160 °C Ober-/Unterhitze fertig backen. Kurz in Stoffserviette nachziehen lassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "lagern bei -18°C, nach dem Auftauen nicht wieder einfrieren"
+    }
+  ],
+  "grammage": "6 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 Stk .72"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Resch&Frisch Jour Salzstangerl 6er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/reschundfrisch-jour-salzstangerl-6er/00-890771"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 Stk .72"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 135440,
+  "recommendationArticleIds": [],
+  "seoDescription": "Resch&Frisch Jour Salzstangerl 6er online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Resch&Frisch Jour Salzstangerl 6er online bestellen | BILLA",
+  "slug": "reschundfrisch-jour-salzstangerl-6er",
+  "storeAvalibility": [
+    "00-99202",
+    "00-7653",
+    "00-7860",
+    "00-7491",
+    "00-7857",
+    "00-4707",
+    "00-7603",
+    "00-7606",
+    "00-10",
+    "00-7609"
+  ],
+  "url": "/produkte/reschundfrisch-jour-salzstangerl-6er/00-890771",
+  "vatCode": "10",
+  "video": ""
+}

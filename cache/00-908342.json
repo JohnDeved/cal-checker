@@ -1,0 +1,287 @@
+{
+  "articleGroupIds": [
+    "B2-511"
+  ],
+  "articleId": "00-908342",
+  "articleOnlyCanonicalPath": "/produkte/moevenpick-erdbeer-sahne/00-908342",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Mövenpick",
+  "canonicalPath": "/produkte/moevenpick-erdbeer-sahne/00-908342",
+  "category": "Tiefkühl",
+  "description": "Die beliebte Erdbeere darf natürlich im Mövenpick-Sortiment nicht fehlen, da sie einfach zu den Klassikern unter den Eissorten gehört.<br>Erdbeer Sahne kombiniert fruchtiges Erdbeereis mit Erdbeerstückchen und cremiges Sahneeis.",
+  "eanCodes": [
+    "4008210115978",
+    "4008210184790"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europaplatz 4, A-4020 Linz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FRONERI Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: eingedickte entrahmte MILCH, Erdbeerpüree und -stückchen (20,1 %), entrahmte MILCH, Zucker, Glukosesirup, MOLKENERZEUGNIS, Kokosfett, SCHLAGSAHNE (1,8 %), natürliche Aromen, Säuerungsmittel (Citronensäure), Verdickungsmittel (Guarkernmehl, Johannisbrotkernmehl, Pektine), Emulgator (Mono- und Diglyceride von Speisefettsäuren), Rote-Bete-Saftkonzentrat. Kann NÜSSE, GLUTENHALTIGE GETREIDE und EIER enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 587
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.9
+        }
+      ],
+      "name": "Erdbeereis mit Erdbeerstückchen, Eis Schlagsahne und Erdbeersauce (11,3 %).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 747,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 178,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 29.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.09,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 444,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 105,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 14,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 17.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 15.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 9,
+      "preperations": [],
+      "storageHint": "Bei -18°C mindestens haltbar bis Ende: siehe Deckelrand",
+      "sustenanceClaim": "ohne künstliche Aromen und Farbstoffe"
+    }
+  ],
+  "grammage": "900 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 4.77"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Mövenpick Erdbeer Sahne",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/eisbecher/B2-511/produkte/moevenpick-erdbeer-sahne/00-908342"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 4.77"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Mövenpick Erdbeer Sahne online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mövenpick Erdbeer Sahne online bestellen | BILLA",
+  "slug": "moevenpick-erdbeer-sahne",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/moevenpick-erdbeer-sahne/00-908342",
+  "vatCode": "10",
+  "video": ""
+}

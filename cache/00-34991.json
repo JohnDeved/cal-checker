@@ -1,0 +1,259 @@
+{
+  "articleGroupIds": [
+    "B2-491",
+    "B2-481"
+  ],
+  "articleId": "00-34991",
+  "articleOnlyCanonicalPath": "/produkte/hoertnagl-krakauer-hell/00-34991",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hörtnagl",
+  "canonicalPath": "/produkte/hoertnagl-krakauer-hell/00-34991",
+  "category": "Kühlwaren",
+  "description": "Die helle Krakauer von Hörtnagl schmeckt perfekt als Wurstsemmel. Die saftige Wurst ist mit Gewürzen fein abgeschmeckt.<li>Preis pro kg<li>mit Speck und Gewürzen<li>83 % Schweinefleisch, 7 % Rindfleisch",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6060 Hall in Tirol,\nTrientlstr. 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hoertnagl.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Name",
+          "detail": "Andrä Hörtnagl Produktion und Handel GmbH.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-01-04T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch(83%), Rindfleisch(7%), Speck, Wasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: E250); Speisesalz (Speisesalz, Kaliumjodat), Stärke, Gewürze und Gewürzextrakte mit SENF, Stabilisator: E450, E452; Geschmacksverstärker: E621; Antioxidationsmittel: E270, E301, E330; Dextrose, Zucker, Aroma;",
+      "mandatoryIndicator": "Wursthülle nicht essbar",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 2300
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 2300
+        }
+      ],
+      "name": "Krakauer hell gekocht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 152,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 635,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 18.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lagertemperatur +2°C - +6°C\nUngeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.9,
+    "unit": "100 g 1.99"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Hörtnagl Krakauer Hell",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/hoertnagl-krakauer-hell/00-34991",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/hoertnagl-krakauer-hell/00-34991"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.9,
+    "unit": "100 g 1.99"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 70130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hörtnagl Krakauer Hell online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hörtnagl Krakauer Hell online bestellen | BILLA",
+  "slug": "hoertnagl-krakauer-hell",
+  "storeAvalibility": [
+    "00-8151",
+    "00-8241",
+    "00-8895",
+    "00-8646",
+    "00-8230",
+    "00-8085",
+    "00-8075",
+    "00-8243",
+    "00-8159",
+    "00-8657",
+    "00-8076",
+    "00-8158",
+    "00-8213",
+    "00-8031",
+    "00-8636",
+    "00-8360",
+    "00-8606",
+    "00-8140",
+    "00-8426",
+    "00-8173",
+    "00-8022",
+    "00-8334",
+    "00-8155",
+    "00-8070",
+    "00-8193",
+    "00-99202"
+  ],
+  "url": "/produkte/hoertnagl-krakauer-hell/00-34991",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-620231",
+  "articleOnlyCanonicalPath": "/produkte/hoellinger-steirischer-apfelspritzer/00-620231",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "s_zucker",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Höllinger",
+  "brandPath": "/marken/hoellinger",
+  "canonicalPath": "/produkte/hoellinger-steirischer-apfelspritzer/00-620231",
+  "category": "Getränke",
+  "description": "Ein erfrischender Apfelsaft gespritzt geht immer. Der Höllinger Steirischer Apfelspritzer ist der perfekte Durstlöscher für das ganze Jahr – hergestellt aus steirischen Äpfeln.<li>direkt gepresste Äpfel",
+  "eanCodes": [
+    "9120008991009"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-3021 Pressbaum Postfach 1 | Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMS Höllinger Gmbh",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@hoellinger-juice.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Apfelsaft (direkt gepresst - nicht aus Konzentrat), Wasser, Kohlensäure, Vitamin C;",
+      "marketingMessage": "100%rePET",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.53
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Naturtrüber steirischer Apfelsaft gespritzt | Fruchtgehalt mind. 60 %\npasteurisiert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 128,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 30,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "sustenanceClaim": "Enthält von Natur aus Zucker aus den Früchten"
+    }
+  ],
+  "grammage": "0.5 l Flasche (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": true,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 3.18"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Höllinger Steirischer Apfelspritzer",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/hoellinger-steirischer-apfelspritzer/00-620231"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 3.18"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 31500,
+  "recommendationArticleIds": [],
+  "seoDescription": "Höllinger Steirischer Apfelspritzer online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Höllinger Steirischer Apfelspritzer online bestellen | BILLA",
+  "slug": "hoellinger-steirischer-apfelspritzer",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/hoellinger-steirischer-apfelspritzer/00-620231",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,419 @@
+{
+  "articleGroupIds": [
+    "B2-6B1"
+  ],
+  "articleId": "00-870062",
+  "articleOnlyCanonicalPath": "/produkte/nestle-chokella-toasts/00-870062",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nestlé",
+  "brandPath": "/marken/nestle",
+  "canonicalPath": "/produkte/nestle-chokella-toasts/00-870062",
+  "category": "Grundnahrungsmittel",
+  "description": "Knusprige Frühstückscerealien in Form von „Mini Toasts“ mit wertvollem Vollkornweizen und köstlicher Nuss-Nougat Creme. Mit 31% Vollkornanteil.",
+  "eanCodes": [
+    "5900020006387"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2022-03-31T00:00:00",
+      "ingredients": "Zutaten: 33% VOLLKORNWEIZEN, Maisgrieß, Zucker, Dextrose, WEIZENSTÄRKE, Sonnenblumenöl, Glukosesirup, 2% HASELNUSSPASTE, MAGERMILCHPULVER, fettarmer Kakao, Calciumcarbonat, Karamellzuckersirup, Salz, Backtriebmittel (Natriumcarbonate), natürliches Aroma, Emulgator (Lecithine), Antioxidationsmittel (stark tocopherolhaltige Extrakte), Eisen, Niacin, Pantothensäure, Vitamin D, Vitamin B6, Thiamin (Vit. B1), Riboflavin (Vit. B2), Folsäure. Kann andere NÜSSE enthalten.",
+      "mandatoryIndicator": "Füllhöhenschwankungen sind transportbedingt.",
+      "marketingMessage": "Knusprige Frühstückscerealien in Form von \"Mini Toasts\" mit wertvollem Vollkornweizen und köstlicher Nuss-Nougat-Creme.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 402
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Geröstete Getreidekost mit Nuss-Nugat-Creme",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1737,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 412,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 73.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 24.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.71,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 58,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 8.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 84,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 168,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 65,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 517,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 84,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 13,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 84,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 5.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 85,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.93,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 88,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 88,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 60,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 3,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion (30g) mit 125ml fettarmer Milch",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 775,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 184,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 28.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 13.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.37,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 2.5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 28,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 55,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 307,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 4.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.33,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 43,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.6,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 31,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.43,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 0.94,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 11,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen."
+    }
+  ],
+  "grammage": "350 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 9.40"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Nestlé Chokella Toasts",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/cerealien/B2-6B1/produkte/nestle-chokella-toasts/00-870062"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 9.40"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 9440,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nestlé Chokella Toasts online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nestlé Chokella Toasts online bestellen | BILLA",
+  "slug": "nestle-chokella-toasts",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/nestle-chokella-toasts/00-870062",
+  "vatCode": "10",
+  "video": ""
+}

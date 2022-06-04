@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-9B1"
+  ],
+  "articleId": "00-2735",
+  "articleOnlyCanonicalPath": "/produkte/omo-f4-pulver/00-2735",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Omo",
+  "canonicalPath": "/produkte/omo-f4-pulver/00-2735",
+  "category": "Haushalt",
+  "description": "<b>OMO Gardinenwaschmittel F4</b><li>die OMO Nr. 1 für Gardinen<li>OMO F4 sorgt für strahlende Reinheit Ihrer Gardinen<li>Speziell für Vorhänge und Gardinen entwickelt<li>Für porentiefe Reinheit<li>Entfernt Grauschleier<li>OMO F4 wäscht Dauerweiß in Ihre Vorhänge, macht sie strahlend sauber und duftig frisch",
+  "eanCodes": [
+    "8712561407625",
+    "9014100004371",
+    "9014100200865",
+    "8718114029559",
+    "8717163994290"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "TRUE"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P337+P313"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P305+P351+P338"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P102"
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "WARNING",
+              "valueTranslation": "Achtung"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "EXCLAMATION_MARK",
+              "valueTranslation": "Ausrufezeichen (GHS07) - Reizend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H319"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Telefon",
+          "detail": "01/60 535-0",
+          "type": ""
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Adresse",
+          "detail": "Stella-Klein-Löw-Weg 13, 1023 Wien",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2022-03-14T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.43
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 387
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "5 Waschgang Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 Waschgang .60"
+  },
+  "maximalOrderQuantity": 10,
+  "minimalOrderQuantity": 0,
+  "name": "OMO F4 Pulver",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/waschmittel-und-weichspueler/waschmittel/B2-9B1/produkte/omo-f4-pulver/00-2735"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 Waschgang .60"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 204460,
+  "recommendationArticleIds": [],
+  "seoDescription": "OMO F4 Pulver online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "OMO F4 Pulver online bestellen | BILLA",
+  "slug": "omo-f4-pulver",
+  "storeAvalibility": [
+    "00-7895",
+    "00-3780",
+    "00-4672",
+    "00-2190",
+    "00-2223",
+    "00-7606",
+    "00-5290",
+    "00-6496",
+    "00-7743",
+    "00-6022",
+    "00-7857",
+    "00-4655",
+    "00-7653",
+    "00-3420",
+    "00-3617",
+    "00-3560",
+    "00-3996",
+    "00-6916",
+    "00-4605",
+    "00-4783",
+    "00-8235",
+    "00-8646",
+    "00-8395",
+    "00-7783",
+    "00-6255",
+    "00-3688",
+    "00-4270",
+    "00-8151",
+    "00-3445",
+    "00-10",
+    "00-1114",
+    "00-99202"
+  ],
+  "url": "/produkte/omo-f4-pulver/00-2735",
+  "vatCode": "20",
+  "video": ""
+}

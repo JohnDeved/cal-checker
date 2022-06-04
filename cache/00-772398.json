@@ -1,0 +1,442 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-772398",
+  "articleOnlyCanonicalPath": "/produkte/san-pellegrino-aranciata/00-772398",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "San Pellegrino",
+  "canonicalPath": "/produkte/san-pellegrino-aranciata/00-772398",
+  "category": "Getränke",
+  "description": "Aranciata Limonade von San Pellegrino schmeckt durch den Fruchtsaft angenehm frisch und balanciert die natürliche Süße und Bitterkeit der Orange perfekt aus.<li>Orangenfruchtsaftgetränk mit Kohlensäure<li>mit 18 % Orangensaft<li>natürlicher, leicht bitterer Geschmack",
+  "eanCodes": [
+    "8002270646799",
+    "8002270816475"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 0,
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "San Pellegrino Terme (BG) Località Ruspino 24016 Italien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Sanpellegrino S.p.A.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 860 045",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2021-03-16T00:00:00",
+      "ingredients": "Zutaten: Wasser, Orangensaft aus Konzentrat 20%, Zucker, Kohlendioxid, Orangenextrakt (0,1%), Säuerungsmittel (Citronensäure), natürliches Orangenaroma, Stabilisator (Pektine).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 370
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Kohlensäurehaltiges Orangenfruchtsaftgetränk mit 20% Orange",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 140,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 33,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Sonne und Frost schützen und an einem trockenen, sauberen und geruchslosen Ort lagern."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "60523 Frankfurt am Main",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Waters Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2022-05-13T00:00:00",
+      "ingredients": "Zutaten: Wasser, Orangensaft aus Konzentrat 16%, Zucker, Kohlendioxid, Zitronensaft konzentriert, Orangenextrakt 0,1%, natürliche Orangenaromen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 353
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Kohlensäurehaltiges Orangenfruchtsaftgetränk mit 16% Orange",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 149,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 35,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.002,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 493,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 116,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 26.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 26.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.007,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Vor Sonne und Frost schützen und an einem trockenen, sauberen und geruchlosen\nOrt lagern."
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.33,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.33,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.33,
+    "unit": "1 l 4.03"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "San Pellegrino Aranciata",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/san-pellegrino-aranciata/00-772398"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.33,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.33,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.33,
+    "unit": "1 l 4.03"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 158240,
+  "recommendationArticleIds": [
+    "00-288648"
+  ],
+  "seoDescription": "San Pellegrino Aranciata online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "San Pellegrino Aranciata online bestellen | BILLA",
+  "slug": "san-pellegrino-aranciata",
+  "storeAvalibility": [
+    "00-1107",
+    "00-7539",
+    "00-3780",
+    "00-2015",
+    "00-7114",
+    "00-112",
+    "00-355",
+    "00-6255",
+    "00-350",
+    "00-5165",
+    "00-9225",
+    "00-4655",
+    "00-2342",
+    "00-1041",
+    "00-7857",
+    "00-7653",
+    "00-9290",
+    "00-3055",
+    "00-7017",
+    "00-99202",
+    "00-3431",
+    "00-4513",
+    "00-1132",
+    "00-7393",
+    "00-3114",
+    "00-10",
+    "00-2213",
+    "00-3871",
+    "00-3512",
+    "00-323",
+    "00-3059",
+    "00-3032",
+    "00-7606",
+    "00-1457",
+    "00-4982",
+    "00-6108",
+    "00-2154",
+    "00-2923"
+  ],
+  "url": "/produkte/san-pellegrino-aranciata/00-772398",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,812 @@
+{
+  "articleGroupIds": [
+    "B2-6G1"
+  ],
+  "articleId": "00-437686",
+  "articleOnlyCanonicalPath": "/produkte/knorr-basis-fuer-jaegerschnitzel/00-437686",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Knorr",
+  "brandPath": "/marken/knorr",
+  "canonicalPath": "/produkte/knorr-basis-fuer-jaegerschnitzel/00-437686",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Jägerschnitzel krönt ein festliches Menü. Die passende Soße stellen Sie mit Knorr Basis für Jägerschnitzel ohne großen Zeitaufwand her.<li>mit Champignons, Steinpilzen und geräuchertem Speck<li>Beutelinhalt für 3 Portionen",
+  "eanCodes": [
+    "9000275642210",
+    "9000275486418"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "INGREDIENTS_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 10, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-19T00:00:00",
+      "ingredients": "Zutaten: Palmöl, Stärke, WEIZENMEHL, 7,6% Champignons², 7,4% Zwiebeln², jodiertes Speisesalz, Zucker, Glukosesirup, geräucherter Speck (Speck, Antioxidationsmittel Extrakt aus Rosmarin, Rauch), Karotten², Aromen, Hefeextrakt, Tomatenpulver², Würze, 1,6% Steinpilze², MILCHEIWEISS, Speisesalz, KNOLLENSELLERIEPULVER², Sonnenblumenöl, Gewürze (Knoblauch², Curcuma), Maltodextrin, Zitronensaftpulver, Sojasauce (SOJABOHNEN, WEIZEN), Zwiebelsaftkonzentrat², Raucharoma. Kann andere glutenhaltige Getreide, Ei und Senf enthalten. ²aus nachhaltigem Anbau.",
+      "marketingMessage": "Mit den KNORR Basis Produkten begeistern Sie Ihre ganze Familie mit Leichtigkeit: Die beliebte Würzbasis sorgt für den typischen Geschmack der Gerichte und spart wertvolle Zeit beim Würzen und Abschmecken. Ganz einfach bereiten Sie damit köstliche Mahlzeiten zu. Knorr Basis für Geschnetzeltes \"Jäger Art\" ist köstlich als Beilage oder Hauptgericht! Verwenden Sie dazu am Besten Kalbsfleisch und geben Sie etwas Champignon dazu.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.06
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 56
+        }
+      ],
+      "name": "Basis für Jäger Schnitzel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 454,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 108,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.66,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "Was Sie dazu brauchen: 3 magere Schnitzel von Schwein, Kalb oder Geflügel (400 g), 250 g Champignons und 2 EL Öl Zubereitung: 1) Champignons putzen und klein schneiden. 2) Ungewürzte Schnitzel in 2 EL heißem Öl je Seite 2 Minuten anbraten. Fleisch aus der Pfanne nehmen, Champignons ca. 3 Minuten im Bratfett andünsten. 3) Mit 3/8 Liter (375 ml) Wasser aufgießen. Beutelinhalt einrühren und aufkochen. Fleisch zugeben und auf kleiner Kochstufe zugedeckt 8 Minuten köcheln lassen. Wir empfehlen dazu Dinkelnudeln und einen bunten Salat.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "sustenanceClaim": "% der Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal), 3 Portionen, Das Produkt ergibt bei der Zubereitung nach Packungsanleitung ein proteinreiches Gericht. Rezeptideen und Informationen zum nachhaltigen Anbau unter , ohne Farbstoffe und ohne Konservierungsstoffe lt. Gesetz, ohne geschmacksverstärkende Zusatzstoffe, Portion, Produkt wie verkauft, zubereitetes Produkt gemäß Zubereitungsanleitung"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "INGREDIENTS_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 10, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-11T00:00:00",
+      "ingredients": "Zutaten: Palmöl, Stärke, WEIZENMEHL, 7,6% Champignons², 7,4% Zwiebeln², jodiertes Speisesalz, Zucker, Glukosesirup, geräucherter Speck (Speck, Antioxidationsmittel Extrakt aus Rosmarin, Rauch), Karotten², Aromen, Hefeextrakt, Tomatenpulver², Würze, 1,6% Steinpilze², MILCHEIWEISS, Speisesalz, KNOLLENSELLERIEPULVER², Sonnenblumenöl, Gewürze (Knoblauch², Curcuma), Maltodextrin, Zitronensaftpulver, Sojasauce (SOJABOHNEN, WEIZEN), Zwiebelsaftkonzentrat², Raucharoma. Kann andere glutenhaltige Getreide, Ei und Senf enthalten. ²aus nachhaltigem Anbau.",
+      "marketingMessage": "Mit den KNORR Basis Produkten begeistern Sie Ihre ganze Familie mit Leichtigkeit: Die beliebte Würzbasis sorgt für den typischen Geschmack der Gerichte und spart wertvolle Zeit beim Würzen und Abschmecken. Ganz einfach bereiten Sie damit köstliche Mahlzeiten zu. Knorr Basis für Geschnetzeltes \"Jäger Art\" ist köstlich als Beilage oder Hauptgericht! Verwenden Sie dazu am Besten Kalbsfleisch und geben Sie etwas Champignon dazu.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.06
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 56
+        }
+      ],
+      "name": "Basis für Jäger Schnitzel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 454,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 108,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.66,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "Was Sie dazu brauchen: 3 magere Schnitzel von Schwein, Kalb oder Geflügel (400 g), 250 g Champignons und 2 EL Öl Zubereitung: 1) Champignons putzen und klein schneiden. 2) Ungewürzte Schnitzel in 2 EL heißem Öl je Seite 2 Minuten anbraten. Fleisch aus der Pfanne nehmen, Champignons ca. 3 Minuten im Bratfett andünsten. 3) Mit 3/8 Liter (375 ml) Wasser aufgießen. Beutelinhalt einrühren und aufkochen. Fleisch zugeben und auf kleiner Kochstufe zugedeckt 8 Minuten köcheln lassen. Wir empfehlen dazu Dinkelnudeln und einen bunten Salat.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "sustenanceClaim": "% der Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal), 3 Portionen, Das Produkt ergibt bei der Zubereitung nach Packungsanleitung ein proteinreiches Gericht. Rezeptideen und Informationen zum nachhaltigen Anbau unter , ohne Farbstoffe und ohne Konservierungsstoffe lt. Gesetz, ohne geschmacksverstärkende Zusatzstoffe, Portion, Produkt wie verkauft, zubereitetes Produkt gemäß Zubereitungsanleitung"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "INGREDIENTS_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 10, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-06-03T00:00:00",
+      "ingredients": "Zutaten: Palmöl, Stärke, WEIZENMEHL, 7,6% Champignons², 7,4% Zwiebeln², jodiertes Speisesalz, Zucker, Glukosesirup, geräucherter Speck (Speck, Antioxidationsmittel Extrakt aus Rosmarin, Rauch), Karotten², Aromen, Hefeextrakt, Tomatenpulver², Würze, 1,6% Steinpilze², MILCHEIWEISS, Speisesalz, KNOLLENSELLERIEPULVER², Sonnenblumenöl, Gewürze (Knoblauch², Curcuma), Maltodextrin, Zitronensaftpulver, Sojasauce (SOJABOHNEN, WEIZEN), Zwiebelsaftkonzentrat², Raucharoma. Kann andere glutenhaltige Getreide, Ei und Senf enthalten. ²aus nachhaltigem Anbau.",
+      "marketingMessage": "Mit den KNORR Basis Produkten begeistern Sie Ihre ganze Familie mit Leichtigkeit: Die beliebte Würzbasis sorgt für den typischen Geschmack der Gerichte und spart wertvolle Zeit beim Würzen und Abschmecken. Ganz einfach bereiten Sie damit köstliche Mahlzeiten zu. Knorr Basis für Geschnetzeltes \"Jäger Art\" ist köstlich als Beilage oder Hauptgericht! Verwenden Sie dazu am Besten Kalbsfleisch und geben Sie etwas Champignon dazu. Was Sie dazu brauchen: 3 Schnitzel vom Schwein oder Geflügel (400 g), 2 EL Öl. Zubereitung: 1) Ungewürzte Schnitzel in 2 EL heißem Öl auf beiden Seiten kurz anbraten. 2) Fleisch aus der Pfanne nehmen, mit 3/8 l Wasser aufgießen. Beutelinhalt einrühren und aufkochen lassen. 3) Fleisch dazugeben und auf kleiner Kochstufe zugedeckt weichdünsten (ca. 30 Minuten). Bei Bedarf etwas Wasser nachgießen. Wir empfehlen dazu Nudeln und einen bunten Salat. Mit den Knorr Basis Produkten begeistern Sie Ihre ganze Familie mit Leichtigkeit: Ganz einfach bereiten Sie damit köstliche",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.06
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 56
+        }
+      ],
+      "name": "Basis für Jäger Schnitzel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 454,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 108,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.66,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "Was Sie dazu brauchen: 3 magere Schnitzel von Schwein, Kalb oder Geflügel (400 g), 250 g Champignons und 2 EL Öl Zubereitung: 1) Champignons putzen und klein schneiden. 2) Ungewürzte Schnitzel in 2 EL heißem Öl je Seite 2 Minuten anbraten. Fleisch aus der Pfanne nehmen, Champignons ca. 3 Minuten im Bratfett andünsten. 3) Mit 3/8 Liter (375 ml) Wasser aufgießen. Beutelinhalt einrühren und aufkochen. Fleisch zugeben und auf kleiner Kochstufe zugedeckt 8 Minuten köcheln lassen. Wir empfehlen dazu Dinkelnudeln und einen bunten Salat.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "sustenanceClaim": "% der Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal), 3 Portionen, Das Produkt ergibt bei der Zubereitung nach Packungsanleitung ein proteinreiches Gericht. Rezeptideen und Informationen zum nachhaltigen Anbau unter , ohne Farbstoffe und ohne Konservierungsstoffe lt. Gesetz, ohne geschmacksverstärkende Zusatzstoffe, Portion, Produkt wie verkauft, zubereitetes Produkt gemäß Zubereitungsanleitung"
+    }
+  ],
+  "grammage": "1 Packung Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Knorr Basis für Jägerschnitzel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fixprodukte/basisfixprodukte/B2-6G1/produkte/knorr-basis-fuer-jaegerschnitzel/00-437686"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 61660,
+  "recommendationArticleIds": [],
+  "seoDescription": "Knorr Basis für Jägerschnitzel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Knorr Basis für Jägerschnitzel online bestellen | BILLA",
+  "slug": "knorr-basis-fuer-jaegerschnitzel",
+  "storeAvalibility": [
+    "00-6588",
+    "00-4350",
+    "00-3005",
+    "00-9225",
+    "00-6688",
+    "00-3349",
+    "00-1114",
+    "00-2100",
+    "00-2156",
+    "00-3506",
+    "00-3700",
+    "00-3580",
+    "00-9753",
+    "00-3114",
+    "00-6910",
+    "00-6533",
+    "00-2313",
+    "00-2111",
+    "00-3860",
+    "00-3940",
+    "00-1207",
+    "00-4565",
+    "00-3125",
+    "00-6760",
+    "00-3856",
+    "00-4016",
+    "00-6490",
+    "00-4779",
+    "00-7229",
+    "00-7547",
+    "00-3321",
+    "00-7539",
+    "00-3062",
+    "00-6372",
+    "00-3135",
+    "00-6871",
+    "00-6219",
+    "00-3259",
+    "00-209",
+    "00-2190",
+    "00-3105",
+    "00-2907",
+    "00-4021",
+    "00-1476",
+    "00-5603",
+    "00-7114",
+    "00-4925",
+    "00-1099",
+    "00-5082",
+    "00-3688",
+    "00-6235",
+    "00-6255",
+    "00-2543",
+    "00-7940",
+    "00-7232",
+    "00-7062",
+    "00-7743",
+    "00-6559",
+    "00-5552",
+    "00-3027",
+    "00-9688",
+    "00-3143",
+    "00-3681",
+    "00-7358",
+    "00-7075",
+    "00-6840",
+    "00-7592",
+    "00-4104",
+    "00-5290",
+    "00-5003",
+    "00-3740",
+    "00-2220",
+    "00-3744",
+    "00-7653",
+    "00-1212",
+    "00-3023",
+    "00-6492",
+    "00-5027",
+    "00-4440",
+    "00-9415",
+    "00-7758",
+    "00-1479",
+    "00-6480",
+    "00-7566",
+    "00-6843",
+    "00-4270",
+    "00-3819",
+    "00-8235",
+    "00-6022",
+    "00-7721",
+    "00-3780",
+    "00-3212",
+    "00-1455",
+    "00-4090",
+    "00-4226",
+    "00-1425",
+    "00-3140",
+    "00-3501",
+    "00-7120",
+    "00-3022",
+    "00-6197",
+    "00-7783",
+    "00-6895",
+    "00-7041",
+    "00-1550",
+    "00-8606",
+    "00-4146",
+    "00-8441",
+    "00-4655",
+    "00-1136",
+    "00-3363",
+    "00-4424",
+    "00-9030",
+    "00-4690",
+    "00-350",
+    "00-4078",
+    "00-3617",
+    "00-6897",
+    "00-4675",
+    "00-3709",
+    "00-6353",
+    "00-7975",
+    "00-6724",
+    "00-7535",
+    "00-4421",
+    "00-9290",
+    "00-1128",
+    "00-2011",
+    "00-6051",
+    "00-2342",
+    "00-5104",
+    "00-7139",
+    "00-2131",
+    "00-6628",
+    "00-7084",
+    "00-4813",
+    "00-220",
+    "00-4945",
+    "00-3394",
+    "00-2109",
+    "00-9308",
+    "00-3094",
+    "00-4170",
+    "00-4672",
+    "00-3025",
+    "00-1107",
+    "00-3001",
+    "00-3822",
+    "00-6745",
+    "00-4283",
+    "00-4551",
+    "00-6810",
+    "00-3042",
+    "00-7606",
+    "00-1016",
+    "00-4932",
+    "00-5871",
+    "00-1198",
+    "00-3735",
+    "00-6932",
+    "00-3669",
+    "00-7368",
+    "00-5447",
+    "00-7224",
+    "00-3420",
+    "00-7675",
+    "00-2098",
+    "00-4783",
+    "00-7860",
+    "00-6684",
+    "00-1457",
+    "00-7082",
+    "00-3713",
+    "00-3983",
+    "00-6845",
+    "00-3146",
+    "00-4513",
+    "00-6877",
+    "00-3157",
+    "00-10",
+    "00-6799",
+    "00-1120",
+    "00-1041",
+    "00-4605",
+    "00-3512",
+    "00-6884",
+    "00-6496",
+    "00-1524",
+    "00-9589",
+    "00-6024",
+    "00-1121",
+    "00-2170",
+    "00-4838",
+    "00-9639",
+    "00-3507",
+    "00-8085",
+    "00-1117",
+    "00-7759",
+    "00-8012",
+    "00-7980",
+    "00-6740",
+    "00-2222",
+    "00-7969",
+    "00-6823",
+    "00-3063",
+    "00-6928",
+    "00-1900",
+    "00-3253",
+    "00-3445",
+    "00-6864",
+    "00-823",
+    "00-2261",
+    "00-8953",
+    "00-7629",
+    "00-3118",
+    "00-7336",
+    "00-4952",
+    "00-2208",
+    "00-8946",
+    "00-1032",
+    "00-6439",
+    "00-8530",
+    "00-6979",
+    "00-4107",
+    "00-6805",
+    "00-3379",
+    "00-7491",
+    "00-4674",
+    "00-3326",
+    "00-3150",
+    "00-6916",
+    "00-2840",
+    "00-6489",
+    "00-2223",
+    "00-7245",
+    "00-2301",
+    "00-7676",
+    "00-6424",
+    "00-7733",
+    "00-2154",
+    "00-7616",
+    "00-6975",
+    "00-4847",
+    "00-6749",
+    "00-5108",
+    "00-7544",
+    "00-1132",
+    "00-3010",
+    "00-6021",
+    "00-99202",
+    "00-3601"
+  ],
+  "url": "/produkte/knorr-basis-fuer-jaegerschnitzel/00-437686",
+  "vatCode": "10",
+  "video": ""
+}

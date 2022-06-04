@@ -1,0 +1,208 @@
+{
+  "articleGroupIds": [
+    "B2-659"
+  ],
+  "articleId": "00-411798",
+  "articleOnlyCanonicalPath": "/produkte/land-leben-croutons-zwiebel-knoblauch/00-411798",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Land-Leben",
+  "canonicalPath": "/produkte/land-leben-croutons-zwiebel-knoblauch/00-411798",
+  "category": "Grundnahrungsmittel",
+  "description": "Für extra knackige Salate: Die knusprigen Croutons mit Zwiebel-Knoblauch-Geschmack von Land-Leben setzen jedem Salatrezept die Krone auf.<li>fein geröstete Weißbrotwürfel mit Zwiebel-Knoblauch-Aroma<li>knuspriges Extra für Salate, Suppen, Vorspeisen oder Toppings<li>auch beliebt als Knabber-Snack",
+  "eanCodes": [
+    "9001411341004",
+    "4000186039104"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5102 Anthering - Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "LAND-LEBEN Nahrungsmittel GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@land-leben.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "facebook.com/landleben",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.land-leben.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Sonnenblumenöl, Salz, Gewürze, Gewürzextrakte, Knoblauch, Hefe, natürliches Aroma, Aroma, Hefeextrakt, WEIZENGLUTEN, Rapsöl, Säurungsmittel, Zitronensäure, hydrolisiertes Mais- und Rapsprotein, Dextrose.",
+      "marketingMessage": "LAND-LEBEN Croutons gibt es in vielen appetitlichen Variationen mit Kräutern, Zwiebel/Knoblauch und Natur. Hervorragend geeignet für klare und gebundene Suppen, knackige Salate, als Beilage feiner Vorspeisen oder als Garnierung für Cocktails. Ihrer Phantasie sind keine Grenzen gesetzt. Auch zum Knabbern eine Delikatesse!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 130
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Croutons  Zwiebel/Knoblauch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 431,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1796,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 72,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken und vor (Sonnen-) Licht geschützt lagern."
+    }
+  ],
+  "grammage": "100 Gramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 11.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Land-Leben Croutons Zwiebel-Knoblauch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/suppeneinlagen/B2-659/produkte/land-leben-croutons-zwiebel-knoblauch/00-411798"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 11.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 75620,
+  "recommendationArticleIds": [],
+  "seoDescription": "Land-Leben Croutons Zwiebel-Knoblauch online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Land-Leben Croutons Zwiebel-Knoblauch online bestellen | BILLA",
+  "slug": "land-leben-croutons-zwiebel-knoblauch",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/land-leben-croutons-zwiebel-knoblauch/00-411798",
+  "vatCode": "10",
+  "video": ""
+}

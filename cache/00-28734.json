@@ -1,0 +1,264 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-28734",
+  "articleOnlyCanonicalPath": "/produkte/tirol-milch-naturjoghurt-geruehrt-36/00-28734",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tirol-milch-naturjoghurt-geruehrt-36/00-28734",
+  "category": "Kühlwaren",
+  "description": "Das Naturjoghurt gerührt 3,6 % stammt von Bergbauernmilch aus Tirol. Das cremige Naturjoghurt schmeckt im Müsli, mit Honig sowie pur herrlich cremig.<li>hergestellt in Österreich<li>ohne Gentechnik",
+  "eanCodes": [
+    "9006020006207"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Joghurt ist ein waschechtes Naturprodukt und ein wahres Energiebündel. Es liefert dem menschlichen Organismus die wichtigen Inhaltsstoffe der Milch. Egal ob geschüttelt oder gerührt, süß oder pikant, zum Trinken oder Löffeln - unsere Joghurts sind so vielfältig wie unser Land.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.266
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Tiroler Bergbauern Naturjoghurt gerührt aus pasteurisierter Milch mit 3,6% Fett.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 67,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 279,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt bei max. +6°C lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet mindestens haltbar bis: siehe Deckel."
+    }
+  ],
+  "grammage": "250 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.67,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.67,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.67,
+    "unit": "1 kg 2.68"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tirol Milch Naturjoghurt gerührt 3.6%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/tirol-milch-naturjoghurt-geruehrt-36/00-28734"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.67,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.67,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.67,
+    "unit": "1 kg 2.68"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 64380,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tirol Milch Naturjoghurt gerührt 3.6% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tirol Milch Naturjoghurt gerührt 3.6% online bestellen | BILLA",
+  "slug": "tirol-milch-naturjoghurt-geruehrt-36",
+  "storeAvalibility": [
+    "00-7866",
+    "00-8235",
+    "00-8657",
+    "00-8155",
+    "00-8193",
+    "00-8646",
+    "00-8334",
+    "00-8426",
+    "00-8022",
+    "00-8140",
+    "00-8085",
+    "00-8158",
+    "00-8213",
+    "00-8241",
+    "00-8230",
+    "00-8188",
+    "00-8895",
+    "00-8185",
+    "00-8606",
+    "00-8636",
+    "00-8154",
+    "00-8031",
+    "00-8173",
+    "00-8159",
+    "00-8070",
+    "00-8075",
+    "00-8076",
+    "00-8417",
+    "00-8243",
+    "00-8360",
+    "00-8151",
+    "00-99202"
+  ],
+  "url": "/produkte/tirol-milch-naturjoghurt-geruehrt-36/00-28734",
+  "vatCode": "10",
+  "video": ""
+}

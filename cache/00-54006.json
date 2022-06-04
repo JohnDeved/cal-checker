@@ -1,0 +1,270 @@
+{
+  "articleGroupIds": [
+    "B2-634",
+    "B2-6A3"
+  ],
+  "articleId": "00-54006",
+  "articleOnlyCanonicalPath": "/produkte/rauch-mehl-doppelgriffig/00-54006",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Rauch",
+  "brandPath": "/marken/rauch",
+  "canonicalPath": "/produkte/rauch-mehl-doppelgriffig/00-54006",
+  "category": "Grundnahrungsmittel",
+  "description": "Ob Marillenknödel, Spätzle oder Nudeln: Das Rauch Mehl doppelgriffig eignet sich für Teige, die in heißem Wasser weiter verarbeitet werden.<li>Weizenmehl Type 480 mit grober Körnung<li>nach besonderem Mahlverfahren in der Innsbrucker Rauchmühle hergestellt<li>geeignet für Spätzle, Schlutzkrapfen, Nockerl, Brand- und Sandmasse",
+  "eanCodes": [
+    "9002716031096",
+    "9002906000246"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Haller Straße 65, A-6020 Innsbruck",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Anton Rauch GmbH & Co KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.rauchmehl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL Type 480",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1010
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Weizenmehl Type 480 doppelgriffig",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1435,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 338,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 71,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "vor Wärme schützen",
+      "sustenanceClaim": "*Die Nährwertangaben unterliegen den bei Naturprodukten üblichen Schwankungen."
+    }
+  ],
+  "grammage": "1 Kilogramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Rauch Mehl doppelgriffig",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/mehl/B2-634/produkte/rauch-mehl-doppelgriffig/00-54006",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/rauch-mehl-doppelgriffig/00-54006"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51940,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rauch Mehl doppelgriffig online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rauch Mehl doppelgriffig online bestellen | BILLA",
+  "slug": "rauch-mehl-doppelgriffig",
+  "storeAvalibility": [
+    "00-5391",
+    "00-5381",
+    "00-8409",
+    "00-8395",
+    "00-8230",
+    "00-5104",
+    "00-5181",
+    "00-5223",
+    "00-5108",
+    "00-8188",
+    "00-5027",
+    "00-5165",
+    "00-5082",
+    "00-8031",
+    "00-5322",
+    "00-8151",
+    "00-8241",
+    "00-8646",
+    "00-8159",
+    "00-8075",
+    "00-5112",
+    "00-5067",
+    "00-5226",
+    "00-8076",
+    "00-8154",
+    "00-8426",
+    "00-8400",
+    "00-8895",
+    "00-8243",
+    "00-5447",
+    "00-8085",
+    "00-8193",
+    "00-7866",
+    "00-8140",
+    "00-8213",
+    "00-5290",
+    "00-8636",
+    "00-8185",
+    "00-8360",
+    "00-5454",
+    "00-5306",
+    "00-8657",
+    "00-8606",
+    "00-8173",
+    "00-8158",
+    "00-5363",
+    "00-5003",
+    "00-5078",
+    "00-8235",
+    "00-8417",
+    "00-5000",
+    "00-8022",
+    "00-5414",
+    "00-5405",
+    "00-5359",
+    "00-5199",
+    "00-8334",
+    "00-8530",
+    "00-8155",
+    "00-5031",
+    "00-5552",
+    "00-5529",
+    "00-8070",
+    "00-99202"
+  ],
+  "url": "/produkte/rauch-mehl-doppelgriffig/00-54006",
+  "vatCode": "10",
+  "video": ""
+}

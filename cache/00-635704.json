@@ -1,0 +1,152 @@
+{
+  "articleGroupIds": [
+    "B2-351"
+  ],
+  "articleId": "00-635704",
+  "articleOnlyCanonicalPath": "/produkte/hauser-birne/00-635704",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hauser",
+  "canonicalPath": "/produkte/hauser-birne/00-635704",
+  "category": "Getränke",
+  "eanCodes": [
+    "9002280015485",
+    "9002280400342"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6890 Lustenau, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Hauser Traditionsmarken Vertriebs GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hauser-tradition.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2016-07-21T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 230
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.1
+        }
+      ],
+      "name": "Williams-Birnen Schnaps Spirituose",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "100 ml Flasche",
+  "grammageBadge": "100 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 l 31.90"
+  },
+  "maximalOrderQuantity": 100,
+  "minimalOrderQuantity": 0,
+  "name": "Hauser Birne",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/spirituosen/schnaps-und-likoer/B2-351/produkte/hauser-birne/00-635704"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 l 31.90"
+  },
+  "properties": [],
+  "quantitySteps": [
+    20,
+    40,
+    60,
+    80,
+    100
+  ],
+  "rank": 178640,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hauser Birne online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hauser Birne online bestellen | BILLA",
+  "slug": "hauser-birne",
+  "storeAvalibility": [],
+  "url": "/produkte/hauser-birne/00-635704",
+  "vatCode": "20",
+  "video": ""
+}

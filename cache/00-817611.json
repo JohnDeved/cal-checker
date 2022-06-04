@@ -1,0 +1,246 @@
+{
+  "articleGroupIds": [
+    "B2-488"
+  ],
+  "articleId": "00-817611",
+  "articleOnlyCanonicalPath": "/produkte/hoertnagl-paprikawurst-geschnitten/00-817611",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Hörtnagl",
+  "canonicalPath": "/produkte/hoertnagl-paprikawurst-geschnitten/00-817611",
+  "category": "Kühlwaren",
+  "description": "Ist eine Brühwurst aus einem Brät und einer pikanten Gemüseeinlage. Besonders für den gemischten Aufschntt geeignet",
+  "eanCodes": [
+    "9006507126626",
+    "9006507006621"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6060 Hall in Tirol,Trientlstr. 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Andrä Hörtnagl Produktion und Handel GmbH.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hoertnagl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch(48%), Rindfleisch(8%), Paprika(5%), Gurken(4%), Speck, Wasser, Nitritpökelsalz (Speisesalz,  Konservierungsstoff: E250); Speisesalz (Speisesalz, Kaliumjodat), Stärke, Gewürze und Gewürzextrakte mit SENF, Stabilisator: E450; Geschmacksverstärker: E621; Antioxidationsmittel: E301; Zucker, Aroma;",
+      "mandatoryIndicator": "Wursthülle nicht essbar",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 2300
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 2300
+        }
+      ],
+      "name": "Paprikawurst gekocht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 276,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1138,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 10.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lagertemperatur +2°C - +6°C   \n\nUngeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt"
+    }
+  ],
+  "grammage": "120 g Packung",
+  "grammageBadge": "120 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 20.75"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hörtnagl Paprikawurst Geschnitten",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/hoertnagl-paprikawurst-geschnitten/00-817611"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 20.75"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 91350,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hörtnagl Paprikawurst Geschnitten online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hörtnagl Paprikawurst Geschnitten online bestellen | BILLA",
+  "slug": "hoertnagl-paprikawurst-geschnitten",
+  "storeAvalibility": [
+    "00-8243",
+    "00-8076",
+    "00-8185",
+    "00-8409",
+    "00-8159",
+    "00-8158",
+    "00-8188",
+    "00-8646",
+    "00-8140",
+    "00-8155",
+    "00-8230",
+    "00-8395",
+    "00-8151",
+    "00-8530",
+    "00-8075",
+    "00-8085",
+    "00-99202",
+    "00-8241",
+    "00-8636",
+    "00-8360",
+    "00-8031",
+    "00-8895",
+    "00-8334",
+    "00-8213",
+    "00-8606",
+    "00-8173",
+    "00-8417",
+    "00-8070",
+    "00-8426",
+    "00-8657",
+    "00-8022",
+    "00-8154",
+    "00-8193",
+    "00-8400"
+  ],
+  "url": "/produkte/hoertnagl-paprikawurst-geschnitten/00-817611",
+  "vatCode": "10",
+  "video": ""
+}

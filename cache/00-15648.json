@@ -1,0 +1,201 @@
+{
+  "articleGroupIds": [
+    "B2-6D4"
+  ],
+  "articleId": "00-15648",
+  "articleOnlyCanonicalPath": "/produkte/lustenauer-senf-scharf2/00-15648",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Lustenauer",
+  "canonicalPath": "/produkte/lustenauer-senf-scharf2/00-15648",
+  "category": "Grundnahrungsmittel",
+  "description": "Egal, ob zu Hause oder unterwegs, der scharfe Senf von Lustenauer darf nicht fehlen. Er verfeinert Rouladen, Salatdressings und schmeckt zu Würstchen.<li>hergestellt aus verschiedenen Senfsaatsorten<li>in der praktischen Tubenverpackung<li>regionales Produkt",
+  "eanCodes": [
+    "9001410000667"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "6890 Lustenau, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bösch GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, Essig, gelbe und braune Senfkörner, Salz, Zucker, Gewürze",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 216
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Senf scharf",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 116,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 483,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach Anbruch kühl lagern."
+    }
+  ],
+  "grammage": "200 Gramm Tube",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 10.45"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Lustenauer Senf scharf",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/saucen-und-dressings/senf-und-kren/B2-6D4/produkte/lustenauer-senf-scharf2/00-15648"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 10.45"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 55980,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lustenauer Senf scharf online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lustenauer Senf scharf online bestellen | BILLA",
+  "slug": "lustenauer-senf-scharf2",
+  "storeAvalibility": [
+    "00-8530",
+    "00-8409",
+    "00-8395",
+    "00-8360",
+    "00-8400",
+    "00-99202"
+  ],
+  "url": "/produkte/lustenauer-senf-scharf2/00-15648",
+  "vatCode": "10",
+  "video": ""
+}

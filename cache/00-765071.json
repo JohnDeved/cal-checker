@@ -1,0 +1,405 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-765071",
+  "articleOnlyCanonicalPath": "/produkte/rauch-happy-day-pink-guave/00-765071",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rauch",
+  "brandPath": "/marken/rauch",
+  "canonicalPath": "/produkte/rauch-happy-day-pink-guave/00-765071",
+  "category": "Getränke",
+  "description": "Der Rauch Happy Day Pink Guave Saft zeichnet sich nicht nur durch seine besondere Farbe aus: Auch geschmacklich überzeugt der süße Saft pur oder in Cocktails.<li>exotisch rosafarben<li>mit Vitamin C<li>mindestens 25 % Fruchtgehalt",
+  "eanCodes": [
+    "9008700155458"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Langgasse 1, A-6830 Rankweil, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rauch Fruchtsäfte GmbH & Co OG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Guavenmark, Zucker, Säuerungsmittel: Citronensäure; Vitamin C.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1100
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Guavennektar mit Vitamin C. Fruchtgehalt: mindestens 25% Guavenmark.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 193,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 46,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Geöffnet gekühlt 3 Tage haltbar."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Langgasse 1, A-6830 Rankweil, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rauch Fruchtsäfte GmbH & Co OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.rauch.cc",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-06-01T00:00:00",
+      "ingredients": "Zutaten: Wasser, 25% Guavenmark, Zucker, Säuerungsmittel: Citronensäure; Vitamin C.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1097
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Guavennektar mit Vitamin C. Fruchtgehalt: mindestens 25%.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 189,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 45,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Geöffnet gekühlt 3 Tage haltbar."
+    }
+  ],
+  "grammage": "1 l Packung (Einweg)",
+  "grammageBadge": "1 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 2,19 €"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Rauch Happy Day Pink Guave",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/rauch-happy-day-pink-guave/00-765071"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 2,19 €"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 78300,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rauch Happy Day Pink Guave online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rauch Happy Day Pink Guave online bestellen | BILLA",
+  "slug": "rauch-happy-day-pink-guave",
+  "storeAvalibility": [
+    "00-4982",
+    "00-4524",
+    "00-7539",
+    "00-4655",
+    "00-8213",
+    "00-4107",
+    "00-6533",
+    "00-1457",
+    "00-6588",
+    "00-3506",
+    "00-4605",
+    "00-6740",
+    "00-3856",
+    "00-4675",
+    "00-1132",
+    "00-3780",
+    "00-7857",
+    "00-6884",
+    "00-4551",
+    "00-7084",
+    "00-1108",
+    "00-3023",
+    "00-7653",
+    "00-3114",
+    "00-3709",
+    "00-3234",
+    "00-9290",
+    "00-4932",
+    "00-1041",
+    "00-4126",
+    "00-3617",
+    "00-1032",
+    "00-99202",
+    "00-6928",
+    "00-2342",
+    "00-3150",
+    "00-7358",
+    "00-4421",
+    "00-3857",
+    "00-3551",
+    "00-3512",
+    "00-7606",
+    "00-4783",
+    "00-3681",
+    "00-249",
+    "00-1913",
+    "00-7860",
+    "00-8012",
+    "00-7393",
+    "00-10",
+    "00-3384",
+    "00-5306",
+    "00-1128",
+    "00-3143",
+    "00-3700",
+    "00-2111",
+    "00-4690",
+    "00-3118",
+    "00-2109",
+    "00-4779",
+    "00-5199",
+    "00-3076",
+    "00-4249",
+    "00-8946",
+    "00-3445",
+    "00-7114",
+    "00-3431"
+  ],
+  "url": "/produkte/rauch-happy-day-pink-guave/00-765071",
+  "vatCode": "20",
+  "video": ""
+}

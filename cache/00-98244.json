@@ -1,0 +1,198 @@
+{
+  "articleGroupIds": [
+    "B2-488"
+  ],
+  "articleId": "00-98244",
+  "articleOnlyCanonicalPath": "/produkte/broger-landjaeger/00-98244",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Broger",
+  "canonicalPath": "/produkte/broger-landjaeger/00-98244",
+  "category": "Kühlwaren",
+  "description": "Der würzige Imbiss für unterwegs oder für den deftigen Jausenteller: Die Broger Landjäger aus dem Bregenzerwald überzeugen mit ihrem pikanten Geschmack.<li>praktisch: einfach kalt essen<li>aus 94 % Schweinefleisch<li>ungekühlt haltbar",
+  "eanCodes": [
+    "9005630007024"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Unterdorf 395, A 6874 Bizau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Broger Bregenzerwälder Fleischwaren GmbH & Co KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 94% Schweinefleisch, Speisesalz, Gewürze, \nDextrose, Konservierungstoff: Natriumnitrit;  \nAntioxidationsmittel: Ascorbinsäure; Buchenholzrauch, essbare Hülle.\n100g Landjäger sind aus 134g Schweinefleisch hergestellt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 310
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Landjäger",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 465,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1947,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 40,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "ungekühlt mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum ehest baldigen Verzehr bestimmt"
+    }
+  ],
+  "grammage": "300 g Packung",
+  "grammageBadge": "300 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.49,
+    "unit": "1 kg 21.63"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Broger Landjäger",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/broger-landjaeger/00-98244"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.49,
+    "unit": "1 kg 21.63"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 61710,
+  "recommendationArticleIds": [],
+  "seoDescription": "Broger Landjäger online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Broger Landjäger online bestellen | BILLA",
+  "slug": "broger-landjaeger",
+  "storeAvalibility": [],
+  "url": "/produkte/broger-landjaeger/00-98244",
+  "vatCode": "10",
+  "video": ""
+}

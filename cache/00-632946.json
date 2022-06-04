@@ -1,0 +1,215 @@
+{
+  "articleGroupIds": [
+    "B2-686"
+  ],
+  "articleId": "00-632946",
+  "articleOnlyCanonicalPath": "/produkte/bonduelle-champignons-ganze-koepfe/00-632946",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Bonduelle",
+  "brandPath": "/marken/bonduelle",
+  "canonicalPath": "/produkte/bonduelle-champignons-ganze-koepfe/00-632946",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Champignons von Bonduelle sind hochwertige ganze Köpfe erster Wahl. Die köstlichen Pilze schmecken in Salaten, Vorspeisen und zahlreichen warmen Gerichten.<li>ohne Konservierungsstoffe<li>Champignons in Wasser mit Salz<li>ohne künstliche Zusatzstoffe",
+  "eanCodes": [
+    "3083680010061"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-72766 Reutlingen, Am Heilbrunnen 136/138",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bonduelle Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Champignons, Wasser, Salz.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 230
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 457
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 390
+        }
+      ],
+      "name": "Champignons, Ganze Köpfe, I. Wahl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 85,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 20,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.58,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet bei Zimmertemperatur trocken lagern. Nach dem Öffnen gekühlt lagern und innerhalb eines Tages verbrauchen."
+    }
+  ],
+  "grammage": "400 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 kg 7.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Bonduelle Champignons Ganze Köpfe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686/produkte/bonduelle-champignons-ganze-koepfe/00-632946"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "1 kg 7.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 67170,
+  "recommendationArticleIds": [
+    "00-101309"
+  ],
+  "seoDescription": "Bonduelle Champignons Ganze Köpfe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bonduelle Champignons Ganze Köpfe online bestellen | BILLA",
+  "slug": "bonduelle-champignons-ganze-koepfe",
+  "storeAvalibility": [
+    "00-2342",
+    "00-7653",
+    "00-4605",
+    "00-3780",
+    "00-99202",
+    "00-10",
+    "00-7606",
+    "00-720",
+    "00-1132",
+    "00-1529",
+    "00-4779",
+    "00-3617",
+    "00-4655"
+  ],
+  "url": "/produkte/bonduelle-champignons-ganze-koepfe/00-632946",
+  "vatCode": "10",
+  "video": ""
+}

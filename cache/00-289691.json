@@ -1,0 +1,291 @@
+{
+  "articleGroupIds": [
+    "B2-6E8",
+    "B2-F"
+  ],
+  "articleId": "00-289691",
+  "articleOnlyCanonicalPath": "/produkte/alpro-kokosnuss-drink-ungesuesst/00-289691",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Alpro",
+  "brandPath": "/marken/alpro",
+  "canonicalPath": "/produkte/alpro-kokosnuss-drink-ungesuesst/00-289691",
+  "category": "Grundnahrungsmittel",
+  "description": "Gut zu wissen, dass im Alpro Kokosnuss Ohne Zucker keinerlei zugesetzter Zucker oder Süßstoffe enthalten sind.<br>Es gibt also nichts, dass zwischen Dir und dem leichten tropischen Kokos-Genuss stehen könnte!",
+  "eanCodes": [
+    "5411188128311"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Vlamingstraat 28, 8560 Wevelgem, Belgien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alpro C.V.A.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 202175",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alpro.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2020-05-04T00:00:00",
+      "ingredients": "Zutaten: Wasser, Kokosmilch (7%) (Kokoscreme, Wasser), Kokosnusswasser (2,6%), Tricalciumphosphat, natürliches Kokosaroma, Stabilisatoren(Guarkernmehl, Xanthan, Gellan), Meersalz, Vitamine (B12, D2).\n\nKann Spuren von Schalenfrüchten (keine Erdnüsse) enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1034
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Kokosnussdrink angereichert mit Calcium und Vitaminen\nU.H.T.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 56,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 14,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.07,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.38,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 0.75,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Gekühlt genießen.",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "1 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 2.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.49
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Alpro Kokosnuss Drink ungesüsst",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/soja-hafer-und-reisdrinks/B2-6E8/produkte/alpro-kokosnuss-drink-ungesuesst/00-289691",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/alpro-kokosnuss-drink-ungesuesst/00-289691"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 2.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.49
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alpro Kokosnuss Drink ungesüsst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alpro Kokosnuss Drink ungesüsst online bestellen | BILLA",
+  "slug": "alpro-kokosnuss-drink-ungesuesst",
+  "storeAvalibility": [
+    "00-4707",
+    "00-10",
+    "00-355",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/alpro-kokosnuss-drink-ungesuesst/00-289691",
+  "vatCode": "20",
+  "video": ""
+}

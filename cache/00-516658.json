@@ -1,0 +1,265 @@
+{
+  "articleGroupIds": [
+    "B2-490",
+    "B2-442",
+    "B2-444"
+  ],
+  "articleId": "00-516658",
+  "articleOnlyCanonicalPath": "/produkte/laendle-bergkaese/00-516658",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_falergen",
+    "s_feinkost",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Vorarlberg Milch",
+  "canonicalPath": "/produkte/laendle-bergkaese/00-516658",
+  "category": "Kühlwaren",
+  "description": "Der Vorarlberger Bergkäse wird nach traditioneller Methode hergestellt und darf mehrere Monate reifen, worauf er seinen mild-würzigen Geschmack erhält.<li>österreichischer Hartkäse aus Rohmilch<li>durch natürliche Reifung laktosefrei<li>mit 45 % Fett i. Tr.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PROTECTED_DESIGNATION_OF_ORIGIN",
+              "valueTranslation": "GESCHÜTZTE URSPRUNGSANGABE (für landwirtschaftliche Produkte oder Nahrungsmittel)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "LAENDLE_QUALITAET",
+              "valueTranslation": "LAENDLE-Qualitätssiegel - (Vorarlberger Produkte, definierte Qualitätsstandards)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "HEUMILCH",
+              "valueTranslation": "HEUMILCH (Österreich) (natürlichste Form der Milchproduktion)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Nofler Straße 62, A-6800 Feldkirch",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberg Milch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-08T00:00:00",
+      "ingredients": "Zutaten: HEUMILCH g.t.S., Speisesalz, Mikroorganismenkulturen, Lab",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 3793
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 3.778
+        }
+      ],
+      "name": "Österreichischer Hartkäse mindestens 45% Fett i. Tr., mit Rohmilch hergestellt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 423,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1754,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt (+4°C bis +8°C) mindestens haltbar bis: siehe Aufdruck",
+      "sustenanceClaim": "Durch natürliche Reifung laktosefrei, Laktosegehalt <0,1g/100g"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Ländle Bergkäse",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/laendle-bergkaese/00-516658",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/laendle-bergkaese/00-516658",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444/produkte/laendle-bergkaese/00-516658"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 110740,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ländle Bergkäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ländle Bergkäse online bestellen | BILLA",
+  "slug": "laendle-bergkaese",
+  "storeAvalibility": [
+    "00-8400",
+    "00-8395",
+    "00-3384",
+    "00-8409",
+    "00-6021",
+    "00-3082",
+    "00-176",
+    "00-6676",
+    "00-5078",
+    "00-3044",
+    "00-7114",
+    "00-8530",
+    "00-8185",
+    "00-119",
+    "00-950",
+    "00-2342",
+    "00-174",
+    "00-355",
+    "00-10",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/laendle-bergkaese/00-516658",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

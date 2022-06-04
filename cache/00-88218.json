@@ -1,0 +1,188 @@
+{
+  "articleGroupIds": [
+    "B2-685"
+  ],
+  "articleId": "00-88218",
+  "articleOnlyCanonicalPath": "/produkte/moestl-sauerkraut-vom-holzbottich/00-88218",
+  "attributes": [
+    "mengehaus",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/moestl-sauerkraut-vom-holzbottich/00-88218",
+  "category": "Grundnahrungsmittel",
+  "description": "Möstl's Sauerkraut vom Holzbottich aus der Steiermark wird aus wertvollem Weißkraut hergestellt. Das Qualitätsprodukt enthält keine chemischen Zusatzstoffe.<li>Zutaten: Weißkraut, Speisesalz, Kümmel und Wacholder<li>von einem österreichischen Traditionsbetrieb produziert",
+  "eanCodes": [
+    "9001596000154",
+    "9001596000161"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Möstl's Sauerkrautmanufaktur, A-8141 Zettling, Bierbaum 35",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Möstl's Sauerkrautmanufaktur, A-8141 Zettling, Bierbaum 35",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Weißkraut, Speisesalz, Kümmel, Wacholder.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 758
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 750
+        }
+      ],
+      "name": "Sauerkraut frisch in Holzbottichen vergoren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 66,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 16,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.4,
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.5,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.3,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.2,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 16.7,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen gut verschließen und ehebaldigst verzehren. Dunkel und gekühlt (+2 bis +6°C) stehend lagern. Zum Rohgenuss bestens geeignet."
+    }
+  ],
+  "grammage": "750 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 2.92"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Moestl Sauerkraut vom Holzbottich",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerkraut/B2-685/produkte/moestl-sauerkraut-vom-holzbottich/00-88218"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 2.92"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 122220,
+  "recommendationArticleIds": [],
+  "seoDescription": "Moestl Sauerkraut vom Holzbottich online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Moestl Sauerkraut vom Holzbottich online bestellen | BILLA",
+  "slug": "moestl-sauerkraut-vom-holzbottich",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/moestl-sauerkraut-vom-holzbottich/00-88218",
+  "vatCode": "10",
+  "video": ""
+}

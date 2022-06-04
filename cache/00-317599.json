@@ -1,0 +1,547 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-317599",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-birne-pur/00-317599",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-birne-pur/00-317599",
+  "category": "Grundnahrungsmittel",
+  "description": "100 Prozent Frucht - feines Birnenpüree aus ökologischem Anbau: Das Alnatura Babygläschen Birne pur eignet sich nach dem vierten Lebensmonat als Zwischenmahlzeit, Nachspeise oder auch zum Verfeinern von Brei. Die Süße stammt ausschließlich aus den verwendeten Früchten. Zucker, Salz, Bindemittel oder farberhaltene Stoffe wurden nicht zugesetzt.",
+  "eanCodes": [
+    "4104420083325"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DEMETER_LABEL",
+              "valueTranslation": "DEMETER-Label (biologisch-dynamische Landwirtschaft)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Birnen* 100 % *aus biodynamischem Landbau .",
+      "mandatoryIndicator": "nach dem 4. Monat; glutenfrei",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 218
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Bio Birne pur",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 197,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 47,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Glas",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 247,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 58,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Angebrochenes Glas verschlossen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verbrauchen."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DEMETER_LABEL",
+              "valueTranslation": "DEMETER-Label (biologisch-dynamische Landwirtschaft)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_AGRICULTURE",
+              "valueTranslation": "EU Landwirtschaft - Alle Rohmaterialien in der EU angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2022-05-17T00:00:00",
+      "ingredients": "Zutaten: Birnen* 100 % *aus biologisch-dynamischem Landbau.",
+      "mandatoryIndicator": "nach dem 4. Monat; glutenfrei",
+      "marketingMessage": "Eine fein pürierte Zwischenmahlzeit oder Nachspeise aus nur einer Zutat: hundert Prozent Bio-Birne in Demeter-Qualität. Glutenfrei und ohne Zuckerzusatz (Zutaten enthalten von Natur aus Zucker). Für Babys nach dem 4. Lebensmonat.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 218
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Bio Birne pur",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 196,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 46,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Angebrochenes Glas verschlossen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "125 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 kg 7.92"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Birne Pur",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/alnatura-birne-pur/00-317599"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 kg 7.92"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 119740,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Birne Pur online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Birne Pur online bestellen | BILLA",
+  "slug": "alnatura-birne-pur",
+  "storeAvalibility": [
+    "00-2364",
+    "00-4107",
+    "00-5777",
+    "00-10",
+    "00-3580",
+    "00-5381",
+    "00-3023",
+    "00-4021",
+    "00-7606",
+    "00-3445",
+    "00-7592",
+    "00-4945",
+    "00-3633",
+    "00-3940",
+    "00-9290",
+    "00-9589",
+    "00-4440",
+    "00-7358",
+    "00-2208",
+    "00-6979",
+    "00-6810",
+    "00-1425",
+    "00-2907",
+    "00-2342",
+    "00-5322",
+    "00-6724",
+    "00-4001",
+    "00-7676",
+    "00-6496",
+    "00-7653",
+    "00-3856",
+    "00-4674",
+    "00-4779",
+    "00-7783",
+    "00-6975",
+    "00-7857",
+    "00-220",
+    "00-4421",
+    "00-7245",
+    "00-6372",
+    "00-3512",
+    "00-4551",
+    "00-4655",
+    "00-3669",
+    "00-7632",
+    "00-1457",
+    "00-1701",
+    "00-4170",
+    "00-3713",
+    "00-1117",
+    "00-3102",
+    "00-2369",
+    "00-3688",
+    "00-3121",
+    "00-3560",
+    "00-2201",
+    "00-4982",
+    "00-7229",
+    "00-3042",
+    "00-3780",
+    "00-5603",
+    "00-1071",
+    "00-4146",
+    "00-2190",
+    "00-3196",
+    "00-7062",
+    "00-1198",
+    "00-7204",
+    "00-7969",
+    "00-6745",
+    "00-4126",
+    "00-3584",
+    "00-3379",
+    "00-6533",
+    "00-1041",
+    "00-7368",
+    "00-6424",
+    "00-3005",
+    "00-1016",
+    "00-4783",
+    "00-3296",
+    "00-7491",
+    "00-3162",
+    "00-7535",
+    "00-6480",
+    "00-7866",
+    "00-7758",
+    "00-7665",
+    "00-281",
+    "00-3617",
+    "00-4619",
+    "00-1913",
+    "00-6897",
+    "00-4675",
+    "00-5290",
+    "00-4469",
+    "00-6760",
+    "00-1132",
+    "00-4673",
+    "00-7975",
+    "00-1900",
+    "00-7716",
+    "00-7743",
+    "00-4672",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-birne-pur/00-317599",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,341 @@
+{
+  "articleGroupIds": [
+    "B2-742"
+  ],
+  "articleId": "00-245456",
+  "articleOnlyCanonicalPath": "/produkte/kellys-donuts-peanut-und-caramel/00-245456",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kelly's",
+  "brandPath": "/marken/kellys",
+  "canonicalPath": "/produkte/kellys-donuts-peanut-und-caramel/00-245456",
+  "category": "Süßes & Salziges",
+  "description": "Kelly's Donuts Peanut & Caramel - 'Ich glaub' mein Donut kracht!'<br>Eine Kombination die begeistert!<br>Entdecke die ersten knusprigen Mini-Donuts mit verführerischem Peanut-Caramel Flavour!<br>Beiß rein und lass dir den Geschmack auf der Zunge zergehen!",
+  "eanCodes": [
+    "9000159197126"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hermann-Gebauer-Straße 1  1220 Wien Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kelly Ges.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kellys.eu",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-28T00:00:00",
+      "ingredients": "Zutaten: Maisgrieß (49%), ERDNÜSSE (29%), Zucker (12,5%), Sonnenblumenöl, Salz, karamellisierter Zucker (0,6%), natürliches Aroma. Allergenhinweis: Kann Spuren von GLUTEN enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 104
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Maissnack mit Erdnuß-Karamellzucker Topping",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2016,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 481,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 57,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 605,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 144,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.47,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "100 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 2.19,
+    "priceAdditionalInfo": {
+      "vptxt": "je 2 Beutel billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "1PLUS1"
+      }
+    ],
+    "sale": 1.09
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Kelly's Donuts Peanut & Caramel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/knabbereien/B2-742/produkte/kellys-donuts-peanut-und-caramel/00-245456"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 2.19,
+    "priceAdditionalInfo": {
+      "vptxt": "je 2 Beutel billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "1PLUS1"
+      }
+    ],
+    "sale": 1.09
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 107290,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kelly's Donuts Peanut & Caramel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kelly's Donuts Peanut & Caramel online bestellen | BILLA",
+  "slug": "kellys-donuts-peanut-und-caramel",
+  "storeAvalibility": [
+    "00-3023",
+    "00-3709",
+    "00-3206",
+    "00-2154",
+    "00-3146",
+    "00-4655",
+    "00-7606",
+    "00-6910",
+    "00-4707",
+    "00-2045",
+    "00-4551",
+    "00-4779",
+    "00-7860",
+    "00-4126",
+    "00-4249",
+    "00-7204",
+    "00-3780",
+    "00-4675",
+    "00-1027",
+    "00-355",
+    "00-7393",
+    "00-3143",
+    "00-3507",
+    "00-1911",
+    "00-7653",
+    "00-10",
+    "00-2015",
+    "00-2342",
+    "00-3617",
+    "00-99202",
+    "00-4107",
+    "00-3114",
+    "00-7857",
+    "00-7368",
+    "00-2098",
+    "00-2109",
+    "00-1457",
+    "00-783",
+    "00-9290",
+    "00-3234",
+    "00-7114",
+    "00-4690",
+    "00-1529",
+    "00-3157",
+    "00-3118"
+  ],
+  "url": "/produkte/kellys-donuts-peanut-und-caramel/00-245456",
+  "vatCode": "10",
+  "video": ""
+}

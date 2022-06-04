@@ -1,0 +1,237 @@
+{
+  "articleGroupIds": [
+    "B2-F",
+    "B2-623"
+  ],
+  "articleId": "00-522861",
+  "articleOnlyCanonicalPath": "/produkte/pure-und-fun-paw-patrol-helden-quetschie-chase/00-522861",
+  "attributes": [
+    "s_bio",
+    "s_new",
+    "s_marke",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_new"
+  ],
+  "brand": "Pure & Fun",
+  "canonicalPath": "/produkte/pure-und-fun-paw-patrol-helden-quetschie-chase/00-522861",
+  "category": "Neu im Online Shop",
+  "description": "Wenn die Power knapp wird, kann sie schlückchenweise wieder aufgebaut werden.<br>Der perfekte Begleiter für die Schultasche oder im Rucksack - so bist du jederzeit für große Abenteuer gerüstet.<li>Fruchtsnack mit Erdbeere, Himbeere und wertvollem Vollkorn-Hafer<li>100% Bio<li>100% natürlich<li>100% kindgerecht</li>",
+  "eanCodes": [
+    "9120111880443"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 24, 5071 Wals-Siezenheim",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Healthy Kids GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.pureandfun.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-01-31T00:00:00",
+      "ingredients": "Zutaten: Apfelpüree** (62 %), Erdbeerpüree** (15 %), Bananenpüree** (12,5%),Himbeerpüree**(7,5%),Vollkorn-HAFERmehl**(3%). **Aus kontrolliert biologischem Anbau.",
+      "mandatoryIndicator": "Wichtig: Zum Schutz der Zähne vor Karies Dauernuckeln verhindern. Am besten mit einem Löffel füttern. Bitte lassen Sie Ihr Kind nicht unbeaufsichtigt mit dem Beutel oder Deckel spielen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 107
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Bio Fruchtpüree mit Vollkorn-Hafer",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 262,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 62,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.005,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Licht und Wärme geschützt lagern.",
+      "usageHints": "Nach dem Öffnen im Kühlschrank 2 Tage haltbar."
+    }
+  ],
+  "grammage": "100 Gramm",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Pure & Fun Paw Patrol Helden Quetschie Chase",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/pure-und-fun-paw-patrol-helden-quetschie-chase/00-522861",
+    "~/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623/produkte/pure-und-fun-paw-patrol-helden-quetschie-chase/00-522861"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pure & Fun Paw Patrol Helden Quetschie Chase online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pure & Fun Paw Patrol Helden Quetschie Chase online bestellen",
+  "slug": "pure-und-fun-paw-patrol-helden-quetschie-chase",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/pure-und-fun-paw-patrol-helden-quetschie-chase/00-522861",
+  "vatCode": "10",
+  "video": ""
+}

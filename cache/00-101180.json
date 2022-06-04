@@ -1,0 +1,349 @@
+{
+  "articleGroupIds": [
+    "B2-432"
+  ],
+  "articleId": "00-101180",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-huehnerfluegerl-die-grillerei2/00-101180",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-huehnerfluegerl-die-grillerei2/00-101180",
+  "category": "Kühlwaren",
+  "description": "Handelsklasse A, Pro Planet, AMA Gütesiegel Austria Für Partys und zwischendurch ein beliebter Knusperspaß: Die Henderl Flügerl von Hofstädter stammen aus extensiver Tierhaltung und sind frei von Gentechnik.<li>einfache Zubereitung: marinieren und im Ofen 15 min backen<li>extensive Haltung: mehr Platz pro Tier<li>regionale Herstellung",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "-"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-11-13T00:00:00",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-61992-EG\r\nHandelsklasse A\r\nfrisch \r\nKüchenhygiene ist wichtig: Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen (mind. 75°C)!\r\nGeboren in: Österreich \r\nAufgezogen in: Österreich \r\nGeschlachtet in: Österreich \r\nZerlegt in: Österreich ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Hühner Flügel, frisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 881,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 212,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 34,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.18,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei -1 bis 4°C.",
+      "usageHints": "Nach dem Öffnen zur unmittelbaren Verarbeitung bestimmt.\n"
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 9.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 9.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 9.99,
+    "unit": "1 kg 9,99 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.6,
+  "name": "Hofstädter Hühnerflügerl Die Grillerei",
+  "orderQuantityStepSize": 0.6,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432/produkte/hofstaedter-huehnerfluegerl-die-grillerei2/00-101180"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 9.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 9.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 9.99,
+    "unit": "1 kg 9,99 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 80930,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Hühnerflügerl Die Grillerei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Hühnerflügerl Die Grillerei online bestellen | BILLA",
+  "slug": "hofstaedter-huehnerfluegerl-die-grillerei2",
+  "storeAvalibility": [
+    "00-4756",
+    "00-4755",
+    "00-3135",
+    "00-4146",
+    "00-8241",
+    "00-4482",
+    "00-5552",
+    "00-5447",
+    "00-3617",
+    "00-8140",
+    "00-3149",
+    "00-5603",
+    "00-8155",
+    "00-5027",
+    "00-5082",
+    "00-3506",
+    "00-3579",
+    "00-4982",
+    "00-4513",
+    "00-9266",
+    "00-4003",
+    "00-4421",
+    "00-8606",
+    "00-3501",
+    "00-5104",
+    "00-4540",
+    "00-4700",
+    "00-4424",
+    "00-5737",
+    "00-4605",
+    "00-3688",
+    "00-3584",
+    "00-4107",
+    "00-5363",
+    "00-8636",
+    "00-4881",
+    "00-3162",
+    "00-4225",
+    "00-4748",
+    "00-4021",
+    "00-4478",
+    "00-4925",
+    "00-3143",
+    "00-4016",
+    "00-4283",
+    "00-4104",
+    "00-9290",
+    "00-4655",
+    "00-4441",
+    "00-4059",
+    "00-4672",
+    "00-9415",
+    "00-4524",
+    "00-174",
+    "00-4270",
+    "00-3700",
+    "00-4350",
+    "00-3983",
+    "00-4099",
+    "00-8022",
+    "00-4565",
+    "00-9589",
+    "00-4090",
+    "00-5223",
+    "00-4440",
+    "00-3633",
+    "00-5067",
+    "00-3979",
+    "00-5306",
+    "00-5003",
+    "00-4879",
+    "00-5529",
+    "00-8188",
+    "00-4707",
+    "00-5777",
+    "00-3259",
+    "00-3583",
+    "00-5962",
+    "00-4126",
+    "00-3580",
+    "00-8075",
+    "00-5078",
+    "00-3296",
+    "00-9332",
+    "00-4912",
+    "00-5226",
+    "00-4407",
+    "00-4779",
+    "00-5112",
+    "00-4291",
+    "00-3940",
+    "00-5531",
+    "00-5945",
+    "00-4834",
+    "00-4673",
+    "00-4813",
+    "00-3326",
+    "00-3076",
+    "00-4078",
+    "00-4551",
+    "00-4076",
+    "00-8185",
+    "00-4601",
+    "00-4770",
+    "00-5871",
+    "00-8395",
+    "00-8193",
+    "00-4629",
+    "00-8230",
+    "00-4489",
+    "00-4847",
+    "00-8360",
+    "00-4840",
+    "00-8159",
+    "00-5967",
+    "00-3378",
+    "00-4932",
+    "00-4675",
+    "00-3055",
+    "00-4249",
+    "00-9233",
+    "00-4619",
+    "00-4170",
+    "00-4466",
+    "00-5108",
+    "00-4838",
+    "00-99202"
+  ],
+  "url": "/produkte/hofstaedter-huehnerfluegerl-die-grillerei2/00-101180",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    60,
+    120,
+    180,
+    240,
+    300
+  ]
+}

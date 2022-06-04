@@ -1,0 +1,314 @@
+{
+  "articleGroupIds": [
+    "B2-742"
+  ],
+  "articleId": "00-317654",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-grissini-mit-olivenoel/00-317654",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-grissini-mit-olivenoel/00-317654",
+  "category": "Süßes & Salziges",
+  "description": "Dieses feine Bio-Stangengebäck ist mit wertvollem Olivenöl, Oregano und Paprikapulver veredelt. Grissini mit Olivenöl ist Demeter-Qualität zum Anknabbern.<li>die dünnen, mürben Brotstangen auf Weizenmehl-Basis eignen sich als kleine Appetithappen<li>biodynamisch angebaute Zutaten",
+  "eanCodes": [
+    "4104420055902",
+    "4104420235540"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DEMETER_LABEL",
+              "valueTranslation": "DEMETER-Label (biologisch-dynamische Landwirtschaft)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_AGRICULTURE",
+              "valueTranslation": "EU Landwirtschaft - Alle Rohmaterialien in der EU angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-10-11T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL* type 812 (86%), Olivenöl* 6,9%, Hefe**, Meersalz, Oregano**, Paprikapulver** *aus Demeter Bio-Landbau **aus biologischer Landwirtschaft. Kann Spuren von Ei, Milch, Nüssen und Sesam enthalten.",
+      "marketingMessage": "Diese Bio-Grissini in Demeter-Qualität werden aus Weizen knusprig gebacken; Olivenöl, Oregano und Paprika sorgen für eine mediterrane Note der veganen Stangen. Zum Dippen, zu Wein und Käse oder pur.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 137
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 110
+        }
+      ],
+      "name": "Bio Stangengebäck aus Weizenmehl mit Olivenöl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1782,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 423,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 71,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bitte trocken lagern und vor Wärme schützen."
+    }
+  ],
+  "grammage": "110 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "100 g 1.45"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Grissini mit Olivenöl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/knabbereien/B2-742/produkte/alnatura-grissini-mit-olivenoel/00-317654"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "100 g 1.45"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 106160,
+  "recommendationArticleIds": [
+    "00-918394"
+  ],
+  "seoDescription": "Alnatura Grissini mit Olivenöl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Grissini mit Olivenöl online bestellen | BILLA",
+  "slug": "alnatura-grissini-mit-olivenoel",
+  "storeAvalibility": [
+    "00-2109",
+    "00-7860",
+    "00-4707",
+    "00-6910",
+    "00-2015",
+    "00-4249",
+    "00-10",
+    "00-7857",
+    "00-783",
+    "00-7393",
+    "00-3234",
+    "00-3157",
+    "00-2154",
+    "00-3617",
+    "00-3143",
+    "00-7204",
+    "00-2342",
+    "00-3780",
+    "00-4126",
+    "00-2045",
+    "00-9290",
+    "00-7114",
+    "00-7368",
+    "00-4551",
+    "00-4690",
+    "00-1911",
+    "00-3709",
+    "00-3206",
+    "00-4779",
+    "00-1529",
+    "00-99202",
+    "00-3023",
+    "00-1027",
+    "00-7653",
+    "00-4655",
+    "00-1457",
+    "00-4107",
+    "00-7606",
+    "00-355",
+    "00-3114",
+    "00-3507",
+    "00-2098",
+    "00-3146",
+    "00-3118",
+    "00-4675"
+  ],
+  "url": "/produkte/alnatura-grissini-mit-olivenoel/00-317654",
+  "vatCode": "10",
+  "video": ""
+}

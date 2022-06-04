@@ -1,0 +1,172 @@
+{
+  "articleGroupIds": [
+    "B2-A13"
+  ],
+  "articleId": "00-381836",
+  "articleOnlyCanonicalPath": "/produkte/crave-protein-chunks-mit-rind/00-381836",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Crave",
+  "canonicalPath": "/produkte/crave-protein-chunks-mit-rind/00-381836",
+  "category": "Haustier",
+  "description": "<li>Mit 100% natürlichem Rinder hergestellt<li>Ohne Zusatz von künstlichen Farb- und Aromastoffen</li>",
+  "eanCodes": [
+    "4008429126703"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: 26% Rinderbacken, 24% Schweineherzen, 24% gemahlenes Huhn ohne Knochen, 14% Schweineleber, getrocknetes Schweineplasmaprotein, Mineralstoffe, pflanzliches Öl."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile (%): Protein: 44.0; Fettgehalt: 19.0; anorganischer Stoff: 7.0; Rohfaser: 1.0; Feuchtigkeit: 27.0; Brennwert: 348 kcal/100 g."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Fütterungsempfehlung: Kleine Hunde, z.B. Dackel, bis zu 3 Stück täglich. Mittelgroße Hunde, z.B. Cocker Spaniel, bis zu 5 Stück täglich. Große Hunde, z.B. Labrador, bis zu 10 Stück täglich. Reduzieren Sie die Vollnahrung entsprechend. Bitte kühl und trocken lagern. Nach dem Öffnen dicht verschlossen halten und innerhalb von 2 Wochen verbrauchen. Ein Extranapf mit frischem Trinkwasser sollte immer bereitstehen."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "Compliant with Regulation"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, 1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mars Austria OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2020-01-16T00:00:00",
+      "mandatoryIndicator": "Verpackung für Kinder und Tiere unzugänglich aufbewahren (Erstickungsgefahr).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 67
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 55
+        }
+      ],
+      "name": "Ergänzungsfuttermittel für ausgewachsene Hunde - Tiernahrung.",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen dicht verschlossen halten und innerhalb von 2 Wochen verbrauchen."
+    }
+  ],
+  "grammage": "55 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 47.09"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Crave Protein Chunks mit Rind",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/hunde/hunde-snacks/B2-A13/produkte/crave-protein-chunks-mit-rind/00-381836"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 47.09"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 45610,
+  "recommendationArticleIds": [],
+  "seoDescription": "Crave Protein Chunks mit Rind online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Crave Protein Chunks mit Rind online bestellen | BILLA",
+  "slug": "crave-protein-chunks-mit-rind",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/crave-protein-chunks-mit-rind/00-381836",
+  "vatCode": "13",
+  "video": ""
+}

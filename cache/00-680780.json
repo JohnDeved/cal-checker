@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-680780",
+  "articleOnlyCanonicalPath": "/produkte/frosta-gemuese-pfanne-sommergarten/00-680780",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Frosta",
+  "brandPath": "/marken/frosta",
+  "canonicalPath": "/produkte/frosta-gemuese-pfanne-sommergarten/00-680780",
+  "category": "Tiefkühl",
+  "description": "Fertig gewürzte Gemüse Mischung mit feinen Babykarotten,Karfiolröschen, zarten Erbsen und gelben Karotten, verfeinert mit guter Butter, Petersilie und Muskatnuss.<br>Diese Gemüse Pfanne ist die ideale Grundlage für viele kreative Rezeptideen und passt wunderbar als Beilage zu Fisch, Fleisch oder Fleischalternativen, Pasta oder Reis.",
+  "eanCodes": [
+    "4008366007011"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 57 02 24, 22771 Hamburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FRoSTA Tiefkühlkost GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-11-29T00:00:00",
+      "ingredients": "Zutaten: Gemüse: 88%  (Babykarotten, Blumenkohl (für A: Karfiol), gelbe Karotten, Erbsen), BUTTER, Trinkwasser, Honig, Speisesalz, Petersilie, Kartoffelstärke, schwarzer Pfeffer, Muskat. Kann Spuren von Gluten, Eiern, Soja, Sellerie, Senf enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.519
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.48
+        }
+      ],
+      "name": "Gemüsemischung nach deutscher Art. Fertig gewürzt. Tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 255,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 61,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.98,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Bitte das Produkt tiefgefroren zubereiten.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "*-Fach oder Eiswürfelfach (-6°C): 4 Tage\n **-Fach (-12°C): 3 Wochen\n***-Fach (-18°C): mindestens haltbar bis Ende: siehe Aufdruck\nNach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "480 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 8.94"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Frosta Gemüse Pfanne Sommergarten",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/frosta-gemuese-pfanne-sommergarten/00-680780"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 8.94"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frosta Gemüse Pfanne Sommergarten online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frosta Gemüse Pfanne Sommergarten online bestellen | BILLA",
+  "slug": "frosta-gemuese-pfanne-sommergarten",
+  "storeAvalibility": [
+    "00-10",
+    "00-2111",
+    "00-2342",
+    "00-99202",
+    "00-3120",
+    "00-3780"
+  ],
+  "url": "/produkte/frosta-gemuese-pfanne-sommergarten/00-680780",
+  "vatCode": "10",
+  "video": ""
+}

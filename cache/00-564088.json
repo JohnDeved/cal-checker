@@ -1,0 +1,241 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-564088",
+  "articleOnlyCanonicalPath": "/produkte/recheis-familie-fadennudeln/00-564088",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Recheis",
+  "brandPath": "/marken/recheis",
+  "canonicalPath": "/produkte/recheis-familie-fadennudeln/00-564088",
+  "category": "Grundnahrungsmittel",
+  "description": "Für eine köstliche Nudelsuppe mit der Familie sind die Fadennudeln von Recheis in der Vorratspackung ein heißer Tipp. Sie sind in drei Minuten verzehrfertig.<li>Hausmacher-Teigwaren aus Hartweizengrieß<li>mit Eiern aus Österreich<li>in 3 Minuten durchgegart",
+  "eanCodes": [
+    "9000452021012"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R05"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fassergasse 8-10\n6060 Hall in Tirol, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Josef Recheis Eierteigwaren und Walzmühle GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@recheis.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800/880999 (kostenfrei)",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.recheis.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-03-10T00:00:00",
+      "ingredients": "Zutaten: HARTWEIZENGRIEß, EIER (10%), 2 Eier je kg Hartweizengrieß",
+      "marketingMessage": "RECHEIS GENUSSVERSPRECHEN\nSeit über 130 Jahren steht Recheis für beste Nudeln, hergestellt mit größter Sorgfalt und ausgesuchten Zutaten. Heute wie damals ein Genuss.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1012
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Teigwaren aus Hartweizengrieß mit Eiern.",
+      "nutritions": [
+        {
+          "householdPortion": "100 g ungekochte Teigwaren enthalten durchschnittlich:",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1536,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 363,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 70,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Kochanleitung:\nNudeln in reichlich kochendes, gesalzenes Wasser geben (1 Liter/100 g Nudeln). Öfters umrühren. Nach ca. 5 Minuten sind die Nudeln bissfest gekocht.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Bei trockener, vor Sonnenlicht geschützter Lagerung mindestens haltbar bis Ende: Siehe Aufdruck"
+    }
+  ],
+  "grammage": "1 Kilogramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Recheis Familie Fadennudeln",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/recheis-familie-fadennudeln/00-564088"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51960,
+  "recommendationArticleIds": [],
+  "seoDescription": "Recheis Familie Fadennudeln online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Recheis Familie Fadennudeln online bestellen | BILLA",
+  "slug": "recheis-familie-fadennudeln",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/recheis-familie-fadennudeln/00-564088",
+  "vatCode": "10",
+  "video": ""
+}

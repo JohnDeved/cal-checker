@@ -1,0 +1,366 @@
+{
+  "articleGroupIds": [
+    "B2-537"
+  ],
+  "articleId": "00-397847",
+  "articleOnlyCanonicalPath": "/produkte/frosta-tagliatelle-wildlachs/00-397847",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Frosta",
+  "brandPath": "/marken/frosta",
+  "canonicalPath": "/produkte/frosta-tagliatelle-wildlachs/00-397847",
+  "category": "Tiefkühl",
+  "description": "Spinatnudeln mit zarten Wildlachs-Filetstücken in Dill-Sahne-Sauce.</li>",
+  "eanCodes": [
+    "4008366015498"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PACKAGING_ARTWORK"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 29 03 64, DE 27533 Bremerhaven",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FRoSTA Tiefkühlkost GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-02-04T00:00:00",
+      "ingredients": "Zutaten: Spinatnudeln gegart (30%) (Trinkwasser, HARTWEIZENGRIESS, Spinat, HÜHNEREI), WILDLACHS-FILET (14%) (Oncorhynchus gorbuscha), Trinkwasser, Karotten, gelbe Karotten, SCHLAGSAHNE (7%) (für AT: SCHLAGOBERS), VOLLMILCH, Zwiebeln, Mehlschwitze (für AT: Einbrenn), (WEIZENMEHL, Sonnenblumenöl), Speisesalz, Knoblauch, Petersilie, Dill, Schnittlauch. Kann Spuren von Gerste, Hafer, Krebstieren, Soja, Sellerie, Senf und Weichtieren enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.49
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.45
+        }
+      ],
+      "name": "Spinatnudeln mit zarten Wildlachs-Filetstücken in Dill-Sahne-Sauce (29%). Tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 419,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 100,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.71,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Bitte das Produkt tiefgefroren zubereiten.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "*-Fach oder Eiswürfelfach (-6°C): 4 Tage\n**-Fach (-12°C): 3 Wochen\n***-Fach (-18°C): mindestens haltbar bis Ende: siehe Aufdruck.\nNach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "450 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 11.09"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Frosta Tagliatelle Wildlachs",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/pasta-pfannen-und-schmankerl/B2-537/produkte/frosta-tagliatelle-wildlachs/00-397847"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 11.09"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frosta Tagliatelle Wildlachs online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frosta Tagliatelle Wildlachs online bestellen | BILLA",
+  "slug": "frosta-tagliatelle-wildlachs",
+  "storeAvalibility": [
+    "00-3580",
+    "00-7743",
+    "00-2313",
+    "00-3234",
+    "00-6745",
+    "00-6676",
+    "00-3042",
+    "00-2287",
+    "00-1826",
+    "00-3711",
+    "00-2111",
+    "00-2223",
+    "00-4756",
+    "00-3780",
+    "00-9209",
+    "00-3212",
+    "00-8426",
+    "00-6884",
+    "00-4090",
+    "00-3027",
+    "00-3047",
+    "00-7368",
+    "00-3744",
+    "00-2098",
+    "00-7860",
+    "00-6864",
+    "00-7139",
+    "00-4421",
+    "00-6928",
+    "00-6021",
+    "00-3379",
+    "00-4834",
+    "00-3050",
+    "00-6281",
+    "00-6975",
+    "00-6910",
+    "00-7204",
+    "00-4441",
+    "00-3055",
+    "00-6304",
+    "00-1425",
+    "00-4551",
+    "00-3856",
+    "00-1070",
+    "00-1107",
+    "00-3512",
+    "00-2306",
+    "00-3118",
+    "00-3062",
+    "00-3253",
+    "00-7075",
+    "00-3709",
+    "00-6219",
+    "00-4605",
+    "00-4748",
+    "00-823",
+    "00-2220",
+    "00-950",
+    "00-5603",
+    "00-2045",
+    "00-3860",
+    "00-4912",
+    "00-9894",
+    "00-2259",
+    "00-3445",
+    "00-7393",
+    "00-9183",
+    "00-7223",
+    "00-4283",
+    "00-7082",
+    "00-1417",
+    "00-3617",
+    "00-1132",
+    "00-7653",
+    "00-1710",
+    "00-4466",
+    "00-5552",
+    "00-4879",
+    "00-5962",
+    "00-7424",
+    "00-8085",
+    "00-4783",
+    "00-3059",
+    "00-2201",
+    "00-3740",
+    "00-6424",
+    "00-9753",
+    "00-3105",
+    "00-3120",
+    "00-6353",
+    "00-7358",
+    "00-9290",
+    "00-4078",
+    "00-7336",
+    "00-7606",
+    "00-2204",
+    "00-6024",
+    "00-2131",
+    "00-4270",
+    "00-6760",
+    "00-9030",
+    "00-4440",
+    "00-4690",
+    "00-1108",
+    "00-3713",
+    "00-2011",
+    "00-3114",
+    "00-7616",
+    "00-6724",
+    "00-2808",
+    "00-4655",
+    "00-1198",
+    "00-7245",
+    "00-3857",
+    "00-3005",
+    "00-10",
+    "00-7114",
+    "00-4016",
+    "00-8940",
+    "00-3011",
+    "00-7766",
+    "00-6843",
+    "00-8946",
+    "00-2342",
+    "00-3384",
+    "00-6011",
+    "00-7084",
+    "00-99202"
+  ],
+  "url": "/produkte/frosta-tagliatelle-wildlachs/00-397847",
+  "vatCode": "10",
+  "video": ""
+}

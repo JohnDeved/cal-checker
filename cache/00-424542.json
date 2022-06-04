@@ -1,0 +1,237 @@
+{
+  "articleGroupIds": [
+    "B2-447"
+  ],
+  "articleId": "00-424542",
+  "articleOnlyCanonicalPath": "/produkte/alma-oesterreichischer-bergkaese/00-424542",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Alma",
+  "brandPath": "/marken/alma",
+  "canonicalPath": "/produkte/alma-oesterreichischer-bergkaese/00-424542",
+  "category": "Kühlwaren",
+  "description": "Das einzigartige Aroma des Alma Bergkäse entstammt den österreichischen Bergwiesen. Ein Genusserlebnis für alle, die es auch beim Käse abwechslungsreich mögen.<li>geriebene Käsespezialität aus Österreich<li>aus tagesfrischer Heumilch<li>ideal zum Überbacken von Gratins oder Aufläufen",
+  "eanCodes": [
+    "9002400067929"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "HEUMILCH",
+              "valueTranslation": "HEUMILCH (Österreich) (natürlichste Form der Milchproduktion)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Krüzastraße 8, 6912 Hörbranz, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alma",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alma.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Österreichischer BERGKÄSE (97%) aus Heumilch g.t.S., Käsereikulturen, Lab, Salz, Trennmittel (Kartoffelstärke).",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "marketingMessage": "Alma österreichischer Bergkäse gerieben aus Heumilch ist eine würzige küchenfertige Mischung für Gratins, Quiches und viele andere köstliche Gerichte.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 210
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Österreichischer Bergkäse gerieben, mindestens 45% Fett i. Tr. mit Rohmilch hergestellt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 426,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1768,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 34,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt lagern. Gekühlt mindestens haltbar bis:",
+      "usageHints": "Nach dem Öffnen innerhalb von 3-4 Tagen verzehren."
+    }
+  ],
+  "grammage": "200 g Packung",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 13.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Alma Österreichischer Bergkäse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/parmesan-und-reibkaese/B2-447/produkte/alma-oesterreichischer-bergkaese/00-424542"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 13.95"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 87140,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alma Österreichischer Bergkäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alma Österreichischer Bergkäse online bestellen | BILLA",
+  "slug": "alma-oesterreichischer-bergkaese",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/alma-oesterreichischer-bergkaese/00-424542",
+  "vatCode": "10",
+  "video": ""
+}

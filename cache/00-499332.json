@@ -1,0 +1,263 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-499332",
+  "articleOnlyCanonicalPath": "/produkte/followfood-bio-brokkoli-reis/00-499332",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Followfood",
+  "canonicalPath": "/produkte/followfood-bio-brokkoli-reis/00-499332",
+  "category": "Tiefkühl",
+  "description": "<li>100% Brokkoli<li>Geschnitten, blanchiert und tiefgekühlt</li>",
+  "eanCodes": [
+    "4250073456051"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DEMETER_LABEL",
+              "valueTranslation": "DEMETER-Label (biologisch-dynamische Landwirtschaft)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "FARMING_COUNTRY_OF_ORIGIN",
+              "valueTranslation": "Verweis auf Herkunftsland-Landwirtschaft - alles wurde in einem Land hergestellt"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PACKAGING_ARTWORK"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Metzstraße 2, 88045 Friedrichshafen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "followfood GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-06-10T00:00:00",
+      "marketingMessage": "Bio-Brokkoli \"Reis\", 100 % Brokkoli, geschnitten, blanichiert und tiefgekühlt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 325
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Bio-Brokkoli, geschnitten, blanchiert und tiefgekühlt. Das Produkt besteht aus 100% Brokkoli.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 58,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 14,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "In der Pfanne: Eine beschichtete Pfanne auf mittlerer Stufe vorheizen. Anschließend den Packungsinhalt tiefgefroren in die Pfanne geben. Den Gemüsereis ca. 6 Min. unter ständigem Rühren garen bis der Reis leicht gebräunt ist. Mit einer Prise Salz würzen und noch heiß servieren.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "Haltbarkeit/Aufbewahrung im Haushalt:\nIm Kühlschrank 24 Stunden\n*-Fach oder Eiswürfelfach 3 Tage\n**-Fach (-12°C) 3 Wochen\n***-Fach oder Tiefkühltruhe bei -18°C mindestens haltbar bis: siehe Frontlasche\nNach dem Auftauen nicht wieder einfrieren!",
+      "usageHints": "Nur in durchgegartem Zustand genießen."
+    }
+  ],
+  "grammage": "300 Gramm Schachtel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 8.97"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Followfood Bio-Brokkoli-Reis",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/followfood-bio-brokkoli-reis/00-499332"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 8.97"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Followfood Bio-Brokkoli-Reis online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Followfood Bio-Brokkoli-Reis online bestellen | BILLA",
+  "slug": "followfood-bio-brokkoli-reis",
+  "storeAvalibility": [
+    "00-3120",
+    "00-2295",
+    "00-3780",
+    "00-2342",
+    "00-5290",
+    "00-2111",
+    "00-3055",
+    "00-10",
+    "00-6197",
+    "00-6676",
+    "00-5108",
+    "00-3005",
+    "00-4756",
+    "00-7082",
+    "00-4551",
+    "00-9555",
+    "00-1108",
+    "00-3617",
+    "00-7606",
+    "00-99202"
+  ],
+  "url": "/produkte/followfood-bio-brokkoli-reis/00-499332",
+  "vatCode": "10",
+  "video": ""
+}

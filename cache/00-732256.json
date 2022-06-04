@@ -1,0 +1,155 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-732256",
+  "articleOnlyCanonicalPath": "/produkte/fohrenburger-jubilaeum/00-732256",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Fohrenburger",
+  "canonicalPath": "/produkte/fohrenburger-jubilaeum/00-732256",
+  "category": "Getränke",
+  "description": "Mit 12,8° Stammwürze ist das Fohrenburger Jubiläum ein Spezialbier, frisch, würzig und aus den besten Zutaten.",
+  "eanCodes": [
+    "0000090403507"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5.5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fohrenburgstraße 5, A-6700 Bludenz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brauerei Fohrenburg",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-06-27T00:00:00",
+      "ingredients": "Enthält GERSTENMALZ",
+      "marketingMessage": "Legendär seit 1881",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.54
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "name": "Spezialbier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.5 l Dose (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.15,
+    "unit": "500 ml 1.15"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Fohrenburger Jubiläum",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/fohrenburger-jubilaeum/00-732256"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.15,
+    "unit": "500 ml 1.15"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 162040,
+  "recommendationArticleIds": [],
+  "seoDescription": "Fohrenburger Jubiläum online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Fohrenburger Jubiläum online bestellen | BILLA",
+  "slug": "fohrenburger-jubilaeum",
+  "storeAvalibility": [
+    "00-8530",
+    "00-8409",
+    "00-8395",
+    "00-99202",
+    "00-8400"
+  ],
+  "url": "/produkte/fohrenburger-jubilaeum/00-732256",
+  "vatCode": "20",
+  "video": ""
+}

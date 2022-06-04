@@ -1,0 +1,197 @@
+{
+  "articleGroupIds": [
+    "B2-6E7"
+  ],
+  "articleId": "00-885384",
+  "articleOnlyCanonicalPath": "/produkte/doppelherz-abwehr-aktiv/00-885384",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Doppelherz",
+  "brandPath": "/marken/doppelherz",
+  "canonicalPath": "/produkte/doppelherz-abwehr-aktiv/00-885384",
+  "category": "Grundnahrungsmittel",
+  "description": "Eine ausreichende Versorgung mit Nährstoffen spielt eine wichtige Rolle für ein starkes Immunsystem und gesunde Abwehrkräfte. Besonders in den nassen und kalten Jahreszeiten wie auch in Belastungssituationen kann das Immunsystem gefordert sein.<li>Vitamin C, D, B12 und Zink tragen zur normalen Funktion des Immunsystems bei<li>Zink und Selen als Beitrag zum Schutz der Zellen vor oxidativem Stress<li>Gut auflösende Brausetablette mit Zitronengeschmack</li>",
+  "eanCodes": [
+    "4009932006766"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schleswiger Str. 74\n24941 Flensburg\nDEUTSCHLAND",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Queisser Pharma GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-11-02T00:00:00",
+      "healthClaim": "Vitamin C, D, B12 und Zink tragen zur normalen Funktion des Immunsystems bei. Zink und Selen als Beitrag zum Schutz der Zellen vor oxidativem Stress.",
+      "ingredients": "Zutaten:\nSäuerungsmittel Citronensäure, Säureregulator Natriumhydrogencarbonat, L-Ascorbinsäure, Feuchthaltemittel Sorbit, Maltodextrin, Säureregulator Natriumcarbonat, Inulin, Zinkgluconat, Trennmittel Tricalciumphosphat, Stärke, Süßungsmittel Natriumcyclamat, Aroma, Süßungsmittel Natriumsaccharin, Natriumselenat, Farbstoff Riboflavin-5´-phosphat, Cyanocobalamin, Cholecalciferol",
+      "mandatoryIndicator": "Die angegebene empfohlene tägliche Verzehrsmenge darf nicht überschritten werden. Nahrungsergänzungsmittel sind kein Ersatz für eine ausgewogene und abwechslungsreiche Ernährung und eine gesunde Lebensweise. Für kleine Kinder unzugänglich aufbewahren. Für Kinder, Jugendliche, Personen mit eingeschränkter Nierenfunktion, Schwangere, Stillende nicht geeignet. Ab einer Menge von 3,5 mg/Tag sollte auf weitere zinkhaltige Nahrungsergänzungsmittel verzichtet werden.\nEine Tablette täglich in einem Glas Wasser (200 ml) aufgelöst trinken.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 115
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Stück",
+          "value": 15
+        }
+      ],
+      "name": "Nahrungsergänzungsmittel mit Süßungsmitteln\nBrausetabletten mit Vitamin C, Vitamin D, Vitamin B, Zink und Selen",
+      "nutritions": [
+        {
+          "householdPortion": "1 Brausetablette",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Selen",
+              "nutritionalValue": 55,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 1200,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 30,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 1000,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 800,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 500,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 25,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Zink",
+              "nutritionalValue": 10,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 15,
+      "preperations": [],
+      "storageHint": "Trocken und nicht über 25 °C lagern.",
+      "sustenanceClaim": "lactosefrei glutenfrei",
+      "usageHints": "Eine Tablette täglich in einem Glas Wasser (200 ml) aufgelöst trinken."
+    }
+  ],
+  "grammage": "15 Stück Rolle",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Doppelherz Abwehr Aktiv",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/nahrungsergaenzung/B2-6E7/produkte/doppelherz-abwehr-aktiv/00-885384"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Doppelherz Abwehr Aktiv online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Doppelherz Abwehr Aktiv online bestellen | BILLA",
+  "slug": "doppelherz-abwehr-aktiv",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/doppelherz-abwehr-aktiv/00-885384",
+  "vatCode": "10",
+  "video": ""
+}

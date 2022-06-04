@@ -1,0 +1,246 @@
+{
+  "articleGroupIds": [
+    "B2-6B2"
+  ],
+  "articleId": "00-833511",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-vitalis-knusper-muesli-schoko/00-833511",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-vitalis-knusper-muesli-schoko/00-833511",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Dr. Oetker Vitalis Knusper Schoko Müsli mit kernigen Vollkornflocken und extra viel Vollmilchschokolade ist reich an Magnesium, Eisen und Vitaminen.<li>mit Vollkornflocken und süßer Schokolade<li>enthält glutenhaltiges Getreide, Milch und Milcherzeugnisse<li>mit Kakao verfeinert",
+  "eanCodes": [
+    "4000521661403"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-21T00:00:00",
+      "healthClaim": "Dieses Vitalis Müsli enthält Magnesium, das zur Verringerung von Müdigkeit und Ermüdung beiträgt. Starte im Rahmen einer magnesiumhaltigen Ernährung mit diesem Müsli in den Tag und achte gleichzeitig auf eine abwechslungsreiche und ausgewogene Ernährung und gesunde Lebensweise.",
+      "ingredients": "Zutaten: 55% Vollkorn-HAFERFLOCKEN, Zucker, Sonnenblumenöl, WEIZENMEHL, Glukosesirup, 5,0% VOLLMILCHSCHOKOLADE (Zucker, VOLLMILCHPULVER, Kakaomasse, Kakaobutter, SÜSSMOLKENPULVER, Emulgator (Lecithine)), Reismehl, Cornflakes (Mais, Zucker, Salz, GERSTENMALZEXTRAKT), 1,7% fettarmes Kakaopulver, Salz, getrockneter GERSTENMALZEXTRAKT, Aroma. Kann enthalten: SOJA, MANDELN, HASELNÜSSE, CASHEWKERNE, PEKANNÜSSE.",
+      "mandatoryIndicator": "Füllhöhe technisch bedingt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 665
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 600
+        }
+      ],
+      "name": "Knuspermüsli mit Vollmilchschokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1888,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 449,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 66,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.74,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 70.7,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bitte den Innenbeutel nach dem Öffnen wieder gut verschließen.",
+      "sustenanceClaim": "enthält Magnesium"
+    }
+  ],
+  "grammage": "600 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 7.15"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Vitalis Knusper Müsli Schoko",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/dr-oetker-vitalis-knusper-muesli-schoko/00-833511"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 7.15"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 207040,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Vitalis Knusper Müsli Schoko online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Vitalis Knusper Müsli Schoko online bestellen | BILLA",
+  "slug": "dr-oetker-vitalis-knusper-muesli-schoko",
+  "storeAvalibility": [
+    "00-99202",
+    "00-3780"
+  ],
+  "url": "/produkte/dr-oetker-vitalis-knusper-muesli-schoko/00-833511",
+  "vatCode": "10",
+  "video": ""
+}

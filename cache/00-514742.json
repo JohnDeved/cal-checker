@@ -1,0 +1,253 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-514742",
+  "articleOnlyCanonicalPath": "/produkte/danone-actimel-tropical-0-zuckerzusatz/00-514742",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Danone",
+  "brandPath": "/marken/danone",
+  "canonicalPath": "/produkte/danone-actimel-tropical-0-zuckerzusatz/00-514742",
+  "category": "Kühlwaren",
+  "description": "Für alle die den Geschmack von Actimel lieben, aber auf der Suche nach einer Alternative ohne Zuckerzusatz sind.<br>Actimel 0% Zuckerzusatz enthält keinen zugesetzten Zucker, du bekommst aber trotzdem die volle Ladung Energie für den Tag.<li>Mit Vitamin B6 und D<li>Unterstützt das Immunsystem</li>",
+  "eanCodes": [
+    "4009700042538"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Technologiestraße 10/E, AT-1120 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Danone GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "00800 800 900 88",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.actimel.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-08-12T00:00:00",
+      "healthClaim": "Die Vitamine B6 und D tragen zu einer normalen Funktion des Immunsystems bei.",
+      "ingredients": "Zutaten: MAGERMILCHJOGHURT, Wasser, entrahmte MILCH, 1% Ananas, 0,6% Pfirsich, 0,3% Erdbeere, 0,3% Orangensaft aus Orangensaftkonzentrat, Stabilisator Pektine, MOLKENERZEUGNIS, modifizierte Tapiokastärke, Säureregulator Citronensäure, Natriumcitrate; natürliches Aroma, Süßungsmittel Sucralose, Acesulfam-K; Vitamin B6 und D, Laktase, Kultur L. casei.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 640
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 600
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 582
+        }
+      ],
+      "name": "Milchmischerzeugnis mit Vitamin B6 und D, mit Süßungsmitteln. 0,1% Fett im Milchanteil.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 104,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 25,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.21,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 1.67,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei maximal +8 °C mindestens halbar bis : siehe Oberseite.",
+      "usageHints": "Danone empfiehlt ein Fläschchen täglich. Vor Gebrauch schütteln!"
+    }
+  ],
+  "grammage": "600 Gramm Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 4.32"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Danone Actimel Tropical 0% Zuckerzusatz",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/danone-actimel-tropical-0-zuckerzusatz/00-514742"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 4.32"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Danone Actimel Tropical 0% Zuckerzusatz online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Danone Actimel Tropical 0% Zuckerzusatz online bestellen | BILLA",
+  "slug": "danone-actimel-tropical-0-zuckerzusatz",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/danone-actimel-tropical-0-zuckerzusatz/00-514742",
+  "vatCode": "10",
+  "video": ""
+}

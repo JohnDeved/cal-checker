@@ -1,0 +1,237 @@
+{
+  "articleGroupIds": [
+    "B2-512"
+  ],
+  "articleId": "00-571152",
+  "articleOnlyCanonicalPath": "/produkte/eskimo-die-eiskoenigin-snowflake/00-571152",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Eskimo",
+  "brandPath": "/marken/eskimo",
+  "canonicalPath": "/produkte/eskimo-die-eiskoenigin-snowflake/00-571152",
+  "category": "Tiefkühl",
+  "description": "Genieße dieses Waffeleis mit Schneeflocken-Krone. Verantwortungsbewusst gemacht für Kinder.<br>Köstliches & cremiges Eis mit Vanillegeschmack in der Form einer Schneeflocke auf einer knusprigen Waffel. Inspiriert durch Elsa's Blau und Anna's Lila.",
+  "eanCodes": [
+    "8711327543751"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Stella-Klein-Löw-Weg 13, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SLOWENIEN"
+      ],
+      "fromDate": "2022-04-25T00:00:00",
+      "ingredients": "Zutaten: Entrahmte MILCH, WEIZENMEHL, Zucker, RAHM, Kokosfett, Fruktose, Zichorienwurzelfaser (Inulin), Maltodextrin, MAGERMILCHPULVER, fettarmer Kakao, Emulgatoren (Lecithine, Mono- und Diglyceride von Speisefettsäuren), Sonnenblumenöl, Farbstoff (Anthocyane), Stabilisatoren (Guarkernmehl, Johannisbrotkernmehl), Aromen, Salz, Spirulinakonzentrat. Kann Nüsse, Erdnuss und Soja enthalten.",
+      "marketingMessage": "Köstliches & cremiges Eis mit Vanillegeschmack in der Form einer Schneeflocke auf einer knusprigen Waffel. Inspiriert durch Elsa's Blau und Anna's Lila aus Disney Frozen. Verantwortungsbewusst gemacht für Kinder.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.197
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 292
+        }
+      ],
+      "name": "Eis mit Vanillegeschmack und blaues Eis mit Vanillegeschmack in einer lila Waffel (21%) mit kakaohaltiger Fettglasur (9%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 133,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 558,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Bei -18°C mindestens haltbar bis Ende: siehe Packungsaufdruck",
+      "sustenanceClaim": "Ohne künstliche Farbstoffe und Aromen, Please recycleü ü"
+    }
+  ],
+  "grammage": "292 Milliliter Box",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 4.79,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Boxen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 l 10.24"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Eskimo Die Eiskönigin Snowflake",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/stanitzel-und-lutscher/B2-512/produkte/eskimo-die-eiskoenigin-snowflake/00-571152"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 4.79,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Boxen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 l 10.24"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Eskimo Die Eiskönigin Snowflake online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Eskimo Die Eiskönigin Snowflake online bestellen | BILLA",
+  "slug": "eskimo-die-eiskoenigin-snowflake",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/eskimo-die-eiskoenigin-snowflake/00-571152",
+  "vatCode": "10",
+  "video": ""
+}

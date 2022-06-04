@@ -1,0 +1,440 @@
+{
+  "articleGroupIds": [
+    "B2-754"
+  ],
+  "articleId": "00-287511",
+  "articleOnlyCanonicalPath": "/produkte/manner-schnitten-cocos/00-287511",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Manner",
+  "brandPath": "/marken/manner",
+  "canonicalPath": "/produkte/manner-schnitten-cocos/00-287511",
+  "category": "Süßes & Salziges",
+  "description": "Die Manner Schnitten Cocos sind eine Spezialität aus Wien. Sie sind mit feiner Kokosnuss-Creme gefüllt und schmecken gut zu Kaffee, Tee oder Kakao.<li>Waffeln mit einer Füllung aus Kokosnuss-Creme<li>mit 5 Lagen zarter Waffeln und 4 Lagen feiner Creme<li>im praktischen, wiederverschließbaren Beutel",
+  "eanCodes": [
+    "9000331607900"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wilhelminenstraße 6, 1170 Wien, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Josef Manner & Comp. AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.manner.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Zucker,WEIZENMEHL, pflanzliche Fette (Kokos, Palm), Glukosesirup, Kokosraspel (8% in der Creme), MAGERMILCHPULVER, Kokosnussmilchpulver (3% in der Creme), Emulgator: Lecithine (SOJA); natürliches Aroma, NATRIUMCASEINAT, Backtriebmittel: Natriumhydrogencarbonat; Salz. Kann Spuren von Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.414
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Knusprige Waffeln mit Kokosnusscremefüllung (80%)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 524,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2190,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 57,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.31,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "2 Stk. (15g)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 79,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 329,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 26,
+      "preperations": [],
+      "storageHint": "Bei Zimmertemperatur und trocken lagern.",
+      "sustenanceClaim": "Ohne künstliche Farb- & Konservierungsstoffe"
+    }
+  ],
+  "grammage": "400 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "100 g .87"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Manner Schnitten Cocos",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/schnitten-und-waffeln/B2-754/produkte/manner-schnitten-cocos/00-287511"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "100 g .87"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 73840,
+  "recommendationArticleIds": [],
+  "seoDescription": "Manner Schnitten Cocos online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Manner Schnitten Cocos online bestellen | BILLA",
+  "slug": "manner-schnitten-cocos",
+  "storeAvalibility": [
+    "00-7653",
+    "00-2208",
+    "00-3431",
+    "00-7229",
+    "00-4605",
+    "00-3512",
+    "00-1132",
+    "00-3506",
+    "00-309",
+    "00-7969",
+    "00-3744",
+    "00-8188",
+    "00-7120",
+    "00-6760",
+    "00-3669",
+    "00-3714",
+    "00-1901",
+    "00-7743",
+    "00-1198",
+    "00-4779",
+    "00-289",
+    "00-2907",
+    "00-7114",
+    "00-6724",
+    "00-3042",
+    "00-112",
+    "00-4690",
+    "00-290",
+    "00-7224",
+    "00-9290",
+    "00-2201",
+    "00-2222",
+    "00-3212",
+    "00-1911",
+    "00-9209",
+    "00-7336",
+    "00-3114",
+    "00-115",
+    "00-3510",
+    "00-4672",
+    "00-1017",
+    "00-1108",
+    "00-8185",
+    "00-8154",
+    "00-3062",
+    "00-3501",
+    "00-10",
+    "00-3856",
+    "00-2899",
+    "00-4016",
+    "00-6024",
+    "00-2213",
+    "00-5199",
+    "00-5306",
+    "00-3234",
+    "00-2170",
+    "00-174",
+    "00-7860",
+    "00-5391",
+    "00-3149",
+    "00-3979",
+    "00-3445",
+    "00-5359",
+    "00-2154",
+    "00-6745",
+    "00-4945",
+    "00-6952",
+    "00-7721",
+    "00-4932",
+    "00-783",
+    "00-3940",
+    "00-3146",
+    "00-6810",
+    "00-8085",
+    "00-3005",
+    "00-2342",
+    "00-1002",
+    "00-4126",
+    "00-3580",
+    "00-2015",
+    "00-99202",
+    "00-3253",
+    "00-4655",
+    "00-5381",
+    "00-943",
+    "00-6496",
+    "00-7358",
+    "00-5082",
+    "00-3076",
+    "00-6262",
+    "00-8012",
+    "00-3023",
+    "00-3022",
+    "00-8636",
+    "00-3384",
+    "00-2045",
+    "00-2923",
+    "00-5737",
+    "00-3027",
+    "00-4099",
+    "00-6676",
+    "00-3617",
+    "00-5165",
+    "00-3150",
+    "00-7535",
+    "00-2220",
+    "00-1207",
+    "00-3507",
+    "00-4270",
+    "00-7204",
+    "00-4707",
+    "00-4424",
+    "00-2301",
+    "00-4107",
+    "00-2259",
+    "00-1524",
+    "00-4028",
+    "00-388",
+    "00-3713",
+    "00-2808",
+    "00-6487",
+    "00-5322",
+    "00-3780",
+    "00-3709",
+    "00-5290",
+    "00-6884",
+    "00-2131",
+    "00-1900",
+    "00-4551",
+    "00-3143",
+    "00-3700",
+    "00-4783",
+    "00-7606",
+    "00-2098",
+    "00-8395",
+    "00-6864",
+    "00-3688",
+    "00-440",
+    "00-7539",
+    "00-6492",
+    "00-6022",
+    "00-3165",
+    "00-7393",
+    "00-4440",
+    "00-7857",
+    "00-6916"
+  ],
+  "url": "/produkte/manner-schnitten-cocos/00-287511",
+  "vatCode": "10",
+  "video": ""
+}

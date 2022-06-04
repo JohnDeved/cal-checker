@@ -1,0 +1,290 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-372"
+  ],
+  "articleId": "00-411482",
+  "articleOnlyCanonicalPath": "/produkte/juvina-prickelnd3/00-411482",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Juvina",
+  "canonicalPath": "/produkte/juvina-prickelnd3/00-411482",
+  "category": "Getränke",
+  "description": "Das natürliche Mineralwasser Juvina Prickelnd bietet belebend frischen Trinkgenuss und liefert wertvolle Inhalts- und Mineralstoffe.<li>mit Kohlensäure versetzt<li>hoher Magnesium-, Calcium- und Hydrogencarbonatgehalt",
+  "eanCodes": [
+    "9006500000565"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Juvinastr. 1, 7301 Deutschkreutz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mineralwasser-VertriebsgesmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.juvina.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-08-02T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "natürliches Mineralwasser mit Kohlensäure versetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 301,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 52.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 17.6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 247.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 57.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 1677.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 99.1,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "origin": "Abgefüllt aus der Juvinaquelle II in 7301 Deutschkreutz.",
+      "preperations": [],
+      "storageHint": "Vor Licht und Wärme schützen.",
+      "sustenanceClaim": "Charakteristische Bestandteile mg/l: Kationen: Natrium 301, Calcium 247,4, Magnesium 57,4, Kalium 17,6;  Anionen: Hydrogencarbonat 1.677,5, Sulfat 99,1, Chlorid 52,3.\nüenteisentü"
+    }
+  ],
+  "grammage": "0.5 l Flasche (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.49,
+    "unit": "1 l .98"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Juvina Prickelnd",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/juvina-prickelnd3/00-411482",
+    "~/warengruppe/getraenke/mineralwasser/prickelnd/B2-372/produkte/juvina-prickelnd3/00-411482"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.49,
+    "unit": "1 l .98"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 79470,
+  "recommendationArticleIds": [],
+  "seoDescription": "Juvina Prickelnd online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Juvina Prickelnd online bestellen | BILLA",
+  "slug": "juvina-prickelnd3",
+  "storeAvalibility": [
+    "00-4755",
+    "00-4469",
+    "00-4779",
+    "00-4283",
+    "00-5531",
+    "00-4099",
+    "00-4104",
+    "00-4838",
+    "00-4350",
+    "00-4489",
+    "00-4016",
+    "00-4225",
+    "00-3196",
+    "00-4932",
+    "00-4674",
+    "00-4748",
+    "00-4249",
+    "00-4770",
+    "00-4700",
+    "00-4466",
+    "00-4107",
+    "00-4925",
+    "00-4660",
+    "00-4028",
+    "00-4291",
+    "00-4912",
+    "00-4952",
+    "00-4059",
+    "00-4424",
+    "00-4003",
+    "00-4840",
+    "00-4226",
+    "00-7204",
+    "00-4707",
+    "00-4146",
+    "00-4200",
+    "00-4601",
+    "00-5414",
+    "00-5777",
+    "00-4407",
+    "00-4076",
+    "00-4605",
+    "00-4619",
+    "00-5603",
+    "00-4021",
+    "00-4078",
+    "00-4421",
+    "00-4441",
+    "00-4813",
+    "00-4756",
+    "00-4629",
+    "00-4090",
+    "00-5967",
+    "00-4655",
+    "00-5871",
+    "00-4945",
+    "00-4270",
+    "00-4565",
+    "00-7062",
+    "00-4672",
+    "00-4673",
+    "00-4524",
+    "00-4879",
+    "00-4482",
+    "00-4513",
+    "00-4170",
+    "00-4540",
+    "00-4001",
+    "00-4440",
+    "00-4690",
+    "00-4982",
+    "00-4847",
+    "00-4478",
+    "00-4834",
+    "00-4881",
+    "00-5962",
+    "00-4126",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/juvina-prickelnd3/00-411482",
+  "vatCode": "20",
+  "video": ""
+}

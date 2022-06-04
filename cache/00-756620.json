@@ -1,0 +1,248 @@
+{
+  "articleGroupIds": [
+    "B2-686"
+  ],
+  "articleId": "00-756620",
+  "articleOnlyCanonicalPath": "/produkte/il-conte-oliven-mit-frischkaese/00-756620",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Il Conte",
+  "brandPath": "/marken/il-conte",
+  "canonicalPath": "/produkte/il-conte-oliven-mit-frischkaese/00-756620",
+  "category": "Grundnahrungsmittel",
+  "description": "Delikat als Vorspeise oder zum Naschen direkt aus dem Glas: Der pikante Geschmack der Il Conte Oliven harmoniert köstlich mit der milden Frischkäsefüllung.<li>grüne Oliven, gefüllt mit einer Frischkäsezubereitung<li>eingelegt in Pflanzenöl<li>köstlich als Partysnack, als Salatbeilage sowie auf Käsespießen",
+  "eanCodes": [
+    "9001458110588"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Untere Donaustraße 11, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMGRO GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.imgro.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 47% Oliven, 44% Rapsöl, 9% Frischkäsezubereitung mind. 40% Fett i. Tr. (FRISCHKÄSE, Speisesalz, Gewürze, Verdickungsmittel: Guarkernmehl, modifizierte Stärke)",
+      "mandatoryIndicator": "Entsteinte Oliven können Kerne und Kernreste enthalten.\nBitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 140
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.408
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Oliven gefüllt mit Frischkäsezubereitung mindestens 40% Fett i. Tr. in Rapsöl, wärmebehandelt",
+      "nutritions": [
+        {
+          "householdPortion": "Nährwerte pro 100g Abtropfgewicht",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 201,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 832,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt und trocken lagern, ungeöffnet mindestens haltbar bis: siehe Aufdruck am Glas. Nach dem Öffnen gekühlt lagern und innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "250 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 13.16"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Il Conte Oliven mit Frischkäse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686/produkte/il-conte-oliven-mit-frischkaese/00-756620"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 13.16"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 52540,
+  "recommendationArticleIds": [
+    "00-247262"
+  ],
+  "seoDescription": "Il Conte Oliven mit Frischkäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Il Conte Oliven mit Frischkäse online bestellen | BILLA",
+  "slug": "il-conte-oliven-mit-frischkaese",
+  "storeAvalibility": [
+    "00-4551",
+    "00-1032",
+    "00-355",
+    "00-10",
+    "00-99202",
+    "00-5108",
+    "00-783",
+    "00-225",
+    "00-3780",
+    "00-7653"
+  ],
+  "url": "/produkte/il-conte-oliven-mit-frischkaese/00-756620",
+  "vatCode": "10",
+  "video": ""
+}

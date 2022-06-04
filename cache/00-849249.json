@@ -1,0 +1,295 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-849249",
+  "articleOnlyCanonicalPath": "/produkte/clever-erdbeere-joghurt/00-849249",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Clever",
+  "brandPath": "/marken/clever",
+  "canonicalPath": "/produkte/clever-erdbeere-joghurt/00-849249",
+  "category": "Kühlwaren",
+  "description": "Das Erdbeerjoghurt von Clever ist im 1-Liter-Kübel der perfekte Frühstücksvorrat für die ganze Familie.<br>In Österreich hergestellt.",
+  "eanCodes": [
+    "9010158003328"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fructose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milchzucker (Laktose)",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Molkeneiweiss",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Saccharose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Casein",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "Mit Erdbeeren und Erdbeerpüree anderer Herkunft"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH ",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-09-23T00:00:00",
+      "ingredients": "Zutaten: JOGHURT, Erdbeeren 8,2%, Zucker, Erdbeerpüree 1,8%, Stärke, färbendes Karottenkonzentrat, Stabilisator: Pektine, natürliches Aroma, Zitronensaftkonzentrat.",
+      "mandatoryIndicator": "AT-50151-EG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.05
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Erdbeerjoghurt aus pasteurisierter Milch mit 3,2% Fett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 359,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4.3,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 85,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 3.9,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4.4,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6.4,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Organische Säuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt (+3°C bis 9°C) lagern",
+      "usageHints": "Nach dem Öffnen weiterhin gekühlt lagern und innerhalb von 2 Tage aufbrauchen"
+    }
+  ],
+  "grammage": "1000 Gramm Kübel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 2.09"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Clever Erdbeere Joghurt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/clever-erdbeere-joghurt/00-849249"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 2.09"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 137240,
+  "recommendationArticleIds": [],
+  "seoDescription": "Clever Erdbeere Joghurt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Clever Erdbeere Joghurt online bestellen | BILLA",
+  "slug": "clever-erdbeere-joghurt",
+  "storeAvalibility": [
+    "00-2098",
+    "00-9183",
+    "00-3025",
+    "00-3384",
+    "00-2131",
+    "00-2808",
+    "00-3042",
+    "00-2223",
+    "00-3005",
+    "00-7082",
+    "00-3321",
+    "00-3063",
+    "00-355",
+    "00-7245",
+    "00-430",
+    "00-3681",
+    "00-6496",
+    "00-2190",
+    "00-7336",
+    "00-10",
+    "00-2111",
+    "00-3860",
+    "00-3857",
+    "00-323",
+    "00-3234",
+    "00-3044",
+    "00-3050",
+    "00-4783",
+    "00-1107",
+    "00-99202",
+    "00-2345",
+    "00-281",
+    "00-112",
+    "00-2045",
+    "00-3580",
+    "00-3713",
+    "00-4834",
+    "00-7062",
+    "00-3114",
+    "00-3120",
+    "00-1710",
+    "00-9894",
+    "00-9753",
+    "00-6424",
+    "00-3569",
+    "00-2201",
+    "00-9555",
+    "00-7675",
+    "00-2313",
+    "00-4466",
+    "00-7229",
+    "00-6676",
+    "00-1900",
+    "00-2204",
+    "00-7114",
+    "00-2222",
+    "00-1866",
+    "00-9290"
+  ],
+  "url": "/produkte/clever-erdbeere-joghurt/00-849249",
+  "vatCode": "10",
+  "video": ""
+}

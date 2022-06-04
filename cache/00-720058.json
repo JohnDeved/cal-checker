@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-720058",
+  "articleOnlyCanonicalPath": "/produkte/brauhaus-gusswerk-edelguss/00-720058",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Brauhaus Gusswerk",
+  "canonicalPath": "/produkte/brauhaus-gusswerk-edelguss/00-720058",
+  "category": "Getränke",
+  "description": "Der regionale Unterschied<br>Rauschendes Salzburger Quellwasser, erlesene Getreidesorten aus Österreich und duftender Aromahopfen machen das Edelguss zu dem, was es ist: Ein traditionell-g'schmackiges Bio-Bier in modernem Gewand.",
+  "eanCodes": [
+    "9120012741409",
+    "9120060220390"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R72"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Römerstraße 3, 5322 Hof bei Salzburg, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brauerei Gusswerk GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.brauhaus-gusswerk.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-10-08T00:00:00",
+      "ingredients": "Zutaten: Wasser, *GERSTENMALZ, *Naturhopfen  *Aus kontrolliert biologischem Anbau",
+      "marketingMessage": "Edelguss - Der regionale Unterschied\nRauschendes Salzburger Quellwasser, erlesene Getreidesorten aus Österreich und duftender Aromahopfen machen das Edelguss zu dem, was es ist: Ein traditionell-g'schmackiges Bio-Bier in modernem Gewand. \nEuropean Beer Star in Broze 2011.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 580
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Bio-Vollbier",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 180,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 43,
+              "unit": "Kilokalorie"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Licht & Wärme schützen.",
+      "usageHints": "Genieße verantwortungsvoll"
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "500 ml 2.86"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Brauhaus Gusswerk Edelguss",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/brauhaus-gusswerk-edelguss/00-720058"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "500 ml 2.86"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 117770,
+  "recommendationArticleIds": [
+    "00-401714"
+  ],
+  "seoDescription": "Brauhaus Gusswerk Edelguss online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Brauhaus Gusswerk Edelguss online bestellen | BILLA",
+  "slug": "brauhaus-gusswerk-edelguss",
+  "storeAvalibility": [
+    "00-3044",
+    "00-771",
+    "00-3780",
+    "00-2342",
+    "00-388",
+    "00-99202",
+    "00-174",
+    "00-3042",
+    "00-176",
+    "00-2190",
+    "00-6676",
+    "00-119",
+    "00-10"
+  ],
+  "url": "/produkte/brauhaus-gusswerk-edelguss/00-720058",
+  "vatCode": "20",
+  "video": ""
+}

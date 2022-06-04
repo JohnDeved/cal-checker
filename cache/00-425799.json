@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-446",
+    "B2-447"
+  ],
+  "articleId": "00-425799",
+  "articleOnlyCanonicalPath": "/produkte/emmi-spaetzlkaese-gerieben-45/00-425799",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Emmi",
+  "brandPath": "/marken/emmi",
+  "canonicalPath": "/produkte/emmi-spaetzlkaese-gerieben-45/00-425799",
+  "category": "Kühlwaren",
+  "description": "Ein Mix aus 3 Vorarlberger Käsesorten:<br><li>Aromatischer Bergkäse</li><li>Würziger Räßkäse</li><li>Geschmeidiger Emmentaler</li><br>Genau richtig für die typischen Vorarlberger 'Käsknöpfle'. Eignet sich allerdings auch für Gratins und sonstige deftige Gerichte.",
+  "eanCodes": [
+    "9002052042107"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "6714 Nüziders, Illweg 8",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Emmi Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Bergkäse (40%), Emmentaler (25%), Schnittkäse (35%)",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 200
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Reibkäsemischung mit mindestens 45% F.i.T.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 400,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1674,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [],
+      "storageHint": "gekühlt"
+    }
+  ],
+  "grammage": "200 g Paket",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.09,
+    "unit": "1 kg 15.45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Emmi Spätzlkäse gerieben 45%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/kaesespezialitaeten/B2-446/produkte/emmi-spaetzlkaese-gerieben-45/00-425799",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/parmesan-und-reibkaese/B2-447/produkte/emmi-spaetzlkaese-gerieben-45/00-425799"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.09,
+    "unit": "1 kg 15.45"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 49490,
+  "recommendationArticleIds": [],
+  "seoDescription": "Emmi Spätzlkäse gerieben 45% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Emmi Spätzlkäse gerieben 45% online bestellen | BILLA",
+  "slug": "emmi-spaetzlkaese-gerieben-45",
+  "storeAvalibility": [
+    "00-8140",
+    "00-99202"
+  ],
+  "url": "/produkte/emmi-spaetzlkaese-gerieben-45/00-425799",
+  "vatCode": "10",
+  "video": ""
+}

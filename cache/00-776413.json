@@ -1,0 +1,222 @@
+{
+  "articleGroupIds": [
+    "B2-432"
+  ],
+  "articleId": "00-776413",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-huehner-oberkeulenfilet/00-776413",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-huehner-oberkeulenfilet/00-776413",
+  "category": "Kühlwaren",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-01-12T00:00:00",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-31402-EG\r\nAT-20293-EG\r\nHandelsklasse A\r\nfrisch \r\nKüchenhygiene ist wichtig: Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen (mind. 75°C)!\r\nGeboren in: Österreich\r\nAufgezogen in: Österreich\r\nGeschlachtet in: Österreich\r\nZerlegt in: Österreich",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Hühner Oberkeulenfilet",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 8.6,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 171,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 713,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 15.7,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 16.5,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 36,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.3,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei -1 bis +4 °C",
+      "usageHints": "Nach dem Öffnen zur unmittelbaren Verarbeitung bestimmt."
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.49,
+    "unit": "1 kg 12,49 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.85,
+  "name": "Hofstädter Hühner Oberkeulenfilet",
+  "orderQuantityStepSize": 0.85,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432/produkte/hofstaedter-huehner-oberkeulenfilet/00-776413"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.49,
+    "unit": "1 kg 12,49 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Hühner Oberkeulenfilet online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Hühner Oberkeulenfilet online bestellen | BILLA",
+  "slug": "hofstaedter-huehner-oberkeulenfilet",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202",
+    "00-281"
+  ],
+  "url": "/produkte/hofstaedter-huehner-oberkeulenfilet/00-776413",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    85,
+    170,
+    255,
+    340,
+    425
+  ]
+}

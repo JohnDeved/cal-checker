@@ -1,0 +1,217 @@
+{
+  "articleGroupIds": [
+    "B2-222"
+  ],
+  "articleId": "00-659335",
+  "articleOnlyCanonicalPath": "/produkte/berger-dinkelvollkornbrot/00-659335",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-dinkelvollkornbrot/00-659335",
+  "category": "Brot & Gebäck",
+  "description": "Dinkel ist schmackhaft und äußerst bekömmlich. Das gehaltvolle Dinkelvollkornbrot von Berger ist mit Dinkelflocken und einem Anteil Sauerteig fein abgeschmeckt.<li>mit Leinsamen und Sonnenblumenkernen<li>enthält Sojaschrot und Sojamehl sowie Sesamkörner",
+  "eanCodes": [
+    "9003644001625"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hörschingerstraße 17, 4061 Pasching",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Michael Berger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: DINKELMEHL, Wasser, DINKELSAUERTEIG(DINKELMEHL, Wasser), DINKELFLOCKEN, DINKELMALZMEHL, Hefe, unjodiertes Speisesalz, Dextrose, Zucker, SOJASCHROT, SOJAMEHL, Leinsamen, Sonnenblumenkerne, SESAM, GERSTENMALZMEHL, Kartoffelflocken, Kann Spuren von Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 470
+        }
+      ],
+      "name": "Spezialbrot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 340,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1440,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 60.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Gramm",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.75,
+    "unit": "1 kg 7.50"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Dinkelvollkornbrot",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/ofenfrisches-brot/B2-222/produkte/berger-dinkelvollkornbrot/00-659335"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.75,
+    "unit": "1 kg 7.50"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51270,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Dinkelvollkornbrot online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Dinkelvollkornbrot online bestellen | BILLA",
+  "slug": "berger-dinkelvollkornbrot",
+  "storeAvalibility": [
+    "00-4028",
+    "00-4021",
+    "00-4601",
+    "00-4755",
+    "00-4226",
+    "00-4407",
+    "00-4847",
+    "00-4099",
+    "00-4104",
+    "00-4170",
+    "00-4838",
+    "00-4945",
+    "00-4952",
+    "00-4932",
+    "00-4478",
+    "00-4090",
+    "00-4001",
+    "00-4879",
+    "00-99202",
+    "00-4925",
+    "00-5967",
+    "00-4059",
+    "00-4540",
+    "00-4707",
+    "00-4225"
+  ],
+  "url": "/produkte/berger-dinkelvollkornbrot/00-659335",
+  "vatCode": "10",
+  "video": ""
+}

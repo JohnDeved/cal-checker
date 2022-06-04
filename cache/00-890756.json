@@ -1,0 +1,208 @@
+{
+  "articleGroupIds": [
+    "B2-211"
+  ],
+  "articleId": "00-890756",
+  "articleOnlyCanonicalPath": "/produkte/reschundfrisch-kornstangerl-sesam-5er/00-890756",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Resch&Frisch",
+  "brandPath": "/marken/reschfrisch",
+  "canonicalPath": "/produkte/reschundfrisch-kornstangerl-sesam-5er/00-890756",
+  "category": "Brot & Gebäck",
+  "description": "Ein Klassiker unter den österreichischen Gebäcksorten.<br>G¿schmackiges Gebäck aus Weizen- und Roggenmehl sowie der typischen Kornmischung mit z.B. Leinsamen und Sojaschrot, bestreut mit Sesam.",
+  "eanCodes": [
+    "9006366007371"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schloßstraße 14, 4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Resch&Frisch Holding GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Wasser, Backhefe, Speisesalz, SESAM, Leinsamen, Gewürze, WEIZENKLEIE, ROGGENSCHROT, SOJAMEHL, SOJASCHROT, WEIZENSCHROT, getoastetes WEIZENMEHL, getoastetes ROGGENMEHL, getrockneter ROGGENSAUERTEIG, WEIZENMALZSCHROT, getrockneter WEIZENNATURSAUERTEIG, WEIZENMALZMEHL, Dextrose, ROGGENMEHL, Zucker, Rapsöl, GERSTENMALZ.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 65
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 65
+        }
+      ],
+      "name": "Mischgebäck, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1164,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 276,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 44.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Im Original Back's Ofen Programm 2 oder im E-Herd 7-10 min bei 160 °C Ober-/Unterhitze fertig backen. Kurz in Stoffserviette nachziehen lassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "lagern bei -18°C, nach dem Auftauen nicht wieder einfrieren"
+    }
+  ],
+  "grammage": "5 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.49,
+    "unit": "1 Stk 1.10"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Resch&Frisch Kornstangerl-Sesam 5er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/reschundfrisch-kornstangerl-sesam-5er/00-890756"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.49,
+    "unit": "1 Stk 1.10"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 141220,
+  "recommendationArticleIds": [],
+  "seoDescription": "Resch&Frisch Kornstangerl-Sesam 5er online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Resch&Frisch Kornstangerl-Sesam 5er online bestellen | BILLA",
+  "slug": "reschundfrisch-kornstangerl-sesam-5er",
+  "storeAvalibility": [
+    "00-99202",
+    "00-7606",
+    "00-7491",
+    "00-7603",
+    "00-7653",
+    "00-7857",
+    "00-10",
+    "00-7860",
+    "00-4707",
+    "00-7609"
+  ],
+  "url": "/produkte/reschundfrisch-kornstangerl-sesam-5er/00-890756",
+  "vatCode": "10",
+  "video": ""
+}

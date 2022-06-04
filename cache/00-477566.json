@@ -1,0 +1,292 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-477566",
+  "articleOnlyCanonicalPath": "/produkte/delamaris-makrelenfilets-mit-zitrone/00-477566",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Delamaris",
+  "canonicalPath": "/produkte/delamaris-makrelenfilets-mit-zitrone/00-477566",
+  "category": "Grundnahrungsmittel",
+  "description": "Makrelenfilets in Sonnenblumenöl mit Zitronenaroma, ohne Haut und Gräten.",
+  "eanCodes": [
+    "3838929568472"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "SX",
+              "valueTranslation": "Wadennetze (ohne nähere Angabe)"
+            },
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "TX",
+              "valueTranslation": "Sonstige Schleppnetze (ohne nähere Angaben)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R41"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Johannesgasse 23, A-1010 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Glatz GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SLOWENIEN"
+      ],
+      "fromDate": "2021-05-07T00:00:00",
+      "ingredients": "Zutaten: MAKRELEN 65%, aromatisiertes Öl 34,2% (Sonnenblumenöl, natürliches Zitronenaroma), Kochsalz.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 81.25
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.14
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Makrelenfilets (Scomber scombrus) in Sonnenblumenöl mit Zitronenaroma. Ohne Haut und Gräten",
+      "nutritions": [
+        {
+          "householdPortion": "pro 100g abgetropften Produktes",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 259,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1077,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.55,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Omega-3-Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "125 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 1.79,
+    "unit": "1 kg 14.32"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Delamaris Makrelenfilets mit Zitrone",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/delamaris-makrelenfilets-mit-zitrone/00-477566"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 1.79,
+    "unit": "1 kg 14.32"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Delamaris Makrelenfilets mit Zitrone online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Delamaris Makrelenfilets mit Zitrone online bestellen | BILLA",
+  "slug": "delamaris-makrelenfilets-mit-zitrone",
+  "storeAvalibility": [
+    "00-4675",
+    "00-7539",
+    "00-3143",
+    "00-521",
+    "00-2342",
+    "00-3114",
+    "00-9753",
+    "00-5027",
+    "00-4932",
+    "00-3780",
+    "00-350",
+    "00-9290",
+    "00-2100",
+    "00-4655",
+    "00-2045",
+    "00-225",
+    "00-4551",
+    "00-7075",
+    "00-10",
+    "00-7857",
+    "00-4707",
+    "00-783",
+    "00-7114",
+    "00-355",
+    "00-4421",
+    "00-4078",
+    "00-4126",
+    "00-3617",
+    "00-7653",
+    "00-7606",
+    "00-6024",
+    "00-2218",
+    "00-3713",
+    "00-4170",
+    "00-6864",
+    "00-3512",
+    "00-4779",
+    "00-3700",
+    "00-4107",
+    "00-4783",
+    "00-6108",
+    "00-3979",
+    "00-1457",
+    "00-3947",
+    "00-6740",
+    "00-4605",
+    "00-7675",
+    "00-4690",
+    "00-4249",
+    "00-4283",
+    "00-5108",
+    "00-99202"
+  ],
+  "url": "/produkte/delamaris-makrelenfilets-mit-zitrone/00-477566",
+  "vatCode": "10",
+  "video": ""
+}

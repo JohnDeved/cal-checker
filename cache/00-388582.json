@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-443"
+  ],
+  "articleId": "00-388582",
+  "articleOnlyCanonicalPath": "/produkte/salakis-feta-fassgereift/00-388582",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Salakis",
+  "canonicalPath": "/produkte/salakis-feta-fassgereift/00-388582",
+  "category": "Kühlwaren",
+  "description": "<li>Traditioneller Feta im Fass gereift<li>Die Reifung nach jahrhundertealtem Verfahren verleiht ihm seinen intensiven und komplexen Geschmack</li>",
+  "eanCodes": [
+    "5202258024660"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Grabenweg 58 / Top 103-3, 6020 Innsbruck",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lactalis Österreich GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "infomail@at.lactalis.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 512 214 088 14",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "https://www.lactalis.at/",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "GRIECHENLAND"
+      ],
+      "fromDate": "2020-11-24T00:00:00",
+      "ingredients": "SCHAFMILCH (min. 70%), ZIEGENMILCH (max. 30%), Salz, mikrobielles Lab, Milchsäurebakterien.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 183
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 180
+        }
+      ],
+      "name": "Weichkäse aus pasteurisierter Schaf- und Ziegenmilch (max. 30%), mind. 48% F.i.Tr., mit Kräutern",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 270,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1129,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Bei +2°C bis +7°C aufbewahren."
+    }
+  ],
+  "grammage": "180 g Packung",
+  "grammageBadge": "180 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.85,
+    "unit": "1 kg 15.83"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Salakis Feta fassgereift",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/feta-und-mozzarella/B2-443/produkte/salakis-feta-fassgereift/00-388582"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.85,
+    "unit": "1 kg 15.83"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Salakis Feta fassgereift online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Salakis Feta fassgereift online bestellen | BILLA",
+  "slug": "salakis-feta-fassgereift",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/salakis-feta-fassgereift/00-388582",
+  "vatCode": "10",
+  "video": ""
+}

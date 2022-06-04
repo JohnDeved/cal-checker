@@ -1,0 +1,277 @@
+{
+  "articleGroupIds": [
+    "B2-6C1"
+  ],
+  "articleId": "00-870201",
+  "articleOnlyCanonicalPath": "/produkte/bens-original-langkorn-reis-kochbeutel2/00-870201",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Ben's Original",
+  "brandPath": "/marken/bens-original",
+  "canonicalPath": "/produkte/bens-original-langkorn-reis-kochbeutel2/00-870201",
+  "category": "Grundnahrungsmittel",
+  "description": "Der natürlich glutenfreie Spitzen-Langkorn-Reis von Ben's Original in vier einzelnen Kochbeuteln wurde sorgfältig ausgesucht. Er ergibt vier Mal zwei Portionen.<li>Packung mit 4 Kochbeuteln<li>perfekt zubereitet in nur 10 Minuten<li>glutenfrei",
+  "eanCodes": [
+    "5410673052018",
+    "5410673004444",
+    "5410673052001"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, A-1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mars Austria OG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "BELGIEN"
+      ],
+      "fromDate": "2021-07-12T00:00:00",
+      "ingredients": "Zutaten: Parboiled Langkorn-Reis.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 538
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Parboiled Langkorn-Reis.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 665,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 157,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 34,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "Pro zubereiteter Portion (basierend auf 62.5g Trockenreis) (140g) / Pa",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 931,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 220,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 48,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 8,
+      "preperations": [
+        {
+          "instruction": "Gelingt immer...\n1 KÖCHELN LASSEN\nEinen Topf Wasser zum Kochen bringen. Kochbeutel hineingeben und ca. 10 Minuten köcheln lassen.\n2 ABTROPFEN\nBeutel mit einer Gabel aus dem Wasser nehmen und abtropfen lassen.\n3 SERVIEREN\nBeutel an der Einkerbung aufreissen, an der kalten Ecke festhalten und ausleeren.\nGuten Appetit!",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Bei Zimmertemperatur und trocken lagern."
+    }
+  ],
+  "grammage": "500 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 5.18"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Ben's Original Langkorn-Reis Kochbeutel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/reis/B2-6C1/produkte/bens-original-langkorn-reis-kochbeutel2/00-870201"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 5.18"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 94470,
+  "recommendationArticleIds": [
+    "00-822991"
+  ],
+  "seoDescription": "Ben's Original Langkorn-Reis Kochbeutel online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ben's Original Langkorn-Reis Kochbeutel online bestellen | BILLA",
+  "slug": "bens-original-langkorn-reis-kochbeutel2",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/bens-original-langkorn-reis-kochbeutel2/00-870201",
+  "vatCode": "10",
+  "video": ""
+}

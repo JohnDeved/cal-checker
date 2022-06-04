@@ -1,0 +1,328 @@
+{
+  "articleGroupIds": [
+    "B2-446",
+    "B2-449"
+  ],
+  "articleId": "00-469837",
+  "articleOnlyCanonicalPath": "/produkte/violife-grill-me/00-469837",
+  "attributes": [
+    "s_marke",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Violife",
+  "brandPath": "/marken/violife",
+  "canonicalPath": "/produkte/violife-grill-me/00-469837",
+  "category": "Kühlwaren",
+  "description": "Violife Grill Me ist die vegane Alternative zu Grillkäse!<li>Veganer Schmelz, der nach kurzer Zeit auf dem Grill - oder in der Pfanne - eine knusprig braune Kruste bildet und einfach köstlich schmeckt<li>Passt zu gegrilltem Gemüse, bunten Salaten und Soßen</li>",
+  "eanCodes": [
+    "5202390019517"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VEGAN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gertrude Fröhlich Sandner Straße 2-4, 1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Upfield Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GRIECHENLAND"
+      ],
+      "fromDate": "2021-04-28T00:00:00",
+      "ingredients": "Zutaten: Wasser, Kokosöl (15%), Stärke, modifizierte Stärke, Gerstenstärke (glutenfrei), Meersalz, gemahlene Sonnenblumenkerne, Säureregulator: Gucono-Delta-Lacton, Aromen, Olivenextrakt, Farbstoff: Beta-Caroten, Vitamin B12.",
+      "mandatoryIndicator": "Farbstoffe",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.216
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Lebensmittelzubereitung mit Kokosöl für Grill und Pfanne",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1088,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 259,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 2.5,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 16.45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Violife Grill Me",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/kaesespezialitaeten/B2-446/produkte/violife-grill-me/00-469837",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schnittkaese/B2-449/produkte/violife-grill-me/00-469837"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 16.45"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Violife Grill Me online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Violife Grill Me online bestellen | BILLA",
+  "slug": "violife-grill-me",
+  "storeAvalibility": [
+    "00-249",
+    "00-3979",
+    "00-7860",
+    "00-7302",
+    "00-3871",
+    "00-5108",
+    "00-7675",
+    "00-3700",
+    "00-3206",
+    "00-5603",
+    "00-3569",
+    "00-3055",
+    "00-6871",
+    "00-1457",
+    "00-7857",
+    "00-10",
+    "00-7835",
+    "00-4690",
+    "00-6979",
+    "00-5945",
+    "00-4932",
+    "00-3601",
+    "00-6819",
+    "00-3431",
+    "00-7223",
+    "00-4551",
+    "00-3394",
+    "00-4756",
+    "00-3234",
+    "00-4003",
+    "00-7062",
+    "00-3713",
+    "00-4225",
+    "00-1631",
+    "00-7393",
+    "00-6490",
+    "00-7075",
+    "00-6024",
+    "00-7565",
+    "00-5737",
+    "00-4912",
+    "00-6219",
+    "00-1027",
+    "00-4879",
+    "00-7553",
+    "00-3822",
+    "00-3860",
+    "00-8188",
+    "00-4478",
+    "00-6910",
+    "00-4834",
+    "00-7602",
+    "00-3452",
+    "00-3633",
+    "00-8213",
+    "00-3593",
+    "00-5447",
+    "00-3105",
+    "00-4707",
+    "00-6130",
+    "00-2154",
+    "00-5199",
+    "00-6554",
+    "00-7538",
+    "00-7827",
+    "00-3983",
+    "00-4226",
+    "00-7114",
+    "00-5165",
+    "00-4170",
+    "00-3011",
+    "00-7082",
+    "00-2840",
+    "00-8360",
+    "00-3146",
+    "00-7915",
+    "00-7831",
+    "00-7940",
+    "00-3561",
+    "00-3735",
+    "00-3669",
+    "00-1913",
+    "00-430",
+    "00-2364",
+    "00-3551",
+    "00-4700",
+    "00-1198",
+    "00-6864",
+    "00-5112",
+    "00-3947",
+    "00-7539",
+    "00-7584",
+    "00-4755",
+    "00-8946",
+    "00-1107",
+    "00-8433",
+    "00-1041",
+    "00-6884",
+    "00-8953",
+    "00-6248",
+    "00-7547",
+    "00-7665",
+    "00-6439",
+    "00-4283",
+    "00-5962",
+    "00-7536",
+    "00-6487",
+    "00-6274",
+    "00-8895",
+    "00-3023",
+    "00-2045",
+    "00-3118",
+    "00-3506",
+    "00-4674",
+    "00-9761",
+    "00-3063",
+    "00-3512",
+    "00-3214",
+    "00-3681",
+    "00-3856",
+    "00-3059",
+    "00-4466",
+    "00-6845",
+    "00-3857",
+    "00-4078",
+    "00-7546",
+    "00-4540",
+    "00-1208",
+    "00-99202"
+  ],
+  "url": "/produkte/violife-grill-me/00-469837",
+  "vatCode": "10",
+  "video": ""
+}

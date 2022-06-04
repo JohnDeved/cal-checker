@@ -1,0 +1,232 @@
+{
+  "articleGroupIds": [
+    "B2-445",
+    "B2-459"
+  ],
+  "articleId": "00-677618",
+  "articleOnlyCanonicalPath": "/produkte/philadelphia-milka/00-677618",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Philadelphia",
+  "brandPath": "/marken/philadelphia",
+  "canonicalPath": "/produkte/philadelphia-milka/00-677618",
+  "category": "Kühlwaren",
+  "description": "Zaubert süße Überraschung aufs Brot: Der Philadelphia Milka mit zarter Milchschokolade bringt die Lieblingsschokolade in streichzarter Variation auf den Tisch.<li>Brotaufstrich auf Frischkäsebasis mit Alpenmilchschokolade<li>eine süße Abwechslung für Naschkatzen",
+  "eanCodes": [
+    "7622300508661"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "FRISCHKÄSE,MILCH,MAGERMILCHPULVER,BUTTERREINFETT,SOJALECITHIN",
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1140 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mondelez Österreich",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: FRISCHKÄSE der Rahmstufe, Zucker, Molkenerzeugnisse (aus MILCH), Kakaobutter, fettarmes Kakaopulver, MAGERMILCHPULVER, Kakaomasse, Süßmolkenpulver (aus MILCH), BUTTERREINFETT, Verdickungsmittel (Johannisbrotkernmehl, Carrageen, Natrium-Carboxymethylcellulose), Speisesalz, Emulgator (SOJALECITHIN), Aromen, Säuerungsmittel (Citronensäure).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 189
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 175
+        }
+      ],
+      "name": "Brotaufstrich auf Frischkäsebasis (45%) mit Alpenmilchschokolade (23%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1202,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 287,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 34,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.51,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt aufbewahren."
+    }
+  ],
+  "grammage": "175 g Becher",
+  "grammageBadge": "175 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 8.51"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Philadelphia Milka",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/philadelphia-milka/00-677618",
+    "~/warengruppe/kuehlwaren/milchprodukte/pudding-und-desserts/B2-459/produkte/philadelphia-milka/00-677618"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 8.51"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 106970,
+  "recommendationArticleIds": [],
+  "seoDescription": "Philadelphia Milka online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Philadelphia Milka online bestellen | BILLA",
+  "slug": "philadelphia-milka",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/philadelphia-milka/00-677618",
+  "vatCode": "10",
+  "video": ""
+}

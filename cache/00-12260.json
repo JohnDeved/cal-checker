@@ -1,0 +1,280 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-12260",
+  "articleOnlyCanonicalPath": "/produkte/land-leben-eierschoeberl/00-12260",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Land-Leben",
+  "canonicalPath": "/produkte/land-leben-eierschoeberl/00-12260",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Eierschöberl von Land-Leben sind die perfekte und schnelle Einlage für klare und gebundene Suppen und können auch direkt aus der Packung genascht werden.<li>nach traditionellem Rezept<li>mit 30 % Eiern<li>essfertig",
+  "eanCodes": [
+    "9001411800051",
+    "9005021000092"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R05"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "5102 Anthering - Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "LAND-LEBEN Nahrungsmittel GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@land-leben.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "facebook.com/landleben",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.land-leben.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: EIER (30%), WEIZENmehl, Sonnenblumenöl 20%, Maisstärke, Salz, Aroma.",
+      "marketingMessage": "Eierschöberl: Kleiner Aufwand - großer Genuss!\nUnsere feinen Eierschöberl sind eine köstliche und wertvolle Einlage - für alle Suppen und jeden Tag. Einfach einstreuen und sofort servieren. Gesunden Appetit!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 53
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 50
+        }
+      ],
+      "name": "Eierschöberl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 533,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2230,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 44,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Sonnenlicht schützen, trocken lagern",
+      "usageHints": "Einfach einstreuen und sofort servieren."
+    }
+  ],
+  "grammage": "50 Gramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 25.80"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Land-Leben Eierschöberl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/land-leben-eierschoeberl/00-12260"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 25.80"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 109670,
+  "recommendationArticleIds": [],
+  "seoDescription": "Land-Leben Eierschöberl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Land-Leben Eierschöberl online bestellen | BILLA",
+  "slug": "land-leben-eierschoeberl",
+  "storeAvalibility": [
+    "00-7653",
+    "00-3005",
+    "00-355",
+    "00-4655",
+    "00-4834",
+    "00-5871",
+    "00-6819",
+    "00-225",
+    "00-8012",
+    "00-3114",
+    "00-3709",
+    "00-5108",
+    "00-2840",
+    "00-2218",
+    "00-9290",
+    "00-3617",
+    "00-4107",
+    "00-7084",
+    "00-1826",
+    "00-3157",
+    "00-10",
+    "00-5962",
+    "00-7765",
+    "00-7857",
+    "00-4605",
+    "00-4779",
+    "00-4551",
+    "00-7539",
+    "00-2045",
+    "00-3143",
+    "00-3700",
+    "00-3146",
+    "00-4675",
+    "00-5223",
+    "00-5363",
+    "00-4441",
+    "00-411",
+    "00-7393",
+    "00-1913",
+    "00-521",
+    "00-3830",
+    "00-4690",
+    "00-4078",
+    "00-6740",
+    "00-3384",
+    "00-4783",
+    "00-7606",
+    "00-3979",
+    "00-4932",
+    "00-2342",
+    "00-350",
+    "00-4982",
+    "00-7358",
+    "00-3780",
+    "00-1457",
+    "00-4466",
+    "00-3105",
+    "00-6864",
+    "00-99202"
+  ],
+  "url": "/produkte/land-leben-eierschoeberl/00-12260",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,232 @@
+{
+  "articleGroupIds": [
+    "B2-625"
+  ],
+  "articleId": "00-317762",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-kinder-fruechte-tee/00-317762",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-kinder-fruechte-tee/00-317762",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Alnatura Kinder-Früchtetee ist ungesüßt,* mild im Geschmack und für Kinder ab dem neunten Lebensmonat geeignet. Seine Hauptzutaten sind Äpfel und Hagebutten, Hibiskusblüten und schwarze Johannisbeeren runden den Geschmack harmonisch ab. Alle Zutaten stammen aus biologischer Landwirtschaft. (*Zutaten enthalten von Natur aus Zucker)",
+  "eanCodes": [
+    "4104420135383",
+    "4104420204041"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-19T00:00:00",
+      "ingredients": "Zutaten: Apfel* 49%, Hagebutte* 30%, Hibiskus* 9%, Schwarze Johannisbeere* 8%, Rote Bete* *aus biologischer Landwirtschaft.",
+      "mandatoryIndicator": "106; glutenhaltig",
+      "marketingMessage": "Ein milder Baby-Früchtetee in Bio-Qualität, dessen Basis Äpfel und Hagebutten sind. Geeignet nach dem 6. Lebensmonat. 20 Aufgussbeutel pro Packung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 69
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.045
+        }
+      ],
+      "name": "Bio Früchteteemischung für Säuglinge nach dem 6. Monat und Kleinkinder",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 12,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 20,
+      "preperations": [
+        {
+          "instruction": "Aufgussbeutel mit 200 ml frischem, sprudelnd kochendem Wasser übergießen, 10 Minuten ziehen und auf Trinktemperatur abkühlen lassen.",
+          "type": "Trockene/konzentrierte Nahrung mit Wasser wieder in urspruengliche Festigkeit/Konsistenz bringen"
+        }
+      ],
+      "storageHint": "Bitte trocken lagern."
+    }
+  ],
+  "grammage": "45 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 39.78"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Kinder Früchte Tee",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/getraenke-und-tees/B2-625/produkte/alnatura-kinder-fruechte-tee/00-317762"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 39.78"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 203850,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Kinder Früchte Tee online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Kinder Früchte Tee online bestellen | BILLA",
+  "slug": "alnatura-kinder-fruechte-tee",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-kinder-fruechte-tee/00-317762",
+  "vatCode": "10",
+  "video": ""
+}

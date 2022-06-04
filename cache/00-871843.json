@@ -1,0 +1,200 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-871843",
+  "articleOnlyCanonicalPath": "/produkte/rivella-light/00-871843",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Rivella",
+  "canonicalPath": "/produkte/rivella-light/00-871843",
+  "category": "Getränke",
+  "description": "Rivella Light ist die leichte Schwester des beliebten Erfrischungsgetränks: Der volle Rivella Geschmack bei weniger Kalorien, für besonders milde Erfrischung.<li>ohne Farb- und Konservierungsstoffe<li>voller Rivella-Geschmack mit nur 7 kcal/100ml<li>kohlensäurehaltiges Erfrischungsgetränk mit 35 % Milchserum<li>enthält Laktose",
+  "eanCodes": [
+    "7610097112253"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Laktose",
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "F-68570 Soultzmatt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Sources de Soultzmatt",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, MILCHSERUM 35% (enthält LAKTOSE), Kohlensäure, Säuerungsmittel (L(+)-Milchsäure), Karamellzuckersirup, Süssungsmittel (Cyclamat, Acesulfam-K), natürliche Aromen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1050
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 1000
+        }
+      ],
+      "name": "Kohlensäurehaltiges Erfrischungsgetränk mit Süssungsmitteln/Boisson gazeuse rafraîchissante avec des édulcorants",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 7,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 30,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "usageHints": "Einmal geöffnet, kühl aufbewahren und innerhalb von drei Tagen trinken."
+    }
+  ],
+  "grammage": "1 l Flasche (Einweg)",
+  "grammageBadge": "1 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 1,49 €"
+  },
+  "maximalOrderQuantity": 30,
+  "minimalOrderQuantity": 0,
+  "name": "Rivella Light",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/rivella-light/00-871843"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 1,49 €"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 43640,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rivella Light online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rivella Light online bestellen | BILLA",
+  "slug": "rivella-light",
+  "storeAvalibility": [
+    "00-8334",
+    "00-8409",
+    "00-8075",
+    "00-8400",
+    "00-8243",
+    "00-8159",
+    "00-99202",
+    "00-8193",
+    "00-8140",
+    "00-8085",
+    "00-8395",
+    "00-8530"
+  ],
+  "url": "/produkte/rivella-light/00-871843",
+  "vatCode": "20",
+  "video": ""
+}

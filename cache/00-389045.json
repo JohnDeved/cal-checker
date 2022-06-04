@@ -1,0 +1,356 @@
+{
+  "articleGroupIds": [
+    "B2-741"
+  ],
+  "articleId": "00-389045",
+  "articleOnlyCanonicalPath": "/produkte/kellys-chips-riffles-salsa-und-lime/00-389045",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kelly's",
+  "brandPath": "/marken/kellys",
+  "canonicalPath": "/produkte/kellys-chips-riffles-salsa-und-lime/00-389045",
+  "category": "Süßes & Salziges",
+  "eanCodes": [
+    "9000159198482"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "SOCIETY_PLASTICS_INDUSTRY"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hermann-Gebauer-Straße 1  1220 Wien Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kelly Ges.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kellys.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-03-12T00:00:00",
+      "ingredients": "Zutaten: Kartoffeln, Sonnenblumenöl, Zucker, natürliches Aroma, Salz, Tomatenpulver, Hefeextrakt, Cayennepfeffer, Knoblauchpulver, Zwiebelpulver, Limettenpulver, Gewürze, Kräuter.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "marketingMessage": "Die neuen Kelly's Chips - genauso individuell wie du und vieles - aber garantiert nicht langweilg! - Special cuts- Super crispy- Fancy flavours",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 133
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Kartoffelchips geriffelt mit Salsa & Lime Geschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2166,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 520,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 49,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 650,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 156,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 14,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.43,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Ungeöffnet mindestens haltbar bis: siehe Aufdruck"
+    }
+  ],
+  "grammage": "125 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "100 g 1.59"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Kelly's Chips Riffles Salsa & Lime",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/chips/B2-741/produkte/kellys-chips-riffles-salsa-und-lime/00-389045"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "100 g 1.59"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 102430,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kelly's Chips Riffles Salsa & Lime online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kelly's Chips Riffles Salsa & Lime online bestellen | BILLA",
+  "slug": "kellys-chips-riffles-salsa-und-lime",
+  "storeAvalibility": [
+    "00-7204",
+    "00-3157",
+    "00-3234",
+    "00-2098",
+    "00-7114",
+    "00-4779",
+    "00-1529",
+    "00-3709",
+    "00-7606",
+    "00-7860",
+    "00-3206",
+    "00-3114",
+    "00-4690",
+    "00-7368",
+    "00-7393",
+    "00-2045",
+    "00-9290",
+    "00-2015",
+    "00-3118",
+    "00-3617",
+    "00-7653",
+    "00-2154",
+    "00-3146",
+    "00-3023",
+    "00-355",
+    "00-1911",
+    "00-6910",
+    "00-3780",
+    "00-1457",
+    "00-783",
+    "00-99202",
+    "00-2109",
+    "00-1027",
+    "00-10",
+    "00-7857",
+    "00-4707",
+    "00-4126",
+    "00-4107",
+    "00-3143",
+    "00-3507",
+    "00-4675",
+    "00-4655",
+    "00-4249",
+    "00-2342",
+    "00-4551"
+  ],
+  "url": "/produkte/kellys-chips-riffles-salsa-und-lime/00-389045",
+  "vatCode": "10",
+  "video": ""
+}

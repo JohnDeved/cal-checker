@@ -1,0 +1,293 @@
+{
+  "articleGroupIds": [
+    "B2-658",
+    "B2-682"
+  ],
+  "articleId": "00-499781",
+  "articleOnlyCanonicalPath": "/produkte/rio-mare-insalatissime-mexico2/00-499781",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rio Mare",
+  "brandPath": "/marken/rio-mare",
+  "canonicalPath": "/produkte/rio-mare-insalatissime-mexico2/00-499781",
+  "category": "Grundnahrungsmittel",
+  "description": "Ideal für die Jause und für unterwegs: Der Insalatissime Mexico von Rio Mare ist ein appetitlicher Feinkostsalat mit roten Bohnen, Thunfisch und Mais.<li>Fertiggericht mit Thunfisch und knackigem Gemüse<li>enthält eine Gabel",
+  "eanCodes": [
+    "8004030830004"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHAREA",
+              "description": "Fangzone ",
+              "hasTranslation": "True",
+              "value": "71",
+              "valueTranslation": "Mittlerer Westpazifik"
+            },
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "LHP",
+              "valueTranslation": "Leinen und Haken - Hand- und Angelleinen (von Hand bedient)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DOLPHIN_SAFE",
+              "valueTranslation": "DOLPHIN SAFE (Delphin-freundlich Tunfischfang)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Trabrennstraße 5, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bolton Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 1 729 20 20",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.riomare.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Rote Bohnen 25%, Thunfisch (Euthynnus (Katsuwonus) pelamis) 23%, Mais 22%, Maiskeimöl, Paprika 6%, Karotten 6%, Salz, Aroma. Kann Spuren von Gluten enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 288.75
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 220
+        }
+      ],
+      "name": "Fertiggericht mit Gemüse und Thunfisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 200,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 833,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "220 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 19.95"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Rio Mare Insalatissime Mexico",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/salate/B2-658/produkte/rio-mare-insalatissime-mexico2/00-499781",
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/rio-mare-insalatissime-mexico2/00-499781"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 19.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 73130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rio Mare Insalatissime Mexico online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rio Mare Insalatissime Mexico online bestellen | BILLA",
+  "slug": "rio-mare-insalatissime-mexico2",
+  "storeAvalibility": [
+    "00-4932",
+    "00-3114",
+    "00-350",
+    "00-7675",
+    "00-3713",
+    "00-9290",
+    "00-6024",
+    "00-4170",
+    "00-7606",
+    "00-6864",
+    "00-4655",
+    "00-2218",
+    "00-783",
+    "00-4078",
+    "00-5027",
+    "00-3700",
+    "00-6108",
+    "00-4675",
+    "00-4707",
+    "00-7075",
+    "00-7653",
+    "00-4779",
+    "00-355",
+    "00-3143",
+    "00-6740",
+    "00-521",
+    "00-4107",
+    "00-3979",
+    "00-7114",
+    "00-10",
+    "00-9753",
+    "00-5108",
+    "00-2342",
+    "00-4605",
+    "00-2100",
+    "00-4283",
+    "00-3512",
+    "00-4126",
+    "00-4421",
+    "00-4690",
+    "00-4249",
+    "00-4551",
+    "00-1457",
+    "00-7857",
+    "00-225",
+    "00-4783",
+    "00-3780",
+    "00-3947",
+    "00-2045",
+    "00-7539",
+    "00-3617",
+    "00-99202"
+  ],
+  "url": "/produkte/rio-mare-insalatissime-mexico2/00-499781",
+  "vatCode": "10",
+  "video": ""
+}

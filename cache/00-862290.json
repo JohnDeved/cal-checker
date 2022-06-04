@@ -1,0 +1,175 @@
+{
+  "articleGroupIds": [
+    "B2-883"
+  ],
+  "articleId": "00-862290",
+  "articleOnlyCanonicalPath": "/produkte/nivea-rasiergel-mild/00-862290",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Nivea",
+  "brandPath": "/marken/nivea",
+  "canonicalPath": "/produkte/nivea-rasiergel-mild/00-862290",
+  "category": "Pflege",
+  "description": "Das Nivea Rasiergel Mild pflegt, entspannt und schützt die Haut während der Rasur vor dem Austrocknen: durch eine spezielle Formel mit Aloe vera und Vitaminen.<li>mildes Rasiergel für normale Haut<li>mit aktiven Feuchtigkeitsspendern<li>schützt vor Trockenheit und Haut-Irritationen",
+  "eanCodes": [
+    "4005808817603",
+    "4005900612984",
+    "4005900918666"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GEFAHRGUT",
+              "description": "Gefahrgut (M187)",
+              "hasTranslation": "False",
+              "value": "5A"
+            },
+            {
+              "attributeCode": "BEGRENZTE_MENGE_ADR",
+              "description": "Begrenzte Menge gemäß ADR (M189)",
+              "hasTranslation": "False",
+              "value": "NOT_POSSIBLE"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_VERPACKUNGSGRUPPE",
+              "description": "Verpackungsgruppe Gefahrgut (M191)",
+              "hasTranslation": "False",
+              "value": "NA"
+            },
+            {
+              "attributeCode": "GEFAHRGUTNUMMER_UN",
+              "description": "UN Gefahrgutnummer (M194)",
+              "hasTranslation": "False",
+              "value": "1950"
+            },
+            {
+              "attributeCode": "GEFAHRGUT_KLASSE",
+              "description": "Gefahrgutklasse (M185)",
+              "hasTranslation": "False",
+              "value": "2"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lehrbachgasse 13 EURO PLAZA, Gebäude H 1120 Wien Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Beiersdorf Ges mbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2021-01-19T00:00:00",
+      "mandatoryIndicator": "Achtung: Behälter steht unter Druck: Kann bei Erwärmung bersten. Von\nHitze, heißen Oberflächen, Funken, offenen Flammen sowie anderen\nZündquellenarten fernhalten. Nicht rauchen. Nicht durchstechen oder\nverbrennen, auch nicht nach Gebrauch. Vor Sonnenbestrahlung schützen.\nNicht Temperaturen über 50°C aussetzen. Darf nicht in die Hände von\nKindern gelangen. Nur entleerte Dosen in die Wertstoffsammlung geben.\nEnthält 3,5 Massenprozent entzündbare Bestandteile.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 257.7
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 200
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "200 Milliliter Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Nivea Rasiergel Mild",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/pflege/rasierbedarf/rasierschaum-und--gel/B2-883/produkte/nivea-rasiergel-mild/00-862290"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 177390,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nivea Rasiergel Mild online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nivea Rasiergel Mild online bestellen | BILLA",
+  "slug": "nivea-rasiergel-mild",
+  "storeAvalibility": [],
+  "url": "/produkte/nivea-rasiergel-mild/00-862290",
+  "vatCode": "20",
+  "video": ""
+}

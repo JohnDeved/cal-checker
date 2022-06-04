@@ -1,0 +1,390 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-933797",
+  "articleOnlyCanonicalPath": "/produkte/danone-activia-erdbeere/00-933797",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Danone",
+  "brandPath": "/marken/danone",
+  "canonicalPath": "/produkte/danone-activia-erdbeere/00-933797",
+  "category": "Kühlwaren",
+  "description": "Activia leistet einen einzigartigen Beitrag, um deine Verdauung sanft zu unterstützen. Mit Fruchtnoten und Milliarden natürlichen Bifidus Kulturen unterstützt täglich Activia dich bei einer ausgewogenen Ernährung. Dein Kickstart für jeden Tag.<br><br><li>Mit 4 Milliarden natürlichen Bifidus Kulturen<li>Einzigartig cremiger Geschmack<li>Mit fruchtiger Erdbeere",
+  "eanCodes": [
+    "4009700036988"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Technologiestr. 10, A-1120 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Danone GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "00800 800 900 88",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-28T00:00:00",
+      "ingredients": "Zutaten: JOGHURT, 8% Erdbeeren, Zucker, färbende Saftkonzentrate schwarze Karotte und Karotte, natürliches Aroma. Mit Bifidus Kultur ActiRegularis®. Kann glutenhaltige Getreide und Schalenfrüchte enthalten.",
+      "marketingMessage": "Seit mehr als 30 Jahren stecken wir unsere ganze Erfahrung und Leidenschaft in Activia. Denn wir sind überzeugt davon, dass Wohlfühlen von innen kommt und Activia einen leckeren Beitrag dazu leisten kann. Doch Activia ist viel mehr als ein leckerer Joghurt! Unsere einzigartigen natürlichen Bifidus Kulturen entfalten ihre volle Wirkung während der jahrhundertealten Fermentation und machen Activia dadurch so cremig. Frischer Joghurt + 4 Milliarden natürliche Bifidus Kulturen + Mind. 8.5 Stunden Fermentierung. Activia - Viel mehr als ein Joghurt!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 460
+        }
+      ],
+      "name": "Joghurt mit 12% Erdbeerzubereitung, 3,5 % Fett im Milchanteil",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 369,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 88,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 140,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 424,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 101,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 14,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.16,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 161,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei max. +8°C mindestens haltbar bis: siehe Deckel."
+    }
+  ],
+  "grammage": "460 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.15,
+    "unit": "1 kg 4.67"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Danone Activia Erdbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/danone-activia-erdbeere/00-933797"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.15,
+    "unit": "1 kg 4.67"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 114010,
+  "recommendationArticleIds": [],
+  "seoDescription": "Danone Activia Erdbeere online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Danone Activia Erdbeere online bestellen | BILLA",
+  "slug": "danone-activia-erdbeere",
+  "storeAvalibility": [
+    "00-2313",
+    "00-3025",
+    "00-3384",
+    "00-3860",
+    "00-6724",
+    "00-7675",
+    "00-3569",
+    "00-2201",
+    "00-281",
+    "00-3120",
+    "00-9183",
+    "00-2222",
+    "00-4421",
+    "00-3042",
+    "00-112",
+    "00-4466",
+    "00-1866",
+    "00-4834",
+    "00-7393",
+    "00-6496",
+    "00-7358",
+    "00-4605",
+    "00-7245",
+    "00-9894",
+    "00-430",
+    "00-9555",
+    "00-2098",
+    "00-3445",
+    "00-3055",
+    "00-3713",
+    "00-3234",
+    "00-2223",
+    "00-3681",
+    "00-1107",
+    "00-6884",
+    "00-2345",
+    "00-2204",
+    "00-10",
+    "00-323",
+    "00-7336",
+    "00-7860",
+    "00-3709",
+    "00-4690",
+    "00-4107",
+    "00-7606",
+    "00-2342",
+    "00-1710",
+    "00-99202",
+    "00-6219",
+    "00-4912",
+    "00-6676",
+    "00-1132",
+    "00-3143",
+    "00-4655",
+    "00-1457",
+    "00-7084",
+    "00-3321",
+    "00-3063",
+    "00-4478",
+    "00-2111",
+    "00-2045",
+    "00-3857",
+    "00-9753",
+    "00-4783",
+    "00-6439",
+    "00-7368",
+    "00-3044",
+    "00-3580",
+    "00-9290",
+    "00-3005",
+    "00-7229",
+    "00-6745",
+    "00-2190",
+    "00-4283",
+    "00-3512",
+    "00-7653",
+    "00-355",
+    "00-4078",
+    "00-2131",
+    "00-2808",
+    "00-7062",
+    "00-3114",
+    "00-1900",
+    "00-3780",
+    "00-4016",
+    "00-6975",
+    "00-7082",
+    "00-6424",
+    "00-3050",
+    "00-7114"
+  ],
+  "url": "/produkte/danone-activia-erdbeere/00-933797",
+  "vatCode": "10",
+  "video": ""
+}

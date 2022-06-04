@@ -1,0 +1,273 @@
+{
+  "articleGroupIds": [
+    "B2-442"
+  ],
+  "articleId": "00-37909",
+  "articleOnlyCanonicalPath": "/produkte/tiroler-felsenkeller-kaese/00-37909",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_feinkost",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tiroler-felsenkeller-kaese/00-37909",
+  "category": "Kühlwaren",
+  "description": "Der Tiroler Felsenkeller Käse reift 200 Tage und wird mit Rotkulturen gepflegt. So entsteht der unvergleichlich würzig-kräftige Geschmack des Käseklassikers.<li>Preis pro kg<li>laktosefrei<li>mehrfach preisgekrönt",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "RENNET_TYPE",
+              "description": "Labart Typ",
+              "hasTranslation": "True",
+              "value": "MICROBIAL_RENNET",
+              "valueTranslation": "Mikrobielles Lab"
+            },
+            {
+              "attributeCode": "FAT_PERCENTAGE_IN_DRY_MATTER",
+              "description": "Fett in Trockenmasse %",
+              "hasTranslation": "False",
+              "value": "45"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch Molkerei Wörgl, Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Rund 200 Tage und Nächte lässt sich der Tiroler Felsenkeller Käse Zeit um heranzureifen. Aus diesem ausgedehnten Schönheitsschlaf im Kitzbüheler Felsenkeller bei konstanter Raumtemperatur von rd. 11°C und einer Luftfeuchtigkeit von rd. 96% und der sorgfältigen Pflege resultiert der vorzügliche Geschmack und das unverkennbare Aroma des Tiroler Felsenkeller Käses.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.918
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.9
+        }
+      ],
+      "name": "Hartkäse 45% Fett i. Tr., aus pasteurisierter Milch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 374,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1552,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen bei 3-8 °C lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet bei 3-8 °C mindestens haltbar bis: siehe Aufdruck"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.5,
+    "unit": "100 g 1.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Tiroler Felsenkeller Käse",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/tiroler-felsenkeller-kaese/00-37909"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.5,
+    "unit": "100 g 1.95"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 69900,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tiroler Felsenkeller Käse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tiroler Felsenkeller Käse online bestellen | BILLA",
+  "slug": "tiroler-felsenkeller-kaese",
+  "storeAvalibility": [
+    "00-2342",
+    "00-3384",
+    "00-8185",
+    "00-8606",
+    "00-8031",
+    "00-950",
+    "00-176",
+    "00-8646",
+    "00-8151",
+    "00-8085",
+    "00-6021",
+    "00-6676",
+    "00-8173",
+    "00-8159",
+    "00-8895",
+    "00-355",
+    "00-7676",
+    "00-3780",
+    "00-8230",
+    "00-174",
+    "00-8243",
+    "00-8360",
+    "00-8070",
+    "00-8154",
+    "00-8241",
+    "00-7866",
+    "00-8076",
+    "00-8213",
+    "00-8636",
+    "00-8158",
+    "00-8188",
+    "00-8334",
+    "00-8426",
+    "00-8075",
+    "00-7114",
+    "00-119",
+    "00-8193",
+    "00-5078",
+    "00-8235",
+    "00-8022",
+    "00-3044",
+    "00-8417",
+    "00-3082",
+    "00-99202"
+  ],
+  "url": "/produkte/tiroler-felsenkeller-kaese/00-37909",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

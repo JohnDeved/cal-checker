@@ -1,0 +1,255 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-370"
+  ],
+  "articleId": "00-859953",
+  "articleOnlyCanonicalPath": "/produkte/alpquell-mineralwasser-ohne/00-859953",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_naehrsto"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Alpquell",
+  "canonicalPath": "/produkte/alpquell-mineralwasser-ohne/00-859953",
+  "category": "Getränke",
+  "description": "Ein Stück Heimat, das sich auf jedem Tisch gut macht: Alpquell Mineralwasser Ohne ist ein stilles, rundum natürliches Wasser aus den Zillertaler Alpen.<li>natürliches Mineralwasser aus Tirol<li>ohne Kohlensäure",
+  "eanCodes": [
+    "9015260033102"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6232 Münster, Lichtwerth 403",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rieder`s Quellen-Betriebe GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alpquell.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-09-07T00:00:00",
+      "marketingMessage": "Das Alpen-Mineralwasser aus den Bergen Tirols",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.534
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 4.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 5.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 1.64,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 250,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 39,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 264,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 530,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "origin": "Alpquell Quelle IV",
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme und direkter Sonneneinstrahlung schützen. Nicht einfrieren.",
+      "sustenanceClaim": "Auszug aus der Mineralwasseranalyse vom 16.03.2016 der Hydrologischen Untersuchungsstelle Salzburg (akkreditierte Prüf- und Inspektionstelle) A-5020 Salzburg."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.34,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.34,
+    "unit": "1 l .23"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Alpquell Mineralwasser Ohne",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/alpquell-mineralwasser-ohne/00-859953",
+    "~/warengruppe/getraenke/mineralwasser/still/B2-370/produkte/alpquell-mineralwasser-ohne/00-859953"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.34,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.34,
+    "unit": "1 l .23"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 71090,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alpquell Mineralwasser Ohne online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alpquell Mineralwasser Ohne online bestellen | BILLA",
+  "slug": "alpquell-mineralwasser-ohne",
+  "storeAvalibility": [
+    "00-8400",
+    "00-8031",
+    "00-8155",
+    "00-8193",
+    "00-8230",
+    "00-8213",
+    "00-8334",
+    "00-8151",
+    "00-8243",
+    "00-8159",
+    "00-8188",
+    "00-8530",
+    "00-8606",
+    "00-8075",
+    "00-8895",
+    "00-99202",
+    "00-8426",
+    "00-8140",
+    "00-8158",
+    "00-8417",
+    "00-8409",
+    "00-8360",
+    "00-8070",
+    "00-8241",
+    "00-8173",
+    "00-8022",
+    "00-8076",
+    "00-8646",
+    "00-8395",
+    "00-8085",
+    "00-8636",
+    "00-8185",
+    "00-8657",
+    "00-8154"
+  ],
+  "url": "/produkte/alpquell-mineralwasser-ohne/00-859953",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,313 @@
+{
+  "articleGroupIds": [
+    "B2-451"
+  ],
+  "articleId": "00-400702",
+  "articleOnlyCanonicalPath": "/produkte/schaerdinger-teebutter-sauerrahm/00-400702",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Schärdinger",
+  "brandPath": "/marken/schaerdinger",
+  "canonicalPath": "/produkte/schaerdinger-teebutter-sauerrahm/00-400702",
+  "category": "Kühlwaren",
+  "description": "Die Schärdinger Teebutter gehört auf den Frühstückstisch: Mit dem rahmigen Obersgeschmack und der streichfähigen Konsistenz ist sie der ideale Brotaufstrich.<li>österreichische Sauerrahmbutter aus pasteurisiertem Rahm<li>angenehm streichfähig<li>zarter Obersgeschmack<li>gentechnikfrei",
+  "eanCodes": [
+    "9066000103005"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Schärdinger Teebutter ist die ursprünglichste Butter. Ihre Entstehung begann im Jahre 1900 - damals hat Schärdinger mit dem Namen \"Theebutter\" an den englischen Königshof exportiert, wo aus der feinen Butter erster Güteklasse das \"Theegebäck\" für den traditionellen 5 Uhr Tee zubereitet. Noch heute wird die beliebte Teebutter nach einem strengen traditionellen Verfahren sorgfältig hergestellt.Ihren frischen säuerlichen Geschmack erhält diese Teebutter durch die zugesetzten Sauermilchkulturen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.254
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Österreichische Teebutter aus pasteurisiertem Rahm, 82 % Fett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 743,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3056,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 82,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3-6 °C) lagern. Ungeöffnet mindestens haltbar bis: siehe Seitenfläche."
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 11.16"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schärdinger Teebutter (Sauerrahm)",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/butter/B2-451/produkte/schaerdinger-teebutter-sauerrahm/00-400702"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 11.16"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 87520,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schärdinger Teebutter (Sauerrahm) online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schärdinger Teebutter (Sauerrahm) online bestellen | BILLA",
+  "slug": "schaerdinger-teebutter-sauerrahm",
+  "storeAvalibility": [
+    "00-4469",
+    "00-3135",
+    "00-4225",
+    "00-4748",
+    "00-4756",
+    "00-5603",
+    "00-4707",
+    "00-4126",
+    "00-4270",
+    "00-4770",
+    "00-4107",
+    "00-4441",
+    "00-4700",
+    "00-4925",
+    "00-4482",
+    "00-4440",
+    "00-4601",
+    "00-3379",
+    "00-4673",
+    "00-4660",
+    "00-4629",
+    "00-4838",
+    "00-3326",
+    "00-4540",
+    "00-4952",
+    "00-4945",
+    "00-4003",
+    "00-4912",
+    "00-4200",
+    "00-3322",
+    "00-4424",
+    "00-4690",
+    "00-4982",
+    "00-4879",
+    "00-4489",
+    "00-4881",
+    "00-4090",
+    "00-4551",
+    "00-4407",
+    "00-5777",
+    "00-4076",
+    "00-4675",
+    "00-4059",
+    "00-4524",
+    "00-4078",
+    "00-3378",
+    "00-4170",
+    "00-4146",
+    "00-3196",
+    "00-4478",
+    "00-4755",
+    "00-4672",
+    "00-4021",
+    "00-4779",
+    "00-5967",
+    "00-4249",
+    "00-9589",
+    "00-4840",
+    "00-4226",
+    "00-4655",
+    "00-4421",
+    "00-3560",
+    "00-4016",
+    "00-4847",
+    "00-4834",
+    "00-4283",
+    "00-4099",
+    "00-4619",
+    "00-4350",
+    "00-4028",
+    "00-3420",
+    "00-4513",
+    "00-4932",
+    "00-4674",
+    "00-4291",
+    "00-4605",
+    "00-4104",
+    "00-4565",
+    "00-4466",
+    "00-4001",
+    "00-99202"
+  ],
+  "url": "/produkte/schaerdinger-teebutter-sauerrahm/00-400702",
+  "vatCode": "10",
+  "video": ""
+}

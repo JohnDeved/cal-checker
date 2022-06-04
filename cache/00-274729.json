@@ -1,0 +1,269 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-274729",
+  "articleOnlyCanonicalPath": "/produkte/rio-mare-thunfisch-natura/00-274729",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rio Mare",
+  "brandPath": "/marken/rio-mare",
+  "canonicalPath": "/produkte/rio-mare-thunfisch-natura/00-274729",
+  "category": "Grundnahrungsmittel",
+  "description": "Dieser Thunfisch stammt aus MSC zertifiziertem Fang und enthält nur ganz wenig Salzlake.<br> Genug um die zarten Thunfischfilets zu bedecken und den Geschmack zu erhalten, aber so wenig, dass ein Abgießen nicht mehr notwendig ist.<br> Damit wird bereits in der Produktion Wasser eingespart - ein wichtiger Schritt für die sinnvolle Nutzung natürlicher Ressourcen.",
+  "eanCodes": [
+    "8004030271234"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DOLPHIN_SAFE",
+              "valueTranslation": "DOLPHIN SAFE (Delphin-freundlich Tunfischfang)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Trabrennstraße 5, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bolton Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.riomare.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "SPANIEN"
+      ],
+      "fromDate": "2018-11-23T00:00:00",
+      "ingredients": "Zutaten: Thunfisch 85% (Euthynnus (Katsuwonus) pelamis), Wasser, Salz, SELLERIE- und Zwiebel-Aromen",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 150
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 112
+        }
+      ],
+      "name": "Thunfisch Natur ohne Öl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 93,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 393,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "112 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 33.84"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Rio Mare Thunfisch Natura",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/rio-mare-thunfisch-natura/00-274729"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 33.84"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 123460,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rio Mare Thunfisch Natura online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rio Mare Thunfisch Natura online bestellen | BILLA",
+  "slug": "rio-mare-thunfisch-natura",
+  "storeAvalibility": [
+    "00-7653",
+    "00-2100",
+    "00-3143",
+    "00-6108",
+    "00-7114",
+    "00-5108",
+    "00-4421",
+    "00-9753",
+    "00-4655",
+    "00-4932",
+    "00-3780",
+    "00-4126",
+    "00-3617",
+    "00-4551",
+    "00-225",
+    "00-7675",
+    "00-3713",
+    "00-4707",
+    "00-4170",
+    "00-4605",
+    "00-7539",
+    "00-7857",
+    "00-783",
+    "00-3114",
+    "00-7075",
+    "00-4283",
+    "00-3700",
+    "00-4675",
+    "00-2218",
+    "00-5027",
+    "00-2045",
+    "00-3947",
+    "00-2342",
+    "00-3512",
+    "00-7606",
+    "00-3979",
+    "00-10",
+    "00-6024",
+    "00-4690",
+    "00-6740",
+    "00-4783",
+    "00-6864",
+    "00-350",
+    "00-4249",
+    "00-4779",
+    "00-9290",
+    "00-521",
+    "00-4107",
+    "00-1457",
+    "00-4078",
+    "00-355",
+    "00-99202"
+  ],
+  "url": "/produkte/rio-mare-thunfisch-natura/00-274729",
+  "vatCode": "10",
+  "video": ""
+}

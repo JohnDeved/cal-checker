@@ -1,0 +1,389 @@
+{
+  "articleGroupIds": [
+    "B2-623"
+  ],
+  "articleId": "00-552805",
+  "articleOnlyCanonicalPath": "/produkte/freche-freunde-quetschbeutel-apfel-banane-und-himbeere/00-552805",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Freche Freunde",
+  "brandPath": "/marken/freche-freunde",
+  "canonicalPath": "/produkte/freche-freunde-quetschbeutel-apfel-banane-und-himbeere/00-552805",
+  "category": "Grundnahrungsmittel",
+  "description": "Als Snack für zu Hause oder Jause für unterwegs machen die Quetschbeutel von Freche Freunde mit Apfel, Banane & Himbeere kleine und große Kinder glücklich.<li>Bio-Mehrfruchtmus zum Quetschen<li>Püree aus Banane, Apfel und Himbeere<li>zu 100% aus biologischer Landwirtschaft<li>ohne Zusatzstoffe<li>praktisch zum Mitnehmen",
+  "eanCodes": [
+    "4260249140257",
+    "4260618528600"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Eberswalder Str. 6-9\n10437 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "erdbär GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Mobile Website (oder WAP-Seite) (optimiert für Smartphone etc.)",
+          "detail": "https://frechefreunde.de/",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-02-28T00:00:00",
+      "ingredients": "Zutaten: Bananenpüree* 42,5%, Apfelpüree* 35%, Himbeerpüree* 22,5%.\n* = aus biologischem Landbau",
+      "mandatoryIndicator": "aus biologischem Landbau",
+      "marketingMessage": "Das fruchtig beerige Bio-Snackvergnügen der Frechen Freunde! Bob Banane & Alfred Apfel haben in diesem frechen Quetschbeutel ein paar Himbeeren zu sich eingeladen. Was für eine leckere Mischung! Der ideale Snack für unterwegs - ohne Zusätze,100% Bio. Sauer macht lustig, dachten sich Bob Banane und Alfred Apfel. Daher luden sie Hansi Himbeere ein und die drei wurden enge Freunde! Was für eine freche Mischung!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 107
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Bio-Mehrfruchtpüree",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 285,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 67,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Deutschland",
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Lichtgeschützt, kühl & trocken lagern. Nach dem Öffnen im Kühlschrank einen Tag haltbar.",
+      "sustenanceClaim": "Ohne Zuckerzusatz - Zutaten enthalten von Natur aus Zucker",
+      "usageHints": "Ideal als Snack für zwischendurch. Ab 6 Monaten."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CERTIFIED_B_CORPORATION"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Eberswalder Str. 6-9\n10437 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "erdbär GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-20T00:00:00",
+      "ingredients": "Zutaten: Bananenpüree* 42,5%, Apfelpüree* 37,5%, Erdbeerpüree* 17,5%, Himbeerpüree* 2,5%.\n* = aus biologischem Landbau",
+      "marketingMessage": "Das fruchtig-beerige Bio-Snackvergnügen der Frechen Freunde! Bob Banane & Alfred Apfel haben in diesem frechen Quetschbeutel Edda Erdbeere und Hansi Himbeere zu sich eingeladen. Was für eine leckere Mischung! Der ideale Snack für unterwegs - ohne Zusätze, 100% Bio. Sauer macht lustig, dachten sich Bob Banane, Alfred Apfel und Edda Erdbeere. Daher luden sie Hansi Himbeere ein und die vier wurden enge Freunde! Was für eine freche Mischung!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 107
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Bio-Mehrfruchtpüree",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 285,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 67,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lichtgeschützt, kühl & trocken lagern. Nach dem Öffnen im Kühlschrank einen Tag haltbar.",
+      "sustenanceClaim": "Glutenfrei.",
+      "usageHints": "Idealerweise erfolgt der Verzehr von einem Löffel."
+    }
+  ],
+  "grammage": "100 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Freche Freunde Quetschbeutel Apfel, Banane & Himbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623/produkte/freche-freunde-quetschbeutel-apfel-banane-und-himbeere/00-552805"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 84850,
+  "recommendationArticleIds": [
+    "00-858471"
+  ],
+  "seoDescription": "Freche Freunde Quetschbeutel Apfel, Banane & Himbeere online kaufen im BILLA Online Shop! ✔ große Produktauswahl >> bestellen Sie jetzt!",
+  "seoTitle": "Freche Freunde Quetschbeutel Apfel, Banane & Himbeere online best",
+  "slug": "freche-freunde-quetschbeutel-apfel-banane-und-himbeere",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/freche-freunde-quetschbeutel-apfel-banane-und-himbeere/00-552805",
+  "vatCode": "10",
+  "video": ""
+}

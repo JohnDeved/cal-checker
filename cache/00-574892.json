@@ -1,0 +1,297 @@
+{
+  "articleGroupIds": [
+    "B2-512"
+  ],
+  "articleId": "00-574892",
+  "articleOnlyCanonicalPath": "/produkte/schoeller-pirulo-ocean-adventure/00-574892",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schöller",
+  "canonicalPath": "/produkte/schoeller-pirulo-ocean-adventure/00-574892",
+  "category": "Tiefkühl",
+  "description": "<li>Fruchtsorbet mit tropischen Früchten (Mango, Pfirsich, Ananas, Passionsfrucht) und Vanilleeis</li>",
+  "eanCodes": [
+    "8606018615407"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Milch, Molkenerzeugnis, Vollmilchpulver, Soja, Butterreinfett",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europaplatz 4, A-4020 Linz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FRONERI Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SERBIEN"
+      ],
+      "fromDate": "2022-01-31T00:00:00",
+      "ingredients": "Zutaten: Wasser, entrahmte MILCH, Zucker, Glukosesirup, Ananassaft aus Fruchtsaftkonzentrat (5 %), Passionsfruchtsaft aus Fruchtsaftkonzentrat (3,5 %), Kokosfett, Mangopüreekonzentrat (2 %), MOLKENERZEUGNIS, Pfirsichpüree (1,5 %), Kakaobutter, Kakaomasse, VOLLMILCHPULVER, Stabilisatoren (Johannisbrotkernmehl, Guarkernmehl), Emulgatoren (Mono- und Diglyceride von Speisefettsäuren, Lecithine (SOJA)), Farbstoffe (Carotin, Kurkumin, Betenrot), BUTTERREINFETT, natürliche Vanillearomen, natürliches Aroma. KANN HASELNÜSSE, MANDELN, PEKANNÜSSE UND EIER ENTHALTEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 339
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 300
+        }
+      ],
+      "name": "Fruchtsorbet mit tropischen Früchten (Mango, Pfirsich, Ananas, Passionsfrucht) und Vanilleeis mit Milchschokolade (1 %)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 560,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 133,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.07,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "Pro Portion (52 g / 60 ml)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 291,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 69,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 5,
+      "preperations": [],
+      "storageHint": "Bei -18 °C mindestens haltbar bis Ende: siehe Verpackungsaufdruck",
+      "sustenanceClaim": "Glutenfrei"
+    }
+  ],
+  "grammage": "300 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 13.30"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Schöller Pirulo Ocean Adventure",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/stanitzel-und-lutscher/B2-512/produkte/schoeller-pirulo-ocean-adventure/00-574892"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 13.30"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schöller Pirulo Ocean Adventure online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schöller Pirulo Ocean Adventure online bestellen | BILLA",
+  "slug": "schoeller-pirulo-ocean-adventure",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/schoeller-pirulo-ocean-adventure/00-574892",
+  "vatCode": "10",
+  "video": ""
+}

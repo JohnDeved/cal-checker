@@ -1,0 +1,196 @@
+{
+  "articleGroupIds": [
+    "B2-991"
+  ],
+  "articleId": "00-962328",
+  "articleOnlyCanonicalPath": "/produkte/pril-pro-nature-sensitive/00-962328",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Pril",
+  "brandPath": "/marken/pril",
+  "canonicalPath": "/produkte/pril-pro-nature-sensitive/00-962328",
+  "category": "Haushalt",
+  "description": "Pril Pro Nature mit Inhaltsstoffen auf Basis nachwachsender Rohstoffe ist gut zur Umwelt, bei gelichzeitig hoher Fettlösekraft.",
+  "eanCodes": [
+    "4015000963015",
+    "9000101527797"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AISE_2010",
+              "valueTranslation": "AISE Charter Update 2010 (Nachhaltigkeit in der Reinigungsmittelindustrie in Europa)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H319"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P305+P351+P338"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Darf nicht in die Hände von Kindern gelangen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Augenschutz tragen"
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "WARNING",
+              "valueTranslation": "Achtung"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "EXCLAMATION_MARK",
+              "valueTranslation": "Ausrufezeichen (GHS07) - Reizend"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Erdbergstr. 29, 1030 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Henkel Central Eastern Europe GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "BELGIEN"
+      ],
+      "fromDate": "2019-03-20T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.543
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 3.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Pril Pro Nature Sensitive",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/geschirrspuelmittel/B2-991/produkte/pril-pro-nature-sensitive/00-962328"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 3.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 65120,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pril Pro Nature Sensitive online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pril Pro Nature Sensitive online bestellen | BILLA",
+  "slug": "pril-pro-nature-sensitive",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/pril-pro-nature-sensitive/00-962328",
+  "vatCode": "20",
+  "video": ""
+}

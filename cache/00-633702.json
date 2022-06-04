@@ -1,0 +1,208 @@
+{
+  "articleGroupIds": [
+    "B2-683"
+  ],
+  "articleId": "00-633702",
+  "articleOnlyCanonicalPath": "/produkte/daucy-garten-erbsen/00-633702",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "D'Aucy",
+  "brandPath": "/marken/daucy",
+  "canonicalPath": "/produkte/daucy-garten-erbsen/00-633702",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Garten-Erbsen von D‘Aucy begeistern durch ihren frischen Geschmack und ihr köstliches Aroma. Die Erbsen schmecken in kalten und warmen Gerichten.<li>köstlich in Salaten und warmen Gemüse-Gerichten<li>direkt nach der Ernte verarbeitet",
+  "eanCodes": [
+    "3017800181942"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Körnerstrasse 4, D-50858 KÖLN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "d'aucy (Deutschland) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.daucy-international.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Erbsen, Wasser, Salz, Zucker.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 265
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.459
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Junge Erbsen",
+      "nutritions": [
+        {
+          "householdPortion": "Durchschnittliche Nährwerte (pro 100g Abtropfgewicht)",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 318,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 76,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.78,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen: In einem geeigneten luftdicht verschließbaren Behälter im Kühlschrank aufbewahren und innerhalb von 48 Stunden aufbrauchen.",
+      "usageHints": "Vor Gebrauch abtropfen lassen."
+    }
+  ],
+  "grammage": "400 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 kg 3.48"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "d'aucy Garten-Erbsen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683/produkte/daucy-garten-erbsen/00-633702"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 kg 3.48"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 65560,
+  "recommendationArticleIds": [
+    "00-870201"
+  ],
+  "seoDescription": "d'aucy Garten-Erbsen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "d'aucy Garten-Erbsen online bestellen | BILLA",
+  "slug": "daucy-garten-erbsen",
+  "storeAvalibility": [
+    "00-10",
+    "00-4655",
+    "00-1132",
+    "00-3617",
+    "00-3780",
+    "00-1529",
+    "00-4779",
+    "00-99202",
+    "00-2342",
+    "00-4605",
+    "00-720",
+    "00-7139",
+    "00-7606",
+    "00-7653"
+  ],
+  "url": "/produkte/daucy-garten-erbsen/00-633702",
+  "vatCode": "10",
+  "video": ""
+}

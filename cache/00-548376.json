@@ -1,0 +1,328 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-548376",
+  "articleOnlyCanonicalPath": "/produkte/hipp-guten-morgen-fruechte-joghurt-muesli/00-548376",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-guten-morgen-fruechte-joghurt-muesli/00-548376",
+  "category": "Grundnahrungsmittel",
+  "description": "Mit diesem Guten Morgen Müsli von Hipp starten Babys und Krabbelkinder ab dem 10. Monat gut in den Tag. Es enthält Früchte, Joghurt und Getreide.<li>Bio-Früchte-Joghurt-Müsli<li>mit besten Bio-Zutaten<li>verzehrfertig<li>nach dem Öffnen kühl lagern",
+  "eanCodes": [
+    "4062300262683"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "UNGARN"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Wasser, JOGHURT* 30 %, Früchte* 27 % (Äpfel*, Mangos*, Ananas*, Maracujas*), VOLLKORNWEIZENFLOCKEN* vermahlen 3 %, Maisstärke*, HAFERVOLLKORNMEHL* 1,1 %, Antioxidationsmittel Ascorbinsäure, Vitamin B1 (Thiaminmononitrat). *Aus biologischer Erzeugung.",
+      "mandatoryIndicator": "ab 10. Monat",
+      "marketingMessage": "Verwendet werden spezielle Obstsorten, die genügend Zeit zum Reifen hatten und so ganz natürlich ihren vollen Fruchtgeschmack entwickeln konnten - ohne Zusatz von Aromen und Zucker (Zutaten enthalten von Natur aus Zucker).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 262
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 160
+        }
+      ],
+      "name": "BIO Früchte-Joghurt-Müesli, wärmebehandelt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 240,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 57,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.1,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 384,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 91,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 32,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.16,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Gewünschte Menge entnehmen.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Rest verschlossen im Kühlschrank lagern und innerhalb von einem Tag aufbrauchen.",
+      "usageHints": "Als Frühstück oder Zwischenmahlzeit. Speichelkontakt kann das Produkt verflüssigen. Achten Sie auf eine abwechslungsreiche, ausgewogene Ernährung und gesunde Lebensweise. # Bitte Plastiklöffel verwenden. # Bitte überzeugen Sie sich vor Verwendung, dass das Glas unversehrt geblieben ist."
+    }
+  ],
+  "grammage": "160 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 kg 8.69"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Guten Morgen Früchte Joghurt Müsli",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-guten-morgen-fruechte-joghurt-muesli/00-548376"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 kg 8.69"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 56290,
+  "recommendationArticleIds": [
+    "00-858471"
+  ],
+  "seoDescription": "Hipp Guten Morgen Früchte Joghurt Müsli online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Guten Morgen Früchte Joghurt Müsli online bestellen | BILLA",
+  "slug": "hipp-guten-morgen-fruechte-joghurt-muesli",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-guten-morgen-fruechte-joghurt-muesli/00-548376",
+  "vatCode": "10",
+  "video": ""
+}

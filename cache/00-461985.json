@@ -1,0 +1,240 @@
+{
+  "articleGroupIds": [
+    "B2-318"
+  ],
+  "articleId": "00-461985",
+  "articleOnlyCanonicalPath": "/produkte/voeslauer-himbeere2/00-461985",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Vöslauer",
+  "brandPath": "/marken/voeslauer",
+  "canonicalPath": "/produkte/voeslauer-himbeere2/00-461985",
+  "category": "Getränke",
+  "description": "Prickelndes Mineralwasser und fruchtige Himbeere ¿ pure Erfrischung ganz ohne Kalorien, ohne Zucker, ohne Zuckerersatz und natürlich ohne Konservierungsstoffe. Zu 100 % vegan. Mit der leichten 0,5 l rePET Flasche ist man dem Durst immer um eine Wellenlänge voraus.",
+  "eanCodes": [
+    "9009700311219"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PET_TO_PET",
+              "valueTranslation": "PET to PET (Recycling von PET Flaschen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Quellenstraße 1, A 2540 Bad Vöslau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vöslauer Mineralwasser GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810/100 234",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-04-13T00:00:00",
+      "ingredients": "Zutaten: Natürliches Mineralwasser, Kohlensäure, natürliches Himbeeraroma, Säuerungsmittel: Citronensäure",
+      "marketingMessage": "Ohne Kalorien. Ohne Zucker. Ohne Zuckerersatz. Mit Himbeere.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Kalorienfreies Erfrischungsgetränk mit Himbeergeschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Bad Vöslau",
+      "preperations": [],
+      "storageHint": "Vor Wärme und direkter Sonneneinstrahlung schützen.",
+      "sustenanceClaim": "Ohne Kalorien. Ohne Zucker. Ohne Süssstoffe."
+    }
+  ],
+  "grammage": "0.5 l Flasche (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.85,
+    "unit": "1 l 1.70"
+  },
+  "maximalOrderQuantity": 48,
+  "minimalOrderQuantity": 0,
+  "name": "Vöslauer Himbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser-mit-geschmack/B2-318/produkte/voeslauer-himbeere2/00-461985"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.85,
+    "unit": "1 l 1.70"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vöslauer Himbeere online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vöslauer Himbeere online bestellen | BILLA",
+  "slug": "voeslauer-himbeere2",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/voeslauer-himbeere2/00-461985",
+  "vatCode": "20",
+  "video": ""
+}

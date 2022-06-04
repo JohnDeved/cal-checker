@@ -1,0 +1,301 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-73"
+  ],
+  "articleId": "00-289872",
+  "articleOnlyCanonicalPath": "/produkte/willi-dungl-kraftriegel-kakao-nuss/00-289872",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Willi Dungl",
+  "brandPath": "/marken/willi-dungl",
+  "canonicalPath": "/produkte/willi-dungl-kraftriegel-kakao-nuss/00-289872",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9001475095288"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Münchner Bundesstraße 120, A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Teekanne GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "TSCHECHISCHE REPUBLIK"
+      ],
+      "fromDate": "2022-02-25T00:00:00",
+      "ingredients": "CASHWE* 45%   Dattel Paste* 42%   Dattel Sirup* 8%   Kakaopulver*   * aus 100% kontrolliert biologischer Landwirtschaft",
+      "marketingMessage": "Genussvoller Rohkostriegel auf Dattel-Nuss-Basis mit Cashew und Kakao.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 31
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 30
+        }
+      ],
+      "name": "Frucht Nuss Riegel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 21.43,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1800,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 21.43,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 429,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 45,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "1 Portion",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 6.43,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 540,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6.43,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 129,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt und trocken lagern."
+    }
+  ],
+  "grammage": "30 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 kg 63.00"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Willi Dungl Kraftriegel Kakao-Nuss",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/willi-dungl-kraftriegel-kakao-nuss/00-289872",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/willi-dungl-kraftriegel-kakao-nuss/00-289872"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 kg 63.00"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 53740,
+  "recommendationArticleIds": [],
+  "seoDescription": "Willi Dungl Kraftriegel Kakao-Nuss online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Willi Dungl Kraftriegel Kakao-Nuss online bestellen | BILLA",
+  "slug": "willi-dungl-kraftriegel-kakao-nuss",
+  "storeAvalibility": [
+    "00-3780",
+    "00-10",
+    "00-99202",
+    "00-355"
+  ],
+  "url": "/produkte/willi-dungl-kraftriegel-kakao-nuss/00-289872",
+  "vatCode": "10",
+  "video": ""
+}

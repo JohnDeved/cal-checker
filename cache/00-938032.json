@@ -1,0 +1,295 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-73"
+  ],
+  "articleId": "00-938032",
+  "articleOnlyCanonicalPath": "/produkte/be-kind-karamell-mandeln-und-meersalz-nussriegel/00-938032",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Be-Kind",
+  "canonicalPath": "/produkte/be-kind-karamell-mandeln-und-meersalz-nussriegel/00-938032",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "0602652257780"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, A-1200 Wien.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "KIND Int. Ltd.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "VEREINIGTE STAATEN"
+      ],
+      "fromDate": "2019-05-28T00:00:00",
+      "ingredients": "Zutaten: MANDELN, Überzug mit Karamellgeschmack (Oligofruktose, Palmkernöl, Zucker, VOLLMILCHPULVER, MAGERMILCHPULVER, fettarmes Kakaopulver, Emulgator (Sonnenblumenlecithin), Meersalz, natürliches Aroma), Fructooligosaccharid, Honig, Glukosesirup, Reismehl, Inulin, Meersalz, Emulgator (SOJALECITHIN). (Kann enthalten: ERDNÜSSE und andere NÜSSE).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 40.8
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 40
+        }
+      ],
+      "name": "Riegel mit Mandel (67%) und Meersalz und einem Überzug aus Karamellgeschmack (16%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2182,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 527,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 39,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "40g",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 873,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 211,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.28,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken und bei Zimmertemperatur lagern *"
+    }
+  ],
+  "grammage": "40 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 49.75"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "BE-KIND Karamell Mandeln & Meersalz Nussriegel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/be-kind-karamell-mandeln-und-meersalz-nussriegel/00-938032",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/be-kind-karamell-mandeln-und-meersalz-nussriegel/00-938032"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 49.75"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 100110,
+  "recommendationArticleIds": [],
+  "seoDescription": "BE-KIND Karamell Mandeln & Meersalz Nussriegel online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "BE-KIND Karamell Mandeln & Meersalz Nussriegel online bestellen",
+  "slug": "be-kind-karamell-mandeln-und-meersalz-nussriegel",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10",
+    "00-355",
+    "00-3780"
+  ],
+  "url": "/produkte/be-kind-karamell-mandeln-und-meersalz-nussriegel/00-938032",
+  "vatCode": "10",
+  "video": ""
+}

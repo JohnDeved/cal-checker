@@ -1,0 +1,290 @@
+{
+  "articleGroupIds": [
+    "B2-512"
+  ],
+  "articleId": "00-574905",
+  "articleOnlyCanonicalPath": "/produkte/milka-dark-chocolate-4er/00-574905",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Milka",
+  "brandPath": "/marken/milka",
+  "canonicalPath": "/produkte/milka-dark-chocolate-4er/00-574905",
+  "category": "Tiefkühl",
+  "eanCodes": [
+    "5900130036670"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Eduard-Pestel-Str. 15, 49080 Osnabrück",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Froneri Ice Cream Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-01-24T00:00:00",
+      "ingredients": "Zutaten: dunkle Schokolade (Zucker, Kakaomasse, MAGERMILCHPULVER** 3,4% ** *, BUTTEREINFETT** 1,6%** *, Emulgatoren (Lecithine (SOJA), E 476), natürliches Vanillearoma), entrahmte MILCH, Kokosfett, Zucker, Glukosesirup, Wasser, gezuckerte KONDENSMILCH (VOLLMILCH, Zucker), Invertzuckersirup, MOLKENERZEUGNIS, fettarmer Kakao, MAGERMILCHPULVER, Emulgatoren (Mono- und Diglyceride von Speisefettsäuren, Milchsäureester von Mono- und Diglyceriden von Speisefettsäuren), Stabilisatoren (Johannisbrotkernmehl, Guarkernmehl), Karottenkonzentrat, natürliches Vanillearoma, extrahierte Vanilleschoten.\n\n** aus Alpenmilch.\n** *Die Prozentangaben beziehen sich auf das gesamte Produkt.\n\nKann enthalten: ERDNÜSSE, SCHALENFRÜCHTE, EI, GLUTEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 331
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 360
+        }
+      ],
+      "name": "Vanilleeis mit 20% Schokoladensoße (enthält 2% dunkle Schokolade), überzogen mit 31% dunkler Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 976,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 234,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 49,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.09,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1455,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 349,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Bei -18°C mindestens haltbar bis: siehe Verpackungsaufdruck"
+    }
+  ],
+  "grammage": "360 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 11.92"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Milka Dark Chocolate 4er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/stanitzel-und-lutscher/B2-512/produkte/milka-dark-chocolate-4er/00-574905"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 11.92"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Milka Dark Chocolate 4er online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Milka Dark Chocolate 4er online bestellen | BILLA",
+  "slug": "milka-dark-chocolate-4er",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/milka-dark-chocolate-4er/00-574905",
+  "vatCode": "10",
+  "video": ""
+}

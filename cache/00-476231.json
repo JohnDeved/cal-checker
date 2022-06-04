@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-623",
+    "B2-F"
+  ],
+  "articleId": "00-476231",
+  "articleOnlyCanonicalPath": "/produkte/pure-und-fun-paw-patrol-bio-power-aepfel-skye/00-476231",
+  "attributes": [
+    "s_bio",
+    "s_new",
+    "s_marke",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_new"
+  ],
+  "brand": "Pure & Fun",
+  "canonicalPath": "/produkte/pure-und-fun-paw-patrol-bio-power-aepfel-skye/00-476231",
+  "category": "Grundnahrungsmittel",
+  "description": "Ein klarer Fall für Obst! Das darf schließlich in keiner guten Helden-Ausrüstung fehlen.<br>Ein natürlicher Snack für zwischendurch oder unterwegs ist genau das Richtige für die Abenteuer unserer kleinen Helden.<br>Die PAW Patrol Power Äpfel sind aus reinen Bio-Zutaten gemacht.<li>100% getrocknete Frucht<li>In Heidelbeersaft getaucht - für die sanfte Extrasüße<li>100% Bio<li>100% natürlich<li>100% kindgerecht</li>",
+  "eanCodes": [
+    "9120111880269"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Doktorstraße 2a, 5071 Wals-Siezenheim, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Healthy Kids GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.healthykids.bio",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-03-08T00:00:00",
+      "ingredients": "Zutaten: Getrocknete Bio-Apfelstücke (96 %), Bio-Heidelbeersaftkonzentrat (4 %).",
+      "marketingMessage": "Ein natürlicher Snack für zwischendurch oder unterwegs ist genau das Richtige für die Abenteuer unserer kleinen Helden. Die PAW Patrol Power Äpfel sind aus reinen Bio-Zutaten gemacht. 100% Bio. 100% natürlich. 100% kindgerecht.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 23
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 20
+        }
+      ],
+      "name": "Getrocknete Bio Apfelstücke mit\nBio Heidelbeersaftkonzentrat",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 352,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1488,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 79,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 70,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Licht und Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "20 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 99.50"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Pure & Fun Paw Patrol Bio Power Äpfel Skye",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623/produkte/pure-und-fun-paw-patrol-bio-power-aepfel-skye/00-476231",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/pure-und-fun-paw-patrol-bio-power-aepfel-skye/00-476231"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 99.50"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pure & Fun Paw Patrol Bio Power Äpfel Skye online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pure & Fun Paw Patrol Bio Power Äpfel Skye online bestellen",
+  "slug": "pure-und-fun-paw-patrol-bio-power-aepfel-skye",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/pure-und-fun-paw-patrol-bio-power-aepfel-skye/00-476231",
+  "vatCode": "10",
+  "video": ""
+}

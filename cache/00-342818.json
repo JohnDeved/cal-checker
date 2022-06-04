@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-743",
+    "B2-14"
+  ],
+  "articleId": "00-342818",
+  "articleOnlyCanonicalPath": "/produkte/seeberger-studentenfutter/00-342818",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Seeberger",
+  "brandPath": "/marken/seeberger",
+  "canonicalPath": "/produkte/seeberger-studentenfutter/00-342818",
+  "category": "Süßes & Salziges",
+  "description": "Das Studentenfutter von Seeberger ist ein reichhaltiger Snack für zwischendurch. Die gesunde Nuss- und Rosinenmischung lässt sich auch gut im Müsli einsetzen.<li>verpackt unter Schutzatmosphäre<li>Kalium- und Vitamin-C-Quelle",
+  "eanCodes": [
+    "4008258154229"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Kann Spuren von anderen Schalenfrüchten (z.B. Nüssen und Steinfrüchten) und Erdnüssen enthalten.",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-89025 Ulm, Deutschland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Seeberger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Nusskernmischung (in veränderlichen Gewichtsanteilen: HASELNUSSKERNE, MANDELN blanchiert, CASHEWKERNE), Weinbeeren getrocknet, WALNUSSKERNE, Sonnenblumenöl.",
+      "mandatoryIndicator": "Achtung! Insbesondere Kinder unter 4 Jahren können sich an Nüssen leicht verschlucken, so dass diese in die Atemwege gelangen können. Deshalb Produkt außerhalb der Reichweite von kleinen Kindern aufbewahren.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 155
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Mischung aus Nusskernen (57 %) und getrockneten Weinbeeren (43 %)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 507,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2112,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 728,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 9.2,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme und Feuchtigkeit geschützt aufbewahren."
+    }
+  ],
+  "grammage": "150 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 25.27"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Seeberger Studentenfutter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/nuesse/B2-743/produkte/seeberger-studentenfutter/00-342818",
+    "~/warengruppe/obst-und-gemuese/trockenfruechte-und-nuesse/B2-14/produkte/seeberger-studentenfutter/00-342818"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 25.27"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51230,
+  "recommendationArticleIds": [],
+  "seoDescription": "Seeberger Studentenfutter online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Seeberger Studentenfutter online bestellen | BILLA",
+  "slug": "seeberger-studentenfutter",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/seeberger-studentenfutter/00-342818",
+  "vatCode": "10",
+  "video": ""
+}

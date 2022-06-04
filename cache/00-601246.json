@@ -1,0 +1,229 @@
+{
+  "articleGroupIds": [
+    "B2-443"
+  ],
+  "articleId": "00-601246",
+  "articleOnlyCanonicalPath": "/produkte/patros-geniesserwuerfel-tomateundbasilikum/00-601246",
+  "attributes": [
+    "s_marke",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Patros",
+  "brandPath": "/marken/patros",
+  "canonicalPath": "/produkte/patros-geniesserwuerfel-tomateundbasilikum/00-601246",
+  "category": "Kühlwaren",
+  "description": "Dieser Snack weckt Urlaubsgefühle, denn unsere Patros Genießerwürfel schmecken herrlich nach sonnengereiften Tomaten und intensivem Basilikum. Probier` doch einfach mal und snacke mediterran!</li>",
+  "eanCodes": [
+    "4002671145246"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "OHNE_GEN_TECHNIK",
+              "valueTranslation": "OHNE GENTECHNIK (kontrolliert von VLOG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Kemptener Straße 17 \nD-88178 Heimenkirch",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Patros",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 95% KÄSE in Salzlake gereift (52% Fett i. Tr.), 2% Tomaten, 1,6% Basilikum, Speisesalz, Knoblauch, Antioxidationsmittel Natriumascorbat.",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 151
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 135
+        }
+      ],
+      "name": "gewürfelter Käse aus pasteurisierter Kuhmilch in Salzlake gereift mit Tomate und Basilikum.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 279,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1156,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "auspacken",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen alsbald verzehren. Bei +4 - +8°C mindestens haltbar bis",
+      "usageHints": "Nach dem Öffnen alsbald verzehren. Bei +4 - +8°C mindestens haltbar bis"
+    }
+  ],
+  "grammage": "135 g Becher",
+  "grammageBadge": "135 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.45,
+    "unit": "1 kg 18.15"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Patros Genießerwürfel Tomate&Basilikum",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/feta-und-mozzarella/B2-443/produkte/patros-geniesserwuerfel-tomateundbasilikum/00-601246"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.45,
+    "unit": "1 kg 18.15"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Patros Genießerwürfel Tomate&Basilikum online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Patros Genießerwürfel Tomate&Basilikum online bestellen | BILLA",
+  "slug": "patros-geniesserwuerfel-tomateundbasilikum",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/patros-geniesserwuerfel-tomateundbasilikum/00-601246",
+  "vatCode": "10",
+  "video": ""
+}

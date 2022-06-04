@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-427781",
+  "articleOnlyCanonicalPath": "/produkte/gazi-joghurt-natur-35/00-427781",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Gazi",
+  "brandPath": "/marken/gazi",
+  "canonicalPath": "/produkte/gazi-joghurt-natur-35/00-427781",
+  "category": "Kühlwaren",
+  "description": "Herstellung nach Originalrezeptur aus Milch und Hefekulturen. Daher erhält dieser Naturjoghurt die typisch dezent säuerliche Geschmacksnote.",
+  "eanCodes": [
+    "4002566003118"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ulmer Straße 181-191, 70188 Stuttgart",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "garmo AG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: VOLLMILCH 3,5%, MAGERMILCHPULVER, Milchsäurekulturen",
+      "mandatoryIndicator": "3,5% Fett",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1043
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Joghurt aus Vollmilch 3,5% Fett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 1.1,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 73,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1.1,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 307,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 1.5,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.6,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.6,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2.8,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet bei +4°C - +8°C mindestens haltbar bis: siehe Deckel",
+      "usageHints": "Für gleichbleibende Frische und Qualiät, den Joghurt innerhalb weniger Tage nach dem Öffnen verzehren."
+    }
+  ],
+  "grammage": "1 Kilogramm Kübel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Gazi Joghurt Natur 3.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/gazi-joghurt-natur-35/00-427781"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 199040,
+  "recommendationArticleIds": [],
+  "seoDescription": "Gazi Joghurt Natur 3.5% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gazi Joghurt Natur 3.5% online bestellen | BILLA",
+  "slug": "gazi-joghurt-natur-35",
+  "storeAvalibility": [],
+  "url": "/produkte/gazi-joghurt-natur-35/00-427781",
+  "vatCode": "10",
+  "video": ""
+}

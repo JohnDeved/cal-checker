@@ -1,0 +1,240 @@
+{
+  "articleGroupIds": [
+    "B2-483"
+  ],
+  "articleId": "00-246737",
+  "articleOnlyCanonicalPath": "/produkte/handl-tyrol-kaiserschinken/00-246737",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Handl Tyrol",
+  "brandPath": "/marken/handl-tyrol",
+  "canonicalPath": "/produkte/handl-tyrol-kaiserschinken/00-246737",
+  "category": "Kühlwaren",
+  "description": "Der Kaiserschinken von Handl Tyrol ist über Holz geräuchert und luftgetrocknet. Den kaiserlichen Namen hat sich der feinwürzige Schinken wahrlich verdient.<li>aus dem besten Teil des Schinkens, dem Kaiserteil<li>geringer Fettanteil<li>von Hand gewürzt<li>regionale Herkunft",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bundesstraße 33, A-6551 Pians",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Handl Tyrol GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.handltyrol.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Meersalz, Gewürze, Dextrose, Konservierungsstoffe: Natriumnitrit, Kaliumnitrat; Buchenholzrauch.",
+      "marketingMessage": "Nur 3 % Fett",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 347
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.34
+        }
+      ],
+      "name": "Rohschinken, leicht geräuchert und luftgetrocknet",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 153,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 647,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 31,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur ungekühlt lagerfähig.",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 34.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 34.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 34.9,
+    "unit": "1 kg 34.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.3,
+  "name": "Handl Tyrol Kaiserschinken",
+  "orderQuantityStepSize": 0.3,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483/produkte/handl-tyrol-kaiserschinken/00-246737"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 34.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 34.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 34.9,
+    "unit": "1 kg 34.90"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 93140,
+  "recommendationArticleIds": [],
+  "seoDescription": "Handl Tyrol Kaiserschinken online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Handl Tyrol Kaiserschinken online bestellen | BILLA",
+  "slug": "handl-tyrol-kaiserschinken",
+  "storeAvalibility": [
+    "00-8395",
+    "00-5027",
+    "00-5381",
+    "00-6845",
+    "00-8158",
+    "00-5454",
+    "00-4466",
+    "00-5531",
+    "00-8426",
+    "00-8243",
+    "00-8085",
+    "00-8241",
+    "00-8441",
+    "00-8606",
+    "00-5306",
+    "00-5000",
+    "00-5067",
+    "00-99202"
+  ],
+  "url": "/produkte/handl-tyrol-kaiserschinken/00-246737",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    30,
+    60,
+    90,
+    120,
+    150
+  ]
+}

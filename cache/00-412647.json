@@ -1,0 +1,310 @@
+{
+  "articleGroupIds": [
+    "B2-45A"
+  ],
+  "articleId": "00-412647",
+  "articleOnlyCanonicalPath": "/produkte/stainzer-schlagobers-36/00-412647",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Stainzer",
+  "canonicalPath": "/produkte/stainzer-schlagobers-36/00-412647",
+  "category": "Kühlwaren",
+  "description": "Länger frisch bleibt der Stainzer Schlagobers mit 36 % Fettanteil. Er eignet sich hervorragend für cremige Saucen, zum Schlagen und natürlich zum Backen.<li>aus pasteurisierter Milch<li>mit 36 % Fett<li>hergestellt ohne Gentechnik<li>hocherhitzt und länger frisch",
+  "eanCodes": [
+    "9024800105001"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: SCHLAGOBERS 36% Fett, Stabilisator: Carrageen",
+      "marketingMessage": "Das klassische Stainzer Schlagobers im Becher schmeckt besonders gut und verleiht all Ihren Speisen eine wunderbar sämige, volle Note.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.266
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Schlagobers aus pasteurisiertem Rahm, mit 36 % Fett, hocherhitzt, länger frisch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 345,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1422,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (max. 6°C) lagern. Ungeöffnet mindestens haltbar bis: siehe Deckel. Nach dem Öffnen innerhalb weniger Tage verbrauchen.",
+      "usageHints": "Unser Schlagobers erreicht die beste Schlagfähigkeit bei einer Temperatur zwischen 4 und 6 °C."
+    }
+  ],
+  "grammage": "250 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.45,
+    "unit": "1 kg 5.80"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Stainzer Schlagobers 36%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A/produkte/stainzer-schlagobers-36/00-412647"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.45,
+    "unit": "1 kg 5.80"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 46950,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stainzer Schlagobers 36% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stainzer Schlagobers 36% online bestellen | BILLA",
+  "slug": "stainzer-schlagobers-36",
+  "storeAvalibility": [
+    "00-6487",
+    "00-6843",
+    "00-7302",
+    "00-6724",
+    "00-6799",
+    "00-6306",
+    "00-6558",
+    "00-6970",
+    "00-6760",
+    "00-6588",
+    "00-6758",
+    "00-6823",
+    "00-6492",
+    "00-6952",
+    "00-7393",
+    "00-6932",
+    "00-6916",
+    "00-7245",
+    "00-6022",
+    "00-6338",
+    "00-6235",
+    "00-6628",
+    "00-6810",
+    "00-6051",
+    "00-6424",
+    "00-4783",
+    "00-7743",
+    "00-6281",
+    "00-6353",
+    "00-6569",
+    "00-6480",
+    "00-6108",
+    "00-6979",
+    "00-6518",
+    "00-6274",
+    "00-6138",
+    "00-6554",
+    "00-7358",
+    "00-7336",
+    "00-6508",
+    "00-6304",
+    "00-6897",
+    "00-6928",
+    "00-6219",
+    "00-6884",
+    "00-6676",
+    "00-6248",
+    "00-6490",
+    "00-6024",
+    "00-6688",
+    "00-8433",
+    "00-6021",
+    "00-6740",
+    "00-6975",
+    "00-6745",
+    "00-6179",
+    "00-6123",
+    "00-6805",
+    "00-6372",
+    "00-6559",
+    "00-6065",
+    "00-6197",
+    "00-8946",
+    "00-6684",
+    "00-6255",
+    "00-6983",
+    "00-6811",
+    "00-6900",
+    "00-6892",
+    "00-6819",
+    "00-6018",
+    "00-7082",
+    "00-6533",
+    "00-8940",
+    "00-6496",
+    "00-6494",
+    "00-6262",
+    "00-99202"
+  ],
+  "url": "/produkte/stainzer-schlagobers-36/00-412647",
+  "vatCode": "10",
+  "video": ""
+}

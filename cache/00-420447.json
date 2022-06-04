@@ -1,0 +1,273 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-420447",
+  "articleOnlyCanonicalPath": "/produkte/tirol-milch-kakao/00-420447",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tirol-milch-kakao/00-420447",
+  "category": "Kühlwaren",
+  "description": "Kleine wie große Genießer freuen sich über den feinen Kakao von Tirol Milch: zum Frühstück, bei der Jause, am Nachmittag oder unterwegs.<li>aus voller Tiroler Alpenmilch mit 3,6 % Fett<li>köstlich und cremig<li>mit feinem Kakao, intensiv im Geschmack",
+  "eanCodes": [
+    "9006020013038"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch Molkerei Wörgl, Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-05-10T00:00:00",
+      "ingredients": "Zutaten: MILCH, Zucker, 1,5% magerer Kakao, Stabilisator Carrageen.",
+      "marketingMessage": "Für die Herstellung des Tiroler Kakaos werden ausschließlich beste Zutaten wie frische Bergbauernmilch und wertvolles Kakaopulver verwendet. Die hochwertigen Zutaten verleihen dem Tiroler Kakao seinen unvergleichlich cremigen und frischen Geschmack.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.547
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "name": "Tiroler Kakaomilch aus Bergbauernmilch mit 3,6 % Fett, pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 344,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 82,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet, gekühlt bei 3-7 °C mindestens haltbar bis: siehe Giebel.",
+      "usageHints": "Vor dem Öffnen gut schütteln."
+    }
+  ],
+  "grammage": "500 Milliliter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.05,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.05,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.05,
+    "unit": "1 l 2.10"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tirol Milch Kakao",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/tirol-milch-kakao/00-420447"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.05,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.05,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.05,
+    "unit": "1 l 2.10"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 62150,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tirol Milch Kakao online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tirol Milch Kakao online bestellen | BILLA",
+  "slug": "tirol-milch-kakao",
+  "storeAvalibility": [
+    "00-8230",
+    "00-8151",
+    "00-7866",
+    "00-8241",
+    "00-8154",
+    "00-282",
+    "00-8070",
+    "00-8193",
+    "00-3005",
+    "00-8155",
+    "00-8173",
+    "00-8243",
+    "00-8031",
+    "00-8022",
+    "00-8158",
+    "00-8075",
+    "00-3379",
+    "00-8213",
+    "00-8646",
+    "00-8085",
+    "00-8606",
+    "00-8140",
+    "00-8188",
+    "00-8185",
+    "00-8417",
+    "00-8159",
+    "00-8076",
+    "00-8334",
+    "00-7120",
+    "00-8426",
+    "00-8235",
+    "00-8657",
+    "00-8895",
+    "00-8636",
+    "00-8360",
+    "00-99202"
+  ],
+  "url": "/produkte/tirol-milch-kakao/00-420447",
+  "vatCode": "10",
+  "video": ""
+}

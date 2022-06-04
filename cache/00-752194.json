@@ -1,0 +1,181 @@
+{
+  "articleGroupIds": [
+    "B2-993"
+  ],
+  "articleId": "00-752194",
+  "articleOnlyCanonicalPath": "/produkte/wc-ente-frische-sticker-marine/00-752194",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "WC Ente",
+  "brandPath": "/marken/wc-ente",
+  "canonicalPath": "/produkte/wc-ente-frische-sticker-marine/00-752194",
+  "category": "Haushalt",
+  "eanCodes": [
+    "5000204521498",
+    "5000204944846"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CLP_GEFAHRENHINWEIS",
+              "description": "CLP-Gefahrenhinweis",
+              "hasTranslation": "False",
+              "value": "Schädlich für Wasserorganismen mit langfristiger Wirkung"
+            },
+            {
+              "attributeCode": "CLP_SICHERHEITSHINWEIS",
+              "description": "CLP-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Darf nicht in die Hände von Kindern gelangen.Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.  BEI VERSCHLUCKEN: Bei Unwohlsein GIFTINFORMATIONSZENTRUM oder Arzt anrufen. BEI KONTAKT MIT DEN AUGEN:  Einige Minuten lang behutsam mit Wasser spülen. Vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen."
+            }
+          ],
+          "description": "CLP-Verordnung",
+          "groupCode": "CLP"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H412"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P305+P351+P338"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P301+P312"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P102"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P101"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Behälter nur völlig restentleert der Wertstoffsammlung zuführen."
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "NO_PICTOGRAM",
+              "valueTranslation": "Kein Piktogramm zugeordnet"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 1328\nD - 40673 Erkrath",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SC Johnson GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2017-04-24T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 112
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 36
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "6 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 Stk .63"
+  },
+  "maximalOrderQuantity": 10,
+  "minimalOrderQuantity": 0,
+  "name": "WC Ente Frische Sticker Marine",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/wc--und-badreiniger/B2-993/produkte/wc-ente-frische-sticker-marine/00-752194"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 Stk .63"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 15350,
+  "recommendationArticleIds": [],
+  "seoDescription": "WC Ente Frische Sticker Marine online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "WC Ente Frische Sticker Marine online bestellen | BILLA",
+  "slug": "wc-ente-frische-sticker-marine",
+  "storeAvalibility": [],
+  "url": "/produkte/wc-ente-frische-sticker-marine/00-752194",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,210 @@
+{
+  "articleGroupIds": [
+    "B2-484"
+  ],
+  "articleId": "00-817612",
+  "articleOnlyCanonicalPath": "/produkte/hoertnagl-tiroler-landschinken-geschnitten/00-817612",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hörtnagl",
+  "canonicalPath": "/produkte/hoertnagl-tiroler-landschinken-geschnitten/00-817612",
+  "category": "Kühlwaren",
+  "description": "Ist ein gräucherter Kochschinken.Er ist besonders geeignet für den feinen Schinkenaufschnitt aberAuch für entsprechende Schinkengerichte. Der Fettanteil von diesem Produkt ist sehr gering",
+  "eanCodes": [
+    "9006507126220",
+    "9006507006225"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6060 Hall in Tirol,Trientlstr. 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Andrä Hörtnagl Produktion und Handel GmbH.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hoertnagl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Wasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: E250); Gewürze und Gewürzextrakte, Stabilisator: E450, E451, E452; Geschmacksverstärker: E621; Antioxidationsmittel: E270, E300, E301, E330; Dextrose, Maltodextrin, Verdickungsmittel:  E415; Aroma;",
+      "mandatoryIndicator": "Vakuumverpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1000
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Stubaier Bauernschinken\n\ngekocht und geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 134,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 564,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Hall in Tirol",
+      "preperations": [],
+      "storageHint": "Bei +2°C bis +6°C lagern\n\nUngeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt"
+    }
+  ],
+  "grammage": "120 g Packung",
+  "grammageBadge": "120 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 24.92"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hörtnagl Tiroler Landschinken Geschnitten",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/schinken/B2-484/produkte/hoertnagl-tiroler-landschinken-geschnitten/00-817612"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 24.92"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 56560,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hörtnagl Tiroler Landschinken Geschnitten online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hörtnagl Tiroler Landschinken Geschnitten online bestellen",
+  "slug": "hoertnagl-tiroler-landschinken-geschnitten",
+  "storeAvalibility": [],
+  "url": "/produkte/hoertnagl-tiroler-landschinken-geschnitten/00-817612",
+  "vatCode": "10",
+  "video": ""
+}

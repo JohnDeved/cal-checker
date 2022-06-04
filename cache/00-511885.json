@@ -1,0 +1,440 @@
+{
+  "articleGroupIds": [
+    "B2-411",
+    "B2-414"
+  ],
+  "articleId": "00-511885",
+  "articleOnlyCanonicalPath": "/produkte/simply-good-tortelloni-kaese/00-511885",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Simply Good",
+  "brandPath": "/marken/simply-good",
+  "canonicalPath": "/produkte/simply-good-tortelloni-kaese/00-511885",
+  "category": "Kühlwaren",
+  "description": "Easy Cooking geht so schnell: Einfach unsere Simply Good Tortelloni Käse kurz in heißem Wasser oder im Dampfgarer kochen, mit etwas Olivenöl beträufeln und schon kannst du sie genießen.<br>Mit einem frischen Salate servieren und fertig ist das vegetarische Festmahl.<br>Zubereitet werden unsere herzhaften Tortelloni mit viel Liebe - ganz ohne Konservierungsstoffe und Geschmacksverstärkern.",
+  "eanCodes": [
+    "9010437007986"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Molkeneiweiss",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Histamin",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milchzucker (Laktose)",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Casein",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "-"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [],
+      "countryOrigins": [],
+      "fromDate": "2022-01-11T00:00:00",
+      "ingredients": "Zutaten: 76% Teig: HARTWEIZENGRIESS, Wasser, 8% EIER*, Speisesalz, Rapsöl, Gewürze.\n24% Fülle: 50% Käse (SCHNITTKÄSE, HARTKÄSE, GRÜNSCHIMMELKÄSE), TOPFEN, WEIZENMEHL, Wasser, Speisesalz, Gewürze, Hefe.",
+      "mandatoryIndicator": "AT-20271-EG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.518
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Portionsgroesse",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Eierteigware mit Käsefüllung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 912,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 216,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 14,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.7,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.44,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2279,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 27,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 541,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 35,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 31,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 80,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.7,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 48,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 46,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 250 Gramm",
+          "relationValue": 250,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "1. Tortelloni in kochendes, leicht gesalzenes\nWasser geben und 2 Min. ziehen lassen.\n2. Tortelloni aus dem Wasser nehmen,\nabtropfen lassen.\n3. Anrichten und genießen.",
+          "type": "Kochtopf"
+        }
+      ],
+      "storageHint": "Gekühlt lagern bei 2-6 °C",
+      "usageHints": "Nach dem Öffnen  unmittelbar verzehren."
+    }
+  ],
+  "grammage": "500 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 6.58"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Simply Good Tortelloni Käse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/schnelle-kueche/menueschalen/B2-411/produkte/simply-good-tortelloni-kaese/00-511885",
+    "~/warengruppe/kuehlwaren/schnelle-kueche/teigwaren-und-beilagen/B2-414/produkte/simply-good-tortelloni-kaese/00-511885"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 6.58"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Simply Good Tortelloni Käse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Simply Good Tortelloni Käse online bestellen | BILLA",
+  "slug": "simply-good-tortelloni-kaese",
+  "storeAvalibility": [
+    "00-3560",
+    "00-10",
+    "00-7114",
+    "00-3094",
+    "00-7223",
+    "00-5067",
+    "00-2208",
+    "00-372",
+    "00-119",
+    "00-1136",
+    "00-1380",
+    "00-950",
+    "00-3120",
+    "00-1032",
+    "00-5454",
+    "00-6819",
+    "00-3384",
+    "00-6745",
+    "00-4551",
+    "00-1088",
+    "00-3005",
+    "00-4932",
+    "00-397",
+    "00-1670",
+    "00-7358",
+    "00-2100",
+    "00-3220",
+    "00-5871",
+    "00-2313",
+    "00-1529",
+    "00-1114",
+    "00-1710",
+    "00-7336",
+    "00-4783",
+    "00-3296",
+    "00-309",
+    "00-2259",
+    "00-6138",
+    "00-4078",
+    "00-1132",
+    "00-5529",
+    "00-7393",
+    "00-3401",
+    "00-2543",
+    "00-1249",
+    "00-9209",
+    "00-1128",
+    "00-1117",
+    "00-3780",
+    "00-4673",
+    "00-3431",
+    "00-1500",
+    "00-3857",
+    "00-3501",
+    "00-1480",
+    "00-3234",
+    "00-2238",
+    "00-2923",
+    "00-5223",
+    "00-2109",
+    "00-323",
+    "00-5078",
+    "00-6496",
+    "00-9589",
+    "00-355",
+    "00-6676",
+    "00-2345",
+    "00-519",
+    "00-7860",
+    "00-1801",
+    "00-1265",
+    "00-1457",
+    "00-117",
+    "00-3940",
+    "00-3512",
+    "00-7328",
+    "00-5359",
+    "00-2312",
+    "00-3744",
+    "00-4834",
+    "00-350",
+    "00-8185",
+    "00-3551",
+    "00-5363",
+    "00-1455",
+    "00-570",
+    "00-4146",
+    "00-174",
+    "00-281",
+    "00-836",
+    "00-3157",
+    "00-6490",
+    "00-9324",
+    "00-2260",
+    "00-5108",
+    "00-4226",
+    "00-3617",
+    "00-3118",
+    "00-8241",
+    "00-2369",
+    "00-3445",
+    "00-3055",
+    "00-440",
+    "00-4283",
+    "00-1212",
+    "00-290",
+    "00-430",
+    "00-3642",
+    "00-1017",
+    "00-3709",
+    "00-7857",
+    "00-2261",
+    "00-3593",
+    "00-2342",
+    "00-2131",
+    "00-6219",
+    "00-6439",
+    "00-282",
+    "00-3063",
+    "00-2190",
+    "00-2156",
+    "00-3042",
+    "00-702",
+    "00-4690",
+    "00-1018",
+    "00-3920",
+    "00-99202"
+  ],
+  "url": "/produkte/simply-good-tortelloni-kaese/00-511885",
+  "vatCode": "10",
+  "video": ""
+}

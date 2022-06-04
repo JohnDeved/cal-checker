@@ -1,0 +1,416 @@
+{
+  "articleGroupIds": [
+    "B2-333"
+  ],
+  "articleId": "00-634180",
+  "articleOnlyCanonicalPath": "/produkte/teekanne-english-breakfast/00-634180",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Teekanne",
+  "brandPath": "/marken/teekanne",
+  "canonicalPath": "/produkte/teekanne-english-breakfast/00-634180",
+  "category": "Getränke",
+  "description": "Kräftige Schwarzteemischung nach englischer Tradition. Aus kontrolliert biologischer Landwirtschaft und mit 100% Fairtrade-zertifiziertem Schwarztee.",
+  "eanCodes": [
+    "9001475069081",
+    "9001475082257",
+    "9001475036281",
+    "9001475051291"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FAIR_TRADE_MARK",
+              "valueTranslation": "FAIR TRADE MARK (internationale Standards für fairen Handel)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Münchner Bundesstraße 120, A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Teekanne GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-02-25T00:00:00",
+      "ingredients": "Schwarzer Tee",
+      "marketingMessage": "Genießen Sie den typisch englischen Frühstückstee mit TEEKANNE English Breakfast, einer kräftigen Schwarzteemischung nach feinster Tradition. Von der Auswahl der Tees in den Ursprungsgebieten Assam, Südindien und Tansania über die schonende Verarbeitung bis zum fertigen Teebeutel liegt alles in unserer Hand. Nur so können wir garantieren, dass der volle Genuss von TEEKANNE English Breakfast bis in die Tasse erhalten bleibt. Aus kontrolliert biologischer Landwirtschaft und 100% Fairtrade- zertifiziertem Tee für eine nachhaltige Zukunft in den Anbauländern.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 79
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 35
+        }
+      ],
+      "name": "Schwarzteemischung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0.05,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.05,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 4,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "1 Tasse ( 200 ml )",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0.08,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.08,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 7,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 20,
+      "preperations": [
+        {
+          "instruction": "Teebeutel unbedingt mit frischem, sprudelnd kochendem Wasser aufgießen (200 ml) und 3-5 Minuten ziehen lassen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und trocken lagern"
+    }
+  ],
+  "grammage": "20 Teebeutel Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69
+  },
+  "maximalOrderQuantity": 18,
+  "minimalOrderQuantity": 0,
+  "name": "Teekanne English Breakfast",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/kaffee-tee-und-co/tee/B2-333/produkte/teekanne-english-breakfast/00-634180"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 62680,
+  "recommendationArticleIds": [],
+  "seoDescription": "Teekanne English Breakfast online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Teekanne English Breakfast online bestellen | BILLA",
+  "slug": "teekanne-english-breakfast",
+  "storeAvalibility": [
+    "00-3445",
+    "00-3569",
+    "00-10",
+    "00-943",
+    "00-4170",
+    "00-6684",
+    "00-4421",
+    "00-3506",
+    "00-3253",
+    "00-5363",
+    "00-2313",
+    "00-987",
+    "00-3713",
+    "00-5003",
+    "00-6255",
+    "00-7653",
+    "00-6022",
+    "00-6819",
+    "00-7114",
+    "00-3114",
+    "00-7358",
+    "00-6051",
+    "00-8012",
+    "00-4675",
+    "00-1826",
+    "00-2223",
+    "00-1913",
+    "00-7075",
+    "00-1457",
+    "00-7857",
+    "00-3011",
+    "00-4107",
+    "00-4779",
+    "00-355",
+    "00-7084",
+    "00-174",
+    "00-1900",
+    "00-3023",
+    "00-208",
+    "00-6745",
+    "00-3606",
+    "00-6021",
+    "00-7860",
+    "00-1198",
+    "00-3235",
+    "00-6138",
+    "00-3025",
+    "00-4605",
+    "00-4655",
+    "00-7721",
+    "00-2201",
+    "00-4982",
+    "00-3709",
+    "00-4690",
+    "00-408",
+    "00-3617",
+    "00-3143",
+    "00-497",
+    "00-4707",
+    "00-2109",
+    "00-1016",
+    "00-3157",
+    "00-7491",
+    "00-99202",
+    "00-6676",
+    "00-3146",
+    "00-4078",
+    "00-4270",
+    "00-5603",
+    "00-7676",
+    "00-7062",
+    "00-7204",
+    "00-6496",
+    "00-1649",
+    "00-5108",
+    "00-7743",
+    "00-823",
+    "00-2907",
+    "00-3510",
+    "00-783",
+    "00-3744",
+    "00-3700",
+    "00-7783",
+    "00-7616",
+    "00-7229",
+    "00-3940",
+    "00-7336",
+    "00-249",
+    "00-471",
+    "00-6372",
+    "00-4847",
+    "00-5552",
+    "00-3042",
+    "00-6760",
+    "00-6724",
+    "00-2220",
+    "00-7940",
+    "00-7606",
+    "00-2342",
+    "00-6864",
+    "00-9290",
+    "00-1002",
+    "00-4672",
+    "00-2111",
+    "00-3688",
+    "00-2131",
+    "00-6480",
+    "00-1132",
+    "00-2208",
+    "00-1128",
+    "00-7539",
+    "00-3062",
+    "00-2204",
+    "00-3780",
+    "00-8173"
+  ],
+  "url": "/produkte/teekanne-english-breakfast/00-634180",
+  "vatCode": "20",
+  "video": ""
+}

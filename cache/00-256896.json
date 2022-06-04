@@ -1,0 +1,278 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-256896",
+  "articleOnlyCanonicalPath": "/produkte/kaertnermilch-frumi-molkedrink-mango/00-256896",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "s_spezern",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kärtnermilch",
+  "canonicalPath": "/produkte/kaertnermilch-frumi-molkedrink-mango/00-256896",
+  "category": "Kühlwaren",
+  "description": "Einfach märchenhaft fruchtig!<br>Aus der weltbesten Rohmilch hergestellt und mit köstlichen Früchten verfeinert: Sagenhaft fruchtig und leicht!<br>Auch für laktoseintolerante Personen optimal genießbar.",
+  "eanCodes": [
+    "9004283009706"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "FSC-Label für nachhaltige Forstwirtschaft (Forest Stewardship Council)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Villacher Straße 92, A-9800 Spittal/Drau Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kärntnermilch reg. Gen.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kaerntnermilch.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "",
+          "detail": "9004283000000",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2018-10-16T00:00:00",
+      "ingredients": "Zutaten: Laktosefreie*\n\nSÜSSMOLKE fermentiert, Zucker, Mangopüree aus\n\nMangopüreekonzentrat, Mangopüree, Stabilisator:\n\nGuakernmehl, Pektin; Säureregulatoren:\n\nAscorbinsäure, Milchsäure, Citronensäure,\n\nTrinatriumcitat; Aroma.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.515
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "name": "Fruchtmolke Mango Laktosefreie* Trinkmolke aus gesäuerter Süßmolke, pasteurisiert mit 9,6% Mangopüree aus Mangopüreekonzentrat und  0,4 % Mangopüree",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 46,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 193,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Milliliter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.05,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.05,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.05,
+    "unit": "1 l 2.10"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kärtnermilch Frumi Molkedrink Mango",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/kaertnermilch-frumi-molkedrink-mango/00-256896"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.05,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.05,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.05,
+    "unit": "1 l 2.10"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kärtnermilch Frumi Molkedrink Mango online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kärtnermilch Frumi Molkedrink Mango online bestellen | BILLA",
+  "slug": "kaertnermilch-frumi-molkedrink-mango",
+  "storeAvalibility": [
+    "00-7553",
+    "00-7681",
+    "00-7665",
+    "00-7975",
+    "00-7606",
+    "00-7538",
+    "00-7535",
+    "00-7759",
+    "00-7544",
+    "00-7611",
+    "00-7653",
+    "00-7860",
+    "00-7491",
+    "00-7810",
+    "00-7676",
+    "00-7895",
+    "00-7547",
+    "00-7536",
+    "00-7609",
+    "00-7565",
+    "00-7766",
+    "00-7566",
+    "00-7733",
+    "00-7783",
+    "00-7603",
+    "00-7642",
+    "00-7584",
+    "00-7710",
+    "00-7831",
+    "00-7758",
+    "00-7667",
+    "00-7963",
+    "00-7632",
+    "00-7602",
+    "00-7716",
+    "00-7866",
+    "00-7616",
+    "00-7856",
+    "00-7539",
+    "00-9030",
+    "00-7920",
+    "00-7980",
+    "00-7969",
+    "00-7765",
+    "00-7835",
+    "00-7592",
+    "00-7827",
+    "00-7940",
+    "00-7675",
+    "00-7915",
+    "00-7600",
+    "00-6130",
+    "00-7857",
+    "00-7629",
+    "00-7546",
+    "00-99202"
+  ],
+  "url": "/produkte/kaertnermilch-frumi-molkedrink-mango/00-256896",
+  "vatCode": "10",
+  "video": ""
+}

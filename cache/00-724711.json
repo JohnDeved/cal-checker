@@ -1,0 +1,160 @@
+{
+  "articleGroupIds": [
+    "B2-642"
+  ],
+  "articleId": "00-724711",
+  "articleOnlyCanonicalPath": "/produkte/noan-bio-olivenoel-intenso/00-724711",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Noan",
+  "canonicalPath": "/produkte/noan-bio-olivenoel-intenso/00-724711",
+  "category": "Grundnahrungsmittel",
+  "description": "Erstklassiges sortenreines BIO - Olivenöl aus Italien aus der Region Latium.<br><br>Das NON-Profit-Unternehmen NOAN produziert dieses hochwertige Olivenöl unter der Ägide eines italienischen Spezialisten.<br>Die Bauern erhalten faire Preise für die Oliven. Der Reinerlös bzw. garantierte 10% des Umsatzes aus den Verkäufen der NOAN-Produkte gehen an ausgesuchte Kinderbildungsprojekte.",
+  "eanCodes": [
+    "9009493013000",
+    "9009493013109"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AUSTRIA_BIO_GARANTIE",
+              "valueTranslation": "AUSTRIA BIO GARANTIE (ABG) Biokontrollstelle Österreich"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Starkfriedgasse 49, 1180 Wien, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "NOAN GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@noan.org",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 (0)1 470 30 26",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-08-02T00:00:00",
+      "marketingMessage": "Erstklassiges sortenreines BIO - Olivenöl aus Italien aus der Region Latium. Das NON - Profit -Unternehmen NOAN produziert dieses hochwertige Olivenöl unter der Ägide eines italienischen Spezialisten. Die Bauern erhalten faire Preise für die Oliven. Der Reinerlös bzw garantierte 10% des Umsatzes aus den Verkäufen der NOAN-Produkte gehen an ausgesuchte Kinderbildungsprojekte.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 304
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "natives Olivenöl extra",
+      "nutritions": [],
+      "origin": "Italien (Latium)",
+      "preperations": [
+        {
+          "instruction": "Hochwertiges extra natives Olivenöl eignet sich auch zum Braten,\nda es problemlos bis zum Rauchpunkt (130 - 175°C) erhitzt werden kann.\nNOAN Intenso der perfekte Begleiter für geschmacksintensive Speisen, wie zum Beispielkräftige Fleischspeisen wie Rindsteaks, Lammkronen und Schweinskoteletts,gehaltvolle Fische wie Thunfisch, Schwertfisch usw.,verschiedenste Sughi, Bruschetta, reichhaltige Gemüse wie Tomaten, Melanzani, Chicorée, Saisonsalate, geschmackvolle Käse wie Ziegenfrischkäse, Schafkäse.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Beste Lagertemperatur: 14-18°C"
+    }
+  ],
+  "grammage": "250 Milliliter Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 14.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 14.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 14.99,
+    "unit": "1 l 59.96"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Noan Bio Olivenöl Intenso",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/essig-und-oel/oel/B2-642/produkte/noan-bio-olivenoel-intenso/00-724711"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 14.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 14.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 14.99,
+    "unit": "1 l 59.96"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 75520,
+  "recommendationArticleIds": [],
+  "seoDescription": "Noan Bio Olivenöl Intenso online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Noan Bio Olivenöl Intenso online bestellen | BILLA",
+  "slug": "noan-bio-olivenoel-intenso",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/noan-bio-olivenoel-intenso/00-724711",
+  "vatCode": "10",
+  "video": ""
+}

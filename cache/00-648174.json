@@ -1,0 +1,282 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-648174",
+  "articleOnlyCanonicalPath": "/produkte/stainzer-joghurt-vanille-dessert-4/00-648174",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Stainzer",
+  "canonicalPath": "/produkte/stainzer-joghurt-vanille-dessert-4/00-648174",
+  "category": "Kühlwaren",
+  "description": "Das Stainzer Joghurt Vanille Dessert ist ein köstlich cremiges Joghurt mit erlesenen Zutaten und 4 % Fett. Es bietet süßen Genuss bei geringen Kalorien.<li>Vanille-Joghurt mit geringem Fettanteil<li>Dessert aus pasteurisierter Milch",
+  "eanCodes": [
+    "9024800142709"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-29T00:00:00",
+      "ingredients": "Zutaten: JOGHURT* mild, Zucker, Bourbon-Vanilleextrakt, gemahlene Vanilleschoten, modifizierte Stärke, Zitronensaftkonzentrat.   *Milch ohne Gentechnik hergestellt gemäß österreichischer Codex-Richtlinie \"Gentechnikfreie Produktion\".",
+      "marketingMessage": "Die Stainzer Joghurt-Desserts - köstlich cremige Joghurts mit erlesenen Zutaten - in 4 verschiedenen Sorten: Kaffee, Vanille und Stracciatella.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.188
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 180
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 119,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 499,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet, gekühlt (3 - 6 °C) mindestens haltbar bis: siehe Deckel."
+    }
+  ],
+  "grammage": "180 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.67,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.67,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.67,
+    "unit": "1 kg 3.72"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Stainzer Joghurt Vanille Dessert 4%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/stainzer-joghurt-vanille-dessert-4/00-648174"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.67,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.67,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.67,
+    "unit": "1 kg 3.72"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 85530,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stainzer Joghurt Vanille Dessert 4% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stainzer Joghurt Vanille Dessert 4% online bestellen | BILLA",
+  "slug": "stainzer-joghurt-vanille-dessert-4",
+  "storeAvalibility": [
+    "00-6843",
+    "00-6424",
+    "00-7743",
+    "00-6338",
+    "00-6740",
+    "00-6533",
+    "00-6724",
+    "00-6805",
+    "00-6494",
+    "00-6487",
+    "00-6024",
+    "00-6588",
+    "00-6219",
+    "00-6840",
+    "00-6353",
+    "00-6928",
+    "00-6952",
+    "00-6051",
+    "00-4783",
+    "00-6871",
+    "00-6508",
+    "00-6823",
+    "00-7302",
+    "00-6496",
+    "00-6979",
+    "00-6021",
+    "00-8433",
+    "00-6179",
+    "00-6022",
+    "00-6970",
+    "00-6262",
+    "00-6554",
+    "00-6011",
+    "00-6248",
+    "00-6489",
+    "00-6684",
+    "00-99202",
+    "00-7358",
+    "00-6676",
+    "00-6518",
+    "00-6065",
+    "00-6559",
+    "00-6558",
+    "00-6900",
+    "00-6018",
+    "00-6123",
+    "00-6281",
+    "00-7393",
+    "00-6138",
+    "00-6745",
+    "00-7245",
+    "00-6108",
+    "00-6490",
+    "00-6758",
+    "00-6975",
+    "00-6884",
+    "00-8012",
+    "00-7336",
+    "00-6892",
+    "00-6819",
+    "00-7082",
+    "00-7189"
+  ],
+  "url": "/produkte/stainzer-joghurt-vanille-dessert-4/00-648174",
+  "vatCode": "10",
+  "video": ""
+}

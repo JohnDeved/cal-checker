@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-511"
+  ],
+  "articleId": "00-523539",
+  "articleOnlyCanonicalPath": "/produkte/nomoo-bio-vanilleeis/00-523539",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Nomoo",
+  "brandPath": "/marken/nomoo",
+  "canonicalPath": "/produkte/nomoo-bio-vanilleeis/00-523539",
+  "category": "Tiefkühl",
+  "description": "Ein vegan gewordenes Vanilleeis!<br>Echte Bourbon-Vanille, cremige Kokosnussmilch und feines Cashewmus zaubern ein Vanilleeis der nächsten Generation.<br>Endlich ein Vanilleeis, das nach der einzig echten Vanille schmeckt - ganz ohne Milch, weniger süß und kaum Fett.",
+  "eanCodes": [
+    "4280001899667"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hospeltstraße 32, 50825 Köln, Deutschland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "NRDS GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-01T00:00:00",
+      "ingredients": "ZUTATEN: Wasser, Rübenzucker*, Kokosnussmilch (Kokosnuss(fleisch)extrakt)* 75%,\nWasser), CASHEWMUS* (6%), Inulin*, Traubenzucker*, Akazienfaser*,\nBourbon-Vanilleextrakt* 0,3%, Vanillepulver* 0,1%, Meersalz,\nVerdickungsmittel (Guarkernmehl*, Johannisbrotkernmehl*).\n*aus kontrolliert ökologischer Landwirtschaft\n\nKann Spuren von Erdnüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 390
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "name": "Pflanzliches Bio Speiseeis",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 448,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 107,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Hamburg",
+      "preperations": [],
+      "storageHint": "Lagerung konstant bei mind. -18 Grad Celsius"
+    }
+  ],
+  "grammage": "500 Milliliter Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 11.98"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Nomoo Bio Vanilleeis",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/eisbecher/B2-511/produkte/nomoo-bio-vanilleeis/00-523539"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 11.98"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nomoo Bio Vanilleeis online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nomoo Bio Vanilleeis online bestellen | BILLA",
+  "slug": "nomoo-bio-vanilleeis",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/nomoo-bio-vanilleeis/00-523539",
+  "vatCode": "10",
+  "video": ""
+}

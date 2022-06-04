@@ -1,0 +1,233 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-868532",
+  "articleOnlyCanonicalPath": "/produkte/himbeer-kracherl/00-868532",
+  "attributes": [
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/himbeer-kracherl/00-868532",
+  "category": "Getränke",
+  "description": "Gegen den großen Durst: Das Himbeer Kracherl erfrischt mit einer Kombination aus perlender Kohlensäure und beerigem Geschmack.<li>Erfrischungsgetränk mit Himbeergeschmack<li>familienfreundliche Größe<li>mit Kohlensäure",
+  "eanCodes": [
+    "0000090168383"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PET_TO_PET",
+              "valueTranslation": "PET to PET (Recycling von PET Flaschen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Tiroler Straße 20, A-3105 Unterradlberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Egger Getränke GmbH & Co OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "eggergetraenke.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-12-13T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zucker, Kohlensäure, färbendes Frucht- und Pflanzenkonzentrat: Karottenkonzentrat, Säuerungsmittel Citronensäure, Aroma, Süßungsmittel: Cyclamat, Acesulfam K, Saccharin-Natrium und Sucralose.",
+      "mandatoryIndicator": "Flasche steht unter Druck, daher keine Gewalt anwenden.",
+      "marketingMessage": "Qualität aus Österreich.\nKlimaneutral produziert.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.6
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Erfrischungsgetränk mit Himbeergeschmack. Mit Zucker und Süßungsmitteln.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 19,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 79,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Mit Inhaltsstoffen aus EU und Nicht-EU.",
+      "preperations": [],
+      "storageHint": "Vor Licht, Wärme und Frost schützen. Nach dem\nÖffnen gekühlt lagern und innerhalb von 3 Tagen\nverbrauchen."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.69,
+    "unit": "1 l .46"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Himbeer Kracherl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/himbeer-kracherl/00-868532"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.69,
+    "unit": "1 l .46"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 143090,
+  "recommendationArticleIds": [
+    "00-862321"
+  ],
+  "seoDescription": "Himbeer Kracherl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Himbeer Kracherl online bestellen | BILLA",
+  "slug": "himbeer-kracherl",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/himbeer-kracherl/00-868532",
+  "vatCode": "20",
+  "video": ""
+}

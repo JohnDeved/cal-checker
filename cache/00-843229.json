@@ -1,0 +1,271 @@
+{
+  "articleGroupIds": [
+    "B2-441",
+    "B2-442"
+  ],
+  "articleId": "00-843229",
+  "articleOnlyCanonicalPath": "/produkte/frierss-sasaka-alpenbrotaufstrich-chili/00-843229",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_feinkost",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Frierss",
+  "brandPath": "/marken/frierss",
+  "canonicalPath": "/produkte/frierss-sasaka-alpenbrotaufstrich-chili/00-843229",
+  "category": "Kühlwaren",
+  "description": "Sasaka Chili ist eine traditionelle Aufstrichspezialität aus der Region. Nur bestes heimisches Schweinefleisch und Kärntner Speck verfeinert mit einer speziellen Chili-Gewürzmischung dürfen in das Sasaka Chili. Pikant-würzig im Geschmack - ideal für Chili-Liebhaber!<br><li>gluten- und laktosefrei</li><li>frei von Geschmacksverstärkern</li><li>frei von Farbstoffen</li><br>Diese pikante Aufstrichspezialität ist hervorragend zur klassischen Jause und bei jedem Bauernbuffet.",
+  "eanCodes": [
+    "9002792020335"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gewerbezeile 4, 9500 Villach, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rudolf Frierss und Söhne GesmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2017-08-31T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch 32%, geräucherter Speck, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), 0,7% Chili, Gewürze und Gewürzextrakte, Antioxidationsmittel: Ascorbinsäure.",
+      "marketingMessage": "Rustikale Aufstrichspezialität mit pikantwürziger Aromenvielfalt - aus bestem heimischen Schweinefleisch und Kärntner Speck verfeinert mit einer speziellen Chili-Gewürzmischung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 160
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Sasaka Chili",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 719,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2961,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 76,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt lagern bei +2°C bis +6°C\n\nnach dem Öffnen gekühlt lagern und ehebaldig verbrauchen",
+      "sustenanceClaim": "Ohne Geschmacksverstärker"
+    }
+  ],
+  "grammage": "150 g Becher",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "100 g 1.99"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Frierss Sasaka Alpenbrotaufstrich Chili",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441/produkte/frierss-sasaka-alpenbrotaufstrich-chili/00-843229",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/frierss-sasaka-alpenbrotaufstrich-chili/00-843229"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "100 g 1.99"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 54420,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frierss Sasaka Alpenbrotaufstrich Chili online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frierss Sasaka Alpenbrotaufstrich Chili online bestellen | BILLA",
+  "slug": "frierss-sasaka-alpenbrotaufstrich-chili",
+  "storeAvalibility": [
+    "00-7676",
+    "00-7835",
+    "00-7716",
+    "00-7759",
+    "00-7895",
+    "00-7975",
+    "00-7765",
+    "00-7491",
+    "00-7553",
+    "00-7675",
+    "00-7860",
+    "00-7980",
+    "00-7535",
+    "00-5414",
+    "00-7733",
+    "00-5290",
+    "00-7603",
+    "00-7856",
+    "00-7600",
+    "00-7584",
+    "00-7783",
+    "00-7810",
+    "00-7831",
+    "00-7827",
+    "00-7642",
+    "00-7681",
+    "00-7940",
+    "00-9030",
+    "00-7592",
+    "00-7546",
+    "00-7536",
+    "00-8235",
+    "00-7632",
+    "00-99202",
+    "00-7566",
+    "00-7866",
+    "00-7547",
+    "00-7653",
+    "00-7565",
+    "00-7538",
+    "00-7766",
+    "00-7920",
+    "00-7758",
+    "00-7857",
+    "00-7665",
+    "00-7616",
+    "00-6130",
+    "00-7602",
+    "00-7611",
+    "00-7544",
+    "00-7606",
+    "00-7915",
+    "00-7710",
+    "00-7969",
+    "00-7539",
+    "00-7609",
+    "00-7629",
+    "00-7667",
+    "00-7963"
+  ],
+  "url": "/produkte/frierss-sasaka-alpenbrotaufstrich-chili/00-843229",
+  "vatCode": "10",
+  "video": ""
+}

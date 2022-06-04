@@ -1,0 +1,369 @@
+{
+  "articleGroupIds": [
+    "B2-611"
+  ],
+  "articleId": "00-291110",
+  "articleOnlyCanonicalPath": "/produkte/shan-shi-soja-sauce/00-291110",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Shan Shi",
+  "brandPath": "/marken/shan-shi",
+  "canonicalPath": "/produkte/shan-shi-soja-sauce/00-291110",
+  "category": "Grundnahrungsmittel",
+  "description": "Sojasauce ist das bekannteste und am meisten eingesetzte Würzmittel in der asiatischen Küche und kommt beinahe in jedem Gericht zu Gebrauch. Sojasauce wird aus fermentierten Sojabohnen, Getreide und Salz hergestellt. Es gibt viele Varianten, die sich in Farbe, Konsistenz und Geschmack unterscheiden. Ihre ursprüngliche Verwendung findet die Sojasauce vor allem zum Dippen für Sushi, Maki und Sashimi, aber auch zum Nachwürzen bei Tisch und als Salzersatz in der asiatischen Küche.",
+  "eanCodes": [
+    "9120012041059"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1130 Wien, Hietzinger Hauptstraße\n119-121",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Maresi Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 / 216 411",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.shan-shi.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-09-20T00:00:00",
+      "ingredients": "Zutaten: Sojasauce (46%) (Wasser, SOJABOHNEN, WEIZEN, Speisesalz), Wasser, Zucker, Speisesalz, Farbstoff: Ammoniak-Zuckerkulör, Säureregulator: Milchsäure, Citronensäure. Kann Spuren von Erdnüssen und Sesam enthalten.",
+      "marketingMessage": "- typisch für China -",
+      "measurements": [
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 150
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.349
+        }
+      ],
+      "name": "Sojasauce",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 58,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 245,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 12.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken lagern. Nach dem Öffnen gekühlt lagern und innerhalb von 4 Wochen verbrauchen.",
+      "sustenanceClaim": "Ohne Zusatz von Aroma"
+    }
+  ],
+  "grammage": "150 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 14.60"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Shan Shi Soja Sauce",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/asia-und-mexican-produkte/asia-produkte/B2-611/produkte/shan-shi-soja-sauce/00-291110"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 14.60"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 70690,
+  "recommendationArticleIds": [],
+  "seoDescription": "Shan Shi Soja Sauce online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Shan Shi Soja Sauce online bestellen | BILLA",
+  "slug": "shan-shi-soja-sauce",
+  "storeAvalibility": [
+    "00-7721",
+    "00-1212",
+    "00-1071",
+    "00-1108",
+    "00-220",
+    "00-2369",
+    "00-397",
+    "00-2201",
+    "00-4672",
+    "00-3669",
+    "00-4440",
+    "00-5104",
+    "00-3688",
+    "00-1479",
+    "00-1649",
+    "00-5108",
+    "00-411",
+    "00-4675",
+    "00-2045",
+    "00-1098",
+    "00-7539",
+    "00-1128",
+    "00-4249",
+    "00-7653",
+    "00-943",
+    "00-4779",
+    "00-1500",
+    "00-119",
+    "00-3162",
+    "00-4001",
+    "00-3700",
+    "00-1771",
+    "00-1017",
+    "00-2840",
+    "00-3146",
+    "00-1207",
+    "00-4107",
+    "00-3979",
+    "00-5777",
+    "00-9332",
+    "00-1027",
+    "00-1417",
+    "00-1132",
+    "00-1016",
+    "00-1409",
+    "00-1476",
+    "00-4021",
+    "00-1480",
+    "00-1120",
+    "00-9589",
+    "00-6219",
+    "00-2131",
+    "00-1249",
+    "00-3600",
+    "00-2306",
+    "00-1198",
+    "00-519",
+    "00-3180",
+    "00-1943",
+    "00-836",
+    "00-521",
+    "00-2907",
+    "00-3780",
+    "00-3114",
+    "00-2111",
+    "00-3170",
+    "00-4690",
+    "00-350",
+    "00-281",
+    "00-6480",
+    "00-1529",
+    "00-1117",
+    "00-2208",
+    "00-4707",
+    "00-4466",
+    "00-4605",
+    "00-5000",
+    "00-3507",
+    "00-4655",
+    "00-1136",
+    "00-3005",
+    "00-3363",
+    "00-1524",
+    "00-823",
+    "00-1900",
+    "00-3617",
+    "00-3560",
+    "00-3996",
+    "00-3856",
+    "00-4673",
+    "00-3583",
+    "00-6676",
+    "00-2313",
+    "00-355",
+    "00-3121",
+    "00-117",
+    "00-3322",
+    "00-249",
+    "00-2098",
+    "00-7743",
+    "00-1532",
+    "00-4945",
+    "00-1425",
+    "00-3042",
+    "00-471",
+    "00-2899",
+    "00-8395",
+    "00-440",
+    "00-1121",
+    "00-5552",
+    "00-3744",
+    "00-4090",
+    "00-4078",
+    "00-771",
+    "00-604",
+    "00-7606",
+    "00-5603",
+    "00-3713",
+    "00-1018",
+    "00-720",
+    "00-4551",
+    "00-5531",
+    "00-702",
+    "00-1457",
+    "00-1114",
+    "00-5871",
+    "00-3094",
+    "00-703",
+    "00-3120",
+    "00-7114",
+    "00-4700",
+    "00-10",
+    "00-2259",
+    "00-1750",
+    "00-1550",
+    "00-3102",
+    "00-4834",
+    "00-6138",
+    "00-3920",
+    "00-794",
+    "00-3445",
+    "00-2342",
+    "00-5027",
+    "00-3709",
+    "00-9415",
+    "00-408",
+    "00-783",
+    "00-3420",
+    "00-99202"
+  ],
+  "url": "/produkte/shan-shi-soja-sauce/00-291110",
+  "vatCode": "10",
+  "video": ""
+}

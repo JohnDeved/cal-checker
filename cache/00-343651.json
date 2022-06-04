@@ -1,0 +1,225 @@
+{
+  "articleGroupIds": [
+    "B2-317"
+  ],
+  "articleId": "00-343651",
+  "articleOnlyCanonicalPath": "/produkte/evian-pure2/00-343651",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Evian",
+  "canonicalPath": "/produkte/evian-pure2/00-343651",
+  "category": "Getränke",
+  "description": "evian - natürliches, stilles Mineralwasser aus den französischen Alpen.<br><br>Auf seiner 15 Jahre währenden Reise, im Herzen der französischen Alpen durch uralte Gletscher gefiltert, erhält evian langsam, aber stetig seine einzigartig ausgewogene, natriumarme Mineralisierung.<br>evian wird direkt an der Quelle abgefüllt und ist natürlich pur, frei von chemischer Behandlung und ohne jegliche Zusätze.<br><li>Ohne Kohlensäure<li>Natürlich rein und natriumarm</li>",
+  "eanCodes": [
+    "3068320103372"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "CP 470, CH - 1701 Fribourg.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Evian-Volvic Suisse S.A.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.evian.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2019-07-26T00:00:00",
+      "mandatoryIndicator": "SAEME11, avenue du Général Dupas, 74500 Evian les Bains, France",
+      "marketingMessage": "Auf seiner 15 Jahre waehrenden Reise, im Herzen der franzoesischen Alpen durch uralte Gletscher\ngefiltert, erhaelt evian langsam aber stetig seine einzigartig ausgewogene Mineralisierung. Ohne\nKohlensaeure,  natuerlich rein und natriumarm.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.2
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Zentiliter",
+          "value": 75
+        }
+      ],
+      "name": "Natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 6.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 6.8,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 1,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 80,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 26,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 360,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kieselerde",
+              "nutritionalValue": 15,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Nitrat",
+              "nutritionalValue": 3.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 12.6,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "sustenanceClaim": "Abtropfrückstand 180°C: 309/mg/l"
+    }
+  ],
+  "grammage": "0.75 l Flasche (Einweg)",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 l 4.65"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 12,
+  "name": "Evian Pure",
+  "orderQuantityStepSize": 12,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/evian-pure2/00-343651"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 l 4.65"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 153980,
+  "recommendationArticleIds": [],
+  "seoDescription": "Evian Pure online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Evian Pure online bestellen | BILLA",
+  "slug": "evian-pure2",
+  "storeAvalibility": [
+    "00-5078",
+    "00-174",
+    "00-119",
+    "00-6676",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/evian-pure2/00-343651",
+  "vatCode": "20",
+  "video": ""
+}

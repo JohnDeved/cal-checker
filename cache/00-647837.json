@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-372"
+  ],
+  "articleId": "00-647837",
+  "articleOnlyCanonicalPath": "/produkte/voss-tangeringe-lemongras/00-647837",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Voss",
+  "canonicalPath": "/produkte/voss-tangeringe-lemongras/00-647837",
+  "category": "Getränke",
+  "description": "Das Voss Tangeringe Lemongrasss Erfrischungsgetränk in der von Calvin Klein entworfenen Designerflasche erfreut Auge und Geschmacksnerven gleichermaßen.<li>Gletscherwasser, mit Kohlensäure versetzt<li>enthält ausschließlich natürliche Aromen<li>Mandarine- und Zitronengrasgeschmack<li>handliche Größe für unterwegs<li>umweltfreundliche Verpackung: Flasche ist recyclebar",
+  "eanCodes": [
+    "0682430179206",
+    "4260449690569"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Isekai 1a - 20249 Hamburg, Deutschland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Columbus Drinks GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@columbus-drinks.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "+49 (0) 40 41 42 41 299",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+49 (0) 40 41 42 41 20",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "http://columbus-drinks.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-01-24T00:00:00",
+      "ingredients": "Zutaten: natürliches Mineralwasser versetzt mit Kohlensäure, Natriumbicarbonat und natürliche Aromastoffe",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 670
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 375
+        }
+      ],
+      "name": "Aromatisiertes natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 9,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 0.55,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fluorid",
+              "nutritionalValue": 0.01,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 0.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 0.1,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl, trocken und lichtgeschützt lagern"
+    }
+  ],
+  "grammage": "375 ml Flasche (Einweg)",
+  "grammageBadge": "375 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 5.31"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Voss Tangeringe Lemongras",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/voss-tangeringe-lemongras/00-647837",
+    "~/warengruppe/getraenke/mineralwasser/prickelnd/B2-372/produkte/voss-tangeringe-lemongras/00-647837"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 5.31"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 86560,
+  "recommendationArticleIds": [],
+  "seoDescription": "Voss Tangeringe Lemongras online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Voss Tangeringe Lemongras online bestellen | BILLA",
+  "slug": "voss-tangeringe-lemongras",
+  "storeAvalibility": [
+    "00-3082",
+    "00-174",
+    "00-836",
+    "00-950",
+    "00-282",
+    "00-471",
+    "00-3780",
+    "00-2111",
+    "00-3146",
+    "00-2675",
+    "00-2808",
+    "00-3206",
+    "00-176",
+    "00-2190",
+    "00-99202",
+    "00-5078",
+    "00-3042",
+    "00-2223",
+    "00-3027",
+    "00-281",
+    "00-3214",
+    "00-2170",
+    "00-10",
+    "00-6676",
+    "00-388",
+    "00-2261",
+    "00-2238",
+    "00-119",
+    "00-2342",
+    "00-2260"
+  ],
+  "url": "/produkte/voss-tangeringe-lemongras/00-647837",
+  "vatCode": "20",
+  "video": ""
+}

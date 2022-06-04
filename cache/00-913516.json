@@ -1,0 +1,237 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-913516",
+  "articleOnlyCanonicalPath": "/produkte/mohr-sederl-apfelsaft/00-913516",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Mohr-Sederl",
+  "canonicalPath": "/produkte/mohr-sederl-apfelsaft/00-913516",
+  "category": "Getränke",
+  "description": "Aus der Fruchtwelt von Mohr-Sederl kommt der naturtrübe Apfelsaft. Er schmeckt pur und verdünnt als schmackhafte Apfelschorle.<li>100 % reiner Apfelsaft<li>naturtrüb und pasteurisiert<li>in der umweltfreundlichen Glasflasche<li>zum Trinken, Mischen und Verfeinern",
+  "eanCodes": [
+    "9120035000279"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Neue Welt Str. 109 A-2732 Zweiersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mohr-Sederl Fruchtwelt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "fruchtwelt@mohr-sederl.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "https://www.facebook.com/mohrsederl",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+4326202395",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "https://www.mohr-sederl.com/",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten : 100% Apfelsaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.435
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "100 % Apfelsaft naturtrüb,pasteurisiert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 57,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 244,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern. Nach dem Öffnen im Kühlschrank gut verschlossen lagern und innerhalb von drei Tagen genießen",
+      "usageHints": "Vor dem Öffnen schütteln."
+    }
+  ],
+  "grammage": "1 l Flasche (Einweg)",
+  "grammageBadge": "1 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 l 2,79 €"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Mohr-Sederl Apfelsaft",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/mohr-sederl-apfelsaft/00-913516"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 l 2,79 €"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 94030,
+  "recommendationArticleIds": [],
+  "seoDescription": "Mohr-Sederl Apfelsaft online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mohr-Sederl Apfelsaft online bestellen | BILLA",
+  "slug": "mohr-sederl-apfelsaft",
+  "storeAvalibility": [
+    "00-3254",
+    "00-3131",
+    "00-3032",
+    "00-10",
+    "00-3253",
+    "00-3600",
+    "00-3082",
+    "00-3822",
+    "00-3601",
+    "00-3252",
+    "00-3561",
+    "00-3819",
+    "00-99202",
+    "00-3641",
+    "00-3001",
+    "00-3869",
+    "00-3118",
+    "00-3445",
+    "00-3642",
+    "00-3220",
+    "00-3538",
+    "00-3394"
+  ],
+  "url": "/produkte/mohr-sederl-apfelsaft/00-913516",
+  "vatCode": "20",
+  "video": ""
+}

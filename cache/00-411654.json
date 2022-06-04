@@ -1,0 +1,239 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-372"
+  ],
+  "articleId": "00-411654",
+  "articleOnlyCanonicalPath": "/produkte/voeslauer-prickelnd7/00-411654",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Vöslauer",
+  "brandPath": "/marken/voeslauer",
+  "canonicalPath": "/produkte/voeslauer-prickelnd7/00-411654",
+  "category": "Getränke",
+  "description": "Vöslauer Prickelnd sorgt für belebende Erfrischung. Das natürliche Mineralwasser steht seit Jahrzehnten für Qualität und Tradition aus Österreich.<li>kohlensäurehaltig<li>ausgewogen mineralisiert und natriumarm<li>Flasche zu 70 % aus recycelten PET-Flaschen produziert",
+  "eanCodes": [
+    "1036740000009",
+    "9002235868708",
+    "9009700144107",
+    "9009700302415"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Quellenstraße 1, A 2540 Bad Vöslau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vöslauer Mineralwasser GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810/100 234",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.voeslauer.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-12-20T00:00:00",
+      "mandatoryIndicator": "Vöslauer Ursprungsquelle VI, 2540 Bad Vöslau",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.56
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser mit Kohlensäure versetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 14.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 20.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 1.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 116,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 41.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 255,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 246,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "origin": "Vöslauer Ursprungsquelle VI",
+      "preperations": [],
+      "storageHint": "Vor Wärme und direkter Sonneneinstrahlung schützen.",
+      "sustenanceClaim": "Kohlendioxid im abgefüllten Mineralwasser zugesetzt: 5-6 g/l.\n\nM-Kieselsäure (H2SIO3) = 14,00mg. Gelöste feste Stoffe: 678,4mg."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "maximalOrderQuantity": 30,
+  "minimalOrderQuantity": 0,
+  "name": "Vöslauer Prickelnd",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/voeslauer-prickelnd7/00-411654",
+    "~/warengruppe/getraenke/mineralwasser/prickelnd/B2-372/produkte/voeslauer-prickelnd7/00-411654"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 40140,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vöslauer Prickelnd online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vöslauer Prickelnd online bestellen | BILLA",
+  "slug": "voeslauer-prickelnd7",
+  "storeAvalibility": [
+    "00-7539",
+    "00-1750",
+    "00-7810",
+    "00-323",
+    "00-119",
+    "00-1771",
+    "00-1958",
+    "00-282",
+    "00-3431",
+    "00-99202"
+  ],
+  "url": "/produkte/voeslauer-prickelnd7/00-411654",
+  "vatCode": "20",
+  "video": ""
+}

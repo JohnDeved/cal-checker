@@ -1,0 +1,216 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-590303",
+  "articleOnlyCanonicalPath": "/produkte/oswald-pilzmischung/00-590303",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Oswald",
+  "canonicalPath": "/produkte/oswald-pilzmischung/00-590303",
+  "category": "Tiefkühl",
+  "description": "Bei der Pilzauswahl der Oswald Pilzmischung wurde besonders auf die Harmonie der Pilze miteinander geachtet.<br>So erreicht die Pilzmischung durch die vielfältigen Aromen einen kulinarischen Hochgenuss.",
+  "eanCodes": [
+    "9004131072470"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Maierhof 48, A-8443 Gleinstätten",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Fritz Oswald GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "CHINA"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Nameko, Butterpilze, Champignons, Austernpilze, Shiitake",
+      "marketingMessage": "Bei der Pilzauswahl der Oswald Pilzmischung wurde besonders auf die Harmonie der Pilze miteinander geachtet. So erreicht die Pilzmischung durch die vielfältigen Aromen einen kulinarischen Hochgenuss.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 510
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Pilzmischung tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 119,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 29,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühlschrank 1 Tag, * Fach o. Eiswüfelfach (-6°C) 4 Tage, ** Fach (-12°C) 3 Wochen, *** Fach o. Tiefkühltruhe (-18°C) s. Prägung. Im *** Fach oder Tiefkühltruhe bei (-18°C) mindestens haltbar bis Ende: siehe Aufdruck",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "500 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 9.98"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Oswald Pilzmischung",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/oswald-pilzmischung/00-590303"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 9.98"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 100200,
+  "recommendationArticleIds": [],
+  "seoDescription": "Oswald Pilzmischung online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Oswald Pilzmischung online bestellen | BILLA",
+  "slug": "oswald-pilzmischung",
+  "storeAvalibility": [
+    "00-7082",
+    "00-9555",
+    "00-3055",
+    "00-6676",
+    "00-5108",
+    "00-3005",
+    "00-5290",
+    "00-10",
+    "00-2342",
+    "00-3617",
+    "00-2295",
+    "00-7606",
+    "00-3780",
+    "00-1108",
+    "00-3120",
+    "00-2111",
+    "00-6197",
+    "00-99202"
+  ],
+  "url": "/produkte/oswald-pilzmischung/00-590303",
+  "vatCode": "10",
+  "video": ""
+}

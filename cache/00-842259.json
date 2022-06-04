@@ -1,0 +1,212 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-842259",
+  "articleOnlyCanonicalPath": "/produkte/schweppes-dry-tonic-water/00-842259",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schweppes",
+  "brandPath": "/marken/schweppes",
+  "canonicalPath": "/produkte/schweppes-dry-tonic-water/00-842259",
+  "category": "Getränke",
+  "description": "Das Dry Tonic Water von Schweppes ist der Klassiker unter den Tonics. Es passt ideal zu jedem Gin und wird auch pur als herbe Limonade genossen.<li>mit Kohlensäure",
+  "eanCodes": [
+    "4000140708060"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hagener Strasse 261, 57223 Kreuztal",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Schweppes Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2017-08-10T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zucker , Kohlensäure , Säurungsmittel Citronensäure , natürliche Aromen , Aroma Chinin .",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1320
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 1250
+        }
+      ],
+      "name": "Erfrischungsgetränk, chininhaltig",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 135,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 32,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bitte kühl und dunkel lagern",
+      "usageHints": "Bitte kühl und dunkel lagern"
+    }
+  ],
+  "grammage": "1.25 l Flasche (Einweg)",
+  "grammageBadge": "1.25 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 1.83"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Schweppes Dry Tonic Water",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/schweppes-dry-tonic-water/00-842259"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 l 1.83"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 170430,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schweppes Dry Tonic Water online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schweppes Dry Tonic Water online bestellen | BILLA",
+  "slug": "schweppes-dry-tonic-water",
+  "storeAvalibility": [
+    "00-174",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/schweppes-dry-tonic-water/00-842259",
+  "vatCode": "20",
+  "video": ""
+}

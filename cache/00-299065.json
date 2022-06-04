@@ -1,0 +1,274 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-299065",
+  "articleOnlyCanonicalPath": "/produkte/groebi-grapefruit2/00-299065",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_zucker",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Gröbi",
+  "brandPath": "/marken/groebi",
+  "canonicalPath": "/produkte/groebi-grapefruit2/00-299065",
+  "category": "Getränke",
+  "description": "Voller Fruchtgeschmack, null Kalorien: Die Grapefruit-Limonade von Gröbi prickelt mit fruchtig-herber Frische, ganz ohne Zuckerzusatz.",
+  "eanCodes": [
+    "9022100000958"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-83026 Rosenheim",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DrinkStar GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Kohlensäure, Grapefruit-, Zitronen-, Orangen- und Mandarinensaftkonzentrat, Säuerungsmittel Citronensäure, Süßungsmittel Natriumcyclamat, Acesulfam K, Natriumsaccharin und Aspartam, Vitaminmischung (Vitamin C, Vitamin E, Niacin, Pantothensäure, Vitamin B6, Folsäure, Vitamin B12), konzentrierter Zitronenextrakt, natürliches Citrusaroma mit anderen natürlichen Aromen, Stabilisatoren Guarkernmehl und Pektin.\n\nEnthält eine Phenylalaninquelle.",
+      "mandatoryIndicator": "mit Süßungsmitteln",
+      "marketingMessage": "Herb, fruchtig, frisch: GRÖBI ist die pure Erfrischung mit sonnengereiften, herrlich saftigen Grapefruits, spritzigem Wasser aus eigener Quelle und vielen Vitaminen - ganz ohne überflüssige Kalorien. So macht man überall eine gute Figur!\nGRÖBI. Null Zucker, viele Vitamine, voller Fruchtgeschmack!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.795
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "Zuckerfreies Erfrischungsgetränk mit Grapefruitgeschmack.\nFruchtgehalt: 6 % (3 % Grapefruit). Mit 7 Vitaminen.\nMit Süßungsmitteln. Vegan.",
+      "nutritions": [
+        {
+          "householdPortion": "Glas (250 ml)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 12,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 30,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 2.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 0.9,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 7.5,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 1.8,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 3,
+      "preperations": [],
+      "storageHint": "Vor Wärme und Licht schützen.",
+      "sustenanceClaim": "7 VITAMINE\n0% KALORIEN*\n* Energie pro 250ml-Portion (30 kJ/8 kcal): 0 % der Referenzmenge für einen durchschnittlichen Erwachsenen (8.400 kJ/2.000 kcal)"
+    }
+  ],
+  "grammage": "0.75 l Flasche (Einweg)",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": true,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 l 1.45"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Gröbi Grapefruit",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/groebi-grapefruit2/00-299065"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 l 1.45"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 123910,
+  "recommendationArticleIds": [
+    "00-431840"
+  ],
+  "seoDescription": "Gröbi Grapefruit online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gröbi Grapefruit online bestellen | BILLA",
+  "slug": "groebi-grapefruit2",
+  "storeAvalibility": [],
+  "url": "/produkte/groebi-grapefruit2/00-299065",
+  "vatCode": "20",
+  "video": ""
+}

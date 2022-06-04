@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-352"
+  ],
+  "articleId": "00-407484",
+  "articleOnlyCanonicalPath": "/produkte/malfy-gin-rosa/00-407484",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Malfy",
+  "canonicalPath": "/produkte/malfy-gin-rosa/00-407484",
+  "category": "Getränke",
+  "description": "Dieser leuchtende, leckere Gin ist wie kein anderer. Die sonnengereiften sizilianischen Pink Grapefruits werden in Zitrushainen an der Mittelmeerküste angebaut, wo die Berge das Meer begrüßen. Der Geschmack erinnert an saftig-frische Grapefruits, mit einem reichen, langen Wacholdergeschmack. Genießen Sie diesen bunten Ausbruch von italienischem Sonnenschein mit Tonicwater oder in Ihrem Lieblingscocktail. <li>Farbe: Hellrosa <li>Aroma: Kräftiger Rhabarber und Anis, mit fruchtig-frischen Grapefruitschalen- und Zitrusfruchtaromen <li>Geschmack: ein reichhaltiger Geschmack, erfüllt von frischen Grapefruit- und Zitrusfruchtaromen, lang anhaltender Abgang von Wacholder <li>Botanicals: Wacholder, Pink Grapefruit (aus Sizilien), italienischer Rhabarber, Koriander, Kassiarinde, Florentiner Schwertlilienwurzel, Süßholzwurzel, italienische Zitronen (aus Küstenanbau), Orangenschalen",
+  "eanCodes": [
+    "5000299296066",
+    "0853222006394"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 41,
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via Montegrappa 37, Moncalieri (TO), Italien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Torino Distillati",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "malfygin.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2021-04-06T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.59
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Zentiliter",
+          "value": 70
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 700
+        }
+      ],
+      "name": "Gin",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 940,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 227,
+              "unit": "Kilokalorie"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 282,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 68,
+              "unit": "Kilokalorie"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 23,
+      "preperations": []
+    }
+  ],
+  "grammage": "0.7 l Flasche",
+  "grammageBadge": "0.7 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 29.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 29.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 29.99,
+    "unit": "1 l 42.84"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Malfy Gin Rosa",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/spirituosen/gin/B2-352/produkte/malfy-gin-rosa/00-407484"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 29.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 29.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 29.99,
+    "unit": "1 l 42.84"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Malfy Gin Rosa online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Malfy Gin Rosa online bestellen | BILLA",
+  "slug": "malfy-gin-rosa",
+  "storeAvalibility": [
+    "00-174",
+    "00-99202"
+  ],
+  "url": "/produkte/malfy-gin-rosa/00-407484",
+  "vatCode": "20",
+  "video": ""
+}

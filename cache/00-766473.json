@@ -1,0 +1,248 @@
+{
+  "articleGroupIds": [
+    "B2-14",
+    "B2-638"
+  ],
+  "articleId": "00-766473",
+  "articleOnlyCanonicalPath": "/produkte/ligges-tiroler-apfelringe/00-766473",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Ligges",
+  "canonicalPath": "/produkte/ligges-tiroler-apfelringe/00-766473",
+  "category": "Obst & Gemüse",
+  "description": "Ein gesunder Snack für zwischendurch: Die getrockneten Tiroler Apfelringe von Ligges schmecken herrlich fruchtig und sind von Natur aus süß ohne Zuckerzusatz.<li>verzehrfertiges Dörrobst<li>gluten- und laktosefrei",
+  "eanCodes": [
+    "9120056710041"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "6403 Flaurling, Salzstraße 15",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "obstbau@ligges.at",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Wulf Ligges",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2015-05-19T00:00:00",
+      "ingredients": "Äpfel",
+      "mandatoryIndicator": "Apfelringe",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 84
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 80
+        },
+        {
+          "type": "Portionsgroesse",
+          "unit": "Gramm",
+          "value": 20
+        }
+      ],
+      "name": "Tiroler Apfelringe",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [],
+          "preperationGrade": "Zubereitet für 80 Gramm",
+          "relationValue": 80,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1517,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 358,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 31,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 80,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 76,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 69,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 39,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 39,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 4,
+      "preperations": [
+        {
+          "instruction": "",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "kühl und trocken lagern",
+      "sustenanceClaim": "Glutenfrei, Laktosefrei, Frei von Milchproteinen",
+      "usageHints": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "80 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69,
+    "unit": "1 kg 46.13"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ligges Tiroler Apfelringe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/obst-und-gemuese/trockenfruechte-und-nuesse/B2-14/produkte/ligges-tiroler-apfelringe/00-766473",
+    "~/warengruppe/grundnahrungsmittel/backen/trockenfruechte/B2-638/produkte/ligges-tiroler-apfelringe/00-766473"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.69,
+    "unit": "1 kg 46.13"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 64790,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ligges Tiroler Apfelringe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ligges Tiroler Apfelringe online bestellen | BILLA",
+  "slug": "ligges-tiroler-apfelringe",
+  "storeAvalibility": [
+    "00-8606",
+    "00-8636",
+    "00-8159",
+    "00-8151",
+    "00-8193",
+    "00-8241",
+    "00-8230",
+    "00-8360",
+    "00-8031",
+    "00-8334",
+    "00-8155",
+    "00-8243",
+    "00-8158",
+    "00-8213",
+    "00-99202",
+    "00-8022",
+    "00-8070",
+    "00-8895",
+    "00-8657",
+    "00-8188",
+    "00-8154",
+    "00-8085",
+    "00-8646",
+    "00-8185",
+    "00-8076",
+    "00-8417",
+    "00-8426",
+    "00-8173",
+    "00-8140",
+    "00-8075"
+  ],
+  "url": "/produkte/ligges-tiroler-apfelringe/00-766473",
+  "vatCode": "10",
+  "video": ""
+}

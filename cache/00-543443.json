@@ -1,0 +1,226 @@
+{
+  "articleGroupIds": [
+    "B2-752",
+    "B2-758",
+    "B2-759"
+  ],
+  "articleId": "00-543443",
+  "articleOnlyCanonicalPath": "/produkte/lindt-lindorkugeln-extra-dark-60/00-543443",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lindt",
+  "brandPath": "/marken/lindt",
+  "canonicalPath": "/produkte/lindt-lindorkugeln-extra-dark-60/00-543443",
+  "category": "Süßes & Salziges",
+  "description": "Mit ihrer zart schmelzenden Füllung und der knackigen Hülle aus dunkler Schokolade sorgen die Lindt Lindorkugeln Extra Dark für besondere Genussmomente.<li>Pralinen-Kugeln mit dunkler Schokolade<li>Packung mit  einzeln verpackten Kugeln, wiederverschließbar<li>zum alleine oder gemeinsam genießen",
+  "eanCodes": [
+    "9003600580539"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Kakaomasse, Zucker, Pflanzenfette (Kokosnuss, Palmkern), Kakaobutter, BUTTERreinfett, VollMILCHpulver, Emulgator (SOJAlecithin), MagerMILCHpulver, MILCHzucker, Vanille, Aromen, GERSTENmalzextrakt.Kann HASELNÜSSE und andere SCHALENFRÜCHTE enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 139.3
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Extra dunkle Schokolade mit zartschmelzender Füllung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 637,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2639,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 52,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 39,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 34,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "125 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "100 g 3.75"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lindt Lindorkugeln Extra Dark 60%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/schokoriegel/B2-752/produkte/lindt-lindorkugeln-extra-dark-60/00-543443",
+    "~/warengruppe/suesses-und-salziges/suesses2/suesse-spezialitaeten/B2-758/produkte/lindt-lindorkugeln-extra-dark-60/00-543443",
+    "~/warengruppe/suesses-und-salziges/suesses2/bonbonniere-und-spezialitaeten/B2-759/produkte/lindt-lindorkugeln-extra-dark-60/00-543443"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "100 g 3.75"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 25140,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lindt Lindorkugeln Extra Dark 60% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lindt Lindorkugeln Extra Dark 60% online bestellen | BILLA",
+  "slug": "lindt-lindorkugeln-extra-dark-60",
+  "storeAvalibility": [
+    "00-7017",
+    "00-10",
+    "00-7539",
+    "00-2045",
+    "00-9225",
+    "00-350",
+    "00-4551",
+    "00-355",
+    "00-99202",
+    "00-4707",
+    "00-6130",
+    "00-783",
+    "00-7075"
+  ],
+  "url": "/produkte/lindt-lindorkugeln-extra-dark-60/00-543443",
+  "vatCode": "10",
+  "video": ""
+}

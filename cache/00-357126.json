@@ -1,0 +1,660 @@
+{
+  "articleGroupIds": [
+    "B2-6B2"
+  ],
+  "articleId": "00-357126",
+  "articleOnlyCanonicalPath": "/produkte/knusperli-beerenfrucht-vitality-muesli/00-357126",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Knusperli",
+  "brandPath": "/marken/knusperli",
+  "canonicalPath": "/produkte/knusperli-beerenfrucht-vitality-muesli/00-357126",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9002033129407"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Felixstraße 24, A-7210 Mattersburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Felix Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "08008/33549",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.knusperli.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-04-20T00:00:00",
+      "ingredients": "Zutaten: Vollkorn-HAFERFLOCKEN (44%), Vollkorn-WEIZENFLOCKEN (19%), Rosinen (16%), Sonnenblumenkerne, Leinsamen (5%), Mais, Vollkorn-WEIZEN (2%), gefriergetrocknete Himbeerstücke (0,9%), getrocknete Apfelstücke (0,9%), gefriergetrocknete Heidelbeeren (0,8%), gefriergetrocknetes Erdbeerpulver (0,6%), WEIZENKLEIE, GERSTENMALZEXTRAKT, Reismehl, Salz. \n\n\n\nKann Spuren von Erdnüssen, Soja, Milch, Schalenfrüchten und Sesam enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 685
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 625
+        }
+      ],
+      "name": "Müslimischung mit Beerenfrüchten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1573,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 374,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 56,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 629,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 150,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 15,
+      "preperations": []
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Felixstraße 24, A-7210 Mattersburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Felix Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "08008/33549",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.knusperli.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-05-30T00:00:00",
+      "ingredients": "Zutaten: Vollkorn-HAFERFLOCKEN (44%), Vollkorn-WEIZENFLOCKEN (19%), Rosinen (16%), Sonnenblumenkerne, Leinsamen (5%), Mais, Vollkorn-WEIZEN (2%), gefriergetrocknete Himbeerstücke (0,9%), getrocknete Apfelstücke (0,9%), gefriergetrocknete Heidelbeeren (0,8%), gefriergetrocknetes Erdbeerpulver (0,6%), WEIZENKLEIE, GERSTENMALZEXTRAKT, Reismehl, Salz. \n\n\n\nKann Spuren von Erdnüssen, Soja, Milch, Schalenfrüchten und Sesam enthalten.",
+      "mandatoryIndicator": "Da es sich um ein Naturprodukt handelt, können Kern- und Schalenteile enthalten sein. Füllhöhe technisch bedingt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 685
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 625
+        }
+      ],
+      "name": "Müslimischung mit Beerenfrüchten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1573,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 374,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 56,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 629,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 150,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 15,
+      "preperations": [],
+      "storageHint": "Trocken und vor Wärme geschützt lagern.  Nach dem Öffnen gut verschlossen aufbewahren.",
+      "sustenanceClaim": "ballaststoffreich ohne Zuckerzusatz\n\nohne Zusatz von Geschmacksverstärkern, Konservierungsstoffen**, Farbstoffen\n**lt. Verordnung 65% Vollkornanteil"
+    }
+  ],
+  "grammage": "625 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 7.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Knusperli Beerenfrucht Vitality-Müsli",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/knusperli-beerenfrucht-vitality-muesli/00-357126"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 7.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 82180,
+  "recommendationArticleIds": [],
+  "seoDescription": "Knusperli Beerenfrucht Vitality-Müsli online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Knusperli Beerenfrucht Vitality-Müsli online bestellen | BILLA",
+  "slug": "knusperli-beerenfrucht-vitality-muesli",
+  "storeAvalibility": [
+    "00-372",
+    "00-1901",
+    "00-3140",
+    "00-3322",
+    "00-4982",
+    "00-7358",
+    "00-6745",
+    "00-3044",
+    "00-8173",
+    "00-4421",
+    "00-3196",
+    "00-5529",
+    "00-2098",
+    "00-7606",
+    "00-5363",
+    "00-3780",
+    "00-6372",
+    "00-6024",
+    "00-3105",
+    "00-2109",
+    "00-1039",
+    "00-1017",
+    "00-309",
+    "00-4655",
+    "00-3062",
+    "00-7424",
+    "00-6219",
+    "00-7368",
+    "00-1943",
+    "00-8012",
+    "00-7229",
+    "00-1900",
+    "00-3700",
+    "00-643",
+    "00-6823",
+    "00-4605",
+    "00-783",
+    "00-3940",
+    "00-5391",
+    "00-3512",
+    "00-6021",
+    "00-3401",
+    "00-3023",
+    "00-6952",
+    "00-3384",
+    "00-208",
+    "00-4270",
+    "00-4407",
+    "00-4170",
+    "00-1041",
+    "00-3420",
+    "00-8241",
+    "00-3050",
+    "00-3022",
+    "00-7114",
+    "00-4675",
+    "00-4779",
+    "00-355",
+    "00-3824",
+    "00-4478",
+    "00-8235",
+    "00-4424",
+    "00-2222",
+    "00-7857",
+    "00-4126",
+    "00-2223",
+    "00-3143",
+    "00-4770",
+    "00-2208",
+    "00-3681",
+    "00-6864",
+    "00-7616",
+    "00-1265",
+    "00-3709",
+    "00-1826",
+    "00-7544",
+    "00-6022",
+    "00-1027",
+    "00-239",
+    "00-3253",
+    "00-3501",
+    "00-3214",
+    "00-1070",
+    "00-6684",
+    "00-1457",
+    "00-174",
+    "00-7204",
+    "00-3025",
+    "00-2213",
+    "00-3234",
+    "00-4540",
+    "00-6884",
+    "00-249",
+    "00-8076",
+    "00-3308",
+    "00-1480",
+    "00-3103",
+    "00-3138",
+    "00-6724",
+    "00-6676",
+    "00-2369",
+    "00-2218",
+    "00-2170",
+    "00-3010",
+    "00-1207",
+    "00-2306",
+    "00-3157",
+    "00-10",
+    "00-3027",
+    "00-2131",
+    "00-7860",
+    "00-4107",
+    "00-2342",
+    "00-6353",
+    "00-3150",
+    "00-3146",
+    "00-4249",
+    "00-2011",
+    "00-2907",
+    "00-6740",
+    "00-3510",
+    "00-1479",
+    "00-3947",
+    "00-5962",
+    "00-3617",
+    "00-3848",
+    "00-4441",
+    "00-4813",
+    "00-209",
+    "00-3047",
+    "00-7535",
+    "00-289",
+    "00-3600",
+    "00-7653",
+    "00-1866",
+    "00-9290",
+    "00-6480",
+    "00-3506",
+    "00-1771",
+    "00-3830",
+    "00-4690",
+    "00-7245",
+    "00-3005",
+    "00-3114",
+    "00-7783",
+    "00-408",
+    "00-1631",
+    "00-99202"
+  ],
+  "url": "/produkte/knusperli-beerenfrucht-vitality-muesli/00-357126",
+  "vatCode": "10",
+  "video": ""
+}

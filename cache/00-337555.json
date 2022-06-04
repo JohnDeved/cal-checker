@@ -1,0 +1,159 @@
+{
+  "articleGroupIds": [
+    "B2-993"
+  ],
+  "articleId": "00-337555",
+  "articleOnlyCanonicalPath": "/produkte/bi-good-badreiniger-orangenbluete/00-337555",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "bi good",
+  "brandPath": "/marken/bi-good",
+  "canonicalPath": "/produkte/bi-good-badreiniger-orangenbluete/00-337555",
+  "category": "Haushalt",
+  "description": "Der bi good Badreiniger Orangenblütenduft entfernt kraftvoll hartnäckige Kalk- und Schmutzablagerungen, sowie Wasserflecken und Seifenreste und bringt hygienische Sauberkeit und strahlenden Glanz in jedes Bad. Der zitrische Duft beseitigt unangenehme Gerüche.<br>Der bi good Badreiniger Orangenblütenduft wird in Österreich auf Basis nachwachsender Rohstoffe hergestellt und ist biologisch abbaubar und frei von Farbstoffen.<li>Umweltfreundlicher Badreiniger<li>Schnell biologisch abbaubar<li>Hergestellt in Österreich<li>Hergestellt auf Basis nachwachsender Rohstoffe<li>Verpackung aus Recyclingmaterial</li>",
+  "eanCodes": [
+    "9009827000904"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CLP_GEFAHRENHINWEIS",
+              "description": "CLP-Gefahrenhinweis",
+              "hasTranslation": "False",
+              "value": "Verursacht schwere Augenreizung."
+            },
+            {
+              "attributeCode": "CLP_SIGNALWORT",
+              "description": "CLP-Signalwort",
+              "hasTranslation": "True",
+              "value": "WARNING",
+              "valueTranslation": "Achtung"
+            },
+            {
+              "attributeCode": "CLP_SICHERHEITSHINWEIS",
+              "description": "CLP-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten. Darf nicht in die Hände von Kindern gelangen. Augenschutz/Gesichtsschutz tragen. BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen. Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen."
+            },
+            {
+              "attributeCode": "CLP_PIKTOGRAMM",
+              "description": "CLP-Piktogramme",
+              "hasTranslation": "True",
+              "value": "EM_AZ",
+              "valueTranslation": "GHS07-Ausrufezeichen"
+            }
+          ],
+          "description": "CLP-Verordnung",
+          "groupCode": "CLP"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "IZ NÖ-Süd, Straße 3, Objekt 16, A-2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bipa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@bipa.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 207007",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-08-24T00:00:00",
+      "ingredients": "Inhaltsstoffe: Unter 5% anionische Tenside. Enthält: Konservierungsmittel (Benzisothiazolinone und Phenoxyethanol), Duftstoffe.",
+      "mandatoryIndicator": "Weitere Informationen unter: www.detergentinfo.at",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.56
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Milliliter Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 l 3.78"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "bi good Badreiniger Orangenblüte",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/wc--und-badreiniger/B2-993/produkte/bi-good-badreiniger-orangenbluete/00-337555"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 l 3.78"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "bi good Badreiniger Orangenblüte online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "bi good Badreiniger Orangenblüte online bestellen | BILLA",
+  "slug": "bi-good-badreiniger-orangenbluete",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/bi-good-badreiniger-orangenbluete/00-337555",
+  "vatCode": "20",
+  "video": ""
+}

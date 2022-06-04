@@ -1,0 +1,247 @@
+{
+  "articleGroupIds": [
+    "B2-371",
+    "B2-317"
+  ],
+  "articleId": "00-863901",
+  "articleOnlyCanonicalPath": "/produkte/juvina-mild/00-863901",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Juvina",
+  "canonicalPath": "/produkte/juvina-mild/00-863901",
+  "category": "Getränke",
+  "description": "Das milde Juvina ist ein natürliches Mineralwasser, das mit wenig Kohlensäure versetzt wurde – ein erfrischender, leicht prickelnder Durstlöscher.<li>enthält Kohlensäure<li>besonders reich an Magnesium und Calcium<li>lokales Produkt aus Österreich<li>mildes Mineralwasser",
+  "eanCodes": [
+    "9002349000735"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Juvinastr. 1, 7301 Deutschkreutz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mineralwasser-VertriebsgesmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.juvina.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-08-02T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.55
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "natürliches Mineralwasser mit Kohlensäure versetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 301,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 52.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 17.6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 247.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 57.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 1677.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 99.1,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "origin": "Abgefüllt aus der Juvinaquelle II in 7301 Deutschkreutz.",
+      "preperations": [],
+      "storageHint": "Vor Licht und Wärme schützen.",
+      "sustenanceClaim": "Charakteristische Bestandteile mg/l: Kationen: Natrium 301, Calcium 247,4, Magnesium 57,4, Kalium 17,6;  Anionen: Hydrogencarbonat 1.677,5, Sulfat 99,1, Chlorid 52,3.\nüenteisentü"
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.27,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.55,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.27,
+    "unit": "1 l .18"
+  },
+  "maximalOrderQuantity": 30,
+  "minimalOrderQuantity": 0,
+  "name": "Juvina Mild",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/mineralwasser/mild/B2-371/produkte/juvina-mild/00-863901",
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/juvina-mild/00-863901"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.27,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.55,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.27,
+    "unit": "1 l .18"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 43000,
+  "recommendationArticleIds": [],
+  "seoDescription": "Juvina Mild online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Juvina Mild online bestellen | BILLA",
+  "slug": "juvina-mild",
+  "storeAvalibility": [
+    "00-2148",
+    "00-2109",
+    "00-7743",
+    "00-7058",
+    "00-7062",
+    "00-7393",
+    "00-7139",
+    "00-3822",
+    "00-99202",
+    "00-7041",
+    "00-7368",
+    "00-7204",
+    "00-2100",
+    "00-4099",
+    "00-7721",
+    "00-2543"
+  ],
+  "url": "/produkte/juvina-mild/00-863901",
+  "vatCode": "20",
+  "video": ""
+}

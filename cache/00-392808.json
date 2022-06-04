@@ -1,0 +1,347 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-392808",
+  "articleOnlyCanonicalPath": "/produkte/clever-fruchtjoghurt-vanille/00-392808",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Clever",
+  "brandPath": "/marken/clever",
+  "canonicalPath": "/produkte/clever-fruchtjoghurt-vanille/00-392808",
+  "category": "Kühlwaren",
+  "description": "Die cremigen clever® Joghurts werden aus bester österreichischer Milch hergestellt und sind mit dem AMA Gütesiegel ausgezeichnet.",
+  "eanCodes": [
+    "9010158013099"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Molkeneiweiss",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milchzucker (Laktose)",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Casein",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "-"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH ",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-09-23T00:00:00",
+      "ingredients": "Zutaten: JOGHURT, Zucker, Wasser, modifizierte Stärke, Bourbon Vanille-Extrakt, natürliches Bourbon Vanillearoma, Säureregulatoren: Natriumcitrate, Milchsäure.",
+      "mandatoryIndicator": "AT-50151-EG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.05
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Vanillejoghurt aus pasteurisierter Milch mit 3,2% Fett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 383,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4.5,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 91,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9.5,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4.8,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6.6,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2.2,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Organische Säuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 3-9 °C",
+      "usageHints": "Nach dem Öffnen weiterhin gekühlt lagern und innerhalb von 2 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "1000 Gramm Kübel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 2.09"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Clever Fruchtjoghurt Vanille",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/clever-fruchtjoghurt-vanille/00-392808"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 2.09"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 152180,
+  "recommendationArticleIds": [],
+  "seoDescription": "Clever Fruchtjoghurt Vanille online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Clever Fruchtjoghurt Vanille online bestellen | BILLA",
+  "slug": "clever-fruchtjoghurt-vanille",
+  "storeAvalibility": [
+    "00-7860",
+    "00-2098",
+    "00-2342",
+    "00-3384",
+    "00-4690",
+    "00-4551",
+    "00-3118",
+    "00-3062",
+    "00-7675",
+    "00-3700",
+    "00-7062",
+    "00-3445",
+    "00-3063",
+    "00-9183",
+    "00-3025",
+    "00-6975",
+    "00-3114",
+    "00-2261",
+    "00-4283",
+    "00-2313",
+    "00-112",
+    "00-8409",
+    "00-7393",
+    "00-3234",
+    "00-7229",
+    "00-8530",
+    "00-7368",
+    "00-6884",
+    "00-3143",
+    "00-3050",
+    "00-3569",
+    "00-1532",
+    "00-1417",
+    "00-836",
+    "00-6496",
+    "00-1107",
+    "00-1710",
+    "00-2808",
+    "00-7857",
+    "00-7245",
+    "00-9894",
+    "00-1380",
+    "00-7653",
+    "00-2204",
+    "00-3780",
+    "00-6281",
+    "00-7223",
+    "00-3860",
+    "00-3005",
+    "00-4834",
+    "00-2190",
+    "00-10",
+    "00-7114",
+    "00-3857",
+    "00-4707",
+    "00-4016",
+    "00-8334",
+    "00-4912",
+    "00-6676",
+    "00-430",
+    "00-4783",
+    "00-7120",
+    "00-4779",
+    "00-3713",
+    "00-2111",
+    "00-2045",
+    "00-1132",
+    "00-2223",
+    "00-9555",
+    "00-4170",
+    "00-3044",
+    "00-3042",
+    "00-1457",
+    "00-3321",
+    "00-3512",
+    "00-281",
+    "00-9290",
+    "00-323",
+    "00-4107",
+    "00-6219",
+    "00-7358",
+    "00-5108",
+    "00-2345",
+    "00-9753",
+    "00-6424",
+    "00-2201",
+    "00-8395",
+    "00-3709",
+    "00-7082",
+    "00-8140",
+    "00-4478",
+    "00-3120",
+    "00-3549",
+    "00-355",
+    "00-6745",
+    "00-6724",
+    "00-4078",
+    "00-2131",
+    "00-4655",
+    "00-3055",
+    "00-1900",
+    "00-7606",
+    "00-3681",
+    "00-4466",
+    "00-3580",
+    "00-6439",
+    "00-4605",
+    "00-4421",
+    "00-7336",
+    "00-7084",
+    "00-2222",
+    "00-1866",
+    "00-99202"
+  ],
+  "url": "/produkte/clever-fruchtjoghurt-vanille/00-392808",
+  "vatCode": "10",
+  "video": ""
+}

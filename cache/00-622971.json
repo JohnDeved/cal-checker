@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-686"
+  ],
+  "articleId": "00-622971",
+  "articleOnlyCanonicalPath": "/produkte/pilzkrone-pfifferlinge/00-622971",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Pilzkrone",
+  "canonicalPath": "/produkte/pilzkrone-pfifferlinge/00-622971",
+  "category": "Grundnahrungsmittel",
+  "description": "Pilze von Pilzkrone überzeugen durch erstklassige Qualität. Die köstlichen Pfifferlinge im Glas sind eingesalzene Eierschwammerl, die viele Gerichte verfeinern.<li>von einem mittelständischen Unternehmen produziert<li>Schwammerl für echte Feinschmecker<li>köstlicher Geschmack",
+  "eanCodes": [
+    "4003415020119"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Industriestraße 1, D-92439 Bodenwöhr",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Stahl Wild, Pilz & Waldfrüchte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-12-20T00:00:00",
+      "ingredients": "Zutaten: Eierschwammerl, Wasser, Salz, Säuerungsmittel: Citronensäure, Antioxidationsmittel: Ascorbinsäure.",
+      "mandatoryIndicator": "Bitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 100
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.3225
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 180
+        }
+      ],
+      "name": "Eierschwammerl, hergestellt aus eingesalzenen Pilzen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 29,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 119,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen gekühlt lagern und alsbald verbrauchen."
+    }
+  ],
+  "grammage": "180 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 13.83"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Pilzkrone Pfifferlinge",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686/produkte/pilzkrone-pfifferlinge/00-622971"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 13.83"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 52850,
+  "recommendationArticleIds": [
+    "00-101309"
+  ],
+  "seoDescription": "Pilzkrone Pfifferlinge online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pilzkrone Pfifferlinge online bestellen | BILLA",
+  "slug": "pilzkrone-pfifferlinge",
+  "storeAvalibility": [
+    "00-3617",
+    "00-4779",
+    "00-4605",
+    "00-4655",
+    "00-10",
+    "00-99202",
+    "00-7606",
+    "00-3780",
+    "00-1529",
+    "00-720",
+    "00-2342",
+    "00-7653",
+    "00-1132"
+  ],
+  "url": "/produkte/pilzkrone-pfifferlinge/00-622971",
+  "vatCode": "10",
+  "video": ""
+}

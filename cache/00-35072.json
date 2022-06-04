@@ -1,0 +1,268 @@
+{
+  "articleGroupIds": [
+    "B2-483"
+  ],
+  "articleId": "00-35072",
+  "articleOnlyCanonicalPath": "/produkte/handl-tyrol-karreespeck/00-35072",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Handl Tyrol",
+  "brandPath": "/marken/handl-tyrol",
+  "canonicalPath": "/produkte/handl-tyrol-karreespeck/00-35072",
+  "category": "Kühlwaren",
+  "description": "Der Karreespeck von Handl Tyrol wird über Buchenholz mild geräuchert. Der Speck ist mit natürlichen Gewürzen verfeinert und luftgereift.<li>3 Monate Reifezeit<li>ohne Zusatz von Geschmacksverstärkern<li>Qualitätsprodukt aus Österreich",
+  "eanCodes": [
+    "2201707000000"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PROTECTED_GEOGRAPHICAL_INDICATION",
+              "valueTranslation": "GESCHÜTZTE GEOGRAPHISCHE ANGABE (PGS) (für regionale Nahrungsmittel)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bundesstraße 33, A-6551 Pians",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Handl Tyrol GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.handltyrol.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Meersalz, Gewürze (Wacholder, Knoblauch, schwarzer Pfeffer), Dextrose, Konservierungsstoffe: Natriumnitrit, Kaliumnitrat; Buchenholzrauch.",
+      "marketingMessage": "Der HANDL TYROL Tiroler Speck g.g.A. Karreespeck ist seit jeher der feinste und mildeste unter den Tiroler Speck g.g.A. Produkten und wird aus besonders ausgesuchten Rückenstücken vom Schwein noch heute nach traditionellen Verfahren und überlieferten Rezepturen hergestellt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1316
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.3
+        }
+      ],
+      "name": "Tiroler Speck g.g.A. Karreespeck",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 289,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1205,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Fleisch aus Österreich",
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur ungekühlt lagerfähig.",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 33.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 33.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 33.9,
+    "unit": "100 g 3.39"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Handl Tyrol Karreespeck",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483/produkte/handl-tyrol-karreespeck/00-35072"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 33.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 33.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 33.9,
+    "unit": "100 g 3.39"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 92040,
+  "recommendationArticleIds": [],
+  "seoDescription": "Handl Tyrol Karreespeck online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Handl Tyrol Karreespeck online bestellen | BILLA",
+  "slug": "handl-tyrol-karreespeck",
+  "storeAvalibility": [
+    "00-8075",
+    "00-8235",
+    "00-8070",
+    "00-8151",
+    "00-8241",
+    "00-8155",
+    "00-8154",
+    "00-8159",
+    "00-8895",
+    "00-8076",
+    "00-8230",
+    "00-8140",
+    "00-8188",
+    "00-8657",
+    "00-7676",
+    "00-8646",
+    "00-8173",
+    "00-7866",
+    "00-8636",
+    "00-8193",
+    "00-8085",
+    "00-8426",
+    "00-8031",
+    "00-8213",
+    "00-8185",
+    "00-8158",
+    "00-8360",
+    "00-8334",
+    "00-8417",
+    "00-8606",
+    "00-8022",
+    "00-8243",
+    "00-99202"
+  ],
+  "url": "/produkte/handl-tyrol-karreespeck/00-35072",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

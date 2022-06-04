@@ -1,0 +1,308 @@
+{
+  "articleGroupIds": [
+    "B2-581"
+  ],
+  "articleId": "00-655",
+  "articleOnlyCanonicalPath": "/produkte/iglo-himbeeren/00-655",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-himbeeren/00-655",
+  "category": "Tiefkühl",
+  "description": "Himbeeren sind ein unwiderstehlicher Obstgenuss und mit Iglo können Sie nun jederzeit genießen. Ob pur vernascht, im Müsli, zum Kochen oder zum Backen verwendet - die Iglo Himbeeren sind auch abseits der klassischen Himbeersaison ein besonderer Genuss.",
+  "eanCodes": [
+    "9000143117024"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-04-28T00:00:00",
+      "ingredients": "Zutaten: Himbeeren.",
+      "marketingMessage": "Himbeeren sind ein unwiderstehlicher Obstgenuss und mit iglo können Sie nun jederzeit genießen. Ob pur vernascht,m Müsli, zum Kochen oder zum Backen verwendet - die iglo Himbeeren sind auch abseits der klassischen Himbeersaison ein besonderer Genuss.\n\nNutri-Score \"A\", iglo.at/nutriscore, Nutri Score wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 271
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Himbeeren tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 152,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 37,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 16,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion (=125g)",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 191,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 46,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 20,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "In der Mikrowelle:\niglo Himbeeren in ein mikrowellengeeignetes Geschirr geben. Ca. 6 Minuten nicht zugedeckt auf Defrost-Stufe auftauen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Bei Zimmertemperatur:\niglo Himbeeren auf einen Teller legen.Bei Zimmertemperatur 1,5-2 Stunden auftauen.",
+          "type": "Auftauen des Produktes zur Raumtemperatur oder einem noch gekuehlten Zustand"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck\nGekühlt lagern und innerhalb von 24 Stunden verwenden!",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farb- und Aromastoffe\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 15.16"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Himbeeren",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/desserts-und-fruechte/fruechte/B2-581/produkte/iglo-himbeeren/00-655"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 kg 15.16"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Himbeeren online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Himbeeren online bestellen | BILLA",
+  "slug": "iglo-himbeeren",
+  "storeAvalibility": [
+    "00-7075",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-himbeeren/00-655",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,284 @@
+{
+  "articleGroupIds": [
+    "B2-441"
+  ],
+  "articleId": "00-317767",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-gruene-pfeffer-pastete/00-317767",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-gruene-pfeffer-pastete/00-317767",
+  "category": "Kühlwaren",
+  "description": "<li>als Brotaufstrich, zum Verfeinern von Saucen und Dips<li>vegetarischer Brotaufstrich auf Hefebasis<li>milde Schärfe",
+  "eanCodes": [
+    "4104420136762",
+    "4104420173439"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Sonnenblumenöl*, Kartoffelstärke*, Hefe* getrocknet 8 %, Sonnenblumenkerne* gemahlen, teilentfettet, Grüner Pfeffer* 1,8 % (grüne Pfefferkörner*, Wasser, Meersalz, Essig*), Meersalz, Tomatenmark*, Verdickungsmittel: Johannisbrotkernmehl*, Weißer Pfeffer* *aus biologischer Landwirtschaft .",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 165
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Bio Brotaufstrich auf Hefebasis mit grünem Pfeffer, vegan",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 853,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 206,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen bitte im Kühlschrank aufbewahren und möglichst innerhalb von 3 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "125 g Dose",
+  "grammageBadge": "125 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 15.92"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Grüne Pfeffer Pastete",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441/produkte/alnatura-gruene-pfeffer-pastete/00-317767"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 15.92"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 108630,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Grüne Pfeffer Pastete online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Grüne Pfeffer Pastete online bestellen | BILLA",
+  "slug": "alnatura-gruene-pfeffer-pastete",
+  "storeAvalibility": [
+    "00-4107",
+    "00-10",
+    "00-7114",
+    "00-5108",
+    "00-521",
+    "00-9290",
+    "00-3617",
+    "00-7857",
+    "00-4605",
+    "00-6108",
+    "00-3143",
+    "00-4421",
+    "00-7075",
+    "00-2100",
+    "00-4707",
+    "00-4078",
+    "00-3700",
+    "00-783",
+    "00-7675",
+    "00-3512",
+    "00-4932",
+    "00-7653",
+    "00-4779",
+    "00-355",
+    "00-5027",
+    "00-2045",
+    "00-9753",
+    "00-4283",
+    "00-3979",
+    "00-350",
+    "00-225",
+    "00-7539",
+    "00-3780",
+    "00-6024",
+    "00-2342",
+    "00-4655",
+    "00-3114",
+    "00-4675",
+    "00-7606",
+    "00-1457",
+    "00-4249",
+    "00-6740",
+    "00-6864",
+    "00-4690",
+    "00-4551",
+    "00-4783",
+    "00-4126",
+    "00-4170",
+    "00-2218",
+    "00-3713",
+    "00-3947",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-gruene-pfeffer-pastete/00-317767",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,240 @@
+{
+  "articleGroupIds": [
+    "B2-459",
+    "B2-F"
+  ],
+  "articleId": "00-723076",
+  "articleOnlyCanonicalPath": "/produkte/darbo-fruchtikus-mango-marille/00-723076",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Darbo",
+  "brandPath": "/marken/darbo",
+  "canonicalPath": "/produkte/darbo-fruchtikus-mango-marille/00-723076",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9001432040986"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "6135 Stans/Tirol, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "A. Darbo AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.darbo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 40% Mangos, 32% Marillen (Aprikosen), 10% Pfirsiche,  Zucker, Zitronensaftkonzentrat, Vitamin C, Vitamin E, Fruchtanteil: 82%",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 215
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Mango-Marille Früchtedessert mit Vitamin C und E",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 336,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 79,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 50,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 40,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 3.6,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern und kühl genießen. Gekühlt mindestens haltbar bis: siehe Deckelrand",
+      "usageHints": "Früchtedessert zum Löffeln."
+    }
+  ],
+  "grammage": "125 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.19,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Gläser billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 0.79,
+    "unit": "1 kg 6.32"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Darbo Fruchtikus Mango-Marille",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/pudding-und-desserts/B2-459/produkte/darbo-fruchtikus-mango-marille/00-723076",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/darbo-fruchtikus-mango-marille/00-723076"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.19,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Gläser billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 0.79,
+    "unit": "1 kg 6.32"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Darbo Fruchtikus Mango-Marille online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Darbo Fruchtikus Mango-Marille online bestellen | BILLA",
+  "slug": "darbo-fruchtikus-mango-marille",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/darbo-fruchtikus-mango-marille/00-723076",
+  "vatCode": "10",
+  "video": ""
+}

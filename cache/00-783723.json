@@ -1,0 +1,172 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-783723",
+  "articleOnlyCanonicalPath": "/produkte/san-miguel-especial/00-783723",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "San Miguel",
+  "canonicalPath": "/produkte/san-miguel-especial/00-783723",
+  "category": "Getränke",
+  "description": "Das San Miguel Especial ist eines der bekanntesten Biere Spaniens. Das Lagerbier ist süffig und würzig. Es passt hervorragend zu Paella oder spanischen Tapas.<li>5,4 % Alkohol<li>mit Gerstenmalz und Mais",
+  "eanCodes": [
+    "8410655000416",
+    "8410655001710"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "240-08036 Barcelona (Espana-Spain)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Cervezas San Miguel S.L.U.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-08-18T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Mais, Hopfen",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.56
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Lagerbier",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 204,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 49,
+              "unit": "Kilokalorie"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "San Miguel Especial",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/san-miguel-especial/00-783723"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 105060,
+  "recommendationArticleIds": [
+    "00-833528"
+  ],
+  "seoDescription": "San Miguel Especial online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "San Miguel Especial online bestellen | BILLA",
+  "slug": "san-miguel-especial",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/san-miguel-especial/00-783723",
+  "vatCode": "20",
+  "video": ""
+}

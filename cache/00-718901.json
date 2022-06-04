@@ -1,0 +1,203 @@
+{
+  "articleGroupIds": [
+    "B2-756"
+  ],
+  "articleId": "00-718901",
+  "articleOnlyCanonicalPath": "/produkte/haribo-nimm-dir-suesses-dose/00-718901",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Haribo",
+  "brandPath": "/marken/haribo",
+  "canonicalPath": "/produkte/haribo-nimm-dir-suesses-dose/00-718901",
+  "category": "Süßes & Salziges",
+  "description": "Die beliebten Fruchtgummi-Varianten von Haribo gibt es in der großen Vorratsbox. In der Mischung „Nimm Dir Süßes“ findet jeder Genießer das Richtige.<li>Fruchtgummimischung, zum Teil mit Cola-Geschmack<li>Gummibären, Schnuller, Colaflaschen und vieles mehr<li>süßer Fruchtgummi aus Fruchtsaftkonzentrat<li>mit natürlicher Fruchtsüße verfeinert",
+  "eanCodes": [
+    "4001686735466"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Industriezeile 68, A-4020 Linz, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Haribo Austria GmbH & Co KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2021-03-11T00:00:00",
+      "ingredients": "Zutaten: Glukosesirup; Zucker; Gelatine; Dextrose; Säuerungsmittel: Citronensäure; Fruchtsaft aus Fruchtsaftkonzentrat: Apfel, Erdbeere, Himbeere, Orange, Zitrone, Ananas; Frucht- und Pflanzenkonzentrate: Saflor, Apfel, Spirulina, Rettich, Süßkartoffel, Karotte, Schwarze Johannisbeere, Hibiskus,  Zitrone, Holunderbeere, Orange, Kiwi, Aronia,\nMango, Passionsfrucht, Traube; Aroma; Karamellsirup; Überzugsmittel: Bienenwachs weiß und gelb, Carnaubawachs; Holunderbeerextrakt; lnvertzuckersirup. Kann Spuren von MILCH, WEIZEN enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 510
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Fruchtgummi teilweise mit Cola-Geschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 343,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1459,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 77,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 46,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.07,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 20,
+      "preperations": [],
+      "storageHint": "Vor Wärme und Feuchtigkeit schützen."
+    }
+  ],
+  "grammage": "500 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "100 g .86"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Haribo Nimm Dir Süßes Dose",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/fruchtgummi/B2-756/produkte/haribo-nimm-dir-suesses-dose/00-718901"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "100 g .86"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 199690,
+  "recommendationArticleIds": [],
+  "seoDescription": "Haribo Nimm Dir Süßes Dose online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Haribo Nimm Dir Süßes Dose online bestellen | BILLA",
+  "slug": "haribo-nimm-dir-suesses-dose",
+  "storeAvalibility": [
+    "00-7539",
+    "00-10",
+    "00-7075",
+    "00-350",
+    "00-99202"
+  ],
+  "url": "/produkte/haribo-nimm-dir-suesses-dose/00-718901",
+  "vatCode": "10",
+  "video": ""
+}

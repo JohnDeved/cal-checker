@@ -1,0 +1,202 @@
+{
+  "articleGroupIds": [
+    "B2-6D3"
+  ],
+  "articleId": "00-604218",
+  "articleOnlyCanonicalPath": "/produkte/heinz-knoblauch-sauce/00-604218",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Heinz",
+  "brandPath": "/marken/heinz",
+  "canonicalPath": "/produkte/heinz-knoblauch-sauce/00-604218",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Knoblauch Sauce von Heinz ist ein Klassiker unter den Grillsoßen. Sie unterstreicht den Geschmack von pikantem Grillfleisch oder gegrilltem Gemüse.<li>cremige Knoblauchsoße<li>aromatisch dank Knoblauch, Zwiebeln und Kräutern<li>mit Schnittlauch verfeinert<li>essfertig",
+  "eanCodes": [
+    "8715700115801",
+    "8715700411187",
+    "8715700110288"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Erkrather Str. 228b 40233 Düsseldorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "H. J. Heinz GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, Sonnenblumenöl 35%, Branntweinessig*, Zucker, Knoblauch 5%, Molkenpulver (MILCH), modifizierte Stärke, Salz, Gewürze (enthalten SENF), Schnittlauch, Säuerungsmittel (Citronensäure), Verdickungsmittel (Xanthan, Guarkernmehl), natürliches Aroma.\n*Österreich: Weingeistessig",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 255
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 220
+        }
+      ],
+      "name": "Knoblauch Sauce",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 371,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1526,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig: zum sofortigen Verzehr.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen gekühlt aufbewahren.",
+      "usageHints": "Vor dem Gebrauch Deckel öffnen und Folie entfernen."
+    }
+  ],
+  "grammage": "220 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 9.95"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Heinz Knoblauch Sauce",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/saucen-und-dressings/saucen/B2-6D3/produkte/heinz-knoblauch-sauce/00-604218"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 9.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 62270,
+  "recommendationArticleIds": [],
+  "seoDescription": "Heinz Knoblauch Sauce online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Heinz Knoblauch Sauce online bestellen | BILLA",
+  "slug": "heinz-knoblauch-sauce",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202",
+    "00-3780",
+    "00-355",
+    "00-7665",
+    "00-7603",
+    "00-7675",
+    "00-7606",
+    "00-7759",
+    "00-4834",
+    "00-7653"
+  ],
+  "url": "/produkte/heinz-knoblauch-sauce/00-604218",
+  "vatCode": "10",
+  "video": ""
+}

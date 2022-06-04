@@ -1,0 +1,331 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-549391",
+  "articleOnlyCanonicalPath": "/produkte/hipp-spaghetti-bolognese/00-549391",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-spaghetti-bolognese/00-549391",
+  "category": "Grundnahrungsmittel",
+  "description": "Kinder lieben Spaghetti Bolognese. Für die Kleinsten ab einem Alter von 8 Monaten gibt es das schmackhafte Nudelgericht von Hipp im praktischen Gläschen.<li>Pasta mit Bolognese- Soße<li>mit Zutaten aus biologischer Landwirtschaft<li>mit 64% Gemüse wie Tomaten, Karotten und Sellerie<li>verzehrfertig, nur leicht erwärmen",
+  "eanCodes": [
+    "4062300266087"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Tomaten* 34 %, Karotten*, Spaghetti* gekocht (HARTWEIZEN) 19 %, SELLERIE*, Wasser, Rindfleisch* 5,0 %, WEIZENMEHL*, Rapsöl* 2,1 %, Zwiebeln*, Gewürz*. *Aus biologischer Erzeugung. Hinweis: Kann Spuren von EI enthalten.",
+      "mandatoryIndicator": "Vollwertige Mahlzeit. Achten Sie auf eine ausgewogene Ernährung und gesunde Lebensweise. # Altersempfehlung: ab 8. Monat",
+      "marketingMessage": "Alle Hipp Menüs sind komplette, vollwertige Mahlzeiten ab dem Beikostalter und enthalten hochwertiges Bio-Rapsöl, das Ihr Baby mit natürlichen Omega-3-Fettsäuren versorgt. Wichtig für die gesunde Entwicklung und den Aufbau von Gehirn- und Nervenzellen. Außerdem werden alle Zutaten der Menüs schonend dampfgegart und enthalten kein Salz.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 340
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 220
+        }
+      ],
+      "name": "BIO Spaghetti Bolognese",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 71,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 297,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 156,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 654,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 17.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.33,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Simmern/Koecheln - Zubereitung in Wasser, welches knapp unter dem Siedepunkt gehalten wird"
+        }
+      ],
+      "storageHint": "Nicht erwärmten Rest verschlossen im Kühlschrank lagern und am nächsten Tag aufbrauchen.",
+      "usageHints": "Bitte Plastiklöffel verwenden. Bitte überzeugen Sie sich vor Verwendung, dass das Glas unversehrt geblieben ist."
+    }
+  ],
+  "grammage": "220 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.14"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Spaghetti Bolognese",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-spaghetti-bolognese/00-549391"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.14"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 33980,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hipp Spaghetti Bolognese online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Spaghetti Bolognese online bestellen | BILLA",
+  "slug": "hipp-spaghetti-bolognese",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-spaghetti-bolognese/00-549391",
+  "vatCode": "10",
+  "video": ""
+}

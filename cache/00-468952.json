@@ -1,0 +1,669 @@
+{
+  "articleGroupIds": [
+    "B2-537",
+    "B2-6G1"
+  ],
+  "articleId": "00-468952",
+  "articleOnlyCanonicalPath": "/produkte/iglo-green-cuisine-falafel/00-468952",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-green-cuisine-falafel/00-468952",
+  "category": "Tiefkühl",
+  "description": "Die neue, vegane Gemüsemahlzeit von iglo Green Cuisine: knusprige Falafel Bällchen auf Basis von Trendgemüse Kichererbsen.<li>Quelle von Protein<li>Quelle von Balaststoffen</li>",
+  "eanCodes": [
+    "9008695980011"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-01-15T00:00:00",
+      "ingredients": "Kichererbsen (63 %), Röstzwiebel (Zwiebeln, Rapsöl), HARTWEIZENGRIESS,Rapsöl,Petersilie, Zwiebel,Knoblauch, Backpulver (Backtriebmittel: Dinatrium-Diphosphat und Natriumbicarbonat, Maisstärke), Salz, Kreuzkümmel, Stabilisator: Methylcellulose ¹, Korianderextrakt, natürliches Aroma.\nKann Spuren von SELLERIE enthalten.\n¹Methylcellulose wird aus Pflanzen gewonnen und verleiht unseren Falafeln Form und Textur.",
+      "marketingMessage": "Die neue, vegane Gemüsemahlzeit von iglo Green Cuisine: knusprige Falafel Bällchen auf Basis von Trendgemüse Kichererbsen.\nNutri-Score \"A\", //iglo.at/nutriscore, Nutriscore wird auf Basis von 100 g berechnet",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 395
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 360
+        }
+      ],
+      "name": "Kichererbsenbällchen mit Kräutern und Gewürzen verfeinert, vorgebraten, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 951,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 228,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion** Nährwerte: (=120g, 8 Falafel), **zubereitet nach Anleit",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1122,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 269,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "IM BACKROHR: Backrohr auf ca. 220°C Ober- und Unterhitze (180°C Heißluft) vorheizen. Die gefrorenen Falafel auf ein mit Backpapier belegtes Backblech legen. Auf mittlerer Schiene ca. 11-13 Min. garen. Nach halber Backzeit wenden. Bitte beachten Sie die Hinweise des Backpapier-Herstellers.\nBitte achten Sie darauf, dass das Produkt vor dem Genuss vollständig durcherhitzt ist! Die ideale Zubereitungszeit hängt vom jeweiligen Küchengerät ab.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "IN DER PFANNE: Geben Sie ca. 1 Esslöfel Öl in eine erhitzte beschichtete Pfanne. Legen Sie die gefrorenen Falafel vorsichtig hinein. Bei mittlerer Hitze die Falafel unter regelmäßigem Wenden ca. 14 Min. braten.\nBitte achten Sie darauf, dass das Produkt vor dem Genuss vollständig durcherhitzt ist! Die ideale Zubereitungszeit hängt vom jeweiligen Küchengerät ab.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18 °C mindestens haltbar bis Ende: siehe Aufdruck.",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farb- und Aromastoffe",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-06-02T00:00:00",
+      "ingredients": "Kichererbsen (63 %), Röstzwiebel (Zwiebeln, Rapsöl), HARTWEIZENGRIESS,Rapsöl,Petersilie, Zwiebel,Knoblauch, Backpulver (Backtriebmittel: Dinatrium-Diphosphat und Natriumbicarbonat, Maisstärke), Salz, Kreuzkümmel, Stabilisator: Methylcellulose ¹, Korianderextrakt, natürliches Aroma.\nKann Spuren von SELLERIE enthalten.\n¹Methylcellulose wird aus Pflanzen gewonnen und verleiht unseren Falafeln Form und Textur.",
+      "marketingMessage": "Die neue, vegane Gemüsemahlzeit von iglo Green Cuisine: knusprige Falafel Bällchen auf Basis von Trendgemüse Kichererbsen.\n\nNutri-Score \"A\", iglo.at/nutriscore, Nutriscore wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 395
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 360
+        }
+      ],
+      "name": "Kichererbsenbällchen mit Kräutern und Gewürzen verfeinert, vorgebraten, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 951,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 228,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion** Nährwerte: (=120g, 8 Falafel), **zubereitet nach Anleit",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1122,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 269,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 3,
+      "preperations": [
+        {
+          "instruction": "IM BACKROHR: Backrohr auf ca. 220°C Ober- und Unterhitze (180°C Heißluft) vorheizen. Die gefrorenen Falafel auf ein mit Backpapier belegtes Backblech legen. Auf mittlerer Schiene ca. 11-13 Min. garen. Nach halber Backzeit wenden. Bitte beachten Sie die Hinweise des Backpapier-Herstellers.\nBitte achten Sie darauf, dass das Produkt vor dem Genuss vollständig durcherhitzt ist! Die ideale Zubereitungszeit hängt vom jeweiligen Küchengerät ab.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "IN DER PFANNE: Geben Sie ca. 1 Esslöfel Öl in eine erhitzte beschichtete Pfanne. Legen Sie die gefrorenen Falafel vorsichtig hinein. Bei mittlerer Hitze die Falafel unter regelmäßigem Wenden ca. 14 Min. braten.\nBitte achten Sie darauf, dass das Produkt vor dem Genuss vollständig durcherhitzt ist! Die ideale Zubereitungszeit hängt vom jeweiligen Küchengerät ab.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18 °C mindestens haltbar bis Ende: siehe Aufdruck.",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farb- und Aromastoffe",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    }
+  ],
+  "grammage": "360 Gramm Schachtel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 11.08"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Green Cuisine Falafel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/pasta-pfannen-und-schmankerl/B2-537/produkte/iglo-green-cuisine-falafel/00-468952",
+    "~/warengruppe/grundnahrungsmittel/fixprodukte/basisfixprodukte/B2-6G1/produkte/iglo-green-cuisine-falafel/00-468952"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 11.08"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 189450,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Green Cuisine Falafel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Green Cuisine Falafel online bestellen | BILLA",
+  "slug": "iglo-green-cuisine-falafel",
+  "storeAvalibility": [
+    "00-7424",
+    "00-2313",
+    "00-4016",
+    "00-6975",
+    "00-3709",
+    "00-3253",
+    "00-4440",
+    "00-7368",
+    "00-7336",
+    "00-4466",
+    "00-3011",
+    "00-6884",
+    "00-4756",
+    "00-2342",
+    "00-7743",
+    "00-3055",
+    "00-4605",
+    "00-1425",
+    "00-2808",
+    "00-2011",
+    "00-3445",
+    "00-3780",
+    "00-2306",
+    "00-9183",
+    "00-3384",
+    "00-9030",
+    "00-3860",
+    "00-5962",
+    "00-6910",
+    "00-3379",
+    "00-2201",
+    "00-1070",
+    "00-7084",
+    "00-3512",
+    "00-6676",
+    "00-8085",
+    "00-7204",
+    "00-3005",
+    "00-2259",
+    "00-7223",
+    "00-3047",
+    "00-3740",
+    "00-2204",
+    "00-950",
+    "00-4283",
+    "00-2220",
+    "00-3744",
+    "00-6424",
+    "00-7860",
+    "00-2045",
+    "00-7358",
+    "00-4690",
+    "00-4090",
+    "00-9753",
+    "00-6843",
+    "00-3059",
+    "00-6011",
+    "00-8940",
+    "00-6724",
+    "00-4078",
+    "00-2287",
+    "00-3062",
+    "00-3050",
+    "00-1198",
+    "00-7393",
+    "00-3713",
+    "00-6745",
+    "00-4879",
+    "00-6760",
+    "00-1132",
+    "00-3857",
+    "00-3711",
+    "00-5552",
+    "00-2223",
+    "00-9209",
+    "00-4270",
+    "00-3027",
+    "00-7245",
+    "00-7114",
+    "00-1417",
+    "00-3118",
+    "00-6021",
+    "00-4551",
+    "00-5603",
+    "00-6281",
+    "00-7139",
+    "00-1826",
+    "00-10",
+    "00-4421",
+    "00-4912",
+    "00-3580",
+    "00-6219",
+    "00-6353",
+    "00-1108",
+    "00-823",
+    "00-7082",
+    "00-7766",
+    "00-2131",
+    "00-8426",
+    "00-6928",
+    "00-4655",
+    "00-2111",
+    "00-3212",
+    "00-1107",
+    "00-7616",
+    "00-9894",
+    "00-3105",
+    "00-3856",
+    "00-4441",
+    "00-3114",
+    "00-9290",
+    "00-3120",
+    "00-4834",
+    "00-6864",
+    "00-7075",
+    "00-1710",
+    "00-3234",
+    "00-3042",
+    "00-3617",
+    "00-2098",
+    "00-4783",
+    "00-7653",
+    "00-8946",
+    "00-7606",
+    "00-6024",
+    "00-4748",
+    "00-6304",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-green-cuisine-falafel/00-468952",
+  "vatCode": "10",
+  "video": ""
+}

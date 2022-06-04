@@ -1,0 +1,233 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-634605",
+  "articleOnlyCanonicalPath": "/produkte/firefly-pomegranate-und-elderflower/00-634605",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Firefly",
+  "canonicalPath": "/produkte/firefly-pomegranate-und-elderflower/00-634605",
+  "category": "Getränke",
+  "description": "Pomegranate & Elderflower macht im typischen Firefly-Design Lust auf Frucht: ein Fruchtsaftgetränk mit Granatapfel, Holunderblüte, stillem Wasser und mehr.<li>weißer Traubensaft, ergänzt mit weiteren Fruchtsäften wie Granatapfel, Aronia und Holunderblüte<li>mit Kräuter-Aromen verfeinert",
+  "eanCodes": [
+    "5060066440801"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "WS10 0BU",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Purity Soft Drinks Ltd.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.fireflydrinks.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2020-02-11T00:00:00",
+      "ingredients": "Zutaten: Wasser, Fruchtsaft aus Fruchtsaftkonzentrat: Weiße Traube (37,7%), trüber Apfel (5%), Aronia (1.3%), Granatapfel (1.1%), Limette (0.7%), Zitrone (0.5%), Holunderblütenextrakt (0.1%), Thymian- und Kolanussextrakt (0.03%), natürliches Rosmarinaroma, andere natürliche Aromastoffe.",
+      "marketingMessage": "firefly - revitalising Juice Drinks",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 552
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Stilles Fruchtsaftgetränk ausGranatapfel und Holunderblüte mit Kräuterextrakten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 29,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 121,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Mindestens haltbar bis Ende: Siehe Flaschenhals.\nGekühlt innerhalb von 24 Stunden nach dem Öffnen verbrauchen.",
+      "usageHints": "Gut schütteln."
+    }
+  ],
+  "grammage": "330 ml Flasche (Einweg)",
+  "grammageBadge": "330 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 6.64"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Firefly Pomegranate & Elderflower",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/firefly-pomegranate-und-elderflower/00-634605"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 6.64"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 70550,
+  "recommendationArticleIds": [
+    "00-415274"
+  ],
+  "seoDescription": "Firefly Pomegranate & Elderflower online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Firefly Pomegranate & Elderflower online bestellen | BILLA",
+  "slug": "firefly-pomegranate-und-elderflower",
+  "storeAvalibility": [
+    "00-2260",
+    "00-5078",
+    "00-281",
+    "00-2342",
+    "00-3042",
+    "00-2190",
+    "00-174",
+    "00-2170",
+    "00-282",
+    "00-2261",
+    "00-3146",
+    "00-3082",
+    "00-3214",
+    "00-836",
+    "00-2111",
+    "00-3027",
+    "00-99202",
+    "00-119",
+    "00-6676",
+    "00-3206",
+    "00-2238",
+    "00-2808",
+    "00-471",
+    "00-2223",
+    "00-10",
+    "00-388",
+    "00-950",
+    "00-2675"
+  ],
+  "url": "/produkte/firefly-pomegranate-und-elderflower/00-634605",
+  "vatCode": "20",
+  "video": ""
+}

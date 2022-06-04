@@ -1,0 +1,301 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-764671",
+  "articleOnlyCanonicalPath": "/produkte/hipp-karotten-mit-reis-und-wildlachs/00-764671",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-karotten-mit-reis-und-wildlachs/00-764671",
+  "category": "Grundnahrungsmittel",
+  "description": "Natürlich gut: Hipp Karotten mit Reis und Wildlachs sowie wertvoller Omega-3-Fettsäure ist ein vollwertiges Gericht für Kinder ab dem achten Monat.<li>Kinderhauptgericht mit Karotten und Reis aus biologischer Erzeugung<li>mit Wildlachs aus nachhaltigem Fischfang<li>enthält feine Stücke und unterstützt dadurch das Kauen",
+  "eanCodes": [
+    "4062300208254"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Karotten* 41%, entrahmte MILCH*, Wasser, Reis* gekocht 13%, WILDLACHS 8%, Zwiebeln*, Rapsöl* 2 %, Zitronensaft* aus Zitronensaftkonzentrat, Gewürz*. *Aus biologischer Erzeugung.",
+      "mandatoryIndicator": "ab 8. Monat #glutenfrei #Achten Sie auf eine ausgewogene Ernährung und gesunde Lebensweise.",
+      "marketingMessage": "Die HiPP Menüs sind komplette wie auch vollwertige Mahlzeiten ab dem 8. Monat. Die wohlschmeckenden Menüs sind ohne Zusatz von Salz, mit feinen Stückchen zum Kauen lernen und in bester HiPP Bio-Qualität. Alle HiPP-Menüs enthalten dabei hochwertiges Bio-Rapsöl, das Ihr Baby mit natürlicher Alpha-Linolensäure (eine Omega 3-Fettsäure) versorgt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 340
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 220
+        }
+      ],
+      "name": "Karotten mit Reis und Wildlachs",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 65,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 271,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 143,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 597,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.07,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.29,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, umrühren und Temperatur prüfen.",
+          "type": "Simmern/Koecheln - Zubereitung in Wasser, welches knapp unter dem Siedepunkt gehalten wird"
+        }
+      ],
+      "storageHint": "Nicht erwärmten Rest verschlossen im Kühlschrank lagern und am nächsten Tag aufbrauchen.",
+      "usageHints": "Vollwertige Mahlzeit. #Bitte Plastiklöffel verwenden."
+    }
+  ],
+  "grammage": "220 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.14"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Karotten mit Reis und Wildlachs",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-karotten-mit-reis-und-wildlachs/00-764671"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.14"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 83860,
+  "recommendationArticleIds": [
+    "00-553621"
+  ],
+  "seoDescription": "Hipp Karotten mit Reis und Wildlachs online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Karotten mit Reis und Wildlachs online bestellen | BILLA",
+  "slug": "hipp-karotten-mit-reis-und-wildlachs",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/hipp-karotten-mit-reis-und-wildlachs/00-764671",
+  "vatCode": "10",
+  "video": ""
+}

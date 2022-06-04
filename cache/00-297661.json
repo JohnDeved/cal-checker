@@ -1,0 +1,392 @@
+{
+  "articleGroupIds": [
+    "B2-A12"
+  ],
+  "articleId": "00-297661",
+  "articleOnlyCanonicalPath": "/produkte/crave-lamm-und-rind/00-297661",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Crave",
+  "canonicalPath": "/produkte/crave-lamm-und-rind/00-297661",
+  "category": "Haustier",
+  "description": "Alleinfuttermittel für erwachsene Hunde - Tiernahrung.",
+  "eanCodes": [
+    "4008429114564"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "Zusatzstoffe pro kg: Ernährungsphysiologische Zusatzstoffe: Vitamin A: 10030 IE, Vitamin Dü: 1106 IE, Kupfer (Kupfer(II)-sulfat-Pentahydrat): 6.0 mg, Jod (Kaliumjodid): 1.5 mg, Mangan (Mangan-(II)-sulfat-Monohydrat): 19.8 mg, Selen (Natriumselenit): 0.23 mg, Zink (Zinksulfat Monohydrat): 56.1 mg."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile (%): Protein: 35.0; Fettgehalt: 19.3; anorganischer Stoff: 9.2; Rohfaser: 2.1. Brennwert: 391 kcal/100 g."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "310"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "270"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "230"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "185"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "135"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Fütterungsempfehlung: Wir empfehlen eine Mischung aus CRAVEü Trockennahrung und Feuchtnahrung zu füttern. Nehmen Sie sich Zeit für die Fütterungsumstellung, passen Sie die Fütterungsmenge an und teilen Sie diese in mehrere Mahlzeiten, entsprechend den Bedürfnissen Ihres Tieres. Für Fütterungsinformationen besuchen Sie unsere Webseite oder rufen Sie unsere Service-Hotline an. Stellen Sie frisches Trinkwasser bereit. Bitte geschlossen an einem kühlen und trockenen Ort lagern. Die Futtermenge für Ihr Tier variiert je nach Alter, Gewicht, Rasse, Geschlecht und Aktivitätsgrad. Weil es wichtig ist, dass Ihr Haustier die richtige Futtermenge bekommt, schauen Sie bitte auf der Packung die detaillierten Fütterungsempfehlungen an."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "DE05770000113"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "30"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "25"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "20"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "15"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "10"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: mindestens 60% tierische Zutaten: Rind 20% (u.a. frisches Rind (17%), Rindergriebenproteine (0.7%)), Lammtrockenprotein (16%), getrocknetes Hühnerprotein (16%), Geflügelfett (10%), Truthahnextrakt (3%), Kartoffelflocken, Linsen, Erbsenprotein, getrocknete Rübenschnitzel, Tapiokastärke, Mineralstoffe, getrocknete Apfelschnitzel, Sonnenblumenöl, Rosmarin-Extrakt."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, 1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mars Austria OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-02-15T00:00:00",
+      "mandatoryIndicator": "Verpackung für Kinder und Tiere unzugänglich aufbewahren (Erstickungsgefahr).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1026
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Alleinfuttermittel für erwachsene Hunde - Tiernahrung.",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Bitte geschlossen an einem kühlen und trockenen Ort lagern."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "Zusatzstoffe pro kg: Ernährungsphysiologische Zusatzstoffe: Vitamin A: 10200 IE, Vitamin D3: 1125 IE, Kupfer (Kupfer(II)-sulfat-Pentahydrat): 4.5 mg, Jod (Kaliumjodid): 1.1 mg, Mangan (Mangan(II)-sulfat, Monohydrat): 20.3 mg, Selen (Natriumselenit): 0.25 mg, Zink (Zinksulfat Monohydrat): 57.4 mg."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile (%): Protein: 36.0; Fettgehalt: 15.5; anorganischer Stoff: 8.3; Rohfaser: 2.3. Brennwert: 386 kcal/100 g."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "310"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "270"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "230"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "185"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSMENGE",
+              "description": "Fütterungsmenge  (M445)",
+              "hasTranslation": "False",
+              "value": "135"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Fütterungsempfehlung: Wir empfehlen eine Mischung aus CRAVEü Trockennahrung und Feuchtnahrung zu füttern. Nehmen Sie sich Zeit für die Fütterungsumstellung, passen Sie die Fütterungsmenge an und teilen Sie diese in mehrere Mahlzeiten, entsprechend den Bedürfnissen Ihres Tieres. Für Fütterungsinformationen besuchen Sie unsere Webseite oder rufen Sie unsere Service-Hotline an. Stellen Sie frisches Trinkwasser bereit. Bitte geschlossen an einem kühlen und trockenen Ort lagern. Die Futtermenge für Ihr Tier variiert je nach Alter, Gewicht, Rasse, Geschlecht und Aktivitätsgrad. Weil es wichtig ist, dass Ihr Haustier die richtige Futtermenge bekommt, schauen Sie bitte auf der Packung die detaillierten Fütterungsempfehlungen an."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "DE05770000113"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "30"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "25"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "20"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "15"
+            },
+            {
+              "attributeCode": "TIERFUTTER_MAX_GEWICHT",
+              "description": "Maximalgewicht der zu fütternden Tiere (M443)",
+              "hasTranslation": "False",
+              "value": "10"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: natürliches Rind (32.8%): frisches Rind (17.5%), Rindergriebenproteine; Erbsenstärke, getrocknetes Geflügelprotein, getrocknete ganze Erbsen, Geflügelfett, getrocknete Rübenschnitzel, natürliches Lammtrockenprotein (4%), Truthahnleberextrakt, Mineralstoffe, Sonnenblumenöl."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, 1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mars Austria OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-06T00:00:00",
+      "mandatoryIndicator": "Verpackung für Kinder und Tiere unzugänglich aufbewahren (Erstickungsgefahr).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1026
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Alleinfuttermittel für ausgewachsene Hunde - Tiernahrung.",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Bitte geschlossen an einem kühlen und trockenen Ort lagern."
+    }
+  ],
+  "grammage": "1 Kilogramm Sack",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.39
+  },
+  "maximalOrderQuantity": 90,
+  "minimalOrderQuantity": 0,
+  "name": "Crave Lamm und Rind",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/hunde/trockenfutter/B2-A12/produkte/crave-lamm-und-rind/00-297661"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.39
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Crave Lamm und Rind online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Crave Lamm und Rind online bestellen | BILLA",
+  "slug": "crave-lamm-und-rind",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/crave-lamm-und-rind/00-297661",
+  "vatCode": "13",
+  "video": ""
+}

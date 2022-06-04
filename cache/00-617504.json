@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-370",
+    "B2-317"
+  ],
+  "articleId": "00-617504",
+  "articleOnlyCanonicalPath": "/produkte/voss-still3/00-617504",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Voss",
+  "canonicalPath": "/produkte/voss-still3/00-617504",
+  "category": "Getränke",
+  "description": "Reines, unberührtes Wasser, natürlich filtriert: Das ist Voss Still. Das Quellwasser hat keine Nebengeschmäcker und passt daher zu allen Speisen.",
+  "eanCodes": [
+    "0682430611744"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Isekai 1a, 20249 Hamburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Columbus Drinks GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@columbus-drinks.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "+49 (0) 40 41 42 41 299",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+49 (0) 40 41 42 41 20",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "http://columbus-drinks.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "",
+          "detail": "4260449690002",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "NORWEGEN"
+      ],
+      "fromDate": "2020-01-23T00:00:00",
+      "ingredients": "Zutaten: natürliches Mineralwasser",
+      "mandatoryIndicator": "natürliches Mineralwasser",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1365
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 800
+        }
+      ],
+      "name": "Natürliches Mineralwasser.\nAus der VOSS-Quelle abgefüllt von VOSS Production AS, N-4730 Vatnestrøm, Norwegen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fluorid",
+              "nutritionalValue": 0.1,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 1,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 20,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "usageHints": "Nicht verwenden, wenn Verschluss beschädigt ist."
+    }
+  ],
+  "grammage": "0.8 l Flasche (Einweg)",
+  "grammageBadge": "0.8 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 4.99"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Voss Still",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/mineralwasser/still/B2-370/produkte/voss-still3/00-617504",
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/voss-still3/00-617504"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 4.99"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 133690,
+  "recommendationArticleIds": [],
+  "seoDescription": "Voss Still online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Voss Still online bestellen | BILLA",
+  "slug": "voss-still3",
+  "storeAvalibility": [
+    "00-119",
+    "00-5078",
+    "00-3700",
+    "00-281",
+    "00-10",
+    "00-2342",
+    "00-99202",
+    "00-3780",
+    "00-388",
+    "00-6676",
+    "00-176",
+    "00-174"
+  ],
+  "url": "/produkte/voss-still3/00-617504",
+  "vatCode": "20",
+  "video": ""
+}

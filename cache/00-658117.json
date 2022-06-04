@@ -1,0 +1,312 @@
+{
+  "articleGroupIds": [
+    "B2-45A"
+  ],
+  "articleId": "00-658117",
+  "articleOnlyCanonicalPath": "/produkte/stainzer-schlagobers-32/00-658117",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Stainzer",
+  "canonicalPath": "/produkte/stainzer-schlagobers-32/00-658117",
+  "category": "Kühlwaren",
+  "description": "Der Stainzer Schlagobers 32% in der fröhlich-bunten und wiederverschließbaren Packung schmeckt sahnig frisch, bei geringem Fettgehalt.<li>Schlagobers mit 32% Fettgehalt – etwas weniger als herkömmliche Produkte<li>länger haltbar, da hocherhitzt",
+  "eanCodes": [
+    "9024800143201"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: SCHLAGOBERS, Verdickungsmittel Carrageen",
+      "marketingMessage": "Stainzer Schlagobers in der praktischen, widerverschließbaren Packung schmeckt besonders gut und enthält etwas weniger Fett als herkömmliche Produkte.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.27
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.25
+        }
+      ],
+      "name": "Schlagobers 32% Fett, hocherhitzt, länger frisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 309,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1274,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (bis + 6°C) lagern. Nach dem Öffnen alsbald aufbrauchen. Ungeöffnet mindestens haltbar bis: siehe oben."
+    }
+  ],
+  "grammage": "250 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 5.96"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Stainzer Schlagobers 32%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A/produkte/stainzer-schlagobers-32/00-658117"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 5.96"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 109570,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stainzer Schlagobers 32% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stainzer Schlagobers 32% online bestellen | BILLA",
+  "slug": "stainzer-schlagobers-32",
+  "storeAvalibility": [
+    "00-7743",
+    "00-6979",
+    "00-6805",
+    "00-6372",
+    "00-6559",
+    "00-6480",
+    "00-6810",
+    "00-6843",
+    "00-6892",
+    "00-6508",
+    "00-7189",
+    "00-6018",
+    "00-7393",
+    "00-6496",
+    "00-6494",
+    "00-7336",
+    "00-6983",
+    "00-6952",
+    "00-8433",
+    "00-6248",
+    "00-6823",
+    "00-6569",
+    "00-6900",
+    "00-6108",
+    "00-7302",
+    "00-6138",
+    "00-8940",
+    "00-6684",
+    "00-6588",
+    "00-6724",
+    "00-6304",
+    "00-6255",
+    "00-6021",
+    "00-6338",
+    "00-6740",
+    "00-6011",
+    "00-6877",
+    "00-6897",
+    "00-7358",
+    "00-7245",
+    "00-6274",
+    "00-99202",
+    "00-6688",
+    "00-6628",
+    "00-6424",
+    "00-6123",
+    "00-6197",
+    "00-6916",
+    "00-6871",
+    "00-6306",
+    "00-6022",
+    "00-6819",
+    "00-6840",
+    "00-6745",
+    "00-4783",
+    "00-6799",
+    "00-6219",
+    "00-6811",
+    "00-6558",
+    "00-8946",
+    "00-6179",
+    "00-6518",
+    "00-6051",
+    "00-6864",
+    "00-6439",
+    "00-6749",
+    "00-7082",
+    "00-6533",
+    "00-6024",
+    "00-6975",
+    "00-6884",
+    "00-8012",
+    "00-6932",
+    "00-6489",
+    "00-6487",
+    "00-6970",
+    "00-6490",
+    "00-6758",
+    "00-6235",
+    "00-6928",
+    "00-6065",
+    "00-6492",
+    "00-6554",
+    "00-6676",
+    "00-6281",
+    "00-6760",
+    "00-6353",
+    "00-6262"
+  ],
+  "url": "/produkte/stainzer-schlagobers-32/00-658117",
+  "vatCode": "10",
+  "video": ""
+}

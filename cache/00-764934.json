@@ -1,0 +1,244 @@
+{
+  "articleGroupIds": [
+    "B2-639",
+    "B2-673"
+  ],
+  "articleId": "00-764934",
+  "articleOnlyCanonicalPath": "/produkte/bio-agavensirup/00-764934",
+  "attributes": [
+    "s_bio",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "",
+  "canonicalPath": "/produkte/bio-agavensirup/00-764934",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Bio Agavensirup hat einen milden Geschmack nach Karamell. Das bernsteinfarbene Süßungsmittel schmeckt in Tee, Desserts und Backwaren.<li>100 % konzentrierter Agaven-Dicksaft zum Süßen<li>aus kontrolliert biologischem Anbau",
+  "eanCodes": [
+    "9004617014406"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "NON_EU_AGRICULTURE",
+              "valueTranslation": "Nicht-EU Landwirtschaft - Alle Rohmaterialien in Drittländern angebaut"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Sportplatzweg 7, 6336 Langkampfen, ÖSTERREICH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vita+ Naturprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "MEXIKO"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "ENTHÄLT: Agavendicksaft aus kontrolliert biologischem Anbau.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 381
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Agaven Dicksaft",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1292,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 304,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 76,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 76,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Eignet sich zum Backen und für alle Arten von Puddings, Cremen und Desserts. Als Zuckerersatz sparen Sie 25 % der sonst üblichen Zuckermenge.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Licht und Wärme schützen.",
+      "usageHints": "Vor Licht und Wärme schützen."
+    }
+  ],
+  "grammage": "250 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 17.16"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Bio Agavensirup",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/gelierhilfe-und--zucker/B2-639/produkte/bio-agavensirup/00-764934",
+    "~/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/suesse-aufstriche/B2-673/produkte/bio-agavensirup/00-764934"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 17.16"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 65900,
+  "recommendationArticleIds": [],
+  "seoDescription": "Bio Agavensirup online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bio Agavensirup online bestellen | BILLA",
+  "slug": "bio-agavensirup",
+  "storeAvalibility": [
+    "00-2342",
+    "00-6676",
+    "00-3120",
+    "00-3780",
+    "00-720",
+    "00-2259",
+    "00-6021",
+    "00-4016",
+    "00-823",
+    "00-176",
+    "00-3103",
+    "00-174",
+    "00-99202",
+    "00-10",
+    "00-2899",
+    "00-3042",
+    "00-119",
+    "00-281",
+    "00-6138",
+    "00-6496"
+  ],
+  "url": "/produkte/bio-agavensirup/00-764934",
+  "vatCode": "10",
+  "video": ""
+}

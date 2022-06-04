@@ -1,0 +1,244 @@
+{
+  "articleGroupIds": [
+    "B2-488"
+  ],
+  "articleId": "00-817617",
+  "articleOnlyCanonicalPath": "/produkte/hoertnagl-extrawurst-abgepasst/00-817617",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hörtnagl",
+  "canonicalPath": "/produkte/hoertnagl-extrawurst-abgepasst/00-817617",
+  "category": "Kühlwaren",
+  "description": "Die Extrawurst Abgepackt von Hörtnagl vereint feines Brät und herzhafte Würze. Sie bildet die ideale Grundlage für kräftigen Wurstsalat mit saurer Gurke.<li>Schweine- und Rindfleisch, Speck<li>gekühlte Lieferung<li>im Stück abgepackt",
+  "eanCodes": [
+    "9006507003132"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6060 Hall in Tirol,\nTrientlstraße 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Andrä Hörtnagl Produktion und Handel GmbH.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hoertnagl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-12-27T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch(51%), Rindfleisch(13%), Speck, Wasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: E250); Speisesalz (Speisesalz, Kaliumjodat), Stärke, Gewürze und Gewürzextrakte mit SENF, Stabilisator: E450; Geschmacksverstärker: E621; Antioxidationsmittel: E270, E301, E330; Zucker, Aroma",
+      "mandatoryIndicator": "Wursthülle nicht essbar",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 300
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Extrawurst gekocht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 273,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1130,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lagertemperatur +2°C - +6°C. Ungeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt"
+    }
+  ],
+  "grammage": "300 g Stk",
+  "grammageBadge": "300 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 10.97"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hörtnagl Extrawurst Abgepasst",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/hoertnagl-extrawurst-abgepasst/00-817617"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 10.97"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 58980,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hörtnagl Extrawurst Abgepasst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hörtnagl Extrawurst Abgepasst online bestellen | BILLA",
+  "slug": "hoertnagl-extrawurst-abgepasst",
+  "storeAvalibility": [
+    "00-8646",
+    "00-8151",
+    "00-8076",
+    "00-8606",
+    "00-8417",
+    "00-8154",
+    "00-8895",
+    "00-8360",
+    "00-8158",
+    "00-8155",
+    "00-8230",
+    "00-8636",
+    "00-8140",
+    "00-8075",
+    "00-8243",
+    "00-99202",
+    "00-8426",
+    "00-8657",
+    "00-8022",
+    "00-8241",
+    "00-8070",
+    "00-8213",
+    "00-8185",
+    "00-8193",
+    "00-8085",
+    "00-8334",
+    "00-8159",
+    "00-8031",
+    "00-8188",
+    "00-8173"
+  ],
+  "url": "/produkte/hoertnagl-extrawurst-abgepasst/00-817617",
+  "vatCode": "10",
+  "video": ""
+}

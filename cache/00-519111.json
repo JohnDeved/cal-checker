@@ -1,0 +1,378 @@
+{
+  "articleGroupIds": [
+    "B2-531"
+  ],
+  "articleId": "00-519111",
+  "articleOnlyCanonicalPath": "/produkte/the-vegetarian-butcher-wien-schnitzel/00-519111",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "The Vegetarian Butcher",
+  "canonicalPath": "/produkte/the-vegetarian-butcher-wien-schnitzel/00-519111",
+  "category": "Tiefkühl",
+  "description": "Vegane panierte Schnitzel auf Sojabasis mit Protein und Vitamin B12.<br>Wir sind schon so Schlawiener. Darum kommt hier auch gleich mal das Beste, inspiriert von Wien: Sieht aus wie'n Schnitzel. Riecht wie'n Schnitzel. Schmeckt wie'n Schnitzel. Ist wie'n Schnitzel. Ohne Muh und Aber. Dafür absolut köstlich. Am besten mit Kartoffelsalat und Zitronenscheibe.<br>Wir glauben: Sissi und Franz hätten's empfohlen. Kein Kaiserschmarrn.",
+  "eanCodes": [
+    "8720182135353"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "NUTRITION_FACT_LABEL"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "INGREDIENTS_LABEL"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 10, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2022-04-19T00:00:00",
+      "ingredients": "Zutaten: Trinkwasser, 22% Sojabasis (Trinkwasser, SOJAEIWEISS, WEIZENGLUTEN, Stärke), 21% Paniermehl (WEIZENMEHL, WEIZENFASERN, Hefe, Speisesalz), Sonnenblumenöl, Fasern (HAFER, Flohsamen), SOJAEIWEISS, WEIZENMEHL, Verdickungsmittel (Methylcellulose), Sheabutter, natürliches Aroma, Stärke, modifizierte WEIZENSTÄRKE, Branntweinessig / Weingeistessig, Kokosöl, Speisesalz, Säuerungsmittel (Milchsäure), Pfeffer, Eisendiphosphat, Vitamin B12. Kann andere glutenhaltige Getreide, Sellerie, Ei, Milch und Senf enthalten.",
+      "marketingMessage": "Wir sind schon so Schlawiener. Darum kommt hier auch gleich mal das Beste, inspiriert von Wien: Sieht aus wie'n Schnitzel. Riecht wie'n Schnitzel. Schmeckt wie'n Schnitzel. Ist wie'n Schnitzel. Ohne Muh und Aber. Dafür absolut köstlich. Am besten mit Kartoffelsalat und Zitronenscheibe. Wir glauben: Sissi und Franz hätten's empfohlen. Kein Kaiserschmarrn.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.2
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 180
+        }
+      ],
+      "name": "Vegane panierte Schnitzel auf Sojabasis, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1186,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 285,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.91,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.52,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Zubereitung: - In der Pfanne: tiefgefrorene Schnitzel in 2-3 EL heißem Öl bei mittlerer Hitze 4 Minuten je Seite goldbraun braten, dabei komplett durcherhitzen. - Im Backofen: tiefgefrorene Schnitzel auf einem Ofenrost im vorgeheizten Backofen bei 200°C (Umluft: 175°C) 10 Minuten backen, bis sie komplett durcherhitzt sind. Produkt ist zum direkten Kaltverzehr nicht geeignet. Vor dem Verzehr Produkt vollständig durcherhitzen.",
+          "type": "Grillen/Braten - Zubereitung mit hoher Hitze, oftmals direkt von oben durch Heizstrahler"
+        }
+      ],
+      "storageHint": "Im Kühlschrank bei +2°C bis +7°C auftauen und innerhalb von 2 Tagen verbrauchen. Nach dem Auftauen nicht wieder einfrieren. Bei -18°C mindestens haltbar bis: siehe Packungsaufdruck",
+      "sustenanceClaim": "% der Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal), Eisenquelle, mit Protein und Vitamin B12, Portion, Produkt wie verkauft, Recycelbare Verpackung, Reich an Ballaststoffen"
+    }
+  ],
+  "grammage": "180 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 22.17"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "The Vegetarian Butcher Wie'n Schnitzel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/fleisch-und-fisch/B2-531/produkte/the-vegetarian-butcher-wien-schnitzel/00-519111"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 22.17"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "The Vegetarian Butcher Wie'n Schnitzel online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "The Vegetarian Butcher Wie'n Schnitzel online bestellen | BILLA",
+  "slug": "the-vegetarian-butcher-wien-schnitzel",
+  "storeAvalibility": [
+    "00-1107",
+    "00-3047",
+    "00-2259",
+    "00-7082",
+    "00-7368",
+    "00-1826",
+    "00-2131",
+    "00-4551",
+    "00-4783",
+    "00-3120",
+    "00-4440",
+    "00-6676",
+    "00-3580",
+    "00-2111",
+    "00-4016",
+    "00-6864",
+    "00-7075",
+    "00-4090",
+    "00-6745",
+    "00-2223",
+    "00-3780",
+    "00-4748",
+    "00-4605",
+    "00-1417",
+    "00-6281",
+    "00-2342",
+    "00-2313",
+    "00-3711",
+    "00-7860",
+    "00-1710",
+    "00-3234",
+    "00-7223",
+    "00-4834",
+    "00-3050",
+    "00-2098",
+    "00-2045",
+    "00-7616",
+    "00-8426",
+    "00-3617",
+    "00-2204",
+    "00-5603",
+    "00-3027",
+    "00-3744",
+    "00-4879",
+    "00-5962",
+    "00-950",
+    "00-3379",
+    "00-7204",
+    "00-7606",
+    "00-7114",
+    "00-9030",
+    "00-4283",
+    "00-4078",
+    "00-6843",
+    "00-4655",
+    "00-3384",
+    "00-7766",
+    "00-2808",
+    "00-6304",
+    "00-6219",
+    "00-9894",
+    "00-4756",
+    "00-6910",
+    "00-1198",
+    "00-2220",
+    "00-2287",
+    "00-1425",
+    "00-7358",
+    "00-3512",
+    "00-6021",
+    "00-3042",
+    "00-2306",
+    "00-7743",
+    "00-3114",
+    "00-9183",
+    "00-7084",
+    "00-3118",
+    "00-6928",
+    "00-2011",
+    "00-10",
+    "00-3059",
+    "00-6024",
+    "00-3709",
+    "00-6975",
+    "00-823",
+    "00-4421",
+    "00-9290",
+    "00-7245",
+    "00-9209",
+    "00-3005",
+    "00-2201",
+    "00-6760",
+    "00-3860",
+    "00-3212",
+    "00-4270",
+    "00-8946",
+    "00-3740",
+    "00-4912",
+    "00-9753",
+    "00-3253",
+    "00-1070",
+    "00-3011",
+    "00-3105",
+    "00-7424",
+    "00-8085",
+    "00-3445",
+    "00-4690",
+    "00-7139",
+    "00-6353",
+    "00-4466",
+    "00-6884",
+    "00-1132",
+    "00-3062",
+    "00-6724",
+    "00-5552",
+    "00-4441",
+    "00-1108",
+    "00-7336",
+    "00-6424",
+    "00-3856",
+    "00-6011",
+    "00-3857",
+    "00-7653",
+    "00-7393",
+    "00-8940",
+    "00-3055",
+    "00-3713",
+    "00-99202"
+  ],
+  "url": "/produkte/the-vegetarian-butcher-wien-schnitzel/00-519111",
+  "vatCode": "10",
+  "video": ""
+}

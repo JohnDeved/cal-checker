@@ -1,0 +1,230 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-372"
+  ],
+  "articleId": "00-858296",
+  "articleOnlyCanonicalPath": "/produkte/silberquelle-mineral-prickelnd/00-858296",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Silberquelle",
+  "canonicalPath": "/produkte/silberquelle-mineral-prickelnd/00-858296",
+  "category": "Getränke",
+  "description": "Ein Mineralwasser aus den Tiefen Tirols, frisch und natürlich. Mit nur 8,8 mg/l Natrium eignet sich Mineral prickelnd für eine natriumreduzierte Ernährung.<li>natriumarm<li>mit Kohlensäure<li>natürliches Mineralwasser aus Tirol",
+  "eanCodes": [
+    "9010800040039"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6230 Brixlegg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Privatquelle Gruber GmbH & Co KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "silberquelle.tirol",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Natürliches Mineralwasser aus Tirol.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.54
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser mit Kohlensäure versetzt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 8.8,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 17.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fluorid",
+              "nutritionalValue": 0.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 1.8,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 79.9,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 30.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 241.1,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Nitrat",
+              "nutritionalValue": 7.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 113.7,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme und direkter Sonneneinstrahlung schützen.",
+      "sustenanceClaim": "Geeignet für natriumarme Ernährung",
+      "usageHints": "Nach dem Öffnen gekühlt lagern und innerhalb weniger Tage verbrauchen."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.59,
+    "unit": "1 l .39"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Silberquelle Mineral prickelnd",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/silberquelle-mineral-prickelnd/00-858296",
+    "~/warengruppe/getraenke/mineralwasser/prickelnd/B2-372/produkte/silberquelle-mineral-prickelnd/00-858296"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.59,
+    "unit": "1 l .39"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 61240,
+  "recommendationArticleIds": [],
+  "seoDescription": "Silberquelle Mineral prickelnd online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Silberquelle Mineral prickelnd online bestellen | BILLA",
+  "slug": "silberquelle-mineral-prickelnd",
+  "storeAvalibility": [
+    "00-8646",
+    "00-8243",
+    "00-8426",
+    "00-8173",
+    "00-8075",
+    "00-8230",
+    "00-8185",
+    "00-8417",
+    "00-8193",
+    "00-8154",
+    "00-8159",
+    "00-8022",
+    "00-8031",
+    "00-8241",
+    "00-8076",
+    "00-8360",
+    "00-8334",
+    "00-8070",
+    "00-8895",
+    "00-99202",
+    "00-8657",
+    "00-8140",
+    "00-8155",
+    "00-8151",
+    "00-8188",
+    "00-8158",
+    "00-8636",
+    "00-8213",
+    "00-8085",
+    "00-8606"
+  ],
+  "url": "/produkte/silberquelle-mineral-prickelnd/00-858296",
+  "vatCode": "20",
+  "video": ""
+}

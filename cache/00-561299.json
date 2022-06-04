@@ -1,0 +1,274 @@
+{
+  "articleGroupIds": [
+    "B2-631"
+  ],
+  "articleId": "00-561299",
+  "articleOnlyCanonicalPath": "/produkte/pickerd-mini-marshmallows-bunt/00-561299",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Pickerd",
+  "canonicalPath": "/produkte/pickerd-mini-marshmallows-bunt/00-561299",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "4022500132179"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-30928 Burgwedel - www.pickerd.de",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "H. PICKERD",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Glucose-Fructose-Sirup, Zucker, Wasser, Gelatine, Trennmittel (Maisstärke), Farbstoffe (E100, E120, E131), Aroma",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 51
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 30
+        }
+      ],
+      "name": "Schaumzuckerware mit Vanillegeschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 16.2,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 323,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 16.2,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1373,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 28.8,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 75,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 70,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 63,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.5,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern. Nach dem Öffnen innerhalb von 14 Tagen verbrauchen.",
+      "usageHints": "Kühl und trocken lagern. Nach dem Öffnen innerhalb von 14 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "30 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 66.33"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Pickerd Mini-Marshmallows Bunt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/aromen-glasuren-und-streusel/B2-631/produkte/pickerd-mini-marshmallows-bunt/00-561299"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 66.33"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 68050,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pickerd Mini-Marshmallows Bunt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pickerd Mini-Marshmallows Bunt online bestellen | BILLA",
+  "slug": "pickerd-mini-marshmallows-bunt",
+  "storeAvalibility": [
+    "00-3501",
+    "00-4779",
+    "00-7536",
+    "00-3617",
+    "00-4834",
+    "00-2342",
+    "00-5363",
+    "00-7017",
+    "00-5962",
+    "00-7336",
+    "00-4249",
+    "00-4551",
+    "00-3118",
+    "00-3507",
+    "00-4655",
+    "00-4107",
+    "00-3445",
+    "00-4932",
+    "00-6819",
+    "00-4674",
+    "00-1457",
+    "00-7114",
+    "00-3114",
+    "00-4441",
+    "00-5027",
+    "00-4170",
+    "00-3700",
+    "00-6740",
+    "00-3143",
+    "00-6108",
+    "00-6533",
+    "00-7857",
+    "00-6823",
+    "00-6024",
+    "00-4982",
+    "00-3709",
+    "00-4690",
+    "00-3633",
+    "00-7940",
+    "00-10",
+    "00-3871",
+    "00-355",
+    "00-3713",
+    "00-6255",
+    "00-4783",
+    "00-4675",
+    "00-9225",
+    "00-6219",
+    "00-3146",
+    "00-4078",
+    "00-6274",
+    "00-3032",
+    "00-7084",
+    "00-4707",
+    "00-4605",
+    "00-8360",
+    "00-5108",
+    "00-3506",
+    "00-7675",
+    "00-7539",
+    "00-7075",
+    "00-7358",
+    "00-6864",
+    "00-7653",
+    "00-3780",
+    "00-4421",
+    "00-6480",
+    "00-7860",
+    "00-7606",
+    "00-6554",
+    "00-9290",
+    "00-9894",
+    "00-3979",
+    "00-4126",
+    "00-99202"
+  ],
+  "url": "/produkte/pickerd-mini-marshmallows-bunt/00-561299",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,231 @@
+{
+  "articleGroupIds": [
+    "B2-6B2"
+  ],
+  "articleId": "00-381196",
+  "articleOnlyCanonicalPath": "/produkte/biozentrale-crunchy-muesli-waldbeere/00-381196",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Biozentrale",
+  "brandPath": "/marken/biozentrale",
+  "canonicalPath": "/produkte/biozentrale-crunchy-muesli-waldbeere/00-381196",
+  "category": "Grundnahrungsmittel",
+  "description": "Unser fruchtig, aromatisches biozentrale Crunchy Müsli Waldbeere ist ein besonders knusprig gebackenes Vollkorn-Müsli mit feinen Waldbeerstückchen, das sind Himbeeren, Heidelbeeren und Erdbeeren.<br>Es schmeckt wunderbar zum Frühstück oder als Zwischenmahlzeit ¿ besonders gut mit Milch, Joghurt oder Quark. In Kombination mit frischen Früchten oder Nüssen wird es zum exquisiten Genuss.<li>Hoher Ballaststoffgehalt<li>Vollkorn<li>Mit feinen Waldbeerstückchen</li>",
+  "eanCodes": [
+    "4005009101105"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D - 84384 Ulbering",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bio-Zentrale Naturprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-07-01T00:00:00",
+      "ingredients": "Zutaten: 64 % Vollkorn-HAFERflocken*, Rohrohrzucker*, Palmfett*, 9 % Vollkorn-WEIZENflocken*, Reis-Extrudat* (Reismehl*, GERSTENmalzmehl*, Meersalz), 1,8 % gefriergetrocknete Waldbeeren* (Himbeeren*, Heidelbeeren*, Erdbeeren*), WEIZENsirup*, Meersalz. \n*aus kontrolliert ökologischer-Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 382
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 375
+        }
+      ],
+      "name": "Crunchy Müsli mit getrockneten Waldbeeren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1919,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 457,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 65,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und trocken lagern. Den Beutel wieder gut verschließen, damit das Müsli knusprig bleibt."
+    }
+  ],
+  "grammage": "375 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 10.64"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Biozentrale Crunchy Müsli Waldbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/biozentrale-crunchy-muesli-waldbeere/00-381196"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 10.64"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Biozentrale Crunchy Müsli Waldbeere online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Biozentrale Crunchy Müsli Waldbeere online bestellen | BILLA",
+  "slug": "biozentrale-crunchy-muesli-waldbeere",
+  "storeAvalibility": [
+    "00-10",
+    "00-115",
+    "00-176",
+    "00-99202"
+  ],
+  "url": "/produkte/biozentrale-crunchy-muesli-waldbeere/00-381196",
+  "vatCode": "10",
+  "video": ""
+}

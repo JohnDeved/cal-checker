@@ -1,0 +1,247 @@
+{
+  "articleGroupIds": [
+    "B2-512"
+  ],
+  "articleId": "00-377511",
+  "articleOnlyCanonicalPath": "/produkte/eskimo-solero-exotic-3er/00-377511",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Eskimo",
+  "brandPath": "/marken/eskimo",
+  "canonicalPath": "/produkte/eskimo-solero-exotic-3er/00-377511",
+  "category": "Tiefkühl",
+  "eanCodes": [
+    "8712100889288"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Stella-Klein-Löw-Weg 13, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Unilever Austria",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2019-12-13T00:00:00",
+      "ingredients": "Zutaten: Entrahmte MILCH, Zucker, Trinkwasser, Ananassaft aus Ananassaftkonzentrat (8,5%), Pfirsichpüree (6,5%), Glukose-Fruktose-Sirup, Passionsfruchtsaft (6%), Mangopüree (6%), Kokosfett, MOLKENERZEUGNIS, Stabilisatoren (Johannisbrotkernmehl, Guarkernmehl, Carrageen), Emulgator (Mono- und Diglyceride von Speisefettsäuren), Farbstoff (Carotin), Säureregulator (Citronensäure), natürliches Vanillearoma (mit MILCH). Glutenfrei.",
+      "marketingMessage": "Ich bin der Fruchtexperte unter den Eisen. Mit meinen 98 Kalorien bin ich die unwiderstehliche Kombination aus 100% nachhaltig angebauten Früchten und Eis. Der Sommer kann kommen!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.277
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 270
+        }
+      ],
+      "name": "Vanilleeis, durchzogen mit Exotic-Frucht-Sorbet (12%) und umhüllt mit Exotic-Frucht-Sorbet (38%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 108,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 453,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 3,
+      "preperations": [],
+      "storageHint": "Bei -18°C mindestens haltbar bis Ende: siehe Packungsaufdruck",
+      "sustenanceClaim": "¹mindestens 50% der insgesamt verwendeten Früchte kommen aus nachhaltigem Anbau.98 kcal, Made with sustainably farmed fruits¹, Please recycleü ü"
+    }
+  ],
+  "grammage": "270 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 4.79,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 l 11.07"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Eskimo Solero Exotic 3er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/stanitzel-und-lutscher/B2-512/produkte/eskimo-solero-exotic-3er/00-377511"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 4.79,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 l 11.07"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 102120,
+  "recommendationArticleIds": [],
+  "seoDescription": "Eskimo Solero Exotic 3er online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Eskimo Solero Exotic 3er online bestellen | BILLA",
+  "slug": "eskimo-solero-exotic-3er",
+  "storeAvalibility": [
+    "00-3549",
+    "00-10",
+    "00-99202",
+    "00-7120"
+  ],
+  "url": "/produkte/eskimo-solero-exotic-3er/00-377511",
+  "vatCode": "10",
+  "video": ""
+}

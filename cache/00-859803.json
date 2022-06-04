@@ -1,0 +1,256 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-859803",
+  "articleOnlyCanonicalPath": "/produkte/hipp-kleine-mehlspeise-kaiserschmarn-in-apfelmus/00-859803",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-kleine-mehlspeise-kaiserschmarn-in-apfelmus/00-859803",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "4062300035119",
+    "4062300258655"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "UNGARN"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Äpfel* 75 %, Pfannkuchen* 11 % (VOLLMILCH*, WEIZENMEHL*, VOLLEI*, Sonnenblumenöl*, Zitronensaftkonzentrat*), Wasser, WEIZENMEHL*, Maisstärke*, Reisstärke*, Zitronensaft*, Antioxidationsmittel Ascorbinsäure. *Aus biologischer Erzeugung.",
+      "mandatoryIndicator": "ab 10. Monat",
+      "marketingMessage": "HiPP Kaiserschmarrn in Apfelmus als köstliche Zwischenmahlzeit und ohne Zusatz von Zucker oder süßenden Fruchtsaftkonzentraten kann nach Belieben warm oder kalt angeboten werden. In der bewährten HiPP Bio-Qualität ist unser HiPP Kaiserschmarrn in Apfelmus ein idealer Fruchtgenuss für Groß und Klein!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 329
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "BIO Kaiserschmarrn aus Pfannkuchenstückchen in Apfelmus",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 310,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 74,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Bei Bedarf geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, mit unbenutztem Löffel umrühren und Temperatur prüfen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Bei Bedarf geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, mit unbenutztem Löffel umrühren und Temperatur prüfen.",
+          "type": "Simmern/Koecheln - Zubereitung in Wasser, welches knapp unter dem Siedepunkt gehalten wird"
+        }
+      ],
+      "storageHint": "Nicht erwärmten Rest verschlossen im Kühlschrank lagern und am nächsten Tag aufbrauchen.",
+      "usageHints": "Schmeckt kalt und warm als Zwischenmahlzeit. #Bitte Plastiklöffel verwenden. #Bitte überzeugen Sie sich vor Verwendung, dass das Glas unversehrt geblieben ist."
+    }
+  ],
+  "grammage": "200 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Kleine Mehlspeise Kaiserschmarn in Apfelmus",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-kleine-mehlspeise-kaiserschmarn-in-apfelmus/00-859803"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 52350,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hipp Kleine Mehlspeise Kaiserschmarn in Apfelmus online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Kleine Mehlspeise Kaiserschmarn in Apfelmus online bestellen",
+  "slug": "hipp-kleine-mehlspeise-kaiserschmarn-in-apfelmus",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-kleine-mehlspeise-kaiserschmarn-in-apfelmus/00-859803",
+  "vatCode": "10",
+  "video": ""
+}

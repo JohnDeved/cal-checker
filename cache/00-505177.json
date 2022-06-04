@@ -1,0 +1,251 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-505177",
+  "articleOnlyCanonicalPath": "/produkte/barilla-spaghetti/00-505177",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Barilla",
+  "brandPath": "/marken/barilla",
+  "canonicalPath": "/produkte/barilla-spaghetti/00-505177",
+  "category": "Grundnahrungsmittel",
+  "description": "Die klassischen Spaghetti von Barilla passen zur einer Vielzahl an Pastasoßen und sind nach nur acht Minuten Kochzeit al dente.<li>Spaghetti n. 5 aus Hartweizengrieß<li>Teigwaren in der Vorratspackung",
+  "eanCodes": [
+    "8076800105056"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via Mantova 166, Parma - Italy.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Barilla G. e R. Fratelli - Società per Azioni.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: HARTWEIZENGRIESS, Wasser. Kann Spuren von Sojabohnen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1025.05
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "TEIGWAREN AUS HARTWEIZENGRIESS",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1521,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 359,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 70.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.013,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "100g PASTA * 1 LITER WASSER * 7g SALZ - Salz in kochendes Wasser\ngeben. Pasta hinzugeben, ab und zu umrühren. Kochzeit 10 Min.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Trocken, vor Licht und Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "1 Kilogramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Barilla Spaghetti",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/barilla-spaghetti/00-505177"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 165840,
+  "recommendationArticleIds": [],
+  "seoDescription": "Barilla Spaghetti online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Barilla Spaghetti online bestellen | BILLA",
+  "slug": "barilla-spaghetti",
+  "storeAvalibility": [
+    "00-4675",
+    "00-3830",
+    "00-1826",
+    "00-225",
+    "00-10",
+    "00-3384",
+    "00-7539",
+    "00-6819",
+    "00-1457",
+    "00-7653",
+    "00-5363",
+    "00-350",
+    "00-2840",
+    "00-3105",
+    "00-6864",
+    "00-2045",
+    "00-4982",
+    "00-4466",
+    "00-4779",
+    "00-9290",
+    "00-3157",
+    "00-7393",
+    "00-7084",
+    "00-4551",
+    "00-1913",
+    "00-3146",
+    "00-3617",
+    "00-7606",
+    "00-4834",
+    "00-521",
+    "00-4932",
+    "00-5871",
+    "00-3780",
+    "00-4690",
+    "00-4655",
+    "00-4441",
+    "00-2218",
+    "00-3709",
+    "00-5223",
+    "00-7857",
+    "00-5962",
+    "00-4783",
+    "00-6740",
+    "00-4605",
+    "00-3143",
+    "00-3979",
+    "00-4107",
+    "00-2342",
+    "00-411",
+    "00-7765",
+    "00-3114",
+    "00-7358",
+    "00-3700",
+    "00-4078",
+    "00-8012",
+    "00-3005",
+    "00-355",
+    "00-5108",
+    "00-99202"
+  ],
+  "url": "/produkte/barilla-spaghetti/00-505177",
+  "vatCode": "10",
+  "video": ""
+}

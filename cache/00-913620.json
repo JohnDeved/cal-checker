@@ -1,0 +1,291 @@
+{
+  "articleGroupIds": [
+    "B2-441"
+  ],
+  "articleId": "00-913620",
+  "articleOnlyCanonicalPath": "/produkte/riemenschneider-gabelbissen/00-913620",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Riemenschneider",
+  "canonicalPath": "/produkte/riemenschneider-gabelbissen/00-913620",
+  "category": "Kühlwaren",
+  "description": "Beliebter Jausensnack für den kleinen Hunger mit cremiger Gemüsemayonnaise und wahlweise mit Ei-, Wurst- oder Fischgarnierung.",
+  "eanCodes": [
+    "0000090088612"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Broschgasse 9, A - 4040 Linz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Riemenschneider Feinkost GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@riemenschneider.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, Rapsöl, Karotten, Gurken, 5 % Aufschnittwurst1 (Rind- und Schweinefleisch, Speck, Wasser, Speisesalz, Gewürze, Saccharose, Dextrose, Farbstoff: echtes Karmin; Antioxidationsmittel: Ascorbinsäure; Stabilisator: Triphosphate, Polyphosphate und Diphosphate; Konservierungsstoff: Natriumnitrit), 5 % EISCHEIBE1, 5 % HERINGSFILET1, EIGELB, Stärke, Weingeistessig, Gelatine, Speisesalz, SENFSAAT, Gewürze, Zucker, Säuerungsmittel: Milchsäure, Citronensäure; Verdickungsmittel: Xanthan, Guarkernmehl; Konservierungsstoff: Kaliumsorbat, Natriumbenzoat; Süßungsmittel: Saccharin. 1diese Zutaten sind wahlweise und sichtbar vorhanden",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 124
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 110
+        }
+      ],
+      "name": "Feinkosterzeugnis mit Zucker und Süßungsmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 204,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 840,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei +2° bis7°C",
+      "usageHints": "Nach dem Öffnen zum sofortigen Verzehr bestimmt"
+    }
+  ],
+  "grammage": "330 g Packung",
+  "grammageBadge": "330 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "1 kg 5.12"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Riemenschneider Gabelbissen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441/produkte/riemenschneider-gabelbissen/00-913620"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "1 kg 5.12"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 71260,
+  "recommendationArticleIds": [],
+  "seoDescription": "Riemenschneider Gabelbissen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Riemenschneider Gabelbissen online bestellen | BILLA",
+  "slug": "riemenschneider-gabelbissen",
+  "storeAvalibility": [
+    "00-4565",
+    "00-3322",
+    "00-4707",
+    "00-4881",
+    "00-4059",
+    "00-4466",
+    "00-4225",
+    "00-4551",
+    "00-4001",
+    "00-3196",
+    "00-5967",
+    "00-4249",
+    "00-4350",
+    "00-4424",
+    "00-3326",
+    "00-4028",
+    "00-4690",
+    "00-4200",
+    "00-4629",
+    "00-4674",
+    "00-4421",
+    "00-3379",
+    "00-4407",
+    "00-4673",
+    "00-4107",
+    "00-4482",
+    "00-4440",
+    "00-4003",
+    "00-4126",
+    "00-5777",
+    "00-4291",
+    "00-4078",
+    "00-4838",
+    "00-4489",
+    "00-4755",
+    "00-4834",
+    "00-4756",
+    "00-9589",
+    "00-4605",
+    "00-4912",
+    "00-4226",
+    "00-3378",
+    "00-4021",
+    "00-4748",
+    "00-4478",
+    "00-4675",
+    "00-4016",
+    "00-4982",
+    "00-99202",
+    "00-4524",
+    "00-4879",
+    "00-4932",
+    "00-4779",
+    "00-4104",
+    "00-4283",
+    "00-4099",
+    "00-4770",
+    "00-4672",
+    "00-4945",
+    "00-4441",
+    "00-4700",
+    "00-4655",
+    "00-4925",
+    "00-4952",
+    "00-4076",
+    "00-4840",
+    "00-4847",
+    "00-4601",
+    "00-4270",
+    "00-5603",
+    "00-4660",
+    "00-4540",
+    "00-4146",
+    "00-3420",
+    "00-4513",
+    "00-4170",
+    "00-4619",
+    "00-3135",
+    "00-3560",
+    "00-4469",
+    "00-4090"
+  ],
+  "url": "/produkte/riemenschneider-gabelbissen/00-913620",
+  "vatCode": "10",
+  "video": ""
+}

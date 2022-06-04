@@ -1,0 +1,493 @@
+{
+  "articleGroupIds": [
+    "B2-572",
+    "B2-6E2"
+  ],
+  "articleId": "00-575365",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-ristorante-pizza-salame-glutenfrei/00-575365",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_tiefgek",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-ristorante-pizza-salame-glutenfrei/00-575365",
+  "category": "Tiefkühl",
+  "eanCodes": [
+    "4001724022473"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-04T00:00:00",
+      "ingredients": "Zutaten: 15% KÄSE (schnittfester MOZZARELLA, EDAMER), Reismehl, Wasser, 12% passierte Tomaten, 12% Salami (Schweinefleisch, Speck, Salz, Gewürze, Dextrose, Zwiebelpulver, Knoblauchpulver, Gewürzextrakte, Antioxidationsmittel (Extrakt aus Rosmarin), Stabilisator (Natriumnitrit), Rauch), Kartoffelstärke, 6,2% Tomatenkonzentrat, Kartoffelflocken, Erbseneiweiß, Rapsöl, Hefe, Zucker, Salz, Verdickungsmittel (Hydroxypropylmethylcellulose, Xanthan), Olivenöl nativ extra, Emulgatoren (Milchsäureester von Mono- und Diglyceriden von Speisefettsäuren, Essigsäureester von Mono- und Diglyceriden von Speisefettsäuren), Glukosesirup, MILCHEIWEISS, modifizierte Stärke, Oregano, Gewürze, Knoblauch, Dextrose.",
+      "mandatoryIndicator": "DE-103-002 Glutenfrei.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 412.895
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 315
+        }
+      ],
+      "name": "Glutenfreie Pizza reich belegt mit Tomatensauce, Salami und Käse, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1047,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 250,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1) Backofen vorheizen. Ober-/Unterhitze: 230°C, Heißluft: 210°C. 2) Folie entfernen. 3) Tiefgekühlte Pizza auf dem Rost auf der untersten Einschubleiste des Backofens 13-15 Min. backen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern.",
+      "sustenanceClaim": "Laktosegehalt < 0,01%"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten: 15% KÄSE (schnittfester MOZZARELLA, EDAMER), Reismehl, Wasser, 12% passierte Tomaten, 12% Salami (Schweinefleisch, Speck, Salz, Gewürze, Dextrose, Zwiebelpulver, Knoblauchpulver, Gewürzextrakte, Antioxidationsmittel (Extrakt aus Rosmarin), Stabilisator (Natriumnitrit), Rauch), Kartoffelstärke, 6,2% Tomatenkonzentrat, Kartoffelflocken, Erbseneiweiß, Rapsöl, Hefe, Zucker, Salz, Verdickungsmittel (Hydroxypropylmethylcellulose, Xanthan), Olivenöl nativ extra, Emulgatoren (Milchsäureester von Mono- und Diglyceriden von Speisefettsäuren, Essigsäureester von Mono- und Diglyceriden von Speisefettsäuren), Glukosesirup, MILCHEIWEISS, modifizierte Stärke, Oregano, Gewürze, Knoblauch, Dextrose.",
+      "mandatoryIndicator": "DE-103-002 Glutenfrei.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 412.895
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 315
+        }
+      ],
+      "name": "Glutenfreie Pizza reich belegt mit Tomatensauce, Salami und Käse, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1047,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 250,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1) Backofen vorheizen. Ober-/Unterhitze: 230°C, Heißluft: 210°C. 2) Folie entfernen. 3) Tiefgekühlte Pizza auf dem Rost auf der untersten Einschubleiste des Backofens 13-15 Min. backen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern.",
+      "sustenanceClaim": "Laktosegehalt < 0,01%"
+    }
+  ],
+  "grammage": "315 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 13.62"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Ristorante Pizza Salame Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/dr-oetker-ristorante-pizza-salame-glutenfrei/00-575365",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/dr-oetker-ristorante-pizza-salame-glutenfrei/00-575365"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 13.62"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 116750,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Ristorante Pizza Salame Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Ristorante Pizza Salame Glutenfrei online bestellen",
+  "slug": "dr-oetker-ristorante-pizza-salame-glutenfrei",
+  "storeAvalibility": [
+    "00-7860",
+    "00-9183",
+    "00-4748",
+    "00-1417",
+    "00-1132",
+    "00-3857",
+    "00-7653",
+    "00-4090",
+    "00-3047",
+    "00-6724",
+    "00-5962",
+    "00-2808",
+    "00-4834",
+    "00-6910",
+    "00-3711",
+    "00-3384",
+    "00-9030",
+    "00-3212",
+    "00-7084",
+    "00-3512",
+    "00-3105",
+    "00-7424",
+    "00-7114",
+    "00-8940",
+    "00-3744",
+    "00-7336",
+    "00-9894",
+    "00-6864",
+    "00-7075",
+    "00-2313",
+    "00-2131",
+    "00-4421",
+    "00-6884",
+    "00-3860",
+    "00-6975",
+    "00-3027",
+    "00-2098",
+    "00-2259",
+    "00-2342",
+    "00-2111",
+    "00-6219",
+    "00-6745",
+    "00-2306",
+    "00-6130",
+    "00-2045",
+    "00-4016",
+    "00-3713",
+    "00-3118",
+    "00-9290",
+    "00-4551",
+    "00-4270",
+    "00-1070",
+    "00-6011",
+    "00-1107",
+    "00-7358",
+    "00-3580",
+    "00-1826",
+    "00-4756",
+    "00-1198",
+    "00-6760",
+    "00-10",
+    "00-3055",
+    "00-4690",
+    "00-4283",
+    "00-4078",
+    "00-2287",
+    "00-7017",
+    "00-7606",
+    "00-2201",
+    "00-7139",
+    "00-6021",
+    "00-6424",
+    "00-6281",
+    "00-8426",
+    "00-7245",
+    "00-8085",
+    "00-3062",
+    "00-3059",
+    "00-3114",
+    "00-4466",
+    "00-1425",
+    "00-3445",
+    "00-3740",
+    "00-4879",
+    "00-4440",
+    "00-3042",
+    "00-3617",
+    "00-6843",
+    "00-3005",
+    "00-3780",
+    "00-3709",
+    "00-1710",
+    "00-9753",
+    "00-3120",
+    "00-7743",
+    "00-4912",
+    "00-2011",
+    "00-4783",
+    "00-7393",
+    "00-4605",
+    "00-950",
+    "00-3050",
+    "00-823",
+    "00-5108",
+    "00-6676",
+    "00-2223",
+    "00-4441",
+    "00-6353",
+    "00-7368",
+    "00-4655",
+    "00-6928",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-oetker-ristorante-pizza-salame-glutenfrei/00-575365",
+  "vatCode": "10",
+  "video": ""
+}

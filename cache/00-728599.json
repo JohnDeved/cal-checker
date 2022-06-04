@@ -1,0 +1,242 @@
+{
+  "articleGroupIds": [
+    "B2-572"
+  ],
+  "articleId": "00-728599",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-ristorante-pizza-salame-mozzarella-pesto/00-728599",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-ristorante-pizza-salame-mozzarella-pesto/00-728599",
+  "category": "Tiefkühl",
+  "description": "<li>Pizza reich belegt mit Tomaten<li>Salami Mozzarella und Basilikum<li>Auf knusprig dünnem Boden</li>",
+  "eanCodes": [
+    "4001724039297",
+    "4001724039303",
+    "4001724004073"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-05-05T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, 23% passierte Tomaten, 10% schnittfester MOZZARELLA KÄSE, 9,4% Cocktailtomaten, 8,1% Salami (Schweinefleisch, Speck, Salz, Gewürze, Dextrose, Stabilisator (Natriumnitrit), Antioxidationsmittel (Extrakt aus Rosmarin), Aroma, Rauch), Rapsöl, EDAMER KÄSE, Wasser, Backhefe, Zucker, Basilikum, Salz, Petersilie, Spinat, Olivenöl nativ extra, modifizierte Stärke, Gewürze, Zitronensaft, Knoblauch, Emulgator (Mono- und Diglyceride von Speisefettsäuren), Oregano, aufgeschlossenes Pflanzeneiweiß, Maltodextrin, Karamell.",
+      "measurements": [
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 360
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 452.953
+        }
+      ],
+      "name": "Pizza reichhaltig belegt mit Tomaten, Salami, Mozzarella und Basilikum auf knusprig dünnem Boden, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1061,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 254,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1) Backofen vorheizen. Ober-/Unterhitze: 220 °C, Heißluft: 200°C, Gas: 4. 2) Folie entfernen. 3) Tiefgekühltes Produkt auf dem Rost im unteren Drittel des Backofens backen. Backzeit: 9-13 Min.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern (***-Fach oder Tiefkühltruhe)."
+    }
+  ],
+  "grammage": "360 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 9.42"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Ristorante Pizza Salame Mozzarella Pesto",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/dr-oetker-ristorante-pizza-salame-mozzarella-pesto/00-728599"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 9.42"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 106190,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Ristorante Pizza Salame Mozzarella Pesto online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Ristorante Pizza Salame Mozzarella Pesto online bestel",
+  "slug": "dr-oetker-ristorante-pizza-salame-mozzarella-pesto",
+  "storeAvalibility": [
+    "00-3780",
+    "00-3120",
+    "00-10",
+    "00-2342",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-oetker-ristorante-pizza-salame-mozzarella-pesto/00-728599",
+  "vatCode": "10",
+  "video": ""
+}

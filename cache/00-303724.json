@@ -1,0 +1,196 @@
+{
+  "articleGroupIds": [
+    "B2-6E7"
+  ],
+  "articleId": "00-303724",
+  "articleOnlyCanonicalPath": "/produkte/kneipp-frauen-mineralstoffe/00-303724",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kneipp",
+  "brandPath": "/marken/kneipp",
+  "canonicalPath": "/produkte/kneipp-frauen-mineralstoffe/00-303724",
+  "category": "Grundnahrungsmittel",
+  "description": "Magnesium trägt zu einer normalen Funktion des Nervensystems bei. Calcium und Magnesium tragen zu einer normalen Muskelfunktion und zur Erhaltung normaler Knochen bei. Zink und Vitamin C tragen zu einer normalen Funktion des Immunsystems bei.<li>15 Brausetabletten<li>Zucker-und Laktosefrei<li>Mit Eisen, Jod und Folsäure<li>Für Nerven, Muskeln, Knochen und das Immunsystem<li>Mit Naturmineral<li>Mit Mango-Maracuja Geschmack</li>",
+  "eanCodes": [
+    "4008233033129",
+    "4008233111605"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-97064 Würzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kneipp GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Säuerungsmittel: Citronensäure; Dolomit, Calciumcarbonat, Magnesiumcarbonat, Säureregulator: Natriumhydrogencarbonat;  Maisstärke, natürliches Aroma, Vitamin C, Rote Bete Saftpulver (Maltodextrin, Rote Bete Saftkonzentrat), Süßungsmittel: Natriumcyclamat; Eisen-II-Glukonat, natürliches Gelbfruchtaroma mit anderen natürlichen Aromen, Süßungsmittel: Saccharin-Natrium; Zinksulfat, Farbstoff: Riboflavin-5`-Phosphat; Folsäure , Kaliumiodat , Vitamin D3.",
+      "mandatoryIndicator": "Außerhalb der Reichweite von kleinen Kindern aufbewahren.\nDie angegebene empfohlene tägliche Verzehrmenge darf nicht überschritten werden. Nahrungsergänzungsmittel sind kein Ersatz für eine ausgewogene und abwechslungsreiche Ernährung und eine gesunde Lebensweise. \nMagnesium trägt zu einer normalen Funktion des Nervensystems bei. Calcium und Magnesium tragen zu einer normalen Muskelfunktion und zur Erhaltung normaler Knochen bei. Zink und Vitamin C tragen zu einer normalen Funktion des Immunsystems bei.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 114
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Stück",
+          "value": 15
+        }
+      ],
+      "name": "Nahrungsergänzungsmittel mit Calcium, Magnesium, Vitamin C, Zink, Folsäure, Vitamin D3, Jod und Eisen / mit Süßungsmitteln",
+      "nutritions": [
+        {
+          "householdPortion": "Brausetablette",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 36,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 200,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 400,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 67,
+              "measureDefinition": "~",
+              "nutritionName": "Jod",
+              "nutritionalValue": 100,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 75,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 600,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 80,
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 300,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 80,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 5,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 50,
+              "measureDefinition": "~",
+              "nutritionName": "Zink",
+              "nutritionalValue": 5,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gut verschlossen und trocken aufbewahren."
+    }
+  ],
+  "grammage": "15 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Kneipp Frauen Mineralstoffe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/nahrungsergaenzung/B2-6E7/produkte/kneipp-frauen-mineralstoffe/00-303724"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kneipp Frauen Mineralstoffe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kneipp Frauen Mineralstoffe online bestellen | BILLA",
+  "slug": "kneipp-frauen-mineralstoffe",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/kneipp-frauen-mineralstoffe/00-303724",
+  "vatCode": "10",
+  "video": ""
+}

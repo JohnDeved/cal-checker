@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-361"
+  ],
+  "articleId": "00-599979",
+  "articleOnlyCanonicalPath": "/produkte/orvieto-classico-doc-2018/00-599979",
+  "attributes": [
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_weinart",
+    "mengenstep",
+    "s_produzen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/orvieto-classico-doc-2018/00-599979",
+  "category": "Getränke",
+  "eanCodes": [
+    "4388844119710"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 12,
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fratelli Martini Secondo Luigi S.P.A. - LOC. SAN BOVO - Via Statale, 26 - 12054 Cossano Belbo - Italien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "M. Teresa Ravinale",
+          "type": "Kontakt"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+39(0)141837211",
+          "type": "Kontakt"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2018-12-11T00:00:00",
+      "ingredients": "",
+      "mandatoryIndicator": "enthält Sulfite",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "Weiss Wein",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 77,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 320,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Lazio/Umbria Gebiet",
+      "portions": 6,
+      "preperations": [
+        {
+          "instruction": "",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "kühl und trocken lagern",
+      "sustenanceClaim": "Laktosefrei, Glutenfrei, Frei von Milchproteinen",
+      "usageHints": "empfohlene Trinktemperatur 8-10°"
+    }
+  ],
+  "grammage": "0.75 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 l 5.32"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Orvieto Classico DOC 2018",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/wein/weisswein/B2-361/produkte/orvieto-classico-doc-2018/00-599979"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 l 5.32"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 127640,
+  "recommendationArticleIds": [],
+  "seoDescription": "Orvieto Classico DOC 2018 online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Orvieto Classico DOC 2018 online bestellen | BILLA",
+  "slug": "orvieto-classico-doc-2018",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/orvieto-classico-doc-2018/00-599979",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,231 @@
+{
+  "articleGroupIds": [
+    "B2-488"
+  ],
+  "articleId": "00-474907",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-bio-bauchspeck/00-474907",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_hkland",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_aut"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-bio-bauchspeck/00-474907",
+  "category": "Kühlwaren",
+  "description": "Der Ja! Natürlich Bio-Bauchspeck vom österreichischen Bio-Freilandschwein schmeckt besonders aromatisch dank seiner Räucherung über Buchenholz und der Reifezeit über 8 Wochen. Die Bio-Freilandschweine werden ganzjährig in der Gruppe auf Wiesen und Äckern gehalten und erhalten nur österreichisches Bio-Futter, natürlich gentechnikfrei.</li>",
+  "eanCodes": [
+    "9010437002882"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-11-26T00:00:00",
+      "ingredients": "Bio-Schweinefleisch, Meersalz, Bio-Gewürze, Bio-Dextrose, Antioxidationsmittel (Natriumascorbat), Speisesalz, Konservierungsstoff (Natriumnitrit), Buchenholzrauch",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-70253-EG\r\nAT-BIO-301\nÖsterreich Landwirtschaft\r\nluftgetrocknet \r\ngeräuchert ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.096
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 80
+        }
+      ],
+      "name": "Bio-Rohpökelware vom Schweinebauch, kalt geräuchert und luftgetrocknet",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1923,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 465,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 61,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 43,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 85,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.2,
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.6,
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 67,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-7 °C",
+      "usageHints": "Nach dem Öffnen gekühlt lagern und innerhalb von 2 Tagen verzehren."
+    }
+  ],
+  "grammage": "80 g Packung",
+  "grammageBadge": "80 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 43.63"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ja! Natürlich Bio Bauchspeck",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/ja-natuerlich-bio-bauchspeck/00-474907"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 43.63"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Bio Bauchspeck online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Bio Bauchspeck online bestellen | BILLA",
+  "slug": "ja-natuerlich-bio-bauchspeck",
+  "storeAvalibility": [
+    "00-5078",
+    "00-3856",
+    "00-4126",
+    "00-281",
+    "00-323",
+    "00-7393",
+    "00-355",
+    "00-1032",
+    "00-4482",
+    "00-4513",
+    "00-3871",
+    "00-3857",
+    "00-1480",
+    "00-2360",
+    "00-3709",
+    "00-4283",
+    "00-9290",
+    "00-3059",
+    "00-1107",
+    "00-1457",
+    "00-10",
+    "00-4690",
+    "00-99202"
+  ],
+  "url": "/produkte/ja-natuerlich-bio-bauchspeck/00-474907",
+  "vatCode": "10",
+  "video": ""
+}

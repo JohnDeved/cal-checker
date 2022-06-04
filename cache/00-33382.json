@@ -1,0 +1,281 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-483",
+    "B2-491"
+  ],
+  "articleId": "00-33382",
+  "articleOnlyCanonicalPath": "/produkte/karreerenkerl-mit-schwarte/00-33382",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kletzl",
+  "canonicalPath": "/produkte/karreerenkerl-mit-schwarte/00-33382",
+  "category": "Kühlwaren",
+  "description": "Das Karreerenkerl mit Schwarte ist ein herzhaftes Schmankerl für Jause oder Abendessen. Es passt besonders gut zu frischem Bauernbrot oder kernigen Weckerln.<li>aus Schweinefleisch<li>mit ausgesuchten Gewürzen<li>geräuchert und gesalzen",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4933 Wildenau, Gewerbepark Wildenau 6",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kletzl Fleischwaren GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "07755/7055",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Gewürze, Gewürzextrakte, gekörnte Brühe (Würze, Salz, Rapsöl), Speisesalz, Trockenglucosesirup, Antioxidationsmittel: Ascorbinsäure; Aroma, Reifekulturen, Rauch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 305
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.3
+        }
+      ],
+      "name": "Karreerenkerl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 306,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1273,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lagertemperatur: max. +22°C, ungeöffnet mindesten haltbar bis: siehe Aufdruck.",
+      "usageHints": "Nach dem Öffnen ehest bald zu verbrauchen."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 26.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 26.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 26.9,
+    "unit": "100 g 2.69"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Karreerenkerl mit Schwarte",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/karreerenkerl-mit-schwarte/00-33382",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483/produkte/karreerenkerl-mit-schwarte/00-33382",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/karreerenkerl-mit-schwarte/00-33382"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 26.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 26.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 26.9,
+    "unit": "100 g 2.69"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 82220,
+  "recommendationArticleIds": [],
+  "seoDescription": "Karreerenkerl mit Schwarte online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Karreerenkerl mit Schwarte online bestellen | BILLA",
+  "slug": "karreerenkerl-mit-schwarte",
+  "storeAvalibility": [
+    "00-4690",
+    "00-4350",
+    "00-4407",
+    "00-4672",
+    "00-4748",
+    "00-4655",
+    "00-4932",
+    "00-5603",
+    "00-4249",
+    "00-4673",
+    "00-4441",
+    "00-4674",
+    "00-4482",
+    "00-3979",
+    "00-4629",
+    "00-5777",
+    "00-4605",
+    "00-4524",
+    "00-4879",
+    "00-5962",
+    "00-4551",
+    "00-5871",
+    "00-4016",
+    "00-4982",
+    "00-4838",
+    "00-4601",
+    "00-4619",
+    "00-4466",
+    "00-4540",
+    "00-4755",
+    "00-4912",
+    "00-4090",
+    "00-4225",
+    "00-4107",
+    "00-4770",
+    "00-4945",
+    "00-4126",
+    "00-4226",
+    "00-4700",
+    "00-4925",
+    "00-4881",
+    "00-4146",
+    "00-4707",
+    "00-4834",
+    "00-4170",
+    "00-4813",
+    "00-4099",
+    "00-4283",
+    "00-4952",
+    "00-4421",
+    "00-3196",
+    "00-4478",
+    "00-4440",
+    "00-4840",
+    "00-4847",
+    "00-4565",
+    "00-4469",
+    "00-4779",
+    "00-4104",
+    "00-5967",
+    "00-4078",
+    "00-4270",
+    "00-4001",
+    "00-4059",
+    "00-4424",
+    "00-4200",
+    "00-4513",
+    "00-4003",
+    "00-4489",
+    "00-4028",
+    "00-99202"
+  ],
+  "url": "/produkte/karreerenkerl-mit-schwarte/00-33382",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

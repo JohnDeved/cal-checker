@@ -1,0 +1,215 @@
+{
+  "articleGroupIds": [
+    "B2-686"
+  ],
+  "articleId": "00-678915",
+  "articleOnlyCanonicalPath": "/produkte/bonduelle-champignons-scheiben/00-678915",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Bonduelle",
+  "brandPath": "/marken/bonduelle",
+  "canonicalPath": "/produkte/bonduelle-champignons-scheiben/00-678915",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Champignons in Scheiben von Bonduelle eignen sich als vielseitige Pilze ideal für die Vorrats-Haltung. Sie verfeinern Pizzen, Gemüse- und Fleisch-Gerichte.<li>Champignon-Scheiben<li>enthalten keine Konservierungsstoffe<li>leicht gesalzen und mild-säuerlich",
+  "eanCodes": [
+    "3083680019880"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-72766 Reutlingen, Am Heilbrunnen 136/138",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bonduelle Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Champignons, Wasser, Salz.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 115
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 234
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 195
+        }
+      ],
+      "name": "Champignons in Scheiben, I. Wahl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 85,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 20,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.58,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet bei Zimmertemperatur trocken lagern. Nach dem Öffnen gekühlt lagern und innerhalb eines Tages verbrauchen."
+    }
+  ],
+  "grammage": "200 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.95"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Bonduelle Champignons Scheiben",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686/produkte/bonduelle-champignons-scheiben/00-678915"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 74120,
+  "recommendationArticleIds": [
+    "00-420428"
+  ],
+  "seoDescription": "Bonduelle Champignons Scheiben online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bonduelle Champignons Scheiben online bestellen | BILLA",
+  "slug": "bonduelle-champignons-scheiben",
+  "storeAvalibility": [
+    "00-4605",
+    "00-1132",
+    "00-10",
+    "00-99202",
+    "00-3617",
+    "00-2342",
+    "00-7606",
+    "00-4779",
+    "00-720",
+    "00-4655",
+    "00-3780",
+    "00-7653",
+    "00-1529"
+  ],
+  "url": "/produkte/bonduelle-champignons-scheiben/00-678915",
+  "vatCode": "10",
+  "video": ""
+}

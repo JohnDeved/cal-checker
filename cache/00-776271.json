@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-776271",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-kraeutergarten/00-776271",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-kraeutergarten/00-776271",
+  "category": "Tiefkühl",
+  "description": "Die Kräutergarten-Zusammenstellung von Ja! Natürlich verfeinert Gerichte mit sechs verschiedenen, bereits fein gehackten und streufähigen Kräutern.<li>Bio-Kräutermischung aus Petersilie, Kresse, Schnittlauch, Sauerampfer, Basilikum und Dill<li>erntefrisch tiefgekühlt",
+  "eanCodes": [
+    "9010158002260"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2018-03-06T00:00:00",
+      "ingredients": "Bio-Petersilie, Bio-Kresse, Bio-Schnittlauch, Bio-Sauerampfer, Bio-Basilikum, Bio-Dille",
+      "mandatoryIndicator": "DE-ÖKO-006\nEU-Landwirtschaft\r\ntiefgefroren/tiefgekühlt ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.062
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 50
+        }
+      ],
+      "name": "Bio- Kräutermischung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 146,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 1.8,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 35,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.9,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.3,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.8,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Tiefgekühlt lagern bei -18 \r\nNach dem Auftauen nicht wieder einfrieren  "
+    }
+  ],
+  "grammage": "50 Gramm Schachtel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 29.80"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Ja! Natürlich Kräutergarten",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/ja-natuerlich-kraeutergarten/00-776271"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 29.80"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 136760,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Kräutergarten online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Kräutergarten online bestellen | BILLA",
+  "slug": "ja-natuerlich-kraeutergarten",
+  "storeAvalibility": [
+    "00-2342",
+    "00-6197",
+    "00-5290",
+    "00-2111",
+    "00-3780",
+    "00-9555",
+    "00-1108",
+    "00-7606",
+    "00-10",
+    "00-99202",
+    "00-3617",
+    "00-3120",
+    "00-3005",
+    "00-7120",
+    "00-3549",
+    "00-7082",
+    "00-6676",
+    "00-3055",
+    "00-2295"
+  ],
+  "url": "/produkte/ja-natuerlich-kraeutergarten/00-776271",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,211 @@
+{
+  "articleGroupIds": [
+    "B2-432"
+  ],
+  "articleId": "00-454831",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-huehner-suppenklein/00-454831",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-huehner-suppenklein/00-454831",
+  "category": "Kühlwaren",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-11-13T00:00:00",
+      "ingredients": "Zutaten: Hühnerkrägen, Hühnermägen, Hühnerrücken",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-61992-EG\r\nHandelsklasse A\r\nfrisch \r\nFür sichere Speisen ist Küchenhygiene wichtig! Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen.\r\nGeboren in: Österreich \r\nAufgezogen in: Österreich \r\nGeschlachtet in: Österreich \r\nZerlegt in: Österreich ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Krägen, Mägen, Rücken vom Huhn, frisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 897,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 215,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 40,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei -1 bis 4°C.",
+      "usageHints": "Nach dem Öffnen zur unmittelbaren Verarbeitung bestimmt.\n"
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": true,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 7.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 7.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 7.99,
+    "unit": "1 kg 7,99 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.5,
+  "name": "Hofstädter Hühner Suppenklein",
+  "orderQuantityStepSize": 0.5,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432/produkte/hofstaedter-huehner-suppenklein/00-454831"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 7.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 7.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 7.99,
+    "unit": "1 kg 7,99 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Hühner Suppenklein online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Hühner Suppenklein online bestellen | BILLA",
+  "slug": "hofstaedter-huehner-suppenklein",
+  "storeAvalibility": [
+    "00-281",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hofstaedter-huehner-suppenklein/00-454831",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    50,
+    100,
+    150,
+    200,
+    250
+  ]
+}

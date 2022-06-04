@@ -1,0 +1,371 @@
+{
+  "articleGroupIds": [
+    "B2-753"
+  ],
+  "articleId": "00-810702",
+  "articleOnlyCanonicalPath": "/produkte/lindt-goldtafel-milch-extra/00-810702",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lindt",
+  "brandPath": "/marken/lindt",
+  "canonicalPath": "/produkte/lindt-goldtafel-milch-extra/00-810702",
+  "category": "Süßes & Salziges",
+  "description": "Die Goldtafel Milch Extra von Lindt ist hochwertige Premiumschokolade mit besonders großem Milchanteil. Sie bietet Stück für Stück exklusiven Schokoladengenuss.<li>Milchschokolade<li>schmilzt zart im Mund<li>hohe Qualität dank der Erfahrung der Maîtres Chocolatiers",
+  "eanCodes": [
+    "7610400013857"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Zucker, Kakaobutter, VollMILCHpulver, Kakaomasse, LAKTOSE, MagerMILCHpulver, Emulgator (SOJAlecithin), GERSTENmalzextrakt, Aromen.Kann HASELNÜSSE, MANDELN und andere SCHALENFRÜCHTE enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 315
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Schweizer Milchschokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 537,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2242,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 31,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 57,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 56,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.23,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "300 Gramm Tafel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "100 g 1.66"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lindt Goldtafel Milch Extra",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/schokoladentafeln/B2-753/produkte/lindt-goldtafel-milch-extra/00-810702"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "100 g 1.66"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 75630,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lindt Goldtafel Milch Extra online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lindt Goldtafel Milch Extra online bestellen | BILLA",
+  "slug": "lindt-goldtafel-milch-extra",
+  "storeAvalibility": [
+    "00-4655",
+    "00-3979",
+    "00-3856",
+    "00-5359",
+    "00-2899",
+    "00-6024",
+    "00-355",
+    "00-3431",
+    "00-7535",
+    "00-1132",
+    "00-7017",
+    "00-3700",
+    "00-323",
+    "00-4783",
+    "00-3005",
+    "00-1198",
+    "00-1524",
+    "00-112",
+    "00-4779",
+    "00-3150",
+    "00-3149",
+    "00-3501",
+    "00-7120",
+    "00-6022",
+    "00-7393",
+    "00-5165",
+    "00-4016",
+    "00-4605",
+    "00-6676",
+    "00-7606",
+    "00-115",
+    "00-10",
+    "00-4932",
+    "00-3212",
+    "00-2923",
+    "00-3688",
+    "00-289",
+    "00-225",
+    "00-5381",
+    "00-2208",
+    "00-9225",
+    "00-4126",
+    "00-4270",
+    "00-6819",
+    "00-2045",
+    "00-5290",
+    "00-3027",
+    "00-440",
+    "00-3940",
+    "00-7653",
+    "00-8012",
+    "00-3714",
+    "00-7229",
+    "00-174",
+    "00-6810",
+    "00-4551",
+    "00-2907",
+    "00-3510",
+    "00-1911",
+    "00-8185",
+    "00-783",
+    "00-3744",
+    "00-8154",
+    "00-9209",
+    "00-3023",
+    "00-7204",
+    "00-7584",
+    "00-3022",
+    "00-6130",
+    "00-4707",
+    "00-8636",
+    "00-309",
+    "00-3669",
+    "00-5082",
+    "00-3042",
+    "00-7336",
+    "00-5391",
+    "00-2342",
+    "00-4482",
+    "00-3709",
+    "00-2154",
+    "00-7224",
+    "00-9290",
+    "00-1108",
+    "00-3713",
+    "00-3445",
+    "00-7114",
+    "00-5306",
+    "00-7358",
+    "00-4945",
+    "00-3512",
+    "00-943",
+    "00-6496",
+    "00-3062",
+    "00-2098",
+    "00-5322",
+    "00-6745",
+    "00-6724",
+    "00-2808",
+    "00-7539",
+    "00-8188",
+    "00-2259",
+    "00-4672",
+    "00-3384",
+    "00-1002",
+    "00-4028",
+    "00-1017",
+    "00-3253",
+    "00-2301",
+    "00-3580",
+    "00-6760",
+    "00-3780",
+    "00-388",
+    "00-7665",
+    "00-3146",
+    "00-3032",
+    "00-99202",
+    "00-7860",
+    "00-6108",
+    "00-4690",
+    "00-350",
+    "00-6262",
+    "00-3114",
+    "00-2201",
+    "00-6864",
+    "00-7743",
+    "00-4440",
+    "00-2222",
+    "00-1901",
+    "00-4099",
+    "00-521",
+    "00-2015",
+    "00-6487",
+    "00-6952",
+    "00-8395",
+    "00-6884",
+    "00-3506",
+    "00-3234",
+    "00-7969",
+    "00-1207",
+    "00-3507",
+    "00-8085",
+    "00-6492",
+    "00-7721",
+    "00-4424",
+    "00-5199",
+    "00-2213",
+    "00-6916",
+    "00-2170",
+    "00-2131",
+    "00-3947",
+    "00-1900",
+    "00-3143",
+    "00-4107",
+    "00-3076",
+    "00-2220",
+    "00-4756",
+    "00-290",
+    "00-3165",
+    "00-7857",
+    "00-5737",
+    "00-3617"
+  ],
+  "url": "/produkte/lindt-goldtafel-milch-extra/00-810702",
+  "vatCode": "10",
+  "video": ""
+}

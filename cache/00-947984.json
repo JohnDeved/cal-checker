@@ -1,0 +1,355 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-947984",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-apfel-mit-birne-und-hafer/00-947984",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-apfel-mit-birne-und-hafer/00-947984",
+  "category": "Grundnahrungsmittel",
+  "description": "Ab dem 8. Monat.",
+  "eanCodes": [
+    "4104420204706"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DEMETER_LABEL",
+              "valueTranslation": "DEMETER-Label (biologisch-dynamische Landwirtschaft)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_AGRICULTURE",
+              "valueTranslation": "EU Landwirtschaft - Alle Rohmaterialien in der EU angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-28T00:00:00",
+      "ingredients": "Zutaten: Äpfel* 41 %, Birnen* 24 %, Wasser, Apfelwürfel** 8 %, HAFERVOLLKORNFLOCKEN* 4%, DINKELVOLLKORNMEHL*1 2% *aus Demeter-Landbau (90%) **aus biologischer Landwirtschaft 1Dinkel ist eine Urweizenart.",
+      "mandatoryIndicator": "ab 8. Monat ; glutenhaltig",
+      "marketingMessage": "Ein feinstückiger Bio-Obst-Getreide-Brei mit Apfelwürfeln und Hafer - als Zwischenmahlzeit oder Nachspeise ab dem 8. Monat. Ohne Zuckerzusatz und mit Zutaten aus biodynamischem Landbau (Demeter).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 321
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 190
+        }
+      ],
+      "name": "Bio Apfel-Birne-Früchtezubereitung mit\nApfelwürfeln und Vollkorn",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 234,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 55,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Angebrochenes Glas verschlossen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "190 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 6.26"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Apfel mit Birne und Hafer",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/alnatura-apfel-mit-birne-und-hafer/00-947984"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 6.26"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 72540,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Apfel mit Birne und Hafer online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Apfel mit Birne und Hafer online bestellen | BILLA",
+  "slug": "alnatura-apfel-mit-birne-und-hafer",
+  "storeAvalibility": [
+    "00-3560",
+    "00-4107",
+    "00-5603",
+    "00-3296",
+    "00-7783",
+    "00-4170",
+    "00-4021",
+    "00-1041",
+    "00-9290",
+    "00-6424",
+    "00-6372",
+    "00-6975",
+    "00-5290",
+    "00-4469",
+    "00-6533",
+    "00-3633",
+    "00-3617",
+    "00-1425",
+    "00-3005",
+    "00-5322",
+    "00-4001",
+    "00-3584",
+    "00-1701",
+    "00-4672",
+    "00-7758",
+    "00-4945",
+    "00-7665",
+    "00-220",
+    "00-4655",
+    "00-3669",
+    "00-7491",
+    "00-7975",
+    "00-4783",
+    "00-1016",
+    "00-7676",
+    "00-7358",
+    "00-7632",
+    "00-1457",
+    "00-6480",
+    "00-7866",
+    "00-7653",
+    "00-5777",
+    "00-7368",
+    "00-1117",
+    "00-1913",
+    "00-3445",
+    "00-6496",
+    "00-2364",
+    "00-1071",
+    "00-2201",
+    "00-4982",
+    "00-6724",
+    "00-3042",
+    "00-4619",
+    "00-3780",
+    "00-4440",
+    "00-99202",
+    "00-6745",
+    "00-3162",
+    "00-4551",
+    "00-6810",
+    "00-5381",
+    "00-3856",
+    "00-6760",
+    "00-2342",
+    "00-4146",
+    "00-6979",
+    "00-1132",
+    "00-2190",
+    "00-6897",
+    "00-4675",
+    "00-1900",
+    "00-3102",
+    "00-3379",
+    "00-7592",
+    "00-3940",
+    "00-3196",
+    "00-4779",
+    "00-4421",
+    "00-7245",
+    "00-7535",
+    "00-3512",
+    "00-3121",
+    "00-2907",
+    "00-7606",
+    "00-4674",
+    "00-7969",
+    "00-7716",
+    "00-3713",
+    "00-281",
+    "00-7062",
+    "00-1198",
+    "00-9589",
+    "00-2208",
+    "00-2369",
+    "00-3023",
+    "00-7204",
+    "00-10",
+    "00-4673",
+    "00-7857",
+    "00-3580",
+    "00-3688",
+    "00-4126",
+    "00-7743",
+    "00-7229"
+  ],
+  "url": "/produkte/alnatura-apfel-mit-birne-und-hafer/00-947984",
+  "vatCode": "10",
+  "video": ""
+}

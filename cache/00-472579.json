@@ -1,0 +1,415 @@
+{
+  "articleGroupIds": [
+    "B2-512"
+  ],
+  "articleId": "00-472579",
+  "articleOnlyCanonicalPath": "/produkte/nuii-caramel-white-chocolate-und-texan-pecan-3er/00-472579",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nuii",
+  "canonicalPath": "/produkte/nuii-caramel-white-chocolate-und-texan-pecan-3er/00-472579",
+  "category": "Tiefkühl",
+  "eanCodes": [
+    "5900130034911",
+    "5900130034966"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Milch, Schlagsahne, Milchpulver, Pekannuss, Magermilchpulver, Soja, Butterreinfett, Vollmilch, Gerste, Weizen",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europaplatz 4, A-4020 Linz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FRONERI Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2022-04-22T00:00:00",
+      "ingredients": "Zutaten: Entrahmte MILCH, Zucker, SCHLAGSAHNE (13,5 %), Kakaobutter*, Glukosesirup, MILCHPULVER, geröstete texanische PEKANNUSS-Stückchen (4,5 %), MAGERMILCHPULVER, Karamellzucker (0,9 %), Karamellpulver (0,45 %) (Zucker, MAGERMILCHPULVER), Emulgatoren (Mono- und Diglyceride von Speisefettsäuren, Lecithine (SOJA), E476), Stabilisatoren (Johannisbrotkernmehl, Guarkernmehl), BUTTERREINFETT, VOLLMILCH, Salz (0,16 %), modifizierte Stärke, färbendes Karottenkonzentrat, Vanilleextrakt, Malzextrakt (GERSTE, WEIZEN) (0,05 %), Geliermittel (Pektine, Xanthan), natürliche Aromen. *Rainforest Alliance-zertifiziert. Mehr Informationen unter ra.org. Kann ERDNÜSSE, andere SCHALENFRÜCHTE und EIER enthalten.",
+      "mandatoryIndicator": "Packung enthält 3 Portionen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 237
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 270
+        }
+      ],
+      "name": "Vanille-Eiscreme (mit 8 % Milchfett) mit Karamellsauce (5 %), überzogen mit weißer Schokolade (31 %) mit Karamell und gesalzenen, gerösteten texanischen Pekannuss-Stückchen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1560,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 374,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "Pro Portion ( 66 g / 90 ml)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1030,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 247,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 41,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.26,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 3,
+      "preperations": [],
+      "storageHint": "Bei -18 °C mindestens haltbar bis Ende: siehe Verpackungsaufdruck"
+    }
+  ],
+  "grammage": "270 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 15.89"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Nuii Caramel White Chocolate & Texan Pecan 3er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/stanitzel-und-lutscher/B2-512/produkte/nuii-caramel-white-chocolate-und-texan-pecan-3er/00-472579"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 l 15.89"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 159111,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nuii Caramel White Chocolate & Texan Pecan 3er online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nuii Caramel White Chocolate & Texan Pecan 3er online bestellen",
+  "slug": "nuii-caramel-white-chocolate-und-texan-pecan-3er",
+  "storeAvalibility": [
+    "00-3105",
+    "00-2011",
+    "00-3120",
+    "00-7743",
+    "00-2259",
+    "00-6864",
+    "00-1107",
+    "00-4078",
+    "00-1417",
+    "00-4912",
+    "00-3062",
+    "00-9894",
+    "00-9753",
+    "00-3711",
+    "00-3050",
+    "00-7114",
+    "00-3709",
+    "00-4605",
+    "00-823",
+    "00-1425",
+    "00-2306",
+    "00-2342",
+    "00-3047",
+    "00-3857",
+    "00-4834",
+    "00-3780",
+    "00-3059",
+    "00-6975",
+    "00-6724",
+    "00-8085",
+    "00-3005",
+    "00-2098",
+    "00-2201",
+    "00-4466",
+    "00-4783",
+    "00-7075",
+    "00-6219",
+    "00-2808",
+    "00-3617",
+    "00-950",
+    "00-3445",
+    "00-7368",
+    "00-6011",
+    "00-4440",
+    "00-4283",
+    "00-4551",
+    "00-1132",
+    "00-6745",
+    "00-1198",
+    "00-2313",
+    "00-9030",
+    "00-1826",
+    "00-7860",
+    "00-3114",
+    "00-2131",
+    "00-2223",
+    "00-7424",
+    "00-9183",
+    "00-1070",
+    "00-4690",
+    "00-3512",
+    "00-6884",
+    "00-3580",
+    "00-7393",
+    "00-8940",
+    "00-3860",
+    "00-7084",
+    "00-99202",
+    "00-6353",
+    "00-8426",
+    "00-9290",
+    "00-6760",
+    "00-3713",
+    "00-4879",
+    "00-3042",
+    "00-4441",
+    "00-3384",
+    "00-2045",
+    "00-3055",
+    "00-7139",
+    "00-4090",
+    "00-5962",
+    "00-6021",
+    "00-4016",
+    "00-3744",
+    "00-6424",
+    "00-7606",
+    "00-2111",
+    "00-3027",
+    "00-4421",
+    "00-4270",
+    "00-6910",
+    "00-10",
+    "00-6676",
+    "00-6928",
+    "00-6843",
+    "00-7653",
+    "00-1710",
+    "00-3212",
+    "00-3740",
+    "00-7245",
+    "00-7336",
+    "00-4655",
+    "00-7358",
+    "00-4748",
+    "00-2287",
+    "00-3118"
+  ],
+  "url": "/produkte/nuii-caramel-white-chocolate-und-texan-pecan-3er/00-472579",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,214 @@
+{
+  "articleGroupIds": [
+    "B2-446",
+    "B2-449"
+  ],
+  "articleId": "00-516200",
+  "articleOnlyCanonicalPath": "/produkte/violife-cheddar-scheiben/00-516200",
+  "attributes": [
+    "s_marke",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Violife",
+  "brandPath": "/marken/violife",
+  "canonicalPath": "/produkte/violife-cheddar-scheiben/00-516200",
+  "category": "Kühlwaren",
+  "description": "<li>Gereifter Chadder-Geschmack Scheiben<li>Schmilzt perfekt<li>Mit Kokosöl und Vitamin B12</li>",
+  "eanCodes": [
+    "5202390021558"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gertrude Fröhlich Sandner Straße 2-4, 1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Upfield Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "GRIECHENLAND"
+      ],
+      "fromDate": "2021-09-29T00:00:00",
+      "ingredients": "Zutaten: LWasser, Kokosöl (23%), modifizierte Stärke, Stärke, Meersalz, Gereifter Cheddar Aroma, Olivenextrakt, Farbstoff: Beta-Carotin, Vitamin B12.",
+      "mandatoryIndicator": "Farbstoff",
+      "marketingMessage": "Ein fein-würziger Geschmack, der der ganzen Familie schmeckt! Violife Scheiben sind köstlich und vielseitig verwendbar - es bleibt ganz euch überlassen. Sie lassen sich sowohl im kalten Zustand prima auf Brot oder pur genießen oder einfach zum Überbacken eines Gratins verwenden.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.159
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 140
+        }
+      ],
+      "name": "Lebensmittelzubereitung mit Kokosöl für Toast, Sandwich und zum Snacken.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1190,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 285,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 2.5,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Geeignet als Brotbelag, zum Überbacken - oder einfach pur zum Snacken!",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Gekühlt bei +2°C bis +8°C lagern.",
+      "usageHints": "Frei von Milch, Soja, Gluten, Laktose und Nüssen. Geeignet für Veganer und Vegetarier."
+    }
+  ],
+  "grammage": "140 g Packung",
+  "grammageBadge": "140 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.25,
+    "unit": "1 kg 23.21"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Violife Cheddar Scheiben",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/kaesespezialitaeten/B2-446/produkte/violife-cheddar-scheiben/00-516200",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schnittkaese/B2-449/produkte/violife-cheddar-scheiben/00-516200"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.25,
+    "unit": "1 kg 23.21"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Violife Cheddar Scheiben online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Violife Cheddar Scheiben online bestellen | BILLA",
+  "slug": "violife-cheddar-scheiben",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/violife-cheddar-scheiben/00-516200",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,240 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-413465",
+  "articleOnlyCanonicalPath": "/produkte/lattella-mango-maracuja-light/00-413465",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lattella",
+  "brandPath": "/marken/lattella",
+  "canonicalPath": "/produkte/lattella-mango-maracuja-light/00-413465",
+  "category": "Kühlwaren",
+  "description": "Lattella ist eine einzigartige Kombination ausgewählter Früchte mit hochwertiger Molke aus bester österreichischer Milch. Molke enthält auf natürliche Weise essentielle Nährstoffe der Milch wie wertvolle Vitamine, Proteine und Mineralstoffe, ist aber nahezu fettfrei. Die vielen köstlichen Geschmacksrichtungen der Lattella Drinks sind die idealen Begleiter durch den Tag und sorgen für angenehme Erfrischung und besonderen Trinkgenuss.",
+  "eanCodes": [
+    "9006020024041"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGETARIAN",
+              "valueTranslation": "V Label Vegetarian - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-04-20T00:00:00",
+      "ingredients": "Zutaten: SÜSSMOLKE fermentiert, 5% Mangopüree, 5% Maracujasaft aus Maracujasaftkonzentrat, Süßungsmittel Sucralose, Säureregulatoren Citronensäure, Natriumcitrate; Aromen.",
+      "marketingMessage": "Die Inder sagen der Mango mentale Kräfte nach - das würde so clever konstruierte Weltwunder wie das Taj Mahal erklären. Genial ist auch, wenn die leckeren Mangos auf fruchtige Maracujas treffen. Da kommen Genießer schnell auf eine gute Idee: Sie trinken ihr Lattella sofort.\nDer Geschmack der Mango ist angenehm süß und sehr aromatisch.\nMaracuja weist einen erfrischend süß-säuerlichen Geschmack auf, hat ein besonders exotisches Aroma.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.538
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 21,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 90,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Mango und Maracuja anderer Herkunft.",
+      "preperations": [],
+      "storageHint": "Ungeöffnet gekühlt (3-7 °C) mindestens haltbar bis: siehe Verpackungsaufdruck.",
+      "usageHints": "Vor dem Öffnen gut schütteln"
+    }
+  ],
+  "grammage": "500 Milliliter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.25,
+    "unit": "1 l 2.50"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Lattella Mango Maracuja light",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/lattella-mango-maracuja-light/00-413465"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.25,
+    "unit": "1 l 2.50"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 112720,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lattella Mango Maracuja light online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lattella Mango Maracuja light online bestellen | BILLA",
+  "slug": "lattella-mango-maracuja-light",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/lattella-mango-maracuja-light/00-413465",
+  "vatCode": "10",
+  "video": ""
+}

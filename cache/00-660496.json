@@ -1,0 +1,383 @@
+{
+  "articleGroupIds": [
+    "B2-442",
+    "B2-445",
+    "B2-490"
+  ],
+  "articleId": "00-660496",
+  "articleOnlyCanonicalPath": "/produkte/waldviertler-schafmischkaeserolle---die-kaesemacher/00-660496",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Die Käsemacher",
+  "brandPath": "/marken/die-kaesemacher",
+  "canonicalPath": "/produkte/waldviertler-schafmischkaeserolle---die-kaesemacher/00-660496",
+  "category": "Kühlwaren",
+  "description": "Stichfester Frischkäse aus pasteurisierter Kuh- und Schafmilch, 40% Fett i. Tr., in Lake. Diese zarte Rolle aus Schafmischkäse wird nach alter Tradition hergestellt und gehört zu einem der ersten Produkte von DIE KÄSEMACHER. Die Waldviertler Frischkäsespezialität ist besonders leicht und mild-säuerlich im Geschmack weshalb die Rolle vor allem in den Sommermonaten sehr beliebt ist. <br><li>2 x 200g Rolle<li>Schafmischkäse mit mind. 45% Fett i. Tr. / 12% absolut </li><br>Alle Leidenschaft dem feinen Geschmack -  ist für DIE KÄSEMACHER nicht nur ein Slogan, sondern gelebte Unternehmensphilosophie.",
+  "eanCodes": [
+    "9003454110807"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europastraße 5, A-3902 Vitis",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Die Käsemacher",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kaesemacher.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Frischkäse (mindestens 51% pasteurisierte SCHAFMILCH, maximal 49% pasteurisierte KUHMILCH, Speisesalz, Lab, Milchsäurekulturen), Wasser, Säuerungsmittel: Milchsäure",
+      "marketingMessage": "Stichfester Frischkäse aus pasteurisierter Kuh- und Schafmilch, 40% Fett i. Tr., in Lake. Diese zarte Rolle aus Schafmischkäse wird nach alter Tradition hergestellt und gehört zu einem der ersten Produkte von DIE KÄSEMACHER. Die Waldviertler Frischkäsespezialität ist besonders leicht und mild-säuerlich im Geschmack weshalb die Rolle vor allem in den Sommermonaten sehr beliebt ist.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 400
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.51
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Frischkäse, Schafmischkäse mit mind. 40% Fett i. Tr. mit Kuhmilch in Lake",
+      "nutritions": [
+        {
+          "householdPortion": "pro 100g Abtropfgewicht",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 148,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 614,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.19,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt bei 4 bis 7°C mindestens haltbar bis: siehe Etikett",
+      "usageHints": "Nach dem Öffnen innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "400 g Tasse",
+  "grammageBadge": "400 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "100 g 1.00"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Waldviertler Schafmischkäserolle - Die Käsemacher",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/waldviertler-schafmischkaeserolle---die-kaesemacher/00-660496",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/waldviertler-schafmischkaeserolle---die-kaesemacher/00-660496",
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/waldviertler-schafmischkaeserolle---die-kaesemacher/00-660496"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "100 g 1.00"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 93320,
+  "recommendationArticleIds": [],
+  "seoDescription": "Waldviertler Schafmischkäserolle - Die Käsemacher online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Waldviertler Schafmischkäserolle - Die Käsemacher online bestelle",
+  "slug": "waldviertler-schafmischkaeserolle---die-kaesemacher",
+  "storeAvalibility": [
+    "00-3082",
+    "00-9373",
+    "00-3996",
+    "00-3094",
+    "00-3025",
+    "00-3431",
+    "00-3420",
+    "00-3032",
+    "00-9555",
+    "00-3700",
+    "00-3711",
+    "00-3170",
+    "00-3560",
+    "00-3819",
+    "00-1117",
+    "00-3593",
+    "00-3125",
+    "00-3889",
+    "00-3739",
+    "00-3212",
+    "00-2220",
+    "00-3105",
+    "00-3114",
+    "00-3444",
+    "00-3294",
+    "00-3405",
+    "00-3583",
+    "00-3641",
+    "00-9266",
+    "00-3584",
+    "00-3579",
+    "00-9498",
+    "00-10",
+    "00-3780",
+    "00-9001",
+    "00-3871",
+    "00-3920",
+    "00-3401",
+    "00-3252",
+    "00-3149",
+    "00-3601",
+    "00-3131",
+    "00-3445",
+    "00-3047",
+    "00-3830",
+    "00-3744",
+    "00-3617",
+    "00-3507",
+    "00-3501",
+    "00-3856",
+    "00-9332",
+    "00-9324",
+    "00-3234",
+    "00-3983",
+    "00-9639",
+    "00-3322",
+    "00-3220",
+    "00-3206",
+    "00-3841",
+    "00-3076",
+    "00-3606",
+    "00-3121",
+    "00-3468",
+    "00-3001",
+    "00-9209",
+    "00-3253",
+    "00-9753",
+    "00-9183",
+    "00-3848",
+    "00-3022",
+    "00-3135",
+    "00-3055",
+    "00-3669",
+    "00-3005",
+    "00-3611",
+    "00-3023",
+    "00-3120",
+    "00-3549",
+    "00-9589",
+    "00-3412",
+    "00-99202",
+    "00-3180",
+    "00-3633",
+    "00-9233",
+    "00-3140",
+    "00-3102",
+    "00-3538",
+    "00-3561",
+    "00-3296",
+    "00-9225",
+    "00-3259",
+    "00-9761",
+    "00-3947",
+    "00-3146",
+    "00-3349",
+    "00-3681",
+    "00-3059",
+    "00-2342",
+    "00-9688",
+    "00-3506",
+    "00-3600",
+    "00-3551",
+    "00-3509",
+    "00-3713",
+    "00-3688",
+    "00-3321",
+    "00-3143",
+    "00-3378",
+    "00-3569",
+    "00-3642",
+    "00-3735",
+    "00-3043",
+    "00-3196",
+    "00-3010",
+    "00-7017",
+    "00-4675",
+    "00-3138",
+    "00-3118",
+    "00-3062",
+    "00-9894",
+    "00-3050",
+    "00-3103",
+    "00-3027",
+    "00-3940",
+    "00-9290",
+    "00-3379",
+    "00-3157",
+    "00-3254",
+    "00-3452",
+    "00-3308",
+    "00-3510",
+    "00-3235",
+    "00-9167",
+    "00-3709",
+    "00-3011",
+    "00-3150",
+    "00-3869",
+    "00-281",
+    "00-3415",
+    "00-3214",
+    "00-3363",
+    "00-9308",
+    "00-3014",
+    "00-9415",
+    "00-3714",
+    "00-3580",
+    "00-3394",
+    "00-3044",
+    "00-3063",
+    "00-3512",
+    "00-3740",
+    "00-9357",
+    "00-3042",
+    "00-3384",
+    "00-3860",
+    "00-3822",
+    "00-3326",
+    "00-3162",
+    "00-3824"
+  ],
+  "url": "/produkte/waldviertler-schafmischkaeserolle---die-kaesemacher/00-660496",
+  "vatCode": "10",
+  "video": ""
+}

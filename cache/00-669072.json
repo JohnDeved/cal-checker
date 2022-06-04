@@ -1,0 +1,430 @@
+{
+  "articleGroupIds": [
+    "B2-457",
+    "B2-311",
+    "B2-331"
+  ],
+  "articleId": "00-669072",
+  "articleOnlyCanonicalPath": "/produkte/billa-cappuccino-laktosefrei/00-669072",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern",
+    "mengenstep",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "BILLA",
+  "brandPath": "/marken/billa",
+  "canonicalPath": "/produkte/billa-cappuccino-laktosefrei/00-669072",
+  "category": "Kühlwaren",
+  "description": "Der laktosefreie Cappuccino von BILLA besteht zu 100 % aus Arabicabohnen. Zum vollen Geschmack trägt die Verwendung Ennstaler Bergbauernmilch zusätzlich bei.<li>ohne künstliche Aromazusätze<li>Auslieferung in Kühlbehältern",
+  "eanCodes": [
+    "9002233029088"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Saccharose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Molkeneiweiss",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Casein",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "Mit Kaffee aus Nicht- EU"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Billa AG, IZ NÖ Süd, Straße 3, Objekt 16, 2355 Wr. Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Billa",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hotline@billa.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 828 700",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-05-21T00:00:00",
+      "ingredients": "Zutaten: laktosefreie teilentrahmte MILCH 79%, Wasser, Zucker, flüssiger Kaffee-Extrakt 1,7%, fettarmes Kakaopulver, Säureregulator: Natriumphosphate; Verdickungsmittel: Carrageen.",
+      "mandatoryIndicator": "AT-62640-EG\r\nKoffein mg/100mlca. 18",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.262
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        },
+        {
+          "type": "Portionsgroesse",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Getränk aus laktosefreier, teilentrahmter Milch mit 16% Kaffee,  ultrahocherhitzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 258,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3.1,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 61,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1.9,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4.1,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.4,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9.2,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6.5,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2.8,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.17,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 645,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 7.6,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 153,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 4.7,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 8.6,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7.1,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.43,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 250 Milliliter",
+          "relationValue": 250,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Ungekühlt haltbar"
+    }
+  ],
+  "grammage": "250 ml Becher (Einweg)",
+  "grammageBadge": "250 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 l 3.96"
+  },
+  "maximalOrderQuantity": 50,
+  "minimalOrderQuantity": 0,
+  "name": "BILLA Cappuccino Laktosefrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/billa-cappuccino-laktosefrei/00-669072",
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311/produkte/billa-cappuccino-laktosefrei/00-669072",
+    "~/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331/produkte/billa-cappuccino-laktosefrei/00-669072"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 l 3.96"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "rank": 109060,
+  "recommendationArticleIds": [],
+  "seoDescription": "BILLA Cappuccino Laktosefrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "BILLA Cappuccino Laktosefrei online bestellen | BILLA",
+  "slug": "billa-cappuccino-laktosefrei",
+  "storeAvalibility": [
+    "00-7114",
+    "00-3860",
+    "00-3143",
+    "00-7062",
+    "00-3569",
+    "00-3445",
+    "00-1132",
+    "00-3857",
+    "00-7675",
+    "00-6219",
+    "00-7358",
+    "00-3512",
+    "00-281",
+    "00-3042",
+    "00-3050",
+    "00-2204",
+    "00-10",
+    "00-2313",
+    "00-2111",
+    "00-7223",
+    "00-4107",
+    "00-6496",
+    "00-7229",
+    "00-2345",
+    "00-6424",
+    "00-9555",
+    "00-3025",
+    "00-3055",
+    "00-8395",
+    "00-1866",
+    "00-323",
+    "00-3120",
+    "00-1107",
+    "00-3234",
+    "00-4605",
+    "00-3044",
+    "00-7368",
+    "00-4912",
+    "00-1380",
+    "00-7860",
+    "00-6281",
+    "00-1710",
+    "00-2261",
+    "00-6884",
+    "00-6676",
+    "00-2190",
+    "00-2098",
+    "00-3713",
+    "00-1532",
+    "00-4551",
+    "00-3005",
+    "00-99202",
+    "00-430",
+    "00-4655",
+    "00-7120",
+    "00-4783",
+    "00-2201",
+    "00-7084",
+    "00-4283",
+    "00-7082",
+    "00-4478",
+    "00-2045",
+    "00-6975",
+    "00-2222",
+    "00-5108",
+    "00-2808",
+    "00-9753",
+    "00-3114",
+    "00-4779",
+    "00-7336",
+    "00-3321",
+    "00-3063",
+    "00-7606",
+    "00-8409",
+    "00-3681",
+    "00-4016",
+    "00-355",
+    "00-6745",
+    "00-4078",
+    "00-7245",
+    "00-9894",
+    "00-3709",
+    "00-6439",
+    "00-9290",
+    "00-1900",
+    "00-7653",
+    "00-2342",
+    "00-3384",
+    "00-2131",
+    "00-2223",
+    "00-3118",
+    "00-3062",
+    "00-3580",
+    "00-1457",
+    "00-4421",
+    "00-4707",
+    "00-4466",
+    "00-6724",
+    "00-3700",
+    "00-4834",
+    "00-7393",
+    "00-4170",
+    "00-7857",
+    "00-3379",
+    "00-9183",
+    "00-3780",
+    "00-112",
+    "00-4690"
+  ],
+  "url": "/produkte/billa-cappuccino-laktosefrei/00-669072",
+  "vatCode": "20",
+  "video": ""
+}

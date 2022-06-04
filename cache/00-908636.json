@@ -1,0 +1,329 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-483",
+    "B2-491"
+  ],
+  "articleId": "00-908636",
+  "articleOnlyCanonicalPath": "/produkte/krainer-bauchspeck-ungepoekelt/00-908636",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "F. Krainer",
+  "canonicalPath": "/produkte/krainer-bauchspeck-ungepoekelt/00-908636",
+  "category": "Kühlwaren",
+  "description": "Der ungepökelte Bauchspeck ist ein Klassiker des steirischen Traditionsbetriebs F. Krainer. Das Produkt besteht aus hochwertigem Schweinefleisch aus Österreich.<li>in der Steiermark produziert<li>ideal zur Jause oder zum Verfeinern von Gerichten<li>hergestellt von einem Familienbetrieb",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marburgerstraße  91, A-8435 Wagna",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "F. Krainer Ges.m.b.H.,",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43/3452/82190-0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Meersalz, Gewürze, Gewürzextrakte, Saccharose, Dextrose, Honig. Hergestellt in der Steiermark. Fleisch aus Österreich.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.112
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.1
+        }
+      ],
+      "name": "Bauchspeck ungepökelt o.Kn. o.Schw.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 572,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2402,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 55,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Zimmertemperatur lagerfähig"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 33.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 33.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 33.9,
+    "unit": "100 g 3.39"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Krainer Bauchspeck Ungepökelt",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/krainer-bauchspeck-ungepoekelt/00-908636",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483/produkte/krainer-bauchspeck-ungepoekelt/00-908636",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/krainer-bauchspeck-ungepoekelt/00-908636"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 33.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 33.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 33.9,
+    "unit": "100 g 3.39"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 56780,
+  "recommendationArticleIds": [],
+  "seoDescription": "Krainer Bauchspeck Ungepökelt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Krainer Bauchspeck Ungepökelt online bestellen | BILLA",
+  "slug": "krainer-bauchspeck-ungepoekelt",
+  "storeAvalibility": [
+    "00-6979",
+    "00-7424",
+    "00-6805",
+    "00-6811",
+    "00-6480",
+    "00-6810",
+    "00-7232",
+    "00-6338",
+    "00-6758",
+    "00-6845",
+    "00-4551",
+    "00-6877",
+    "00-6065",
+    "00-6952",
+    "00-7358",
+    "00-6001",
+    "00-7368",
+    "00-6487",
+    "00-7302",
+    "00-8946",
+    "00-6235",
+    "00-7073",
+    "00-8012",
+    "00-7058",
+    "00-6424",
+    "00-7120",
+    "00-6970",
+    "00-6011",
+    "00-6871",
+    "00-7224",
+    "00-7041",
+    "00-6569",
+    "00-6897",
+    "00-6910",
+    "00-6108",
+    "00-7075",
+    "00-3744",
+    "00-6021",
+    "00-7204",
+    "00-6130",
+    "00-6219",
+    "00-6628",
+    "00-6366",
+    "00-7245",
+    "00-6983",
+    "00-6533",
+    "00-6840",
+    "00-6823",
+    "00-6274",
+    "00-6502",
+    "00-7393",
+    "00-6518",
+    "00-4783",
+    "00-6123",
+    "00-7084",
+    "00-7139",
+    "00-7249",
+    "00-6138",
+    "00-99202",
+    "00-6179",
+    "00-6884",
+    "00-6255",
+    "00-7114",
+    "00-6281",
+    "00-6864",
+    "00-6932",
+    "00-7082",
+    "00-6306",
+    "00-6558",
+    "00-4672",
+    "00-6588",
+    "00-6688",
+    "00-6724",
+    "00-6262",
+    "00-6372",
+    "00-6489",
+    "00-6018",
+    "00-6492",
+    "00-6799",
+    "00-6892",
+    "00-6684",
+    "00-6676",
+    "00-8953",
+    "00-6051",
+    "00-7062",
+    "00-6197",
+    "00-6248",
+    "00-6843",
+    "00-6740",
+    "00-6490",
+    "00-8940",
+    "00-6024",
+    "00-6975",
+    "00-6745",
+    "00-6895",
+    "00-6928",
+    "00-7189",
+    "00-7721",
+    "00-6559",
+    "00-6916",
+    "00-6439",
+    "00-6749",
+    "00-6494",
+    "00-7328",
+    "00-3822",
+    "00-6353",
+    "00-6304",
+    "00-3857",
+    "00-6496",
+    "00-6554",
+    "00-7229",
+    "00-8433",
+    "00-7336",
+    "00-4565",
+    "00-7743",
+    "00-6760",
+    "00-6819",
+    "00-7223",
+    "00-6508",
+    "00-6900",
+    "00-8441"
+  ],
+  "url": "/produkte/krainer-bauchspeck-ungepoekelt/00-908636",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "articleGroupIds": [
+    "B2-211"
+  ],
+  "articleId": "00-890768",
+  "articleOnlyCanonicalPath": "/produkte/reschundfrisch-jour-semmel-6er/00-890768",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Resch&Frisch",
+  "brandPath": "/marken/reschfrisch",
+  "canonicalPath": "/produkte/reschundfrisch-jour-semmel-6er/00-890768",
+  "category": "Brot & Gebäck",
+  "description": "Die beliebte Semmel gibt es auch im Kleinformat! Die Jour-Semmeln passen besonders gut zum festlichen Gedeck oder für die Kinderjause - süß gefüllt oder pikant - immer ein rescher Genuss!",
+  "eanCodes": [
+    "9006366200017"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schloßstraße 14, 4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Resch&Frisch Holding GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-10-10T00:00:00",
+      "ingredients": "Zutaten: Mehl (WEIZEN, ROGGEN), Wasser, Backhefe, Speisesalz, Zucker, Rapsöl, GERSTENMALZMEHL, WEIZENMALZMEHL. Kann Spuren von Sesam und Soja enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 31
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 31
+        }
+      ],
+      "name": "Weizengebäck, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1158,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 273,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 54.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Im Original Back's Ofen Programm 1 oder im E-Herd 3-6 min bei 160 °C Ober-/Unterhitze fertig backen. Kurz in Stoffserviette nachziehen lassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "lagern bei -18°C, nach dem Auftauen nicht wieder einfrieren",
+      "usageHints": "lagern bei -18°C, nach dem Auftauen nicht wieder einfrieren"
+    }
+  ],
+  "grammage": "6 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 Stk .45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Resch&Frisch Jour Semmel 6er",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/reschundfrisch-jour-semmel-6er/00-890768"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 Stk .45"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 124630,
+  "recommendationArticleIds": [],
+  "seoDescription": "Resch&Frisch Jour Semmel 6er online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Resch&Frisch Jour Semmel 6er online bestellen | BILLA",
+  "slug": "reschundfrisch-jour-semmel-6er",
+  "storeAvalibility": [
+    "00-7653",
+    "00-7491",
+    "00-7860",
+    "00-4707",
+    "00-7857",
+    "00-10",
+    "00-7603",
+    "00-99202",
+    "00-7606",
+    "00-7609"
+  ],
+  "url": "/produkte/reschundfrisch-jour-semmel-6er/00-890768",
+  "vatCode": "10",
+  "video": ""
+}

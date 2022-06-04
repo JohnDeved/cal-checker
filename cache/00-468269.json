@@ -1,0 +1,811 @@
+{
+  "articleGroupIds": [
+    "B2-622"
+  ],
+  "articleId": "00-468269",
+  "articleOnlyCanonicalPath": "/produkte/beba-bio-pre/00-468269",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Beba",
+  "canonicalPath": "/produkte/beba-bio-pre/00-468269",
+  "category": "Grundnahrungsmittel",
+  "description": "BEBA  Bio Pre Anfangsmilch <br>Diese zertifizierte Bio Säuglingsmilch ist genau auf die besonderen Ernährungsbedürfnisse deines Babys von Geburt an abgestimmt und unterstützt seine gesunde Entwicklung.",
+  "eanCodes": [
+    "7613287490551",
+    "8445290258762"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2022-03-31T00:00:00",
+      "ingredients": "Zutaten: Magermilch* 64,2%, Laktose* (aus Milch), Pflanzenöle 11% (Sonnenblume*, Raps*) Molkeneiweiss*, Maltodextrin*, Calciumcitrate, Fischöl, Emulgator Lecithine* (Soja), Kaliumchlorid, Cholinbitarat, Kaliumcitrate, L-Phenylalanin, Milchsäurebakterie (L.reuteri)1, Vitaminmischung (Vitamin C, Vitamin E, Niacin, Pantothensäure, Thiamin, Vitamin A, Vitamin B6, Folsäure, Vitmain K, Vitmain D, Biotin, Vitamin B12), Magnesiumcitrate, Natriumphosphate, Inostiol, L-Histidin, L-Tryptophan, Eisensulfat, Zinksulfat, L-Carnitin, Kupfersulfat, Mangansulfat, Kaliumjodid, Natriumslenat.*aus biologischer Produktion1 L. Reuteri (DSM 17938) wird exclusiv unter der Lizenz von Bio Gaia eingesetzt",
+      "mandatoryIndicator": "Wichtiger Hinweis: Stillen ist die beste Ernährung für dein Baby, daher sollte so lange wie möglich gestillt werden. Bitte sprich mit deinem Kinderarzt oder deiner Hebamme, wenn du eine Säuglingsanfangsnahrung verwenden möchtest. Säuglingsanfangsnahrungen enthalten Kohlenhydrate. Häufiger oder dauernder Kontakt der Zähne mit Kohlenhydrathaltigen Nahrungen kann Zahnzerstörung durch Karis verursachen. Überlasse deinem Kind die Flasche nicht zum Dauernuckeln.",
+      "marketingMessage": "BEBA PRE Bio Anfangsmilch\nDiese zertifizierte Bio Säuglingsmilch ist genau auf die besonderen Ernährungsbedürfnisse deines Babys von Geburt an abgestimmt und unterstützt seine gesunde Entwicklung.\n\n- als alleinige Nahrung, wenn nicht gestillt wird\n- gut zum Zufüttern geeignet\n- solange du deinem Baby eine Anfangsnahrung geben möchtest\n- hergestellt in der Schweiz* in Konolfingen in der Region Bern\n- aus Schweizer Bio Milch\n- Pflanzliche Öle ohne Palmöl\n- Enthält DHA (gesetzlich für Säuglingsanfangsnahrung vorgeschrieben)\n\nHergestellt in der Schweiz* *Magermilch aus der Schweiz Laktose und Pflanzenöle aus der EU",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 996
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 800
+        }
+      ],
+      "name": "Säuglingsmilchnahrung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 65,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 272,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate, davon Milchzucker",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 25,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Biotin",
+              "nutritionalValue": 1.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 48.2,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 0.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fluorid",
+              "nutritionalValue": 0.0075,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 20.7,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Jod",
+              "nutritionalValue": 13.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 81.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 45.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kupfer",
+              "nutritionalValue": 0.05,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 5.51,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Mangan",
+              "nutritionalValue": 0.018,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 0.53,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 0.44,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Phosphor",
+              "nutritionalValue": 25.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Selen",
+              "nutritionalValue": 3,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 58.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.07,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.21,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.15,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.045,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 13,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 1.5,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 1.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin K",
+              "nutritionalValue": 5.1,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Zink",
+              "nutritionalValue": 0.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Carnitin",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Cholin, gesamt",
+              "nutritionalValue": 20,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Docosahexaensäure (DHA)",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Inositol",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Linolsäure",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Taurin",
+              "nutritionalValue": 0,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Wichtige Hinweise: Beachten Sie bei der Zubereitung von Säuglingsnahrung genau die Gebrauchsanweisung. Unsachgemäße Zubereitung und Lagerung kann zu gesundheitlichen Beeinträchtigungen durch Wachstum unerwünschter Keime führen. Bereiten Sie die Nahrung vor jeder Mahlzeit frisch zu und füttern Sie diese sofort. Nahrungsreste nicht wiederverwenden. Flasche, Sauger und Ring gründlich reinigen und auskochen. Erwärmen Sie Säuglingsnahrung nicht in der Mikrowelle (Verbrühungsgefahr). 1. Hände gründlich waschen. Frisches Trinkwasser fünf Minuten abkochen und auf 40°C abkühlen lassen. 2. 2/3 der benötigten Wassermenge in die Flasche geben. 3. Mit dem beiliegenden Messlöffel die erforderliche Pulvermenge abmessen und hinzugeben. Bitte keine gehäuften Messlöffel verwenden. 4. Flasche verschließen und gut schütteln. 5. Verbleibende Wassermenge hinzufügen und gut schütteln. 6. Vor dem Füttern auf Trinktemperatur (37°C) überprüfen. Trinkmenge und Dosierung: Die Trinkmenge je Fläschchen kann individuell unterschiedlich sein. Die empfohlene Trinkmenge und Anzahl der Fläschchen sind Richtwerte. 1. Woche: Für 70 ml trinkfertige Nahrung benötigt man 2 Messlöffel BEBA PRE Bio und 60 ml Wasser. Flaschenmahlzeiten pro Tag: 5-7. 2. Woche: Für 100 ml trinkfertige Nahrung benötigt man 3 Messlöffel BEBA PRE Bio und 90 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 3.+ 4. Woche: Für 135 ml trinkfertige Nahrung benötigt man 4 Messlöffel BEBA PRE Bio und 120 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 2. Monat: Für 165 ml trinkfertige Nahrung benötigt man 5 Messlöffel BEBA PRE Bio und 150 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 3.+ 4. Monat: Für 200 ml trinkfertige Nahrung benötigt man 6 Messlöffel BEBA PRE Bio und 180 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 5. Monat: Für 235 ml trinkfertige Nahrung benötigt man 7 Messlöffel BEBA PRE Bio und 210 ml Wasser. Flaschenmahlzeiten pro Tag: 4. 6. Monat: Für 235 ml trinkfertige Nahrung benötigt man 7 Messlöffel BEBA PRE und 210 ml Wasser. Flaschenmahlzeiten pro Tag: 3. nach dem 6. Monat: Für 235 ml trinkfertige Nahrung benötigt man 7 Messlöffel BEBA PRE Bio und 210 ml Wasser. Flaschenmahlzeiten pro Tag: 1-2. 1 gestrichener Messlöffel = ca. 4,2 g BEBA PRE Bio. Messlöffel ist jeder Packung beigegeben. Anwendung: - als alleinige Nahrung, wenn nicht gestillt wird - solange Sie Ihrem Baby eine Anfangsnahrung geben möchten.",
+          "type": "Trockene/konzentrierte Nahrung mit Wasser wieder in urspruengliche Festigkeit/Konsistenz bringen"
+        }
+      ],
+      "storageHint": "In der originalverschlossenen Dose bei Raumtemperatur (max. 25°C) und bei trockenen Lagerbedingungen mindestens haltbar bis Ende: siehe Bodenprägung.",
+      "usageHints": "Angebrochene Dose gut verschließen, bei Raumtemperatur (max. 25°C) sowie trocken lagern und innerhalb von 21 Tagen aufbrauchen. Unter Schutzatmosphäre verpackt. Füllhöhe technisch bedingt."
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten: Magermilch* 64,2%, Laktose* (aus Milch), Pflanzenöle 11% (Sonnenblume*, Raps*) Molkeneiweiss*, Maltodextrin*, Calciumcitrate, Fischöl, Emulgator Lecithine* (Soja), Kaliumchlorid, Cholinbitarat, Kaliumcitrate, L-Phenylalanin, Milchsäurebakterie (L.reuteri)1, Vitaminmischung (Vitamin C, Vitamin E, Niacin, Pantothensäure, Thiamin, Vitamin A, Vitamin B6, Folsäure, Vitmain K, Vitmain D, Biotin, Vitamin B12), Magnesiumcitrate, Natriumphosphate, Inostiol, L-Histidin, L-Tryptophan, Eisensulfat, Zinksulfat, L-Carnitin, Kupfersulfat, Mangansulfat, Kaliumjodid, Natriumslenat.*aus biologischer Produktion1 L. Reuteri (DSM 17938) wird exclusiv unter der Lizenz von Bio Gaia eingesetzt",
+      "mandatoryIndicator": "Wichtiger Hinweis: Stillen ist die beste Ernährung für dein Baby, daher sollte so lange wie möglich gestillt werden. Bitte sprich mit deinem Kinderarzt oder deiner Hebamme, wenn du eine Säuglingsanfangsnahrung verwenden möchtest. Säuglingsanfangsnahrungen enthalten Kohlenhydrate. Häufiger oder dauernder Kontakt der Zähne mit Kohlenhydrathaltigen Nahrungen kann Zahnzerstörung durch Karis verursachen. Überlasse deinem Kind die Flasche nicht zum Dauernuckeln.",
+      "marketingMessage": "BEBA PRE Bio Anfangsmilch\nDiese zertifizierte Bio Säuglingsmilch ist genau auf die besonderen Ernährungsbedürfnisse deines Babys von Geburt an abgestimmt und unterstützt seine gesunde Entwicklung.\n\n- als alleinige Nahrung, wenn nicht gestillt wird\n- gut zum Zufüttern geeignet\n- solange du deinem Baby eine Anfangsnahrung geben möchtest\n- hergestellt in der Schweiz* in Konolfingen in der Region Bern\n- aus Schweizer Bio Milch\n- Pflanzliche Öle ohne Palmöl\n- Enthält DHA (gesetzlich für Säuglingsanfangsnahrung vorgeschrieben)\n\nHergestellt in der Schweiz* *Magermilch aus der Schweiz Laktose und Pflanzenöle aus der EU",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 996
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 800
+        }
+      ],
+      "name": "Säuglingsmilchnahrung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 65,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 272,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate, davon Milchzucker",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 25,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Biotin",
+              "nutritionalValue": 1.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 48.2,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 0.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fluorid",
+              "nutritionalValue": 0.0075,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 20.7,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Jod",
+              "nutritionalValue": 13.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 81.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 45.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kupfer",
+              "nutritionalValue": 0.05,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 5.51,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Mangan",
+              "nutritionalValue": 0.018,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 0.53,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 0.44,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Phosphor",
+              "nutritionalValue": 25.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Selen",
+              "nutritionalValue": 3,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 58.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.07,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.21,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.15,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.045,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 13,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 1.5,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 1.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin K",
+              "nutritionalValue": 5.1,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Zink",
+              "nutritionalValue": 0.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Carnitin",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Cholin, gesamt",
+              "nutritionalValue": 20,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Docosahexaensäure (DHA)",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Inositol",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Linolsäure",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Taurin",
+              "nutritionalValue": 0,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Wichtige Hinweise: Beachten Sie bei der Zubereitung von Säuglingsnahrung genau die Gebrauchsanweisung. Unsachgemäße Zubereitung und Lagerung kann zu gesundheitlichen Beeinträchtigungen durch Wachstum unerwünschter Keime führen. Bereiten Sie die Nahrung vor jeder Mahlzeit frisch zu und füttern Sie diese sofort. Nahrungsreste nicht wiederverwenden. Flasche, Sauger und Ring gründlich reinigen und auskochen. Erwärmen Sie Säuglingsnahrung nicht in der Mikrowelle (Verbrühungsgefahr). 1. Hände gründlich waschen. Frisches Trinkwasser fünf Minuten abkochen und auf 40°C abkühlen lassen. 2. 2/3 der benötigten Wassermenge in die Flasche geben. 3. Mit dem beiliegenden Messlöffel die erforderliche Pulvermenge abmessen und hinzugeben. Bitte keine gehäuften Messlöffel verwenden. 4. Flasche verschließen und gut schütteln. 5. Verbleibende Wassermenge hinzufügen und gut schütteln. 6. Vor dem Füttern auf Trinktemperatur (37°C) überprüfen. Trinkmenge und Dosierung: Die Trinkmenge je Fläschchen kann individuell unterschiedlich sein. Die empfohlene Trinkmenge und Anzahl der Fläschchen sind Richtwerte. 1. Woche: Für 70 ml trinkfertige Nahrung benötigt man 2 Messlöffel BEBA PRE Bio und 60 ml Wasser. Flaschenmahlzeiten pro Tag: 5-7. 2. Woche: Für 100 ml trinkfertige Nahrung benötigt man 3 Messlöffel BEBA PRE Bio und 90 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 3.+ 4. Woche: Für 135 ml trinkfertige Nahrung benötigt man 4 Messlöffel BEBA PRE Bio und 120 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 2. Monat: Für 165 ml trinkfertige Nahrung benötigt man 5 Messlöffel BEBA PRE Bio und 150 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 3.+ 4. Monat: Für 200 ml trinkfertige Nahrung benötigt man 6 Messlöffel BEBA PRE Bio und 180 ml Wasser. Flaschenmahlzeiten pro Tag: 5. 5. Monat: Für 235 ml trinkfertige Nahrung benötigt man 7 Messlöffel BEBA PRE Bio und 210 ml Wasser. Flaschenmahlzeiten pro Tag: 4. 6. Monat: Für 235 ml trinkfertige Nahrung benötigt man 7 Messlöffel BEBA PRE und 210 ml Wasser. Flaschenmahlzeiten pro Tag: 3. nach dem 6. Monat: Für 235 ml trinkfertige Nahrung benötigt man 7 Messlöffel BEBA PRE Bio und 210 ml Wasser. Flaschenmahlzeiten pro Tag: 1-2. 1 gestrichener Messlöffel = ca. 4,2 g BEBA PRE Bio. Messlöffel ist jeder Packung beigegeben. Anwendung: - als alleinige Nahrung, wenn nicht gestillt wird - solange Sie Ihrem Baby eine Anfangsnahrung geben möchten.",
+          "type": "Trockene/konzentrierte Nahrung mit Wasser wieder in urspruengliche Festigkeit/Konsistenz bringen"
+        }
+      ],
+      "storageHint": "In der originalverschlossenen Dose bei Raumtemperatur (max. 25°C) und bei trockenen Lagerbedingungen mindestens haltbar bis Ende: siehe Bodenprägung.",
+      "usageHints": "Angebrochene Dose gut verschließen, bei Raumtemperatur (max. 25°C) sowie trocken lagern und innerhalb von 21 Tagen aufbrauchen. Unter Schutzatmosphäre verpackt. Füllhöhe technisch bedingt."
+    }
+  ],
+  "grammage": "800 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 18.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 18.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 18.99,
+    "unit": "1 kg 23.74"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Beba Bio Pre",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/milchpulver-und-milch/B2-622/produkte/beba-bio-pre/00-468269"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 18.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 18.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 18.99,
+    "unit": "1 kg 23.74"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Beba Bio Pre online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Beba Bio Pre online bestellen | BILLA",
+  "slug": "beba-bio-pre",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/beba-bio-pre/00-468269",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,211 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-370"
+  ],
+  "articleId": "00-291117",
+  "articleOnlyCanonicalPath": "/produkte/waldquelle-mineralwasser-still/00-291117",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Waldquelle",
+  "brandPath": "/marken/waldquelle",
+  "canonicalPath": "/produkte/waldquelle-mineralwasser-still/00-291117",
+  "category": "Getränke",
+  "description": "Für ein gesundes Leben: natürliches Mineralwasser aus der Kobersdorfer Waldquelle. In der 1,5 Liter Flasche deckt es den Großteil des Tagesbedarfs an Wasser.<li>ohne Zusatz von Kohlensäure",
+  "eanCodes": [
+    "9001521000334"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Auwiese 1, 7332 Kobersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Waldquelle Kobersdorf Ges.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2618 / 8249",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.waldquelle.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "mandatoryIndicator": "Waldquellen 3, 6 und 9 in 7332 Kobersdorf",
+      "marketingMessage": "Einfach unsere Natur",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.54
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 16.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 9.6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 2.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 85.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 15,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 284,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 39,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur lichtgeschützt lagern."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.55,
+    "unit": "1 l .37"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Waldquelle Mineralwasser Still",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/waldquelle-mineralwasser-still/00-291117",
+    "~/warengruppe/getraenke/mineralwasser/still/B2-370/produkte/waldquelle-mineralwasser-still/00-291117"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.55,
+    "unit": "1 l .37"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30,
+    36
+  ],
+  "rank": 158870,
+  "recommendationArticleIds": [],
+  "seoDescription": "Waldquelle Mineralwasser Still online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Waldquelle Mineralwasser Still online bestellen | BILLA",
+  "slug": "waldquelle-mineralwasser-still",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/waldquelle-mineralwasser-still/00-291117",
+  "vatCode": "20",
+  "video": ""
+}

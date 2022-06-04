@@ -1,0 +1,245 @@
+{
+  "articleGroupIds": [
+    "B2-47",
+    "B2-637"
+  ],
+  "articleId": "00-298540",
+  "articleOnlyCanonicalPath": "/produkte/tante-fanny-frischer-butter-quiche--und-tarteteig/00-298540",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Tante Fanny",
+  "brandPath": "/marken/tante-fanny",
+  "canonicalPath": "/produkte/tante-fanny-frischer-butter-quiche--und-tarteteig/00-298540",
+  "category": "Kühlwaren",
+  "description": "Sie ist eine der elegantesten Möglichkeiten Lebensmittel, die als lose Komponenten im Kühlschrank existieren, zusammen zu bringen: Die Quiche.<br>Mit dem Frischen Butter-Quiche- & Tarteteig von Tante Fanny ist die frische Tarte auch im Nu Realität. Ganz gleich ob deftig oder süß.",
+  "eanCodes": [
+    "9120003414398"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGETARIAN",
+              "valueTranslation": "V Label Vegetarian - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Parkstraße 24, 4311 Schwertberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tante Fanny Frischteig GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@tantefanny.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0043 (0) 7262/626 86-0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-03-01T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL; 24% BUTTER; Trinkwasser; Ethylalkohol; WEIZENSTÄRKE; Speisesalz, Zucker, Säuerungsmittel: Citronensäure; Antioxidationsmittel: Ascorbinsäure",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 312.18
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 280
+        }
+      ],
+      "name": "Frischer Butter-Quicheteig",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1661,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 397,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 42,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Tante Fanny Backanleitung: Frischen Butter-Quicheteig ca. 10 - 15 Minuten vor dem Verarbeiten aus dem Kühlschrank nehmen. 1 Backrohr auf 190°c Ober-/Unterhitze bzw. 170°C Heißluft vorheizen. 2 Teig entrollen und einfach direkt mit dem mitgerollten Backpapier in eine Quicheform (28cm) legen. Alternativ das Backpapier abziehen und den Teig in die befettete Form legen. Mit dem überstehenden Teig den Rand verstärken. 3 Eine Royale zubereiten: dafür 300g Sauerrahm oder Crème fraîche und 4 Eier verrühren und würzen oder süßen. 4 Quiche mit Zutaten nach deinem Geschmack (Gemüse, Obst, Käse,...) füllen und Royale über den Belag gießen. 5 Fine dein Lieblings-Quicherezept auf tantefanny.at 6 Im Backofen 35 - 40 Min. auf unterster Schiene backen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Gekühlt lagern bei +2°C bis +8°C. Mindestens haltbar bis: siehe Aufdruck Vorderseite. Zum Tiefkühlen geeignet. Tiefgekühlt bei -18°C ab dem Tag des Einfrierens ca. 3 Monate haltbar.",
+      "usageHints": "Nach dem Öffnen umgehend verbrauchen. Auftauzeit ca. 2-3 Stunden bei Raumtemperatur, ca. 10 Stunden im Kühlschrank. Sofort nach dem Auftauen vewenden. Aufgetauten Teig nicht mehr einfrieren."
+    }
+  ],
+  "grammage": "280 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 8.89"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tante Fanny Frischer Butter-Quiche- & Tarteteig",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/blaetterteig-strudelteig/B2-47/produkte/tante-fanny-frischer-butter-quiche--und-tarteteig/00-298540",
+    "~/warengruppe/grundnahrungsmittel/backen/teige/B2-637/produkte/tante-fanny-frischer-butter-quiche--und-tarteteig/00-298540"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 8.89"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 45150,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tante Fanny Frischer Butter-Quiche- & Tarteteig online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tante Fanny Frischer Butter-Quiche- & Tarteteig online bestellen",
+  "slug": "tante-fanny-frischer-butter-quiche--und-tarteteig",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/tante-fanny-frischer-butter-quiche--und-tarteteig/00-298540",
+  "vatCode": "10",
+  "video": ""
+}

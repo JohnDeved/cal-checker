@@ -1,0 +1,184 @@
+{
+  "articleGroupIds": [
+    "B2-A24"
+  ],
+  "articleId": "00-904427",
+  "articleOnlyCanonicalPath": "/produkte/whiskas-katzenmilch2/00-904427",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Whiskas",
+  "brandPath": "/marken/whiskas",
+  "canonicalPath": "/produkte/whiskas-katzenmilch2/00-904427",
+  "category": "Haustier",
+  "description": "Die laktosereduzierte Katzenmilch von Whiskas liefert wertvolles Kalzium und wichtige Vitamine. Die Milch begeistert Katzen mit ihrem köstlichen Geschmack.<li>lactosereduziert<li>mit Kalzium und Vitaminen<li>für Katzen ab 6 Wochen",
+  "eanCodes": [
+    "5900951115424"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "Zusatzstoffe pro kg: Vitamin Dü: 110 IE, Vitamin E: 29.1 mg, Biotin: 5 üg, Taurin: 900 mg."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile (%): Protein: 3.7; Fettgehalt: 3.3; anorganischer Stoff: 0.7; Rohfaser: 1.7; Feuchtigkeit: 87.2; Laktose: < 0.1; Calcium: 1260 mg/kg; Brennwert: 53 kcal/100 g."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Fütterungsempfehlung: Füttern Sie bis zu 1 Flasche pro Woche. Eine Flasche reicht für 4 Portionen. Reduzieren Sie die Vollnahrung entsprechend. Nach dem Öffnen gekühlt lagern und innerhalb von 4 Tagen verbrauchen. Vor Gebrauch gut schütteln."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "Compliant with Regulation"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: Milch und Molkereierzeugnisse, pflanzliche Nebenerzeugnisse, Zucker, Mineralstoffe."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Industriestr. 20, 2460 Bruck/Leitha",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mars Austria OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-05-13T00:00:00",
+      "mandatoryIndicator": "Verpackung für Kinder und Tiere unzugänglich aufbewahren (Erstickungsgefahr).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 226
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 205
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 200
+        }
+      ],
+      "name": "Ergänzungsfuttermittel für Katzen und Katzenkinder älter als 6 Wochen.",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Bitte geschlossen an einem kühlen und trockenen Ort lagern."
+    }
+  ],
+  "grammage": "600 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 l 5.48"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Whiskas Katzenmilch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/katzen/katzen-snacks/B2-A24/produkte/whiskas-katzenmilch2/00-904427"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 l 5.48"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 58520,
+  "recommendationArticleIds": [],
+  "seoDescription": "Whiskas Katzenmilch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Whiskas Katzenmilch online bestellen | BILLA",
+  "slug": "whiskas-katzenmilch2",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/whiskas-katzenmilch2/00-904427",
+  "vatCode": "13",
+  "video": ""
+}

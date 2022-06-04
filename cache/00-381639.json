@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-455"
+  ],
+  "articleId": "00-381639",
+  "articleOnlyCanonicalPath": "/produkte/biozentrale-kokosoel/00-381639",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Biozentrale",
+  "brandPath": "/marken/biozentrale",
+  "canonicalPath": "/produkte/biozentrale-kokosoel/00-381639",
+  "category": "Kühlwaren",
+  "description": "Unser biozentrale Kokosöl wird aus dem Fruchtfleisch reifer Kokosnüsse im schonenden Kaltpressverfahren gewonnen. Mit seinem fein-nussigen Aroma ist unser natives Kokosöl besonders beliebt als Zutat in der orientalischen und asiatischen Küche.<br>Aber auch zum Verfeinern von Suppen, als Zutat im Porridge, Basis für Kuchenglasuren oder als hoch erhitzbares Fett zum Braten und Backen ist es ideal geeignet.Unser Kokosöl ist eben ein echt exotisches Multitalent und vielseitig einsetzbar.<li>Kaltgepresst<li>Nativ<li>Hoch erhitzbar<li>Fein-nussiger Geschmack</li>",
+  "eanCodes": [
+    "4005009103123"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D - 84384 Ulbering",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bio-Zentrale Naturprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2020-07-01T00:00:00",
+      "ingredients": "Zutaten: Kokosöl*. \n*aus kontrolliert-ökologischer Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 350
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 200
+        }
+      ],
+      "name": "Kokosöl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 828,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3404,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 92,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 87,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und dunkel lagern."
+    }
+  ],
+  "grammage": "200 Milliliter Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 19.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Biozentrale Kokosöl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/margarine-und-fette/B2-455/produkte/biozentrale-kokosoel/00-381639"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 19.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Biozentrale Kokosöl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Biozentrale Kokosöl online bestellen | BILLA",
+  "slug": "biozentrale-kokosoel",
+  "storeAvalibility": [
+    "00-10",
+    "00-115",
+    "00-176",
+    "00-99202"
+  ],
+  "url": "/produkte/biozentrale-kokosoel/00-381639",
+  "vatCode": "10",
+  "video": ""
+}

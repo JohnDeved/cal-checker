@@ -1,0 +1,248 @@
+{
+  "articleGroupIds": [
+    "B2-6B2"
+  ],
+  "articleId": "00-381187",
+  "articleOnlyCanonicalPath": "/produkte/biozentrale-crunchy-muesli-amaranth/00-381187",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Biozentrale",
+  "brandPath": "/marken/biozentrale",
+  "canonicalPath": "/produkte/biozentrale-crunchy-muesli-amaranth/00-381187",
+  "category": "Grundnahrungsmittel",
+  "description": "Biozentrale Crunchy Müsli Amaranth ist ein besonders knusprig gebackenes Vollkorn-Müsli mit gepufftem Amaranth und exotischen Kokosraspeln. Was du übrigens nicht in unserem Crunchy Müsli findest, sind Rosinen - denn die knuspern nicht.<br>Unser Crunchy Müsli Amaranth schmeckt wunderbar zum Frühstück oder als Zwischenmahlzeit - besonders gut mit Milch, Joghurt oder Quark. In Kombination mit frischen Früchten oder Nüssen wird es zum exquisiten Genuss.<li>Hoher Ballaststoffgehalt<li>Vollkorn<li>Mit gepufftem Amaranth, exotischen Kokosraspeln und feiner Zimtnote</li>",
+  "eanCodes": [
+    "4005009101020"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D - 84384 Ulbering",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bio-Zentrale Naturprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-12-24T00:00:00",
+      "ingredients": "Zutaten: 54 % Vollkorn-HAFERflocken*, Rohrohrzucker*, Vollkorn-WEIZENflocken*, Palmfett*, 5,5 % Amaranth gepufft*, 4,6 % Kokosraspeln*, WEIZENsirup*, Meersalz, 0,07 % Zimt*.\n*aus kontrolliert-ökologischer Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 382
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 375
+        }
+      ],
+      "name": "Crunchy Müsli mit Amaranth",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1868,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 445,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 67,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 8.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.17,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und trocken lagern. Den Beutel wieder gut verschließen, damit das Müsli knusprig bleibt.",
+      "usageHints": "Vor Wärme geschützt und trocken lagern. Den Beutel wieder gut verschließen, damit das Müsli knusprig bleibt."
+    }
+  ],
+  "grammage": "375 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 10.64"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Biozentrale Crunchy Müsli Amaranth",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/biozentrale-crunchy-muesli-amaranth/00-381187"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 10.64"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Biozentrale Crunchy Müsli Amaranth online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Biozentrale Crunchy Müsli Amaranth online bestellen | BILLA",
+  "slug": "biozentrale-crunchy-muesli-amaranth",
+  "storeAvalibility": [
+    "00-3780",
+    "00-115",
+    "00-2899",
+    "00-4016",
+    "00-10",
+    "00-281",
+    "00-6138",
+    "00-6496",
+    "00-2259",
+    "00-176",
+    "00-3103",
+    "00-6021",
+    "00-174",
+    "00-720",
+    "00-6676",
+    "00-2342",
+    "00-823",
+    "00-3120",
+    "00-119",
+    "00-3042",
+    "00-99202"
+  ],
+  "url": "/produkte/biozentrale-crunchy-muesli-amaranth/00-381187",
+  "vatCode": "10",
+  "video": ""
+}

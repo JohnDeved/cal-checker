@@ -1,0 +1,508 @@
+{
+  "articleGroupIds": [
+    "B2-572"
+  ],
+  "articleId": "00-855724",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-ofenfrische-schinken-champignon/00-855724",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-ofenfrische-schinken-champignon/00-855724",
+  "category": "Tiefkühl",
+  "description": "Die Dr. Oetker Ofenfrische Schinken-Champignon Pizza schmeckt wie selbst geknetet und frisch gebacken. Schinken, Champignons und Käse sorgen für viel Geschmack.<li>Rohteigpizza – für einen besonders locker-leichten Teig<li>einfache Zubereitung im Backrohr<li>direkt aus der Gefriertruhe entnehmen und fertig backen",
+  "eanCodes": [
+    "4001724011231"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-26T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Wasser, 10% passierte Tomaten, 9,6% KÄSE (schnittfester MOZZARELLA, EDAMER), 7,2% gekochter Hinterschinken (Schweinefleisch, Wasser, Salz, Dextrose, Stabilisatoren (Natriumnitrit, Diphosphate, Triphosphate), Antioxidationsmittel (Natriumascorbat), Gewürzextrakt, Raucharoma), 7,2% Champignons, 5,2% Tomatenkonzentrat, Backhefe, Palmfett, Zucker, Salz, Säuerungsmittel (Calciumphosphate, Calciumcitrate), Olivenöl nativ extra, Basilikum, GERSTENMALZEXTRAKT, Backtriebmittel (Natriumhydrogencarbonat), Emulgator (Mono- und Diacetylweinsäureester von Mono- und Diglyceriden von Speisefettsäuren), Verdickungsmittel (Guarkernmehl), Gewürze, Oregano, Knoblauch, Kräuter der Provence, Dextrose.",
+      "mandatoryIndicator": "Kakao: 72% mindestens.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 522.36
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 405
+        }
+      ],
+      "name": "Pizza mit Schinken, Champignons und Käse, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 779,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 185,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "So wird's gemacht: 1. Backofen vorheizen. Ober-/Unterhitze: 250°C, Heißluft: 230°C 2. Pizza direkt aus der Kühltruhe nehmen. Folie und Pappunterleger entfernen. 3. Die Ofenfrische tiefgefroren auf einem Backblech mit Backpapier auf unterster Schiene des Backofens backen. 4. Backzeit: Ober-/Unterhitze: 12-14 Min. Heißluft: 12-14 Min. Tipp: Das beste Backergebnis wird bei Ober-/Unterhitze erreicht. Pizza nur im gefrorenen Zustand (bitte nicht antauen lassen) verwenden.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern (***-Fach oder Tiefkühltruhe).",
+      "sustenanceClaim": "Geeignet im Rahmen einer laktosefreien Ernährung (Laktosegehalt < 0,1 %)"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Wasser, 10% passierte Tomaten, 9,6% KÄSE (schnittfester MOZZARELLA, EDAMER), 7,2% gekochter Hinterschinken (Schweinefleisch, Wasser, Salz, Dextrose, Stabilisatoren (Natriumnitrit, Diphosphate, Triphosphate), Antioxidationsmittel (Natriumascorbat), Gewürzextrakt, Raucharoma), 7,2% Champignons, 5,2% Tomatenkonzentrat, Backhefe, Palmfett, Zucker, Salz, Säuerungsmittel (Calciumphosphate, Calciumcitrate), Olivenöl nativ extra, Basilikum, GERSTENMALZEXTRAKT, Backtriebmittel (Natriumhydrogencarbonat), Emulgator (Mono- und Diacetylweinsäureester von Mono- und Diglyceriden von Speisefettsäuren), Verdickungsmittel (Guarkernmehl), Gewürze, Oregano, Knoblauch, Kräuter der Provence, Dextrose.",
+      "mandatoryIndicator": "Kakao: 72% mindestens.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 522.36
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 405
+        }
+      ],
+      "name": "Pizza mit Schinken, Champignons und Käse, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 779,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 185,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "So wird's gemacht: 1. Backofen vorheizen. Ober-/Unterhitze: 250°C, Heißluft: 230°C 2. Pizza direkt aus der Kühltruhe nehmen. Folie und Pappunterleger entfernen. 3. Die Ofenfrische tiefgefroren auf einem Backblech mit Backpapier auf unterster Schiene des Backofens backen. 4. Backzeit: Ober-/Unterhitze: 12-14 Min. Heißluft: 12-14 Min. Tipp: Das beste Backergebnis wird bei Ober-/Unterhitze erreicht. Pizza nur im gefrorenen Zustand (bitte nicht antauen lassen) verwenden.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern (***-Fach oder Tiefkühltruhe).",
+      "sustenanceClaim": "Geeignet im Rahmen einer laktosefreien Ernährung (Laktosegehalt < 0,1 %)"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-24T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Wasser, 10% passierte Tomaten, 9,6% KÄSE (schnittfester MOZZARELLA, EDAMER), 7,2% gekochter Hinterschinken (Schweinefleisch, Wasser, Salz, Dextrose, Stabilisatoren (Natriumnitrit, Diphosphate, Triphosphate), Antioxidationsmittel (Natriumascorbat), Gewürzextrakt, Raucharoma), 7,2% Champignons, 5,2% Tomatenkonzentrat, Backhefe, Palmfett, Zucker, Salz, Säuerungsmittel (Calciumphosphate, Calciumcitrate), Olivenöl nativ extra, Basilikum, GERSTENMALZEXTRAKT, Backtriebmittel (Natriumhydrogencarbonat), Emulgator (Mono- und Diacetylweinsäureester von Mono- und Diglyceriden von Speisefettsäuren), Verdickungsmittel (Guarkernmehl), Gewürze, Oregano, Knoblauch, Kräuter der Provence, Dextrose.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 522.36
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 405
+        }
+      ],
+      "name": "Pizza mit Schinken, Champignons und Käse, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 779,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 185,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "So wird's gemacht: 1. Backofen vorheizen. Ober-/Unterhitze: 250°C, Heißluft: 230°C 2. Pizza direkt aus der Kühltruhe nehmen. Folie und Pappunterleger entfernen. 3. Die Ofenfrische tiefgefroren auf einem Backblech mit Backpapier auf unterster Schiene des Backofens backen. 4. Backzeit: Ober-/Unterhitze: 12-14 Min. Heißluft: 12-14 Min. Tipp: Das beste Backergebnis wird bei Ober-/Unterhitze erreicht. Pizza nur im gefrorenen Zustand (bitte nicht antauen lassen) verwenden.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern (***-Fach oder Tiefkühltruhe).",
+      "sustenanceClaim": "Geeignet im Rahmen einer laktosefreien Ernährung (Laktosegehalt < 0,1 %)"
+    }
+  ],
+  "grammage": "405 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 9.85"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Ofenfrische Schinken-Champignon",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/dr-oetker-ofenfrische-schinken-champignon/00-855724"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 9.85"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 91280,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Ofenfrische Schinken-Champignon online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Ofenfrische Schinken-Champignon online bestellen",
+  "slug": "dr-oetker-ofenfrische-schinken-champignon",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/dr-oetker-ofenfrische-schinken-champignon/00-855724",
+  "vatCode": "10",
+  "video": ""
+}

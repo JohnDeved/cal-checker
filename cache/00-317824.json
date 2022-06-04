@@ -1,0 +1,256 @@
+{
+  "articleGroupIds": [
+    "B2-6B1"
+  ],
+  "articleId": "00-317824",
+  "articleOnlyCanonicalPath": "/produkte/alnavit-bio-schoko-muesli/00-317824",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnavit",
+  "brandPath": "/marken/alnavit",
+  "canonicalPath": "/produkte/alnavit-bio-schoko-muesli/00-317824",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Bio Schoko Müsli von Alnavit ist eine feine Mischung aus glutenfreien Cornflakes mit süßer Vollmilch- und Zartbitterschokolade.<li>Müsli mit 62 % Cornflakes<li>Cornflakes teilweise schokoliert<li>mit Zartbitterschokoladenstückchen<li>gute Ballaststoffquelle",
+  "eanCodes": [
+    "0000042280767",
+    "4260546671829"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DZG_GLUTEN_FREE",
+              "valueTranslation": "GLUTEN-FREI - Zeichen der Deutschen Zöliakiegesellschaft (DZG)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnavit GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnavit.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-01-27T00:00:00",
+      "ingredients": "Zutaten: Cornflakes* 62 % (Mais*, Meersalz, Rohrohrzucker*), Vollmilchschokolade* 26 % (Rohrohrzucker*, Kakaobutter*, VOLLMILCHPULVER* 19 %, Kakaomasse*), Reisextrudat* (Vollkornreismehl*), Reis* gepufft, Zartbitterschokolade* 3 % (Kakaomasse*, Rohrohrzucker*, Kakaobutter*), Überzugsmittel: Gummi arabicum* *aus biologischer Landwirtschaft\". Kann Spuren von Soja, Mandel,\nNüssen und Sesam enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 305
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.3
+        }
+      ],
+      "name": "Glutenfreies Müsli mit 62 % Cornflakes,\nteils schokoliert, und\nVollmilchschokolade (Bio)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1848,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 439,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 71,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.75,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken lagern und vor Wärme schützen."
+    }
+  ],
+  "grammage": "300 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59,
+    "unit": "1 kg 11.97"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Alnavit Bio Schoko Müsli",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/cerealien/B2-6B1/produkte/alnavit-bio-schoko-muesli/00-317824"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59,
+    "unit": "1 kg 11.97"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 11420,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnavit Bio Schoko Müsli online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnavit Bio Schoko Müsli online bestellen | BILLA",
+  "slug": "alnavit-bio-schoko-muesli",
+  "storeAvalibility": [
+    "00-355",
+    "00-10",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/alnavit-bio-schoko-muesli/00-317824",
+  "vatCode": "10",
+  "video": ""
+}

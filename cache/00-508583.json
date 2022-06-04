@@ -1,0 +1,167 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-508583",
+  "articleOnlyCanonicalPath": "/produkte/efes-pilsener-bier/00-508583",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "master_article"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Efes",
+  "canonicalPath": "/produkte/efes-pilsener-bier/00-508583",
+  "category": "Getränke",
+  "description": "Ein mildes Bier für heiße Tage: Das Efes Pilsener ist der perfekte Durstlöscher für den Sommer. Seine leicht süße Note begeistert die Liebhaber von süffigen Bieren.<li>angenehm herber Geschmack<li>leicht hopfig",
+  "eanCodes": [
+    "4840032004463",
+    "8690520019907"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Laxenburger Straße 365, Großmarkt Inzersdorf A14, A-1230 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SABEX Handelsgesellschaft m.b.H.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "TÜRKEI"
+      ],
+      "fromDate": "2020-02-10T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen, CO2, Hefe.",
+      "marketingMessage": "No.1 Mediterranean Beer in the world",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 520
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Zentiliter",
+          "value": 50
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern.",
+      "usageHints": "Kalt trinken."
+    }
+  ],
+  "grammage": "500 ml Dose (Einweg)",
+  "grammageBadge": "500 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 l 2.38"
+  },
+  "maximalOrderQuantity": 120,
+  "minimalOrderQuantity": 0,
+  "name": "Efes Pilsener Bier",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/efes-pilsener-bier/00-508583"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 l 2.38"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72,
+    96,
+    120
+  ],
+  "rank": 148960,
+  "recommendationArticleIds": [
+    "00-417647"
+  ],
+  "seoDescription": "Efes Pilsener Bier online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Efes Pilsener Bier online bestellen | BILLA",
+  "slug": "efes-pilsener-bier",
+  "storeAvalibility": [
+    "00-10",
+    "00-521",
+    "00-720",
+    "00-2342",
+    "00-1550",
+    "00-7539",
+    "00-350",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/efes-pilsener-bier/00-508583",
+  "vatCode": "20",
+  "video": ""
+}

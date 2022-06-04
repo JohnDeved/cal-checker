@@ -1,0 +1,199 @@
+{
+  "articleGroupIds": [
+    "B2-992"
+  ],
+  "articleId": "00-274948",
+  "articleOnlyCanonicalPath": "/produkte/dr-beckmann-glaskeramikreiniger/00-274948",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Beckmann",
+  "brandPath": "/marken/dr-beckmann",
+  "canonicalPath": "/produkte/dr-beckmann-glaskeramikreiniger/00-274948",
+  "category": "Haushalt",
+  "description": "Spezialreiniger zum Sprühen, für die glänzende Reinigung und Pflege von Glaskeramik-Flächen aller Art.",
+  "eanCodes": [
+    "4008455045511"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AISE_2010",
+              "valueTranslation": "AISE Charter Update 2010 (Nachhaltigkeit in der Reinigungsmittelindustrie in Europa)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "TRUE"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P337+P313"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Darf nicht in die Hände von Kindern gelangen. (P102)"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen. (P305_P351_P338)"
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "WARNING",
+              "valueTranslation": "Achtung"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "EXCLAMATION_MARK",
+              "valueTranslation": "Ausrufezeichen (GHS07) - Reizend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H319"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lemböckgasse 49/Haus 1/Stiege A, A-1230 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "delta pronatura Handels GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.delta-pronatura.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "Vergiftungsinformationszentrale (VIZ)\n+43-1-4 06 43 43",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2018-05-09T00:00:00",
+      "mandatoryIndicator": "Darf nicht in die Hände von Kindern gelangen.#\nVerursacht schwere Augenreizung.#",
+      "marketingMessage": "Dr. Beckmann Edelstahl Glanz-Reiniger#\nSpezialreiniger zum Sprühen, für die glänzende Reinigung und Pflege von Glaskeramik-Flächen aller Art.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 304
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Getrennt von Lebensmitteln und Futtermitteln lagern.# \nVor Frost schützen.",
+      "usageHints": "1.  Einfach auf die kalte Kochfläche sprühen und kurz einwirken lassen. Starke Verkrustungen vorab mit einem Kochfeld-Schaber entfernen.#\n2.  Mit einem Tuch/ einem geeignetem Putz-Schwamm feucht abwischen und trockenreiben."
+    }
+  ],
+  "grammage": "250 Milliliter Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 15.96"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Beckmann Glaskeramikreiniger",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/diverse-haushaltsreiniger/B2-992/produkte/dr-beckmann-glaskeramikreiniger/00-274948"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 15.96"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 21520,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Beckmann Glaskeramikreiniger online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Beckmann Glaskeramikreiniger online bestellen | BILLA",
+  "slug": "dr-beckmann-glaskeramikreiniger",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-beckmann-glaskeramikreiniger/00-274948",
+  "vatCode": "20",
+  "video": ""
+}

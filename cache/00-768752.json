@@ -1,0 +1,284 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-768752",
+  "articleOnlyCanonicalPath": "/produkte/sonnensaft-karotte-zitrone/00-768752",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio",
+    "s_aut"
+  ],
+  "brand": "fitrabbit",
+  "canonicalPath": "/produkte/sonnensaft-karotte-zitrone/00-768752",
+  "category": "Getränke",
+  "description": "Sonnenkraft mit Sonnensaft – das ist das Versprechen von Sonnensaft Karotte Zitrone aus rein natürlichen Zutaten. Da ist gute Laune vorprogrammiert.<li>Natur pur: mit 98 % Karotten- und 2 % Zitronensaft<li>Bio-Qualität<li>vegan",
+  "eanCodes": [
+    "9004607105909"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AUSTRIA_BIO_GARANTIE",
+              "valueTranslation": "AUSTRIA BIO GARANTIE (ABG) Biokontrollstelle Österreich"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "4492 Hofkirchen, Dorfplatz 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Voglsam GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.fitrabbit.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 98% Karotte*, 2% Zitrone* **; *aus kontrolliert biologischem Anbau ** aus Zitronensaftkonzentrat",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 770
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Karotte & Zitrone Saft, pasteurisiert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 38,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 159,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen kühl lagern.",
+      "usageHints": "Vor Gebrauch gut schütteln. Nach dem Öffnen innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "0.5 l Flasche (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 3.98"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Sonnensaft Karotte Zitrone",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/sonnensaft-karotte-zitrone/00-768752"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 3.98"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 55840,
+  "recommendationArticleIds": [],
+  "seoDescription": "Sonnensaft Karotte Zitrone online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Sonnensaft Karotte Zitrone online bestellen | BILLA",
+  "slug": "sonnensaft-karotte-zitrone",
+  "storeAvalibility": [
+    "00-4469",
+    "00-4672",
+    "00-3196",
+    "00-4655",
+    "00-4441",
+    "00-4779",
+    "00-4424",
+    "00-4170",
+    "00-4605",
+    "00-4879",
+    "00-4912",
+    "00-4834",
+    "00-4932",
+    "00-4660",
+    "00-4440",
+    "00-4107",
+    "00-4748",
+    "00-5967",
+    "00-4619",
+    "00-4350",
+    "00-4291",
+    "00-4099",
+    "00-4200",
+    "00-4226",
+    "00-4755",
+    "00-4489",
+    "00-4003",
+    "00-4524",
+    "00-4021",
+    "00-4673",
+    "00-4478",
+    "00-4813",
+    "00-4225",
+    "00-99202",
+    "00-4146",
+    "00-4925",
+    "00-4881",
+    "00-4700",
+    "00-4016",
+    "00-4028",
+    "00-4551",
+    "00-4629",
+    "00-4407",
+    "00-4707",
+    "00-4982",
+    "00-4126",
+    "00-4249",
+    "00-4847",
+    "00-4601",
+    "00-4838",
+    "00-4001",
+    "00-4513",
+    "00-4952",
+    "00-4270",
+    "00-4565",
+    "00-5777",
+    "00-5603",
+    "00-4104",
+    "00-4756",
+    "00-5871",
+    "00-4482",
+    "00-4466",
+    "00-4283",
+    "00-4840",
+    "00-4421",
+    "00-4770",
+    "00-4076",
+    "00-4059",
+    "00-4540",
+    "00-4945",
+    "00-4078",
+    "00-4674",
+    "00-4690",
+    "00-4090"
+  ],
+  "url": "/produkte/sonnensaft-karotte-zitrone/00-768752",
+  "vatCode": "20",
+  "video": ""
+}

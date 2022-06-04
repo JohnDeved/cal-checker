@@ -1,0 +1,170 @@
+{
+  "articleGroupIds": [
+    "B2-361"
+  ],
+  "articleId": "00-736968",
+  "articleOnlyCanonicalPath": "/produkte/gallo-moscato-2017/00-736968",
+  "attributes": [
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_weinart",
+    "mengenstep",
+    "s_produzen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/gallo-moscato-2017/00-736968",
+  "category": "Getränke",
+  "description": "Der süße und fruchtige Gallo Moscato kommt aus Kalifornien. Der Weißwein mit den feinen Nuancen von Ananas und Pfirsich schmeckt gekühlt am besten.<li>süßer Weißwein aus kalifornischem Weinanbau<li>als Dessertwein oder Aperitif<li>Alkoholgehalt um 9 %<li>Genuss für laue Sommernächte",
+  "eanCodes": [
+    "0085000015216"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Louisenstrasse 65, D-61348 Bad Homburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "E.&J. Gallo Winery (Deutschland)",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "VEREINIGTE STAATEN"
+      ],
+      "fromDate": "2019-09-26T00:00:00",
+      "ingredients": "Enthält Sulfite",
+      "mandatoryIndicator": "Der Alkoholgehalt kann aus natürlichen und produktionstechnischen Gründen Schwankungen zwischen Chargen unterliegen. Der angegebene Gehalt ist ein Orientierungswert.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.174
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "Weißwein California USA",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "Passt zu: asiatischen und scharfen Gerichten, leichten Desserts, frischen Früchten und mildem Käse",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "0.75 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 4.87,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 4.87,
+    "unit": "1 l 8.65"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Gallo Moscato 2017",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/wein/weisswein/B2-361/produkte/gallo-moscato-2017/00-736968"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 4.87,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 4.87,
+    "unit": "1 l 8.65"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 67940,
+  "recommendationArticleIds": [],
+  "seoDescription": "Gallo Moscato 2017 online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gallo Moscato 2017 online bestellen | BILLA",
+  "slug": "gallo-moscato-2017",
+  "storeAvalibility": [
+    "00-10",
+    "00-4707",
+    "00-99202",
+    "00-4551"
+  ],
+  "url": "/produkte/gallo-moscato-2017/00-736968",
+  "vatCode": "20",
+  "video": ""
+}

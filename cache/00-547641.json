@@ -1,0 +1,248 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-547641",
+  "articleOnlyCanonicalPath": "/produkte/hipp-frucht-und-getreide-apfel-pfirsich-7-korn/00-547641",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-frucht-und-getreide-apfel-pfirsich-7-korn/00-547641",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Früchtebrei von Hipp mit Frucht & Getreide Apfel-Pfirsich 7-Korn eignet sich aufgrund seiner milden Zusammensetzung für die Beikost ab dem 6. Monat.<li>Brei mit 90 % Fruchtgehalt und Vollkorn<li>aus biologischer Erzeugung<li>ohne Zusatz von Zucker",
+  "eanCodes": [
+    "4062300265783",
+    "4062300406469"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Früchte* 64% (Äpfel* 39%, Pfirsiche* 25%), Wasser, WEIZENVOLLKORNMEHL*, Zitronensaft*, Maismehl*, HAFERVOLLKORNMEHL*, GERSTENVOLLKORNMEHL*, Reismehl*, DINKELVOLLKORNMEHL* **, ROGGENVOLLKORNMEHL*, Antioxidationsmittel Ascorbinsäure. *Aus biologischer Erzeugung. **Dinkel ist eine Weizenart.",
+      "mandatoryIndicator": "ab 6. Monat# glutenhaltig",
+      "marketingMessage": "Apfel-Pfirsich mit 7-Korn enthält spezielle Obstsorten, die genügend Zeit zum Reifen hatten und so ganz natürlich ihren vollen Fruchtgeschmack entwickeln konnten. Natürlich in 100% HiPP Bio Qualität und ohne Zuckerzusatz (Zutaten enthalten von Natur aus Zucker) und süßende Fruchtsaftkonzentrate.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 298
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 190
+        }
+      ],
+      "name": "BIO Früchtebrei mit 6% Getreide",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 215,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 51,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Gewünschte Menge entnehmen.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Rest verschlossen im Kühlschrank lagern und innerhalb von 3 Tagen aufbrauchen.",
+      "usageHints": "Als Zwischenmahlzeit. #Bitte Plastiklöffel verwenden. #Bitte überzeugen Sie sich vor Verwendung, dass das Glas unversehrt geblieben ist."
+    }
+  ],
+  "grammage": "190 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 7.84"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Frucht & Getreide Apfel-Pfirsich 7-Korn",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-frucht-und-getreide-apfel-pfirsich-7-korn/00-547641"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 kg 7.84"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 56570,
+  "recommendationArticleIds": [
+    "00-929604"
+  ],
+  "seoDescription": "Hipp Frucht & Getreide Apfel-Pfirsich 7-Korn online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Frucht & Getreide Apfel-Pfirsich 7-Korn online bestellen",
+  "slug": "hipp-frucht-und-getreide-apfel-pfirsich-7-korn",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-frucht-und-getreide-apfel-pfirsich-7-korn/00-547641",
+  "vatCode": "10",
+  "video": ""
+}

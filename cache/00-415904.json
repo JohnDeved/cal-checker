@@ -1,0 +1,293 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-415904",
+  "articleOnlyCanonicalPath": "/produkte/desserta-vollmilch-laenger-frisch-35/00-415904",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Desserta",
+  "canonicalPath": "/produkte/desserta-vollmilch-laenger-frisch-35/00-415904",
+  "category": "Kühlwaren",
+  "description": "Die Desserta Vollmilch mit 3.5 % Fettanteil wird in Österreich hergestellt. Die frische, gekühlte Vollmilch eignet sich zum Trinken, für Müslis und zum Kochen.<li>pasteurisiert und mikrofiltriert<li>kühl lagern!<li>ohne Gentechnik in Österreich produziert<li>lange haltbare Frischmilch",
+  "eanCodes": [
+    "9066000165102",
+    "9005600040006"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Die Länger Frische Vollmilch von Desserta stammt ausschließlich von Bauernhöfen in traditionellen steirischen Milchregionen. Sie wird nach strengen Qualitätsrichtlinien laufend kontrolliert und sorgfältig verarbeitet. Und so schmeckt sie auch - unsere Frische Vollmilch - natürlich von Desserta.\nDank des natürlichen Fettgehaltes schmeckt die Desserta Vollmilch jetzt besonders vollmundig.\nDurch ein modernes wie schonendes Erhitzungsverfahren und innovativer Abfülltechnologie ohne Zusätze bleibt beste Desserta Milch für Sie länger frisch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.056
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Vollmilch 3,5 % Fett, pasteurisiert, mikrofiltriert, länger frisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 64,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 267,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt bei 3-6 °C lagern. Ungeöffnet mindestens haltbar bis: siehe Giebel. Nach dem Öffnen innerhalb weniger Tage verbrauchen."
+    }
+  ],
+  "grammage": "1 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39
+  },
+  "maximalOrderQuantity": 120,
+  "minimalOrderQuantity": 0,
+  "name": "Desserta Vollmilch länger frisch 3.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/desserta-vollmilch-laenger-frisch-35/00-415904"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    12,
+    24,
+    36,
+    48,
+    60,
+    72,
+    84,
+    96,
+    108,
+    120
+  ],
+  "rank": 62070,
+  "recommendationArticleIds": [],
+  "seoDescription": "Desserta Vollmilch länger frisch 3.5% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Desserta Vollmilch länger frisch 3.5% online bestellen | BILLA",
+  "slug": "desserta-vollmilch-laenger-frisch-35",
+  "storeAvalibility": [
+    "00-7603",
+    "00-6688",
+    "00-7765",
+    "00-7759",
+    "00-7860",
+    "00-7915",
+    "00-6492",
+    "00-7565",
+    "00-7857",
+    "00-7538",
+    "00-7547",
+    "00-6274",
+    "00-6628",
+    "00-7667",
+    "00-7766",
+    "00-7546",
+    "00-7600",
+    "00-6304",
+    "00-6130",
+    "00-7810",
+    "00-7629",
+    "00-6983",
+    "00-7535",
+    "00-7536",
+    "00-7539",
+    "00-6877",
+    "00-6897",
+    "00-8940",
+    "00-7675",
+    "00-7665",
+    "00-7606",
+    "00-6916",
+    "00-7758",
+    "00-6480",
+    "00-7733",
+    "00-7611",
+    "00-7980",
+    "00-7895",
+    "00-6372",
+    "00-6799",
+    "00-7632",
+    "00-6306",
+    "00-7566",
+    "00-7920",
+    "00-7544",
+    "00-7963",
+    "00-7553",
+    "00-7642",
+    "00-7681",
+    "00-7940",
+    "00-9030",
+    "00-6811",
+    "00-6810",
+    "00-7653",
+    "00-6235",
+    "00-99202"
+  ],
+  "url": "/produkte/desserta-vollmilch-laenger-frisch-35/00-415904",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,222 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-491"
+  ],
+  "articleId": "00-656711",
+  "articleOnlyCanonicalPath": "/produkte/hoertnagl-innsbrucker/00-656711",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hörtnagl",
+  "canonicalPath": "/produkte/hoertnagl-innsbrucker/00-656711",
+  "category": "Kühlwaren",
+  "description": "Die Hörtnagl Innsbrucker ist eine magere Halbdauerwurst. Eine Einlage aus saftigen Schweinefleischstücken sorgt für eine besondere Geschmacksfülle.<li>100 g Innsbrucker enthalten 110 g Schweinefleisch und 8 g Rindfleisch<li>Allergikerhinweis: dieses Produkt enthält Senf und Senferzeugnisse<li>mit würzigem Speck",
+  "eanCodes": [
+    "2714410000000"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6060 Hall in Tirol,Trientlstr. 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Andrä Hörtnagl Produktion und Handel GmbH.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hoertnagl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 100g enthalten 110g Schweinefleisch und 8g Rindfleisch, Speck, Wasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: E250), Speisesalz (Speisesalz, Kaliumjodat), Gewürze u. Gewürzextrakte mit SENF, Stabilisator: E450, Geschmacksverstärker: E621, Antioxidationsmittel: E301, Dextrose;",
+      "mandatoryIndicator": "Vakuumverpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 2400
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 2400
+        }
+      ],
+      "name": "Innsbrucker gegart u. geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 219,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 912,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei +2°C bis +6°C lagern.\nUngeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Hörtnagl Innsbrucker",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/hoertnagl-innsbrucker/00-656711",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/hoertnagl-innsbrucker/00-656711"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 126210,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hörtnagl Innsbrucker online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hörtnagl Innsbrucker online bestellen | BILLA",
+  "slug": "hoertnagl-innsbrucker",
+  "storeAvalibility": [],
+  "url": "/produkte/hoertnagl-innsbrucker/00-656711",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

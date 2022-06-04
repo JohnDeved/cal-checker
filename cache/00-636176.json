@@ -1,0 +1,226 @@
+{
+  "articleGroupIds": [
+    "B2-442",
+    "B2-490"
+  ],
+  "articleId": "00-636176",
+  "articleOnlyCanonicalPath": "/produkte/bergsenn-bergkaese/00-636176",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Bergsenn",
+  "canonicalPath": "/produkte/bergsenn-bergkaese/00-636176",
+  "category": "Kühlwaren",
+  "description": "Der würzige Bergkäse vom Käsemeister Zillertaler BergSenn ist ein vielseitiger, würzig-kräftiger Begleiter von Jausen, Desserts und Pasta-Gerichten.<li>Hartkäse mit Rohmilch aus Österreich<li>würzig-vollmundiger Käsegenuss<li>8 bis 10 Monate gereift<li>vielseitiger Genuss",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Taxach 68F, A-6272 Ried im Zillertal",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Zillertaler BergSenn",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Hartkäse mit Rohmilch hergestellt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 3.503
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 3.5
+        }
+      ],
+      "name": "Hartkäse mit Rohmilch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 423,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1770,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 34.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 22.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 27.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "bei +2°C bis +6°C mindestens haltbar bis:"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.9,
+    "unit": "100 g 1.99"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Bergsenn Bergkäse",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/bergsenn-bergkaese/00-636176",
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/bergsenn-bergkaese/00-636176"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.9,
+    "unit": "100 g 1.99"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 70800,
+  "recommendationArticleIds": [],
+  "seoDescription": "Bergsenn Bergkäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bergsenn Bergkäse online bestellen | BILLA",
+  "slug": "bergsenn-bergkaese",
+  "storeAvalibility": [
+    "00-8075",
+    "00-8646",
+    "00-8151",
+    "00-8417",
+    "00-8657",
+    "00-8606",
+    "00-8085",
+    "00-8158",
+    "00-8155",
+    "00-8022",
+    "00-8426",
+    "00-8159",
+    "00-8360",
+    "00-8636",
+    "00-8140",
+    "00-99202",
+    "00-8173",
+    "00-8241",
+    "00-8230",
+    "00-8154",
+    "00-8070",
+    "00-8213",
+    "00-8188",
+    "00-8076",
+    "00-8185",
+    "00-8031",
+    "00-8193",
+    "00-8334",
+    "00-8895",
+    "00-8243"
+  ],
+  "url": "/produkte/bergsenn-bergkaese/00-636176",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

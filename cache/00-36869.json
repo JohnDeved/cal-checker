@@ -1,0 +1,231 @@
+{
+  "articleGroupIds": [
+    "B2-488",
+    "B2-481"
+  ],
+  "articleId": "00-36869",
+  "articleOnlyCanonicalPath": "/produkte/moser-schwarzwurzn/00-36869",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Moser",
+  "canonicalPath": "/produkte/moser-schwarzwurzn/00-36869",
+  "category": "Kühlwaren",
+  "description": "Die Schwarzwurzn von Moser ist ein geselchter Schopfbraten. Er ist fein durchzogen, besonders saftig und von würzigem Rauchgeschmack.<li>dunkel geräuchert und essfertig<li>laktose- und glutenfrei, gekühlt lagern<li>Preis pro kg",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mankerstraße 4, 3250 Wieselburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Moser Wurst GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Trinkwasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff E250), Gewürze, Gewürzextrakte, Dextrose, Geschmacksverstärker E621, Antioxidationsmittel E301, Stabilisatoren E450, E451, E452, Aroma.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.7
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.69
+        }
+      ],
+      "name": "Schwarzwurz´n, essfertige, geräucherte Kochpökelware",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 162,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 676,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Nur aus österreichischem Fleisch",
+      "preperations": [],
+      "storageHint": "bei max. 7°C"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Moser Schwarzwurzn",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/moser-schwarzwurzn/00-36869",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/moser-schwarzwurzn/00-36869"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 67150,
+  "recommendationArticleIds": [],
+  "seoDescription": "Moser Schwarzwurzn online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Moser Schwarzwurzn online bestellen | BILLA",
+  "slug": "moser-schwarzwurzn",
+  "storeAvalibility": [
+    "00-3711",
+    "00-3583",
+    "00-3196",
+    "00-3076",
+    "00-3102",
+    "00-3979",
+    "00-4350",
+    "00-3121",
+    "00-3510",
+    "00-3378",
+    "00-3780",
+    "00-3633",
+    "00-6983",
+    "00-9415",
+    "00-9589",
+    "00-3617",
+    "00-3584",
+    "00-3501",
+    "00-3996",
+    "00-3322",
+    "00-3055",
+    "00-3259",
+    "00-8185",
+    "00-4675",
+    "00-3308",
+    "00-3983",
+    "00-3560",
+    "00-3326",
+    "00-3415",
+    "00-3143",
+    "00-3162",
+    "00-3379",
+    "00-3135",
+    "00-3296",
+    "00-3170",
+    "00-3063",
+    "00-4249",
+    "00-3180",
+    "00-3506",
+    "00-3700",
+    "00-3420",
+    "00-99202"
+  ],
+  "url": "/produkte/moser-schwarzwurzn/00-36869",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "articleGroupIds": [
+    "B2-656"
+  ],
+  "articleId": "00-719711",
+  "articleOnlyCanonicalPath": "/produkte/meica-curry-king-xxl/00-719711",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Meica",
+  "canonicalPath": "/produkte/meica-curry-king-xxl/00-719711",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Meica Curry King XXL ist eine extra große Bockwurst mit herzhafter Currysauce. Die Wurst ist fertig zum Verzehr und muss nur erhitzt werden.<li>mit aromatischer Schweinefleisch-Bockwurst<li>mit Holzpiekser für authentischen Würstel-Genuss<li>einfache Zubereitung in der Mikrowelle oder im Wasserbad",
+  "eanCodes": [
+    "4000503282008"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Meicastraße 6, 26188 Edewecht",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Meica GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-09-16T00:00:00",
+      "ingredients": "Zutaten: 50 % Bockwurst [Schweinefleisch, Trinkwasser, Speck, Speisesalz, Gewürze, Gewürzextrakte (mit SELLERIE), Dextrose, Antioxidationsmittel: Ascorbinsäure, Konservierungsstoff: Natriumnitrit, Rauch], Curry-Sauce [Trinkwasser, Tomatenmark, Zucker, Branntweinessig, Apfelmark, modifizierte Stärke, Salz, Gewürze, Verdickungsmittel: Guarkernmehl, Johannisbrotkernmehl], Currypulver (im extra Tütchen). Kann Spuren von MILCHEIWEIß, SENF enthalten",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 438
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Curry-Bockwurst mit Curry-Sauce",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 210,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 875,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Temperaturbereich zwischen 5°C und 7°C"
+    }
+  ],
+  "grammage": "400 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.59,
+    "unit": "1 kg 11.48"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Meica Curry King XXL",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/menues-und-dosengerichte/B2-656/produkte/meica-curry-king-xxl/00-719711"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.59,
+    "unit": "1 kg 11.48"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 55770,
+  "recommendationArticleIds": [],
+  "seoDescription": "Meica Curry King XXL online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Meica Curry King XXL online bestellen | BILLA",
+  "slug": "meica-curry-king-xxl",
+  "storeAvalibility": [
+    "00-4932",
+    "00-3055",
+    "00-440",
+    "00-281",
+    "00-1032",
+    "00-7358",
+    "00-6439",
+    "00-4283",
+    "00-7223",
+    "00-3551",
+    "00-1265",
+    "00-3780",
+    "00-1132",
+    "00-7393",
+    "00-309",
+    "00-4078",
+    "00-10",
+    "00-323",
+    "00-6219",
+    "00-3234",
+    "00-99202",
+    "00-7114",
+    "00-7857",
+    "00-3512",
+    "00-2208",
+    "00-2342",
+    "00-4226",
+    "00-2923",
+    "00-1457",
+    "00-6819",
+    "00-355",
+    "00-1710",
+    "00-3431",
+    "00-4834",
+    "00-3063",
+    "00-290",
+    "00-3157",
+    "00-3593",
+    "00-4551",
+    "00-3118",
+    "00-3005",
+    "00-7860",
+    "00-4690",
+    "00-3857"
+  ],
+  "url": "/produkte/meica-curry-king-xxl/00-719711",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,293 @@
+{
+  "articleGroupIds": [
+    "B2-741"
+  ],
+  "articleId": "00-518449",
+  "articleOnlyCanonicalPath": "/produkte/terra-chips-original/00-518449",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Terra",
+  "canonicalPath": "/produkte/terra-chips-original/00-518449",
+  "category": "Süßes & Salziges",
+  "description": "DER Mix aus exotischem Urgemüse (Pastinake, Taro & Yuca) und Gourmet Erdäpfel (Batata & Süßkartoffel) ergibt einen harmonischen Snack und bietet ein außergewöhnliches Geschmackserlebnis.",
+  "eanCodes": [
+    "0728229123590"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Groendreef 101, B-9880 Aalter, Belgium",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Hain Europe NV",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@hain-europe.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.terrachips.eu",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "VEREINIGTE STAATEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wurzelgemüsemischung in veränderlichen Gewichtsanteilen 70% (Taro, roter Taro (Taro, Rote-Beete-Saft), Süßkartoffeln, rote Süßkartoffeln (Süßkartoffeln, Rote-Bete-Saft), Batate, Maniok, Pastinake), pflanzenliche Öle (Canola-Rapsöl, Distelöl, Sonnenblumenöl), Meersalz.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 125
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 110
+        }
+      ],
+      "name": "Exotische Gemüsechips",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2135,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 512,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 31,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 51,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 587,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 141,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.29,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "mindestens haltbar bis: siehe Vorderseite."
+    }
+  ],
+  "grammage": "110 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 1.99,
+    "unit": "100 g 1.81"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Terra Chips Original",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/chips/B2-741/produkte/terra-chips-original/00-518449"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 1.99,
+    "unit": "100 g 1.81"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 71680,
+  "recommendationArticleIds": [],
+  "seoDescription": "Terra Chips Original online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Terra Chips Original online bestellen | BILLA",
+  "slug": "terra-chips-original",
+  "storeAvalibility": [
+    "00-174",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/terra-chips-original/00-518449",
+  "vatCode": "10",
+  "video": ""
+}

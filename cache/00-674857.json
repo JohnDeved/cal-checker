@@ -1,0 +1,203 @@
+{
+  "articleGroupIds": [
+    "B2-491"
+  ],
+  "articleId": "00-674857",
+  "articleOnlyCanonicalPath": "/produkte/efef-bauernpresswurst/00-674857",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Efef",
+  "canonicalPath": "/produkte/efef-bauernpresswurst/00-674857",
+  "category": "Kühlwaren",
+  "description": "Wenn´s um die Wurst geht, sorgt die würzige Bauernpresswurst von Efef für eine gern gesehene Abwechslung am Jausenteller.<li>auch als Sulzwurst bekannt<li>mit Gewürzen herzhaft abgeschmeckt<li>mit natürlichem Aroma",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Industriezentrum NÖ-Süd, Straße 3, Objekt 16 \nA-2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "REWE Austria Fleischwaren GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-04-10T00:00:00",
+      "ingredients": "Zutaten: 58% Schweinefleisch, Wasser, Balsamicoessig (Weinessig, Traubenmost, Farbstoff: Zuckerkulör), Weingeistessig, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Speisegelatine, Gewürze, natürliches Aroma, Dextrose, Zucker, Antioxidationsmittel: Natriumascorbat, Kaliummetabisulfit.",
+      "mandatoryIndicator": "Wursthülle nicht zum Verzehr geeignet\r\nAT-50142-EG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 2
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Presswurst (Sulzwurst)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 550,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6.6,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 132,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.6,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.2,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-6 °C",
+      "usageHints": "Nach dem Öffnen fest verschließen und innerhalb von einigen Tagen verzehren."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 14.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 14.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 14.9,
+    "unit": "100 g 1.49"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Efef Bauernpresswurst",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/efef-bauernpresswurst/00-674857"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 14.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 14.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 14.9,
+    "unit": "100 g 1.49"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 115130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Efef Bauernpresswurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Efef Bauernpresswurst online bestellen | BILLA",
+  "slug": "efef-bauernpresswurst",
+  "storeAvalibility": [],
+  "url": "/produkte/efef-bauernpresswurst/00-674857",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

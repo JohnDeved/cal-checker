@@ -1,0 +1,280 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-968650",
+  "articleOnlyCanonicalPath": "/produkte/rio-mare-thunfisch-in-bio-olivenoel/00-968650",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Rio Mare",
+  "brandPath": "/marken/rio-mare",
+  "canonicalPath": "/produkte/rio-mare-thunfisch-in-bio-olivenoel/00-968650",
+  "category": "Grundnahrungsmittel",
+  "description": "Zarte Thunfischfilets aus MSC zertifiziertem Fang, etwas Salz und hochwertiges Olivenöl aus nachhaltiger Landwirtschaft - mehr braucht es nicht für den Thunfisch in der gewohnt hohen Rio Mare Qualität.<br>Die MSC Zertifizierung garantiert, dass der Thunfisch aus kontrollierten Fischbeständen stammt, dass der Beifang auf ein Minimum reduziert wird und dass die lokale Wirtschaft vor Ort unterstützt wird.<br>Das Bio-Siegel garantiert eine nachhaltige und schonende Nutzung der Umweltressourcen.",
+  "eanCodes": [
+    "8004030107038"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DOLPHIN_SAFE",
+              "valueTranslation": "DOLPHIN SAFE (Delphin-freundlich Tunfischfang)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_100_PERCENT",
+              "valueTranslation": "FSC 100 Prozent (100 % Material aus nachhaltiger Forstwirtschaft)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Trabrennstraße 5, A-1020Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bolton Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 1 729 20 20",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "SPANIEN"
+      ],
+      "fromDate": "2018-07-13T00:00:00",
+      "ingredients": "Zutaten: Thunfisch (Thunnus (neothunus) albacares, natives Olivenöl extra aus biologischem Anbau 30%, Salz",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 104
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 170.625
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 130
+        }
+      ],
+      "name": "Thunfisch in nativem Olivenöl extra",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 346,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1433,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 30,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "130 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 33.77"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Rio Mare Thunfisch in Bio-Olivenöl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/rio-mare-thunfisch-in-bio-olivenoel/00-968650"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 33.77"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 137220,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rio Mare Thunfisch in Bio-Olivenöl online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rio Mare Thunfisch in Bio-Olivenöl online bestellen | BILLA",
+  "slug": "rio-mare-thunfisch-in-bio-olivenoel",
+  "storeAvalibility": [
+    "00-6740",
+    "00-4655",
+    "00-7606",
+    "00-2342",
+    "00-6864",
+    "00-6024",
+    "00-1457",
+    "00-4690",
+    "00-4675",
+    "00-4779",
+    "00-9753",
+    "00-3979",
+    "00-783",
+    "00-7114",
+    "00-2218",
+    "00-4605",
+    "00-4126",
+    "00-7653",
+    "00-7075",
+    "00-3947",
+    "00-3617",
+    "00-4707",
+    "00-4551",
+    "00-3143",
+    "00-5108",
+    "00-99202",
+    "00-7539",
+    "00-4170",
+    "00-2045",
+    "00-4283",
+    "00-521",
+    "00-3713",
+    "00-225",
+    "00-4249",
+    "00-6108",
+    "00-5027",
+    "00-7857",
+    "00-4783",
+    "00-3512",
+    "00-3114",
+    "00-10",
+    "00-3700",
+    "00-7675",
+    "00-4932",
+    "00-3780",
+    "00-350",
+    "00-355",
+    "00-4421",
+    "00-4107",
+    "00-4078",
+    "00-9290",
+    "00-2100"
+  ],
+  "url": "/produkte/rio-mare-thunfisch-in-bio-olivenoel/00-968650",
+  "vatCode": "10",
+  "video": ""
+}

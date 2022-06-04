@@ -1,0 +1,260 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-842762",
+  "articleOnlyCanonicalPath": "/produkte/garofalo-fusilli-bucati-corti/00-842762",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Garofalo",
+  "brandPath": "/marken/garofalo",
+  "canonicalPath": "/produkte/garofalo-fusilli-bucati-corti/00-842762",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "8000139910333"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R05"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via dei Pastai 42 80054, Gragnano, Napoli",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Pastificio Lucio Garofalo SpA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: HartWEIZENgrieß",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 8.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Teigwaren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 351,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1489,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 70,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "10 minuten",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ]
+    }
+  ],
+  "grammage": "500 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 3.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Garofalo Fusilli Bucati Corti",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/garofalo-fusilli-bucati-corti/00-842762"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 3.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Garofalo Fusilli Bucati Corti online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Garofalo Fusilli Bucati Corti online bestellen | BILLA",
+  "slug": "garofalo-fusilli-bucati-corti",
+  "storeAvalibility": [
+    "00-4466",
+    "00-2342",
+    "00-8012",
+    "00-3005",
+    "00-5108",
+    "00-3105",
+    "00-355",
+    "00-4441",
+    "00-10",
+    "00-4932",
+    "00-4779",
+    "00-4690",
+    "00-5962",
+    "00-3780",
+    "00-3157",
+    "00-7084",
+    "00-3146",
+    "00-7857",
+    "00-7765",
+    "00-4078",
+    "00-7539",
+    "00-3114",
+    "00-5363",
+    "00-6819",
+    "00-99202",
+    "00-3979",
+    "00-5871",
+    "00-350",
+    "00-3617",
+    "00-411",
+    "00-4551",
+    "00-1457",
+    "00-4982",
+    "00-7606",
+    "00-1913",
+    "00-4655",
+    "00-4107",
+    "00-2045",
+    "00-7358",
+    "00-3384",
+    "00-1826",
+    "00-225",
+    "00-4675",
+    "00-6740",
+    "00-3830",
+    "00-2840",
+    "00-3700",
+    "00-4834",
+    "00-5223",
+    "00-3709",
+    "00-4605",
+    "00-521",
+    "00-4783",
+    "00-9290",
+    "00-3143",
+    "00-7653",
+    "00-7393",
+    "00-6864",
+    "00-2218"
+  ],
+  "url": "/produkte/garofalo-fusilli-bucati-corti/00-842762",
+  "vatCode": "10",
+  "video": ""
+}

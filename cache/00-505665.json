@@ -1,0 +1,356 @@
+{
+  "articleGroupIds": [
+    "B2-247",
+    "B2-583"
+  ],
+  "articleId": "00-505665",
+  "articleOnlyCanonicalPath": "/produkte/coppenrath-und-wiese-lust-auf-torte-schokolade/00-505665",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Coppenrath & Wiese",
+  "brandPath": "/marken/coppenrath-wiese",
+  "canonicalPath": "/produkte/coppenrath-und-wiese-lust-auf-torte-schokolade/00-505665",
+  "category": "Brot & Gebäck",
+  "description": "<li>Schokoladen Torte<li>Tiefgefroren</li>",
+  "eanCodes": [
+    "4008577020632"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hansastraße 10 D-49497 Mettingen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Conditorei Coppenrath & Wiese KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-06-17T00:00:00",
+      "ingredients": "Zutaten: SAHNE (42%), WEIZENMEHL, Milchschokolade (8%) (Zucker, Kakaobutter*, VOLLMILCHPULVER, Kakaomasse*, Emulgator SOJALECITHINE), Pflanzenmargarine (pflanzliches Fett (Palm), Wasser, pflanzliche Öle (Raps, Palm), Emulgator Mono- und Diglyceride von Speisefettsäuren), Invertzuckersirup, dunkle Schokolade mit 72 % Kakaoanteil (6%) (Kakaomasse*, Zucker, Kakaobutter*, natürliche Vanille), Kandisfarin, Wasser, Schokolade (Zucker, Kakaomasse*, Kakaobutter*, Emulgator SOJALECITHINE), Zucker, stark entölter Kakao*, Speisegelatine (Rind), weiße Schokolade (0,5%) (Zucker, Kakaobutter*, VOLLMILCHPULVER, Emulgator Sonnenblumenlecithine), Schokocremeglasur (pflanzliches Fett (Palm), pflanzliches Öl (Raps), Zucker, stark entölter Kakao*, LAKTOSE (MILCH), SÜSSMOLKENPULVER (MILCH), Emulgator Sonnenblumenlecithine), Backtriebmittel (Natriumcarbonate, Natriumcitrate, Ammoniumcarbonate), natürliches Aroma. Kann möglicherweise Spuren von Ei und Schalenfrüchten (Nüssen) enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 475
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 390
+        }
+      ],
+      "name": "Schokoladen Torte, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 375,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1562,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 36,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 75,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.16,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 6,
+      "preperations": [
+        {
+          "instruction": "Zubereitung: Vor dem Auftauen Folie entfernen und Kälteschutz abheben. Auftauen bei Zimmertemperatur: 3-4 Stunden, Aufgeschnitten 1 Stunde weniger. Nach einer Auftauzeit von ca. 1 Stunde lässt sich die Torte besonders gut schneiden.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "*** -Fach: mind. haltbar bis Ende: s. Vorderseite, **-Fach: 3 Wochen, *-Fach: 4 Tage, 1 Tag im Kühlschrank. Nach dem Auftauen nicht wieder einfrieren. Tiefkühlung: -18 °C."
+    }
+  ],
+  "grammage": "390 Gramm Schachtel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 7.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 7.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 7.99,
+    "unit": "1 kg 20.49"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Coppenrath & Wiese Lust Auf Torte Schokolade",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/kuchen-und-co/torten/B2-247/produkte/coppenrath-und-wiese-lust-auf-torte-schokolade/00-505665",
+    "~/warengruppe/tiefkuehl/desserts-und-fruechte/torten2/B2-583/produkte/coppenrath-und-wiese-lust-auf-torte-schokolade/00-505665"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 7.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 7.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 7.99,
+    "unit": "1 kg 20.49"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Coppenrath & Wiese Lust Auf Torte Schokolade online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Coppenrath & Wiese Lust Auf Torte Schokolade online bestellen",
+  "slug": "coppenrath-und-wiese-lust-auf-torte-schokolade",
+  "storeAvalibility": [
+    "00-3512",
+    "00-9290",
+    "00-4270",
+    "00-4834",
+    "00-6760",
+    "00-3055",
+    "00-6011",
+    "00-4690",
+    "00-3860",
+    "00-3744",
+    "00-3711",
+    "00-7606",
+    "00-3005",
+    "00-1070",
+    "00-7358",
+    "00-5962",
+    "00-6021",
+    "00-1107",
+    "00-3857",
+    "00-9183",
+    "00-6219",
+    "00-4466",
+    "00-3212",
+    "00-4283",
+    "00-10",
+    "00-2259",
+    "00-3709",
+    "00-4912",
+    "00-8085",
+    "00-1198",
+    "00-3047",
+    "00-1425",
+    "00-3062",
+    "00-7743",
+    "00-823",
+    "00-7424",
+    "00-7860",
+    "00-3059",
+    "00-1032",
+    "00-2342",
+    "00-2201",
+    "00-6353",
+    "00-7139",
+    "00-4605",
+    "00-6676",
+    "00-4655",
+    "00-3120",
+    "00-6130",
+    "00-6975",
+    "00-1417",
+    "00-4421",
+    "00-3114",
+    "00-4783",
+    "00-9030",
+    "00-7368",
+    "00-6424",
+    "00-2011",
+    "00-6281",
+    "00-7084",
+    "00-3713",
+    "00-6884",
+    "00-7245",
+    "00-3027",
+    "00-6724",
+    "00-7336",
+    "00-2808",
+    "00-6910",
+    "00-7393",
+    "00-99202",
+    "00-3580",
+    "00-7653",
+    "00-3445",
+    "00-2313",
+    "00-4748",
+    "00-3617",
+    "00-6928",
+    "00-4756",
+    "00-4440",
+    "00-4090",
+    "00-4078",
+    "00-7017",
+    "00-2098",
+    "00-3780",
+    "00-3384",
+    "00-1710",
+    "00-8426",
+    "00-4551",
+    "00-3105",
+    "00-950",
+    "00-7114",
+    "00-2045",
+    "00-8940",
+    "00-2223",
+    "00-3118",
+    "00-2287",
+    "00-1132",
+    "00-9753",
+    "00-9894",
+    "00-6843",
+    "00-6864",
+    "00-2306",
+    "00-4016",
+    "00-3042",
+    "00-2111",
+    "00-1826",
+    "00-3740",
+    "00-4879",
+    "00-6745",
+    "00-2131",
+    "00-3050",
+    "00-4441"
+  ],
+  "url": "/produkte/coppenrath-und-wiese-lust-auf-torte-schokolade/00-505665",
+  "vatCode": "10",
+  "video": ""
+}

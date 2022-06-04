@@ -1,0 +1,271 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-805546",
+  "articleOnlyCanonicalPath": "/produkte/rio-mare-insalatissime-texana/00-805546",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rio Mare",
+  "brandPath": "/marken/rio-mare",
+  "canonicalPath": "/produkte/rio-mare-insalatissime-texana/00-805546",
+  "category": "Grundnahrungsmittel",
+  "description": "Aus Angelfang<br><br>Essfertiger Thunfischsalat.<br>Ohne künstliche Aromen oder Konservierungsstoffe.<br><br>Die Kombination aus Bohnen, Reis und Thunfisch ergibt einen kräftigen, rustikalen Geschmack - Ideal für Liebhaber von Thunfischsalaten mit herzhaftem Aroma.",
+  "eanCodes": [
+    "8004030845046"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "LHP",
+              "valueTranslation": "Leinen und Haken - Hand- und Angelleinen (von Hand bedient)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DOLPHIN_SAFE",
+              "valueTranslation": "DOLPHIN SAFE (Delphin-freundlich Tunfischfang)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Trabrennstraße 5,1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bolton Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 1 729 20 20",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.riomare.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2017-08-07T00:00:00",
+      "ingredients": "Zutaten: THUNFISCH (Euthynnus (Katsuwonus) pelamis) 23%, Reis 17%, rote Bohnen 12%, Maiskeimöl, schwarze Bohnen 11%, Karotten 6%, grüne Paprika 5%, Mais, rote Paprika 3%, Zwiebeln, Zitronensaft, Salz, natürliche Kreuzkümmel- und Knoblaucharomen, Aromastoffe. Kann Spuren von Gluten enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 210
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 160
+        }
+      ],
+      "name": "Fertiggericht mit Gemüse und Thunfisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 210,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 876,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "160 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 20.56"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Rio Mare Insalatissime Texana",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/rio-mare-insalatissime-texana/00-805546"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 20.56"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 203030,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rio Mare Insalatissime Texana online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rio Mare Insalatissime Texana online bestellen | BILLA",
+  "slug": "rio-mare-insalatissime-texana",
+  "storeAvalibility": [
+    "00-10",
+    "00-7675",
+    "00-7653",
+    "00-3114",
+    "00-4170",
+    "00-4779",
+    "00-3700",
+    "00-9753",
+    "00-4932",
+    "00-3143",
+    "00-4675",
+    "00-4655",
+    "00-6024",
+    "00-6108",
+    "00-4605",
+    "00-225",
+    "00-3780",
+    "00-2218",
+    "00-1457",
+    "00-4078",
+    "00-3979",
+    "00-5027",
+    "00-4126",
+    "00-3617",
+    "00-6740",
+    "00-4707",
+    "00-7857",
+    "00-99202",
+    "00-521",
+    "00-2342",
+    "00-355",
+    "00-3947",
+    "00-4421",
+    "00-2100",
+    "00-3713",
+    "00-4690",
+    "00-783",
+    "00-4551",
+    "00-7539",
+    "00-4107",
+    "00-4249",
+    "00-7075",
+    "00-7606",
+    "00-2045",
+    "00-6864",
+    "00-4283",
+    "00-4783",
+    "00-7114",
+    "00-5108",
+    "00-3512",
+    "00-9290",
+    "00-350"
+  ],
+  "url": "/produkte/rio-mare-insalatissime-texana/00-805546",
+  "vatCode": "10",
+  "video": ""
+}

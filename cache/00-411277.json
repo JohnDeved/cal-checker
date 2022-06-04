@@ -1,0 +1,260 @@
+{
+  "articleGroupIds": [
+    "B2-56"
+  ],
+  "articleId": "00-411277",
+  "articleOnlyCanonicalPath": "/produkte/mccain-potato-pops/00-411277",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "McCain",
+  "brandPath": "/marken/mccain",
+  "canonicalPath": "/produkte/mccain-potato-pops/00-411277",
+  "category": "Tiefkühl",
+  "description": "Die kleinen McCain Potato Pops sind außen super knusprig und innen weich mit geraspelten Kartoffeln  für leckeren Knuspergenuss auf dem Teller. Sie sind perfekt zum Snacken und Knuspern und werden euch und eure Freunde begeistern.</li>",
+  "eanCodes": [
+    "8710438119510"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "allergyIndicator": "Hergestellt in einer Fabrik, in der GLUTEN und MILCHprodukte verwendet werden.",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "McCain foods GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2021-03-23T00:00:00",
+      "ingredients": "Zutaten: Kartoffeln (89%), Sonnenblumenöl (8,5%), getrocknete Kartoffeln, Salz, Dextrose, , Gewürzextrakt (schwarzer Pfeffer).",
+      "mandatoryIndicator": "Nach dem Auftauen nicht wieder einfrieren.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 508
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Geraspelte Kartoffeln in einer kleinen, zylindrischen Form, gewürzt, in Sonnenblumenöl vorgebacken und tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 183,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 764,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1. Die Heißluftfritteuse auf 180 °C einstellen. \n2. Korb gleichmäßig befüllen.\n3. Ca. 12-14 min backen und nach ca. 6-7 min einmal durchschütteln. \n4. Servieren! \n\nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Nicht zu stark bräunen. Alle Angaben beziehen sich auf die Größe eines haushaltsüblichen Backblechs. Bei kleineren Mengen Zubereitungszeit reduzieren.",
+          "type": ""
+        },
+        {
+          "instruction": "1. Umluft: vorheizen auf max. 180 °C (Ober-/Unterhitze max. 200 °C) \n2. Auf Backpapier ausbreiten \n3. Backofenblech auf der mittleren Schiene einschieben. Nach ca. 13-14 min wenden. Insgesamt ca. 27 min.\n4. Servieren! \n\nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Nicht zu stark bräunen. Alle Angaben beziehen sich auf die Größe eines haushaltsüblichen Backblechs. Bei kleineren Mengen Zubereitungszeit reduzieren.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "1. Frittierfett auf 175 °C vorheizen \n2. Korb zur Hälfte füllen \n3. ca. 5 min frittieren \n4. In eine mit Papiertüchern ausgelegte Schüssel geben \n\nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Nicht zu stark bräunen. Alle Angaben beziehen sich auf die Größe eines haushaltsüblichen Backblechs. Bei kleineren Mengen Zubereitungszeit reduzieren.",
+          "type": "Frittieren - Zubereitung eingetaucht im heißem Öl oder Fett"
+        }
+      ],
+      "storageHint": "Haltbarkeit im Gefrierfach: Bei -6° 1 Woche, bei -12° 1 Monat und bei -18° siehe Verpackungsaufdruck."
+    }
+  ],
+  "grammage": "500 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 6.58"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Mccain Potato Pops",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pommes-frites-und-co/B2-56/produkte/mccain-potato-pops/00-411277"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 6.58"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Mccain Potato Pops online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mccain Potato Pops online bestellen | BILLA",
+  "slug": "mccain-potato-pops",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/mccain-potato-pops/00-411277",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,333 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-73",
+    "B2-6E2"
+  ],
+  "articleId": "00-543931",
+  "articleOnlyCanonicalPath": "/produkte/lifebar-feige/00-543931",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Lifebar",
+  "canonicalPath": "/produkte/lifebar-feige/00-543931",
+  "category": "Grundnahrungsmittel",
+  "description": "Rawfood mit der Süße der Natur genießen: Lifebar Feige ist ein glutenfreier Riegel aus knackigen Nüssen und biologischen Früchten, ohne Zusatz von Zucker.<li>Paleo Energy Bar aus Rohkost-Zutaten<li>Bio-Qualität<li>geeignet für die vegane Ernährung",
+  "eanCodes": [
+    "8594071484545"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_AWARENESS_FOUNDATION",
+              "valueTranslation": "VEGAN AWARENESS Foundation (gibt das 'Certified Vegan' Logo heraus)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DZG_GLUTEN_FREE",
+              "valueTranslation": "GLUTEN-FREI - Zeichen der Deutschen Zöliakiegesellschaft (DZG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "R01",
+              "valueTranslation": "Recyclingsnummer 01: PET oder PETE Lebensmittelverpackungen"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bachstraße 9\nD - 95666 Mitterteich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "lifefood Rohkost AG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "TSCHECHISCHE REPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Früchte (60%) (Datteln*, getrocknete Feigen, 27%), NÜSSE (40%) (rohe CASHEWKERNE*,  MANDELN* )\n*= Aus zertifiziert biologischem Anbau. Kann Spuren von anderen Nüssen und Sesam enthalten.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt",
+      "marketingMessage": "BIO Qualität. Vegan. Glutenfrei. Ohne Zuckerzusatz, enthält von Natur aus Zucker. Rawfood. Paleo Energy Bar",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 47
+        }
+      ],
+      "name": "BIO LIFEBAR FEIGE. Rohkost-Riegel aus Früchten und Nüssen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1609,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 386,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 45,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "1 Riegel",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 185,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 772,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "origin": "Prag",
+      "preperations": [],
+      "storageHint": "Kühl, trocken und dunkel aufbewahren",
+      "usageHints": "Nach dem Öffnen innerhalb von 5 Tagen verzehren."
+    }
+  ],
+  "grammage": "47 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 42.34"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Lifebar Feige",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/lifebar-feige/00-543931",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/lifebar-feige/00-543931",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/lifebar-feige/00-543931"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 42.34"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 50390,
+  "recommendationArticleIds": [
+    "00-900424"
+  ],
+  "seoDescription": "Lifebar Feige online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lifebar Feige online bestellen | BILLA",
+  "slug": "lifebar-feige",
+  "storeAvalibility": [
+    "00-3103",
+    "00-6496",
+    "00-2259",
+    "00-174",
+    "00-4016",
+    "00-3042",
+    "00-823",
+    "00-2899",
+    "00-119",
+    "00-3120",
+    "00-6138",
+    "00-99202",
+    "00-720",
+    "00-6676",
+    "00-6021",
+    "00-2342",
+    "00-3780",
+    "00-176",
+    "00-10",
+    "00-281"
+  ],
+  "url": "/produkte/lifebar-feige/00-543931",
+  "vatCode": "10",
+  "video": ""
+}

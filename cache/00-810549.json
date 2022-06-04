@@ -1,0 +1,160 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-810549",
+  "articleOnlyCanonicalPath": "/produkte/kilkenny-irish-beer/00-810549",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kilkenny",
+  "canonicalPath": "/produkte/kilkenny-irish-beer/00-810549",
+  "category": "Getränke",
+  "description": "Das Kilkenny Irish Beer ist ein typisches irisches Ale. Es schmeckt wunderbar frisch und würzig. Die Röstaromen harmonieren mit der cremigen Textur.<li>4,3 % vol Alkoholgehalt<li>irische Bierspezialität, Trinktemperatur 10 Grad",
+  "eanCodes": [
+    "5000213000564",
+    "5000213007518"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 4.3,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R72"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "St. James's Gate\nDublin 8 Ireland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Guinness & Co",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "IRLAND"
+      ],
+      "fromDate": "2020-10-22T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, GERSTE, geröstete GERSTE und Hopfen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 562
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "vor Wärme u. Licht geschützt lagern"
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "500 ml 2.56"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Kilkenny Irish Beer",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/kilkenny-irish-beer/00-810549"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "500 ml 2.56"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 122590,
+  "recommendationArticleIds": [
+    "00-288648"
+  ],
+  "seoDescription": "Kilkenny Irish Beer online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kilkenny Irish Beer online bestellen | BILLA",
+  "slug": "kilkenny-irish-beer",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/kilkenny-irish-beer/00-810549",
+  "vatCode": "20",
+  "video": ""
+}

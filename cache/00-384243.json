@@ -1,0 +1,303 @@
+{
+  "articleGroupIds": [
+    "B2-6C4"
+  ],
+  "articleId": "00-384243",
+  "articleOnlyCanonicalPath": "/produkte/recheis-feinste-suppennudeln/00-384243",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Recheis",
+  "brandPath": "/marken/recheis",
+  "canonicalPath": "/produkte/recheis-feinste-suppennudeln/00-384243",
+  "category": "Grundnahrungsmittel",
+  "description": "Feinste Suppennudeln von Recheis sind perfekt für viele Suppengerichte. Besonders hervorzuheben sind die feine Konsistenz und die Kochzeit von einer Minute.<li>mit österreichischen Eiern<li>extra fein",
+  "eanCodes": [
+    "9000452020626"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R05"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fassergasse 8-10\n6060 Hall in Tirol, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "RECHEIS Teigwaren GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@recheis.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800/880999 (kostenfrei)",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.recheis.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: HARTWEIZENGRIESS, EIER (15 %), HÜHNEREIWEISS. 3 Eier je kg Nudeln.",
+      "marketingMessage": "Recheis Nudeln sind seit über\n125 Jahren in Österreich beliebt.\nDas Geheimnis des unvergleichlichen\nGeschmacks und der hervorragenden\nKocheigenschaften liegt in der Zugabe von Eiern. Denn Recheis Nudeln werden nach traditioneller Rezeptur aus bestem Hartweizen, kristallklarem Tiroler Wasser und mit streng kontrollierten Eiern aus Österreich hergestellt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 337
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 330
+        }
+      ],
+      "name": "Teigwaren aus Hartweizengrieß mit\nEiern aus Österreich.",
+      "nutritions": [
+        {
+          "householdPortion": "100 g ungekochte Teigwaren enthalten durchschnittlich:",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1593,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 376,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 72,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Nudeln in die Suppe geben, öfter umrühren und ca. 1 Minute mitkochen.\noder Nudeln in gesalzenes, kochendes Wasser geben (1 Liter/100g Nudeln). Öfter umrühren. Nach 1 Minute sind die Nudeln bissfest gekocht und zur fertigen  Suppe geben.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Bei trockener, vor Sonnenlicht geschützter Lagerung mindestens haltbar bis Ende: Siehe Aufdruck"
+    }
+  ],
+  "grammage": "330 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 6.64"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Recheis Feinste Suppennudeln",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/suppeneinlagen2/B2-6C4/produkte/recheis-feinste-suppennudeln/00-384243"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 6.64"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 85550,
+  "recommendationArticleIds": [],
+  "seoDescription": "Recheis Feinste Suppennudeln online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Recheis Feinste Suppennudeln online bestellen | BILLA",
+  "slug": "recheis-feinste-suppennudeln",
+  "storeAvalibility": [
+    "00-3709",
+    "00-3114",
+    "00-4441",
+    "00-4779",
+    "00-3105",
+    "00-1826",
+    "00-9290",
+    "00-4932",
+    "00-10",
+    "00-7358",
+    "00-4675",
+    "00-6864",
+    "00-3830",
+    "00-3143",
+    "00-2045",
+    "00-3005",
+    "00-5363",
+    "00-5871",
+    "00-3700",
+    "00-7393",
+    "00-3157",
+    "00-3384",
+    "00-4466",
+    "00-7765",
+    "00-6819",
+    "00-2840",
+    "00-521",
+    "00-3979",
+    "00-5108",
+    "00-355",
+    "00-4690",
+    "00-5962",
+    "00-7653",
+    "00-1457",
+    "00-7857",
+    "00-4605",
+    "00-8012",
+    "00-411",
+    "00-4783",
+    "00-6740",
+    "00-3146",
+    "00-225",
+    "00-4107",
+    "00-7606",
+    "00-2218",
+    "00-4982",
+    "00-7539",
+    "00-350",
+    "00-4834",
+    "00-2342",
+    "00-3617",
+    "00-1913",
+    "00-4078",
+    "00-4551",
+    "00-4655",
+    "00-3780",
+    "00-5223",
+    "00-7084",
+    "00-99202"
+  ],
+  "url": "/produkte/recheis-feinste-suppennudeln/00-384243",
+  "vatCode": "10",
+  "video": ""
+}

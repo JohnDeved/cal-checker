@@ -1,0 +1,209 @@
+{
+  "articleGroupIds": [
+    "B2-459",
+    "B2-F"
+  ],
+  "articleId": "00-582923",
+  "articleOnlyCanonicalPath": "/produkte/ehrmann-high-protein-vanille-mousse/00-582923",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Ehrmann",
+  "canonicalPath": "/produkte/ehrmann-high-protein-vanille-mousse/00-582923",
+  "category": "Kühlwaren",
+  "description": "Viel Protein, viel Power, viel Genuss: Das High Protein Mousse Vanilla enthält 20 Gramm Protein, kommt ohne Zuckerzusatz aus, ist laktose- und glutenfrei sowie fettarm. Schaumige Konsistenz und feinste Cremigkeit werden vereint mit feinster Vanille.</li>",
+  "eanCodes": [
+    "4002971283907"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Enthält: MILCH, MILCHEIWEISS,  SAHNE",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A.-Ehrmann-Straße 2, 87770 Oberschönegg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ehrmann GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-03-08T00:00:00",
+      "ingredients": "Zutaten: entrahmte MILCH, MILCHEIWEISS 7,6%, SAHNE, Speisegelatine (Rind), modifizierte Stärke, Verdickungsmittel (Guarkernmehl, Carrageen), Laktase, natürliches Bourbon Vanille Aroma, Süßungsmittel (E 950, Sucralose), Farbstoff (Carotin), natürliches Aroma.\nMit Stickstoff aufgeschlagen.\nEnthält von Natur aus Zucker.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 213
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Protein Mousse Vanilla. Mit Süßungsmitteln.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 76,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 322,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei max. +8 °C mindestens haltbar bis: siehe Deckel.",
+      "usageHints": "Bitte vor Entsorgung Deckel und Folie abziehen."
+    }
+  ],
+  "grammage": "200 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ehrmann  High Protein Vanille Mousse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/pudding-und-desserts/B2-459/produkte/ehrmann-high-protein-vanille-mousse/00-582923",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/ehrmann-high-protein-vanille-mousse/00-582923"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 8.95"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ehrmann  High Protein Vanille Mousse online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ehrmann  High Protein Vanille Mousse online bestellen | BILLA",
+  "slug": "ehrmann-high-protein-vanille-mousse",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/ehrmann-high-protein-vanille-mousse/00-582923",
+  "vatCode": "10",
+  "video": ""
+}

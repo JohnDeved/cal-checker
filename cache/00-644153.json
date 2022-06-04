@@ -1,0 +1,287 @@
+{
+  "articleGroupIds": [
+    "B2-312"
+  ],
+  "articleId": "00-644153",
+  "articleOnlyCanonicalPath": "/produkte/all-i-need-white-tea/00-644153",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "All I Need",
+  "canonicalPath": "/produkte/all-i-need-white-tea/00-644153",
+  "category": "Getränke",
+  "description": "Das kohlensäurehaltige Bio-Getränk erfrischt mit seinem kalt aufgebrühten Weißen Tee und ist ein natürlicher Energyboooost mit 23 mg/100l rein natürlichem Koffein aus Weißem Bio-Tee.<br> Abgerundet wird das Geschmackserlebnis mit der natürlichen Süße des Apfels, der erfrischenden Limette und stärkendem Kurkuma. 'Naturally activating tea drinks', so lassen sich die Tee-Getränke von all i need. am besten beschreiben.<br> Weiters arbeitet das Unternehmen durch eine Zusammenarbeit mit ReGreen auf der gesamten Wertschöpfungskette CO2-neutral.",
+  "eanCodes": [
+    "9120046090320"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "allergyIndicator": "Das Produkt enthält keine deklarationspflichtigen Allergene.",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CARBON_NEUTRAL"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Zeillergasse 32, A-1170 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "all i need beverage GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@allineed.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-10-22T00:00:00",
+      "ingredients": "Zutaten: Aufguss aus Weißem Tee (Wasser, Weißer Tee*), 7% Apfelsaft aus Apfelsaftkonzentrat*, 3% Limettensaft*, Kurkuma*, natürliches Jasminblütenaroma, Kohlensäure. Weißtee mind. 11g/l (*aus kontrolliert biologischem Anbau)",
+      "marketingMessage": "Koffeinhaltiges Bio-Teegetränk auf Basis aufgebrühter Weißteeblätter mit 23mg/100ml natürlichem Koffein.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 267.2
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Koffeinhaltiges Bio-Teegetränk auf Basis aufgebrühter Bio-Weißteeblätter mit 23mg/100ml natürlichem Koffein.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 19,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 81,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.25 l Dose (Einweg)",
+  "grammageBadge": "0.25 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 5.96"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "all i need. White Tea",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eistee/B2-312/produkte/all-i-need-white-tea/00-644153"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "1 l 5.96"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 129790,
+  "recommendationArticleIds": [],
+  "seoDescription": "all i need. White Tea online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "all i need. White Tea online bestellen | BILLA",
+  "slug": "all-i-need-white-tea",
+  "storeAvalibility": [
+    "00-3709",
+    "00-4675",
+    "00-6588",
+    "00-3857",
+    "00-3551",
+    "00-4126",
+    "00-1032",
+    "00-4655",
+    "00-6533",
+    "00-3114",
+    "00-6740",
+    "00-9290",
+    "00-1108",
+    "00-7857",
+    "00-7606",
+    "00-2342",
+    "00-1132",
+    "00-3023",
+    "00-3384",
+    "00-174",
+    "00-3617",
+    "00-4551",
+    "00-3118",
+    "00-4249",
+    "00-7358",
+    "00-3780",
+    "00-3076",
+    "00-6884",
+    "00-7653",
+    "00-3856",
+    "00-7393",
+    "00-99202",
+    "00-3143",
+    "00-3512",
+    "00-5199",
+    "00-5306",
+    "00-3234",
+    "00-4524",
+    "00-1128",
+    "00-249",
+    "00-1457",
+    "00-1913",
+    "00-8213",
+    "00-4932",
+    "00-3445",
+    "00-3681",
+    "00-2111",
+    "00-8012",
+    "00-10",
+    "00-4982",
+    "00-6928",
+    "00-3700",
+    "00-4779",
+    "00-4783",
+    "00-7860",
+    "00-4107",
+    "00-3150",
+    "00-4690",
+    "00-8946",
+    "00-7114",
+    "00-7539",
+    "00-1041",
+    "00-4605",
+    "00-2109",
+    "00-3431",
+    "00-7084",
+    "00-4421",
+    "00-3506"
+  ],
+  "url": "/produkte/all-i-need-white-tea/00-644153",
+  "vatCode": "20",
+  "video": ""
+}

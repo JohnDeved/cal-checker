@@ -1,0 +1,386 @@
+{
+  "articleGroupIds": [
+    "B2-F",
+    "B2-572",
+    "B2-6E2"
+  ],
+  "articleId": "00-575379",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-ristorante-pizza-mozzarella-glutenfrei/00-575379",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-ristorante-pizza-mozzarella-glutenfrei/00-575379",
+  "category": "Neu im Online Shop",
+  "description": "<p>Dr. Oetker Ristorante gibt es jetzt auch in glutenfrei!</p><br>Ristorante Mozzarella glutenfrei - hier besteht der Pizzaboden aus Zutaten, die von Natur aus glutenfrei sind: Reismehl, Kartoffelstärke, Kartoffelflakes und Erbsenprotein. Die glutenfreie Variante  überzeugt mit sonnengereiften Tomaten, Mozzarella und Edamer Käse sowie einer verführerischen Gewürz- und Kräutermischung.</br>",
+  "eanCodes": [
+    "4001724022398"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-02-28T00:00:00",
+      "ingredients": "Zutaten: 21% passierte Tomaten, 19% schnittfester MOZZARELLA KÄSE, Reismehl, Wasser, Kartoffelstärke, 7,8% Cocktailtomaten, EDAMER KÄSE, Kartoffelflocken, Rapsöl, Erbseneiweiß, Hefe, Zucker, Basilikum, Kräuter, Salz, Verdickungsmittel (Hydroxypropylmethylcellulose, Xanthan), Olivenöl nativ extra, Emulgatoren (Milchsäureester von Mono- und Diglyceriden von Speisefettsäuren, Essigsäureester von Mono- und Diglyceriden von Speisefettsäuren, Mono- und Diglyceride von Speisefettsäuren), modifizierte Stärke, Glukosesirup, Knoblauch, MILCHEIWEISS, Gewürze, Zitronensaft, Dextrose.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 467.903
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 370
+        }
+      ],
+      "name": "Glutenfreie Pizza reich belegt mit Tomatensauce und Mozzarella, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 961,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 229,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.99,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1) Backofen vorheizen. Ober-/Unterhitze: etwa 230°C, Heißluft: etwa 210°C. 2) Folie entfernen. 3) Tiefgekühlte Pizza auf dem Rost auf der untersten Einschubleiste des Backofens 13-16 Min. backen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern (***-Fach oder Tiefkühltruhe).",
+      "sustenanceClaim": "Laktosegehalt < 0,01%"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "360_DEGREE_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten: 21% passierte Tomaten, 19% schnittfester MOZZARELLA KÄSE, Reismehl, Wasser, Kartoffelstärke, 7,8% Cocktailtomaten, EDAMER KÄSE, Kartoffelflocken, Rapsöl, Erbseneiweiß, Hefe, Zucker, Basilikum, Kräuter, Salz, Verdickungsmittel (Hydroxypropylmethylcellulose, Xanthan), Olivenöl nativ extra, Emulgatoren (Milchsäureester von Mono- und Diglyceriden von Speisefettsäuren, Essigsäureester von Mono- und Diglyceriden von Speisefettsäuren, Mono- und Diglyceride von Speisefettsäuren), modifizierte Stärke, Glukosesirup, Knoblauch, MILCHEIWEISS, Gewürze, Zitronensaft, Dextrose.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 467.903
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 370
+        }
+      ],
+      "name": "Glutenfreie Pizza reich belegt mit Tomatensauce und Mozzarella, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 961,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 229,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.99,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1) Backofen vorheizen. Ober-/Unterhitze: etwa 230°C, Heißluft: etwa 210°C. 2) Folie entfernen. 3) Tiefgekühlte Pizza auf dem Rost auf der untersten Einschubleiste des Backofens 13-16 Min. backen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern (***-Fach oder Tiefkühltruhe).",
+      "sustenanceClaim": "Laktosegehalt < 0,01%"
+    }
+  ],
+  "grammage": "370 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 11.59"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Ristorante Pizza Mozzarella Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/dr-oetker-ristorante-pizza-mozzarella-glutenfrei/00-575379",
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/dr-oetker-ristorante-pizza-mozzarella-glutenfrei/00-575379",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/dr-oetker-ristorante-pizza-mozzarella-glutenfrei/00-575379"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.29,
+    "unit": "1 kg 11.59"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Ristorante Pizza Mozzarella Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Ristorante Pizza Mozzarella Glutenfrei online bestelle",
+  "slug": "dr-oetker-ristorante-pizza-mozzarella-glutenfrei",
+  "storeAvalibility": [
+    "00-7075",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-oetker-ristorante-pizza-mozzarella-glutenfrei/00-575379",
+  "vatCode": "10",
+  "video": ""
+}

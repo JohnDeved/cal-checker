@@ -1,0 +1,282 @@
+{
+  "articleGroupIds": [
+    "B2-572"
+  ],
+  "articleId": "00-576992",
+  "articleOnlyCanonicalPath": "/produkte/lycka-pizza-funghi/00-576992",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Lycka",
+  "brandPath": "/marken/lycka",
+  "canonicalPath": "/produkte/lycka-pizza-funghi/00-576992",
+  "category": "Tiefkühl",
+  "description": "Die Pizza, die fung(h)iert.<br>Wusstest Du, dass Pilze fürs Recyclen zuständig sind und so Pflanzen & Tiere mit Nährstoffen versorgen? Richtig sozial, diese Funghis. Und superlecker sind sie auch noch. Juhu!<li>Vegan<li>Bio<li>Mit Liebe hergestellt</li>",
+  "eanCodes": [
+    "4260376842628"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Weizen",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Klostersande 4a\n25336 Elmshorn",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "purefood GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-03-16T00:00:00",
+      "ingredients": "Zutaten: 36% WEIZENMEHL*, 19% passierte Tomaten*, Wasser, Biga-Hefevorteig* (6% WEIZENMEHL*, Wasser, Hefe), 9% Champignons*, 9% vegane Käsealternative auf Reisbasis* (Wasser, 1,9% gekeimter brauner Reis*, Apfelessig*, Salz, kaltgepresstes Kokosnussöl*, Sonnenblumenöl*, Oregano*, Zitronensaft*, Verdickungsmittel (Gummi arabicum, Xanthan, Johannisbrotkernmehl)), Meersalz, Pfeffer*, natives Olivenöl extra*, 0,09% Oregano*, Hefe.*aus kontrolliert ökologischer Erzeugung",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 364
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Bio-Hefeteiggebäck aus Weizenmehl mit Tomatensauce, veganer Käsealternative auf Reisbasis und Champignons, vorgebacken und tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 769,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 182,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Heiz Deinen Ofen (250 °C bei Ober-/Unterhitze, 230 °C bei Umluft) vor. In der Zeit lässt Du die Pizza antauen. Ideal sind 15-30 Minuten, je nach Zeit & Hunger. Schieb die Pizza auf einem Rost ohne Backpapier auf die mittlere Schiene des Ofens. Jetzt nur noch 4-8 Minuten backen lassen - je nach gewünschtem Bräunungsgrad",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Kühlschrank: 1 Tag\n*Fach oder Eiswürfelfach (-6 °C): 4 Tage\n**Fach (-12 °C): 1 Woche\n***Fach oder Tiefkühler (-18°C): mindestens haltbar bis: siehe Seitenlasche",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren. Nur durchgegart verzehren"
+    }
+  ],
+  "grammage": "300 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 14.97"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lycka Pizza Funghi",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/lycka-pizza-funghi/00-576992"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 14.97"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lycka Pizza Funghi online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lycka Pizza Funghi online bestellen | BILLA",
+  "slug": "lycka-pizza-funghi",
+  "storeAvalibility": [
+    "00-2342",
+    "00-3512",
+    "00-7606",
+    "00-4466",
+    "00-6676",
+    "00-3740",
+    "00-2098",
+    "00-2111",
+    "00-3059",
+    "00-7336",
+    "00-3617",
+    "00-1710",
+    "00-1041",
+    "00-10",
+    "00-9290",
+    "00-4016",
+    "00-4655",
+    "00-4551",
+    "00-3062",
+    "00-7358",
+    "00-7653",
+    "00-3120",
+    "00-3042",
+    "00-7424",
+    "00-3005",
+    "00-3114",
+    "00-4690",
+    "00-3118",
+    "00-3857",
+    "00-2808",
+    "00-3055",
+    "00-3780",
+    "00-3580",
+    "00-1070",
+    "00-7084",
+    "00-3384",
+    "00-99202"
+  ],
+  "url": "/produkte/lycka-pizza-funghi/00-576992",
+  "vatCode": "10",
+  "video": ""
+}

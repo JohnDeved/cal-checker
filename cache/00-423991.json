@@ -1,0 +1,282 @@
+{
+  "articleGroupIds": [
+    "B2-444",
+    "B2-446"
+  ],
+  "articleId": "00-423991",
+  "articleOnlyCanonicalPath": "/produkte/lieb-graukaese/00-423991",
+  "attributes": [
+    "s_fett",
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Lieb",
+  "canonicalPath": "/produkte/lieb-graukaese/00-423991",
+  "category": "Kühlwaren",
+  "description": "Der Lieb Graukäse ist ein geschmackvolles Naturprodukt mit wenig Fett, von dem es auch gerne mal ein Stück mehr sein darf.<li>Sauermilchkäse mit Salz und Pfeffer<li>reich an wertvollen Nähr- und Aufbaustoffen (Mineralien, Vitamin B, biologisches Milcheiweiß)<li>enthält wenig Kohlehydrate und ist nahezu fettfrei",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Waldeben 1, A-6133 Weerberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Käserei Lieb",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Pasteurisierte MAGERMILCH, Speisesalz, Pfeffer",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.25
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.25
+        }
+      ],
+      "name": "Sauermilchkäse ca. 2% F.i.T.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 139,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 591,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei +0°/+6°C gekühlt",
+      "sustenanceClaim": "laktosefrei"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 11.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 11.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 11.9,
+    "unit": "100 g 1.19"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.25,
+  "name": "Lieb Graukäse",
+  "orderQuantityStepSize": 0.25,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444/produkte/lieb-graukaese/00-423991",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/kaesespezialitaeten/B2-446/produkte/lieb-graukaese/00-423991"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 11.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 11.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 11.9,
+    "unit": "100 g 1.19"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 85450,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lieb Graukäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lieb Graukäse online bestellen | BILLA",
+  "slug": "lieb-graukaese",
+  "storeAvalibility": [
+    "00-5223",
+    "00-8895",
+    "00-8646",
+    "00-8070",
+    "00-5531",
+    "00-5078",
+    "00-5199",
+    "00-5181",
+    "00-5454",
+    "00-8400",
+    "00-8158",
+    "00-5945",
+    "00-5405",
+    "00-8395",
+    "00-5112",
+    "00-5447",
+    "00-5552",
+    "00-8151",
+    "00-8140",
+    "00-5226",
+    "00-8409",
+    "00-10",
+    "00-5000",
+    "00-8173",
+    "00-5737",
+    "00-5381",
+    "00-5165",
+    "00-8085",
+    "00-5359",
+    "00-8530",
+    "00-5414",
+    "00-8334",
+    "00-8636",
+    "00-8185",
+    "00-8154",
+    "00-5003",
+    "00-8159",
+    "00-8031",
+    "00-5529",
+    "00-6001",
+    "00-8606",
+    "00-8193",
+    "00-5363",
+    "00-5962",
+    "00-6502",
+    "00-8155",
+    "00-5104",
+    "00-8075",
+    "00-8076",
+    "00-5306",
+    "00-8360",
+    "00-8188",
+    "00-8426",
+    "00-5108",
+    "00-8657",
+    "00-8022",
+    "00-8213",
+    "00-5031",
+    "00-5082",
+    "00-5067",
+    "00-5391",
+    "00-8241",
+    "00-5027",
+    "00-5322",
+    "00-5290",
+    "00-8417",
+    "00-8953",
+    "00-6366",
+    "00-8230",
+    "00-8243",
+    "00-6845",
+    "00-99202"
+  ],
+  "url": "/produkte/lieb-graukaese/00-423991",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    25,
+    50,
+    75,
+    100,
+    125
+  ]
+}

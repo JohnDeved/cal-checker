@@ -1,0 +1,402 @@
+{
+  "articleGroupIds": [
+    "B2-623"
+  ],
+  "articleId": "00-317540",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-fruechteriegel-traube-himbeere/00-317540",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-fruechteriegel-traube-himbeere/00-317540",
+  "category": "Grundnahrungsmittel",
+  "description": "Fruchtiger Genuss für Kinder ab einem Jahr.<br>Mit seinem hohen Fruchtanteil von <b>68 Prozent</b> ist der Alnatura Früchteriegel eine aromatische Zwischenmahlzeit für Klein und Groß. Zwei Oblaten umhüllen die Fruchtmasse aus Trauben, Himbeeren, Äpfeln sowie Bananen und vermeiden obendrein klebrige Finger. Alle Zutaten landwirtschaftlichen Ursprungs stammen aus biologischer Landwirtschaft.",
+  "eanCodes": [
+    "0000042130666",
+    "0000042369653"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Darmstädter Str. 63, 64404 Bickenbach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Bananenflocken* 20%, HAFERVOLLKORNMEHL*, Apfelflocken* 17%,Traubensaftkonzentrat* weiß 13%, Apfelsaftkonzentrat* 12%,Himbeersaftkonzentrat* 6%, Palmfett*, Oblaten*  (WEIZENMEHL*,Kartoffelstärke*), Reismehl*  *aus biologischer Landwirtschaft. Kann Spuren von Soja, Mandel und Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 26
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 25
+        }
+      ],
+      "name": "Bio Multifruchtriegel für Kleinkinder ab einem Jahr",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1545,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 367,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 65.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 48.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.011,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro 25g",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 389,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 92,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 16.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.003,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Trocken lagern, vor Wärme schützen."
+    }
+  ],
+  "grammage": "23 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 kg 34.35"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Früchteriegel Traube-Himbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623/produkte/alnatura-fruechteriegel-traube-himbeere/00-317540"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 kg 34.35"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 138340,
+  "recommendationArticleIds": [
+    "00-317813"
+  ],
+  "seoDescription": "Alnatura Früchteriegel Traube-Himbeere online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Früchteriegel Traube-Himbeere online bestellen | BILLA",
+  "slug": "alnatura-fruechteriegel-traube-himbeere",
+  "storeAvalibility": [
+    "00-7676",
+    "00-4021",
+    "00-7783",
+    "00-4982",
+    "00-7592",
+    "00-281",
+    "00-4619",
+    "00-7606",
+    "00-3445",
+    "00-7743",
+    "00-2201",
+    "00-5777",
+    "00-7491",
+    "00-4126",
+    "00-7204",
+    "00-3296",
+    "00-355",
+    "00-6975",
+    "00-6745",
+    "00-1198",
+    "00-350",
+    "00-3162",
+    "00-783",
+    "00-7653",
+    "00-7665",
+    "00-7716",
+    "00-3601",
+    "00-3196",
+    "00-1132",
+    "00-3042",
+    "00-1900",
+    "00-7866",
+    "00-3580",
+    "00-4672",
+    "00-7758",
+    "00-1425",
+    "00-1913",
+    "00-5603",
+    "00-2342",
+    "00-5290",
+    "00-3512",
+    "00-1117",
+    "00-4170",
+    "00-7857",
+    "00-6424",
+    "00-3005",
+    "00-4945",
+    "00-4146",
+    "00-4421",
+    "00-1071",
+    "00-3940",
+    "00-4551",
+    "00-3856",
+    "00-3669",
+    "00-1121",
+    "00-2364",
+    "00-3023",
+    "00-4440",
+    "00-3617",
+    "00-7245",
+    "00-3121",
+    "00-9589",
+    "00-3633",
+    "00-2907",
+    "00-4673",
+    "00-3688",
+    "00-6810",
+    "00-3584",
+    "00-5381",
+    "00-1016",
+    "00-7062",
+    "00-6496",
+    "00-220",
+    "00-6724",
+    "00-3379",
+    "00-3780",
+    "00-4674",
+    "00-10",
+    "00-1041",
+    "00-2369",
+    "00-3713",
+    "00-7535",
+    "00-7969",
+    "00-6979",
+    "00-3947",
+    "00-6480",
+    "00-4655",
+    "00-4107",
+    "00-6533",
+    "00-7975",
+    "00-2190",
+    "00-4469",
+    "00-6760",
+    "00-4779",
+    "00-7358",
+    "00-9290",
+    "00-4783",
+    "00-6372",
+    "00-7632",
+    "00-1457",
+    "00-7368",
+    "00-3102",
+    "00-6897",
+    "00-3560",
+    "00-2208",
+    "00-4675",
+    "00-5322",
+    "00-1701",
+    "00-7229",
+    "00-4001",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-fruechteriegel-traube-himbeere/00-317540",
+  "vatCode": "10",
+  "video": ""
+}

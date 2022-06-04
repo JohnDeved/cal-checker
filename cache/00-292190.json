@@ -1,0 +1,375 @@
+{
+  "articleGroupIds": [
+    "B2-E21",
+    "B2-758",
+    "B2-759"
+  ],
+  "articleId": "00-292190",
+  "articleOnlyCanonicalPath": "/produkte/hofbauer-fuer-verwoehnte-nougat/00-292190",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Hofbauer",
+  "brandPath": "/marken/hofbauer",
+  "canonicalPath": "/produkte/hofbauer-fuer-verwoehnte-nougat/00-292190",
+  "category": "Geschenkideen",
+  "description": "Hofbauer \"Für Verwöhnte\" Nougat - Der Klassiker in neuem Design! - Für all jene, die sich oder ihre Liebsten verwöhnen möchten.",
+  "eanCodes": [
+    "9003600472308"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Zucker, Kakaobutter, HASELNÜSSE (15%), Kakaomasse, VollMILCHpulver, MagerMILCHpulver, LAKTOSE, Palmfett, Waffeln (WEIZENmehl, Kokosöl, Backtriebmittel: Natriumbicarbonat, Salz, Emulgator: SOJAlecithin), BUTTERreinfett, Emulgator (SOJAlecithin), GERSTENmalzextrakt, Aroma.Kann MANDELN enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 171.3
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 120
+        }
+      ],
+      "name": "Feinste Pralinen gefüllt mit Nougat und Nougatcreme in Milchschokolade und weißer Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 550,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2304,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 54,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 52,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "120 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "100 g 3.66"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Hofbauer Für Verwöhnte Nougat",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/geschenkideen/geschenksideen/bonbonniere/B2-E21/produkte/hofbauer-fuer-verwoehnte-nougat/00-292190",
+    "~/warengruppe/suesses-und-salziges/suesses2/suesse-spezialitaeten/B2-758/produkte/hofbauer-fuer-verwoehnte-nougat/00-292190",
+    "~/warengruppe/suesses-und-salziges/suesses2/bonbonniere-und-spezialitaeten/B2-759/produkte/hofbauer-fuer-verwoehnte-nougat/00-292190"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "100 g 3.66"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51140,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofbauer Für Verwöhnte Nougat online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofbauer Für Verwöhnte Nougat online bestellen | BILLA",
+  "slug": "hofbauer-fuer-verwoehnte-nougat",
+  "storeAvalibility": [
+    "00-3507",
+    "00-3005",
+    "00-4932",
+    "00-355",
+    "00-3709",
+    "00-8154",
+    "00-9209",
+    "00-1132",
+    "00-8012",
+    "00-3700",
+    "00-3143",
+    "00-3022",
+    "00-3510",
+    "00-1108",
+    "00-5290",
+    "00-2808",
+    "00-4783",
+    "00-6819",
+    "00-4482",
+    "00-6745",
+    "00-6810",
+    "00-1900",
+    "00-7860",
+    "00-3234",
+    "00-1017",
+    "00-388",
+    "00-8185",
+    "00-1207",
+    "00-3062",
+    "00-5381",
+    "00-2301",
+    "00-5322",
+    "00-3114",
+    "00-1524",
+    "00-1901",
+    "00-3027",
+    "00-350",
+    "00-783",
+    "00-4756",
+    "00-1198",
+    "00-2015",
+    "00-7393",
+    "00-5359",
+    "00-4945",
+    "00-3940",
+    "00-7539",
+    "00-3856",
+    "00-6496",
+    "00-1002",
+    "00-3212",
+    "00-4440",
+    "00-2170",
+    "00-4126",
+    "00-3253",
+    "00-3023",
+    "00-8636",
+    "00-2154",
+    "00-5082",
+    "00-3744",
+    "00-3042",
+    "00-7017",
+    "00-115",
+    "00-2259",
+    "00-7075",
+    "00-2131",
+    "00-7336",
+    "00-4551",
+    "00-2098",
+    "00-6952",
+    "00-7114",
+    "00-7721",
+    "00-4016",
+    "00-7665",
+    "00-7224",
+    "00-225",
+    "00-3150",
+    "00-3431",
+    "00-5306",
+    "00-3713",
+    "00-289",
+    "00-4655",
+    "00-7584",
+    "00-7204",
+    "00-3501",
+    "00-323",
+    "00-2342",
+    "00-174",
+    "00-6487",
+    "00-3580",
+    "00-3979",
+    "00-6864",
+    "00-3384",
+    "00-7969",
+    "00-6916",
+    "00-5199",
+    "00-6724",
+    "00-3076",
+    "00-3032",
+    "00-5391",
+    "00-5165",
+    "00-6130",
+    "00-1911",
+    "00-8188",
+    "00-3165",
+    "00-7743",
+    "00-4690",
+    "00-4605",
+    "00-5737",
+    "00-6884",
+    "00-3506",
+    "00-290",
+    "00-2213",
+    "00-7358",
+    "00-3146",
+    "00-3512",
+    "00-99202",
+    "00-2907",
+    "00-3669",
+    "00-4424",
+    "00-9290",
+    "00-7653",
+    "00-3149",
+    "00-7120",
+    "00-943",
+    "00-9225",
+    "00-2222",
+    "00-4028",
+    "00-3714",
+    "00-440",
+    "00-8085",
+    "00-4107",
+    "00-2201",
+    "00-2899",
+    "00-2045",
+    "00-309",
+    "00-521",
+    "00-10",
+    "00-4672",
+    "00-7857",
+    "00-7229",
+    "00-3617",
+    "00-6492",
+    "00-2923",
+    "00-3688",
+    "00-6022",
+    "00-8395",
+    "00-112",
+    "00-2220",
+    "00-4270",
+    "00-7606",
+    "00-6108",
+    "00-2208",
+    "00-6760",
+    "00-4707",
+    "00-4779",
+    "00-6262",
+    "00-3445",
+    "00-3780",
+    "00-6024",
+    "00-4099",
+    "00-7535",
+    "00-6676"
+  ],
+  "url": "/produkte/hofbauer-fuer-verwoehnte-nougat/00-292190",
+  "vatCode": "10",
+  "video": ""
+}

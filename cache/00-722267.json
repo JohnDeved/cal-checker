@@ -1,0 +1,245 @@
+{
+  "articleGroupIds": [
+    "B2-488"
+  ],
+  "articleId": "00-722267",
+  "articleOnlyCanonicalPath": "/produkte/hoertnagl-kantwurst/00-722267",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hörtnagl",
+  "canonicalPath": "/produkte/hoertnagl-kantwurst/00-722267",
+  "category": "Kühlwaren",
+  "description": "Form und Geschmack machen die Kantwurst von Hörtnagl zum i-Tüpfelchen auf jedem Aufschnittteller. Die Rohwurst wird nach traditioneller Rezeptur hergestellt.<li>Rohwurst aus Schweine- und Rindfleisch<li>geräuchert und an der Luft gereift<li>kräftig-pikant im Geschmack<li>mit feinem Raucharoma",
+  "eanCodes": [
+    "9006507126510",
+    "9006507006515"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6060 Hall in Tirol,\nTrientlstr. 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Andrä Hörtnagl Produktion und Handel GmbH.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hoertnagl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-01-04T00:00:00",
+      "ingredients": "Zutaten: 100g enthalten 103g Schweinefleisch und 33g Rindfleisch; Speck, Nitritpökelsalz (Speisesalz, Konservierungsstoff: E250); Gewürze und Gewürzextrakte mit SENF, Geschmacksverstärker: E621; Antioxidationsmittel: E301; Dextrose, Saccharose, Oligofructose;",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 132
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 120
+        }
+      ],
+      "name": "Kantwurst geschnitten, geräuchert, luftgetrocknet",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 507,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2101,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 42.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 18.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 29.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei +2°C bis +6°C lagern.\n\nUngeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt"
+    }
+  ],
+  "grammage": "120 g Packung",
+  "grammageBadge": "120 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 24.08"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hörtnagl Kantwurst",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/hoertnagl-kantwurst/00-722267"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 24.08"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 52160,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hörtnagl Kantwurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hörtnagl Kantwurst online bestellen | BILLA",
+  "slug": "hoertnagl-kantwurst",
+  "storeAvalibility": [
+    "00-8895",
+    "00-8022",
+    "00-8154",
+    "00-8070",
+    "00-8158",
+    "00-8085",
+    "00-8173",
+    "00-8646",
+    "00-8188",
+    "00-8155",
+    "00-8140",
+    "00-8151",
+    "00-8075",
+    "00-8243",
+    "00-99202",
+    "00-8241",
+    "00-8076",
+    "00-8193",
+    "00-8213",
+    "00-8334",
+    "00-8426",
+    "00-8230",
+    "00-8606",
+    "00-8159",
+    "00-8185",
+    "00-8031",
+    "00-8657",
+    "00-8417",
+    "00-8636",
+    "00-8360"
+  ],
+  "url": "/produkte/hoertnagl-kantwurst/00-722267",
+  "vatCode": "10",
+  "video": ""
+}

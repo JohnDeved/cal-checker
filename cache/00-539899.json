@@ -1,0 +1,214 @@
+{
+  "articleGroupIds": [
+    "B2-435",
+    "B2-F"
+  ],
+  "articleId": "00-539899",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-streifensteak/00-539899",
+  "attributes": [
+    "s_bio",
+    "s_new",
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_new",
+    "s_aut"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-streifensteak/00-539899",
+  "category": "Kühlwaren",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-04-24T00:00:00",
+      "ingredients": "Bio-Jungrindfleisch 100%",
+      "mandatoryIndicator": "AT-31732-EG\r\nAT-BIO-301\nÖsterreich Landwirtschaft\r\nFür sichere Speisen ist Küchenhygiene wichtig! Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen.\r\nAufgezogen in: Österreich Bauernhofauslobung:\n*Name des Bauern\n*Adresse des Bauern\r\nGeschlachtet in: Österreich AT-20245-EG Tauernfleisch Vetriebs GmbH\nAT-31335-EG Grandits GmbH\nAT-40465-EG Herbert Handlbauer GmbH\nAT-61891-EG Norbert Marcher GmbH\n\r\nZerlegt in: Österreich AT-31732-EG REWE Austria Fleischwaren Tribuswinkel\r\nGeboren in: Österreich ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5.8,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 115,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 485,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4.4,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6.7,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 44,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2.2,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-4 °C",
+      "usageHints": "Nach dem Öffnen  unmittelbar verarbeiten."
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 25.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 25.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 25.99,
+    "unit": "1 kg 25,99 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.2,
+  "name": "Ja! Natürlich Streifensteak",
+  "orderQuantityStepSize": 0.2,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/rindfleisch/B2-435/produkte/ja-natuerlich-streifensteak/00-539899",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/ja-natuerlich-streifensteak/00-539899"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 25.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 25.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 25.99,
+    "unit": "1 kg 25,99 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Streifensteak online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Streifensteak online bestellen | BILLA",
+  "slug": "ja-natuerlich-streifensteak",
+  "storeAvalibility": [
+    "00-281",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/ja-natuerlich-streifensteak/00-539899",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    20,
+    40,
+    60,
+    80,
+    100
+  ]
+}

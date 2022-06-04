@@ -1,0 +1,174 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-543121",
+  "articleOnlyCanonicalPath": "/produkte/schleppe-no-1-pale-ale/00-543121",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schleppe",
+  "canonicalPath": "/produkte/schleppe-no-1-pale-ale/00-543121",
+  "category": "Getränke",
+  "description": "Hier gehen Tradition und Innovation Hand in Hand: Das Kreativbier Schleppe No. 1 ist ein Pale Ale erster Güte und begeistert mit exotischen Fruchtaromen.<li>cremige Textur<li>passt zu scharfen und würzigen Gerichten<li>preisgekrönt (European Beer-Star, Falstaff, goldenes DLG-Siegel)<li>regionale Herkunft",
+  "eanCodes": [
+    "9001433013613"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5.3,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schleppe Platz 1, 9020 Klagenfurt, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brauerei Schleppe",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-05-04T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen, Hefe",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.558
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Zentiliter",
+          "value": 33
+        }
+      ],
+      "name": "Spezialbier",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 203,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 49,
+              "unit": "Kilokalorie"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "500 ml 3.17"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Schleppe No. 1 Pale Ale",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/schleppe-no-1-pale-ale/00-543121"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "500 ml 3.17"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36,
+    48,
+    60
+  ],
+  "rank": 109080,
+  "recommendationArticleIds": [
+    "00-64304"
+  ],
+  "seoDescription": "Schleppe No. 1 Pale Ale online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schleppe No. 1 Pale Ale online bestellen | BILLA",
+  "slug": "schleppe-no-1-pale-ale",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/schleppe-no-1-pale-ale/00-543121",
+  "vatCode": "20",
+  "video": ""
+}

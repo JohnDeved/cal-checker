@@ -1,0 +1,200 @@
+{
+  "articleGroupIds": [
+    "B2-6A2"
+  ],
+  "articleId": "00-402633",
+  "articleOnlyCanonicalPath": "/produkte/vorarlberger-griess/00-402633",
+  "attributes": [
+    "s_fett",
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Vorarlberger Mehl",
+  "canonicalPath": "/produkte/vorarlberger-griess/00-402633",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Vorarlberger Weizen-Grieß ist optimal für jede Art von Grießgerichten, wie z.B. Grießnockerl, Grießmus, Grießauflauf oder Grießschnitten.",
+  "eanCodes": [
+    "9002982000147"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "OHNE_GEN_TECHNIK",
+              "valueTranslation": "OHNE GENTECHNIK (kontrolliert von VLOG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6800 Feldkirch Reichsstraße 139",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberger Mühlen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 100 % reiner Weizengrieß, Type 480",
+      "marketingMessage": "AUF BESTES GELINGEN",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1009
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Grieß",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 329,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1377,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 69,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [
+        {
+          "instruction": "Grießauflauf, Rezept für 4 Personen:\n500 ml Milch mit 50 g Butter und etwas Salz aufkochen. 150 g Vorarlberger Weizengrieß einrühren, bis sich der Teig von der Pfanne löst und auskühlen lassen. Unterdessen 150 g Zucker und 4 Eidotter flaumig rühren. Nach und nach den kühlen Grießbrei, etwas abgeriebene Zitronenschale und zuletzt den festen Schnee von 4 Eiklar untermischen. Die Masse in einer bestrichenen Auflaufform 45 Minuten goldbraun backen. Der Grießauflauf schmeckt auch hervorragend, wenn er mit dem balaststoffreichen Vorarlberger Riebelgrieß zubereitet wird.\nNur selbst gemacht schmeckt wie selbst gemacht.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Bei Raumtemperatur und trockener Lagerung mindestens haltbar bis:",
+      "usageHints": "Bei Raumtemperatur und trockener Lagerung mindestens haltbar bis:"
+    }
+  ],
+  "grammage": "1 Kilogramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Vorarlberger Griess",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/getreideprodukte/B2-6A2/produkte/vorarlberger-griess/00-402633"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 62120,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vorarlberger Griess online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vorarlberger Griess online bestellen | BILLA",
+  "slug": "vorarlberger-griess",
+  "storeAvalibility": [],
+  "url": "/produkte/vorarlberger-griess/00-402633",
+  "vatCode": "10",
+  "video": ""
+}

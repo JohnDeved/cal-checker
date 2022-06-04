@@ -1,0 +1,206 @@
+{
+  "articleGroupIds": [
+    "B2-490"
+  ],
+  "articleId": "00-394587",
+  "articleOnlyCanonicalPath": "/produkte/urtyroler/00-394587",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Urtyroler",
+  "canonicalPath": "/produkte/urtyroler/00-394587",
+  "category": "Kühlwaren",
+  "description": "Der würzig-kräftige Urtyroler  eignet sich besonders gut als Teil einer Käseplatte.  Er zeichnet sich aus durch einen  kurzen, leicht bröckeligenTeig (parmesanähnlich) . Sein intensiver Geschmack  harmoniert ausgezeichnet mit vollmundigen Weinen. Ein wahrer Genuss für alle Sinne.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: MILCH, Salz, tierisches Lab, Festigungsmittel Calciumchlorid, Käsereikulturen",
+      "marketingMessage": "Der würzig-kräftige Urtyroler  eignet sich besonders gut als Teil einer Käseplatte.  Er zeichnet sich aus durch einen  kurzen, leicht bröckeligenTeig (parmesanähnlich) . Sein intensiver Geschmack  harmoniert ausgezeichnet mit vollmundigen Weinen. Ein wahrer Genuss für alle Sinne.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.77
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.75
+        }
+      ],
+      "name": "Hartkäse mit Rotkultur 45% Fett i.Tr., aus pasteurisierter Milch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 396,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1643,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (bei max. 3-8 °C) lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet mindestens haltbar bis: siehe Aufdruck"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 21.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 21.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 21.5,
+    "unit": "100 g 2.15"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Urtyroler",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/urtyroler/00-394587"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 21.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 21.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 21.5,
+    "unit": "100 g 2.15"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 32120,
+  "recommendationArticleIds": [],
+  "seoDescription": "Urtyroler online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Urtyroler online bestellen | BILLA",
+  "slug": "urtyroler",
+  "storeAvalibility": [],
+  "url": "/produkte/urtyroler/00-394587",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

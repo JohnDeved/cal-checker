@@ -1,0 +1,217 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-370"
+  ],
+  "articleId": "00-413689",
+  "articleOnlyCanonicalPath": "/produkte/gasteiner-natur/00-413689",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Gasteiner",
+  "brandPath": "/marken/gasteiner",
+  "canonicalPath": "/produkte/gasteiner-natur/00-413689",
+  "category": "Getränke",
+  "description": "Das natürliche Mineralwasser Gasteiner Natur bietet ein frisches Trinkerlebnis ohne Kohlensäure. Gasteiner steht für nachhaltige Qualität aus Österreich.<li>Wertvolle Mineralstoffe und Spurenelemente<li>Aus einem Nationalpark in den österreichischen Alpen<li>Regional und umweltfreundlich<li>Ohne Kohlensäure<li>100% rePET</li>",
+  "eanCodes": [
+    "9028800426739"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PET_TO_PET",
+              "valueTranslation": "PET to PET (Recycling von PET Flaschen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Erlengrundstrasse 14, A-5640 Bad Gastein",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Gasteiner Mineralwasser Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "#gasteiner",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.gasteiner.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-06-28T00:00:00",
+      "mandatoryIndicator": "Quelle: Kristallquelle|5640 Bad Gastein|Austria",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1532.2
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 18.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 10.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fluorid",
+              "nutritionalValue": 0.85,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 2.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 33,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 1.93,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 84.8,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 36,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Gasteiner Natur",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/gasteiner-natur/00-413689",
+    "~/warengruppe/getraenke/mineralwasser/still/B2-370/produkte/gasteiner-natur/00-413689"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 115090,
+  "recommendationArticleIds": [
+    "00-401714"
+  ],
+  "seoDescription": "Gasteiner Natur online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gasteiner Natur online bestellen | BILLA",
+  "slug": "gasteiner-natur",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/gasteiner-natur/00-413689",
+  "vatCode": "20",
+  "video": ""
+}

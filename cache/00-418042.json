@@ -1,0 +1,210 @@
+{
+  "articleGroupIds": [
+    "B2-14",
+    "B2-638"
+  ],
+  "articleId": "00-418042",
+  "articleOnlyCanonicalPath": "/produkte/seeberger-soft-pflaumen/00-418042",
+  "attributes": [
+    "s_fett",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen",
+    "s_naehrsto"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Seeberger",
+  "brandPath": "/marken/seeberger",
+  "canonicalPath": "/produkte/seeberger-soft-pflaumen/00-418042",
+  "category": "Obst & Gemüse",
+  "description": "Die Soft Pflaumen von Seeberger mit ihrer natürlichen Fruchtsüße sind ein Genuss als Snack oder als fruchtige Zutat beim Kochen und Backen.<li>entsteint und essfertig<li>frei von Konservierungsstoffen",
+  "eanCodes": [
+    "4008258291016"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-89025 Ulm, Deutschland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Seeberger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 206
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Entsteinte Soft-Pflaumen getrocknet, essfertig, pasteurisiert (* enthält von Natur aus Zucker)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 230,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 975,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 52,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "USA, Chile",
+      "preperations": [],
+      "storageHint": "Vor Wärme und Feuchtigkeit geschützt aufbewahren. Nach dem Öffnen innerhalb weniger Tage aufbrauchen"
+    }
+  ],
+  "grammage": "200 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.19,
+    "unit": "1 kg 20.95"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Seeberger Soft Pflaumen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/obst-und-gemuese/trockenfruechte-und-nuesse/B2-14/produkte/seeberger-soft-pflaumen/00-418042",
+    "~/warengruppe/grundnahrungsmittel/backen/trockenfruechte/B2-638/produkte/seeberger-soft-pflaumen/00-418042"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.19,
+    "unit": "1 kg 20.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 84690,
+  "recommendationArticleIds": [],
+  "seoDescription": "Seeberger Soft Pflaumen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Seeberger Soft Pflaumen online bestellen | BILLA",
+  "slug": "seeberger-soft-pflaumen",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/seeberger-soft-pflaumen/00-418042",
+  "vatCode": "10",
+  "video": ""
+}

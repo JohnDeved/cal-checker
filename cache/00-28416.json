@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-221"
+  ],
+  "articleId": "00-28416",
+  "articleOnlyCanonicalPath": "/produkte/berger-halbweisse/00-28416",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-halbweisse/00-28416",
+  "category": "Brot & Gebäck",
+  "description": "Als Mischbrot mit hohem Weizenanteil macht sich der Berger Halbweiße Wecken besonders gut zu Frühstück, Jause und als Beilage zu Suppe oder Eintopf.<li>Mischbrot aus Weizen- und Roggenmehl<li>innen flaumig und mit knuspriger Rinde<li>mit Natursauerteig und Hefe gebacken",
+  "eanCodes": [
+    "9003644001656"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hörschingerstrasse 17, 4061 Pasching",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Michael Berger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, ROGGENMEHL, Wasser, WEIZENMALZMEHL, Hefe, unjodiertes Speisesalz, Natursauerteig(WEIZENMEHL, Wasser), Emulgator E472e, Dextrose, Trennmittel: Calciumcarbonat, Ascorbinsäure, Kann Spuren von Soja und Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 760
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 750
+        }
+      ],
+      "name": "Schwarzbrot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 251,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1105,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 50.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "970 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.6,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.6,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.6,
+    "unit": "1 kg 3.71"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Halbweiße",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221/produkte/berger-halbweisse/00-28416"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.6,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.6,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.6,
+    "unit": "1 kg 3.71"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 65360,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Halbweiße online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Halbweiße online bestellen | BILLA",
+  "slug": "berger-halbweisse",
+  "storeAvalibility": [
+    "00-4707",
+    "00-5967",
+    "00-4952",
+    "00-4945",
+    "00-4028",
+    "00-4838",
+    "00-4226",
+    "00-4847",
+    "00-4104",
+    "00-4932",
+    "00-4059",
+    "00-4879",
+    "00-4021",
+    "00-4225",
+    "00-4540",
+    "00-4001",
+    "00-4925",
+    "00-4755",
+    "00-4170",
+    "00-4090",
+    "00-99202",
+    "00-4478",
+    "00-4407",
+    "00-4099",
+    "00-4601"
+  ],
+  "url": "/produkte/berger-halbweisse/00-28416",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,176 @@
+{
+  "articleGroupIds": [
+    "B2-343"
+  ],
+  "articleId": "00-777738",
+  "articleOnlyCanonicalPath": "/produkte/hochriegl-rose-baby/00-777738",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Hochriegl",
+  "brandPath": "/marken/hochriegl",
+  "canonicalPath": "/produkte/hochriegl-rose-baby/00-777738",
+  "category": "Getränke",
+  "description": "Österreichischer Sekt höchster Qualität<br>Hochriegl steht für österreichischen Sekt höchster Qualität mit Tradition seit 1890 und bietet ein edles Genusserlebnis für jeden Anlass zum Feiern der kleinen und großen Glücksmomente im Leben.<br><br><li>Farbe: Helles Rosé mit lachsfarbenen Reflexen, feine Perlage<li>Nase: Elegante, weiche Beerenfrucht, klare Frische, weckt bereits in der Nase hohe Erwartungen, und übertrifft diese sogar am Gaumen.<li>Gaumen: Harmonisch, ausgewogen, animierend, trinkfreudig, samtiger Abgang, mit sehr frischer Primärfrucht.<br><br>Speiseempfehlung: Hochriegl Rosé passt optimal zu kleinen Häppchen und  Fingerfood, Lachs, zartem Roastbeef oder frischen Salaten.",
+  "eanCodes": [
+    "9005702002483"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Radelmayerg. 5, A-1190 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Hochriegl Sektkellerei GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hochriegl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-11T00:00:00",
+      "ingredients": "enthält Sulfite",
+      "marketingMessage": "Fuer Hochriegl gelten hoechste Qualitaetsstandards, wie die sorgfaeltige Auswahl der Grundweine, sowie die vollendete Konzeption der Cuvées. Die erfolgreichen Innovationen des Hauses Hochriegl beleben stetig den Markt und schaffen zusaetzliche Kaufanlaesse, nicht zuletzt deswegen, weil Hochriegl DER oesterreichische Sekt mit dem besten Preis-Leistungsverhaeltnis ist, Tradition seit1890 mit Moderne verbindet und saemtliche Konsumbeduerfnisse mit seiner Sortenvielfalt abdeckt. Farbe: Helles Rosé mit lachsfarbenen Reflexen, feine Perlage; Nase: Elegante, weiche Beerenfrucht, klare Frische, weckt bereits in der Nase hohe Erwartungen, und uebertrifft diese sogar am Gaumen; Gaumen : Harmonisch, ausgewogen, jugendlich, knackiger Abgang, mit sehr frischer Primaerfrucht.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.42
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.2
+        }
+      ],
+      "name": "Sekt, trocken",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "Hochriegl Rosé passt optimal zu kleinen\nHäppchen und Fingerfood, Lachs oder zartem\nRoastbeef.",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "0.2 l Flasche",
+  "grammageBadge": "0.2 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 l 12.45"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Hochriegl Rosé Baby",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/sekt-und-champagner2/sekt/B2-343/produkte/hochriegl-rose-baby/00-777738"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 l 12.45"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 132180,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hochriegl Rosé Baby online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hochriegl Rosé Baby online bestellen | BILLA",
+  "slug": "hochriegl-rose-baby",
+  "storeAvalibility": [
+    "00-10",
+    "00-3780",
+    "00-99202",
+    "00-176",
+    "00-2342"
+  ],
+  "url": "/produkte/hochriegl-rose-baby/00-777738",
+  "vatCode": "20",
+  "video": ""
+}

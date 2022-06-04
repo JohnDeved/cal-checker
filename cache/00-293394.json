@@ -1,0 +1,158 @@
+{
+  "articleGroupIds": [
+    "B2-A24"
+  ],
+  "articleId": "00-293394",
+  "articleOnlyCanonicalPath": "/produkte/felix-mini-filetti-huhn-und-rind/00-293394",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Felix",
+  "brandPath": "/marken/felix",
+  "canonicalPath": "/produkte/felix-mini-filetti-huhn-und-rind/00-293394",
+  "category": "Haustier",
+  "description": "Felix Mini-Filetti sind sorgfältig zubereitete Hühnchen-Leckerlis, gemischt mit Rinder-Snacks für einen besonders schmackhaften Kauspaß.",
+  "eanCodes": [
+    "7613035567092"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "Protein: 41%, Fettgehalt: 16%, Rohasche: 8%, Rohfaser: 1%, Feuchtigkeit: 27%."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "IE/kg: Vit A: 5000; Vit D3: 500; mg/kg: Taurin: 1000. Farbstoffe."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Tägliche Futtermenge für eine ausgewachsene Katze (4kg) sind bis zu 8 Stück pro Tag. Sauberes, frisches Trinkwasser sollte jederzeit verfügbar sein. Beaufsichtige deine Katze bei der Fütterung."
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: Fleisch und tierische Nebenerzeugnisse (90%*), Hefe, Mineralstoffe. * mit 14% Fleisch, mit 26% Huhn in den hellbraunen Stückchen, mit 26% Rind in den dunkelroten Stückchen. Durchschnittliche Zusammensetzung: 66% hellbraune Stückchen, 34% dunkelrote Stückchen."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-01-30T00:00:00",
+      "mandatoryIndicator": "Ergänzungsfuttermittel für ausgewachsene Katzen",
+      "marketingMessage": "Felix Mini-Filetti sind sorgfältig zubereitete Hühnchen-Leckerlis, gemischt mit Rinder-/Lachs- oder Enten-Snacks für einen besonders schmackhaften Kauspass.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 45
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 40
+        }
+      ],
+      "name": "Tiernahrung für Katzen",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Den geschlossenen Portionsbeutel bitte an einem kühlen und trockenen Ort lagern.",
+      "sustenanceClaim": "Die Rezepturen der Produkte können sich ändern. Die hier bereitgestellten Informationen beziehen sich auf das aktuell gültige Sortiment und werden regelmäßig aktualisiert. Bei Rezepturumstellungen können im Handel Produkte sowohl mit der alten als auch mit der neuen Rezeptur zu finden sein. Der Käufer sollte deshalb stets alle Informationen auf der Verpackung sorgfältig lesen. Dies gilt insbesondere für die Zutatenliste zur Berücksichtigung von Unverträglichkeiten."
+    }
+  ],
+  "grammage": "40 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 44.75"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Felix Mini-Filetti Huhn & Rind",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/katzen/katzen-snacks/B2-A24/produkte/felix-mini-filetti-huhn-und-rind/00-293394"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 44.75"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 54860,
+  "recommendationArticleIds": [],
+  "seoDescription": "Felix Mini-Filetti Huhn & Rind online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Felix Mini-Filetti Huhn & Rind online bestellen | BILLA",
+  "slug": "felix-mini-filetti-huhn-und-rind",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/felix-mini-filetti-huhn-und-rind/00-293394",
+  "vatCode": "13",
+  "video": ""
+}

@@ -1,0 +1,428 @@
+{
+  "articleGroupIds": [
+    "B2-4A"
+  ],
+  "articleId": "00-709718",
+  "articleOnlyCanonicalPath": "/produkte/stuehrk-deutscher-caviar-aus-heringsrogen/00-709718",
+  "attributes": [
+    "s_fett",
+    "s_marke",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Stührk",
+  "canonicalPath": "/produkte/stuehrk-deutscher-caviar-aus-heringsrogen/00-709718",
+  "category": "Kühlwaren",
+  "description": "Kaviar besteht aus Fischeiern und gilt als exklusive Delikatesse. Der Deutsche Caviar aus Heringsrogen von Stührk wird nachhaltig produziert.<li>Rogen vom Hering, pasteurisiert<li>gekühlt lagern und zeitnah verzehren",
+  "eanCodes": [
+    "0000041034309"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Heringsrogen",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHAREA",
+              "description": "Fangzone ",
+              "hasTranslation": "True",
+              "value": "27.2",
+              "valueTranslation": "Subfanggebiet 27.2: Norwegische See, Spitzbergen und Bäreninsel (Subgebiet II)"
+            },
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "PS",
+              "valueTranslation": "UmschlieÞungsnetze - mit SchlieÞleinen (Ringwaden)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Alter Kirchweg 31, D-25709 Marne",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Stührk Delikatessen Import GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NORWEGEN"
+      ],
+      "fromDate": "2015-06-02T00:00:00",
+      "ingredients": "Zutaten: HERINGSROGEN (Clupea harengus), Salz, Feuchthaltemittel: Sorbit (E420); Verdickungsmittel: Guarkernmehl (E412), Xanthan (E415), Johannisbrotkernmehl (E410); Konservierungsstoff: Kaliumsorbat (E202, Natriumbenzoat (E211); Säuerungsmittel: Citronensäure (E330); Säureregulator: Glucono-delta-lacton (E575); Farbstoffe: kuperhaltige Komplexe der Chlorophylle (E141), Brilliantschwarz BN (E151), Ammoniumsulfit-Zuckerkulör (E150d), Anthocyane (E163).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 140
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 50
+        },
+        {
+          "type": "Nettogewicht",
+          "unit": "Gramm",
+          "value": 50
+        },
+        {
+          "type": "Portionsgroesse",
+          "unit": "Gramm",
+          "value": 10
+        }
+      ],
+      "name": "Deutscher Caviar aus Heringsrogen, pasteurisiert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 83,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 350,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 13.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 5,
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Gekühlt lagern bei +2 °C bis +7 °C. Nach dem Öffnen baldmöglichst verzehren.",
+      "usageHints": "Gekühlt lagern bei +2 °C bis +7 °C. Nach dem Öffnen baldmöglichst verzehren."
+    }
+  ],
+  "grammage": "50 g Glas",
+  "grammageBadge": "50 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 kg 37.80"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Stührk Deutscher Caviar aus Heringsrogen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fisch/B2-4A/produkte/stuehrk-deutscher-caviar-aus-heringsrogen/00-709718"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 kg 37.80"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 52210,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stührk Deutscher Caviar aus Heringsrogen online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stührk Deutscher Caviar aus Heringsrogen online bestellen | BILLA",
+  "slug": "stuehrk-deutscher-caviar-aus-heringsrogen",
+  "storeAvalibility": [
+    "00-4690",
+    "00-5223",
+    "00-3579",
+    "00-3059",
+    "00-2313",
+    "00-1529",
+    "00-6018",
+    "00-2238",
+    "00-4441",
+    "00-6916",
+    "00-7358",
+    "00-3713",
+    "00-3560",
+    "00-7653",
+    "00-9373",
+    "00-8400",
+    "00-3363",
+    "00-1101",
+    "00-5363",
+    "00-6138",
+    "00-8417",
+    "00-4104",
+    "00-8154",
+    "00-3294",
+    "00-3601",
+    "00-8953",
+    "00-7336",
+    "00-1117",
+    "00-3220",
+    "00-4469",
+    "00-7114",
+    "00-3025",
+    "00-3384",
+    "00-3860",
+    "00-6676",
+    "00-783",
+    "00-5003",
+    "00-4755",
+    "00-4982",
+    "00-9324",
+    "00-2260",
+    "00-4912",
+    "00-2345",
+    "00-2156",
+    "00-7611",
+    "00-5381",
+    "00-3322",
+    "00-8646",
+    "00-3642",
+    "00-7743",
+    "00-1039",
+    "00-4673",
+    "00-570",
+    "00-5552",
+    "00-4146",
+    "00-1425",
+    "00-5777",
+    "00-1070",
+    "00-3234",
+    "00-282",
+    "00-1128",
+    "00-8188",
+    "00-3120",
+    "00-3157",
+    "00-1032",
+    "00-1670",
+    "00-6255",
+    "00-2190",
+    "00-1958",
+    "00-10",
+    "00-4489",
+    "00-1455",
+    "00-5067",
+    "00-5962",
+    "00-3857",
+    "00-1088",
+    "00-9589",
+    "00-1027",
+    "00-3617",
+    "00-836",
+    "00-1136",
+    "00-1380",
+    "00-3253",
+    "00-9753",
+    "00-8230",
+    "00-3094",
+    "00-1500",
+    "00-281",
+    "00-6877",
+    "00-7073",
+    "00-8158",
+    "00-1016",
+    "00-2109",
+    "00-6496",
+    "00-2259",
+    "00-2342",
+    "00-5359",
+    "00-355",
+    "00-99202",
+    "00-6219",
+    "00-6745",
+    "00-1249",
+    "00-2675",
+    "00-3206",
+    "00-4700",
+    "00-6197",
+    "00-1457",
+    "00-2840",
+    "00-3940",
+    "00-4249",
+    "00-3001",
+    "00-4945",
+    "00-4200",
+    "00-2131",
+    "00-9167",
+    "00-3055",
+    "00-350",
+    "00-8185",
+    "00-2100",
+    "00-3042",
+    "00-8241",
+    "00-3170",
+    "00-372",
+    "00-1017",
+    "00-119",
+    "00-1018",
+    "00-3010",
+    "00-1212",
+    "00-290",
+    "00-3005",
+    "00-3501",
+    "00-6910",
+    "00-7393",
+    "00-8155",
+    "00-3254",
+    "00-4226",
+    "00-5529",
+    "00-430",
+    "00-2369",
+    "00-3445",
+    "00-4881",
+    "00-397",
+    "00-6559",
+    "00-2923",
+    "00-440",
+    "00-3947",
+    "00-3512",
+    "00-225",
+    "00-7539",
+    "00-3780",
+    "00-5871",
+    "00-6490",
+    "00-7915",
+    "00-7223",
+    "00-2312",
+    "00-3118",
+    "00-519",
+    "00-4783",
+    "00-2208",
+    "00-4021",
+    "00-1480",
+    "00-3296",
+    "00-3709",
+    "00-7084",
+    "00-117",
+    "00-3063",
+    "00-7328",
+    "00-2543",
+    "00-950",
+    "00-702",
+    "00-5078",
+    "00-5454",
+    "00-174",
+    "00-3744",
+    "00-1132",
+    "00-2301",
+    "00-3401",
+    "00-1913",
+    "00-1801",
+    "00-3114",
+    "00-2261",
+    "00-8606",
+    "00-9209",
+    "00-6021",
+    "00-7232",
+    "00-3841",
+    "00-6760",
+    "00-6508",
+    "00-6823",
+    "00-3162",
+    "00-1114",
+    "00-3920"
+  ],
+  "url": "/produkte/stuehrk-deutscher-caviar-aus-heringsrogen/00-709718",
+  "vatCode": "10",
+  "video": ""
+}

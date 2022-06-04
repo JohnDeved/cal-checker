@@ -1,0 +1,202 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-425359",
+  "articleOnlyCanonicalPath": "/produkte/arlberg-limonade-cola-mix/00-425359",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Arlberg",
+  "canonicalPath": "/produkte/arlberg-limonade-cola-mix/00-425359",
+  "category": "Getränke",
+  "description": "So schmeckt Vorarlberg: Die Arlberg Limonade Cola-Mix ist ein lokaler Klassiker und erfrischt mit der Süße von Cola und dem Aroma fruchtiger Orange.<li>Limonade mit Cola-Orangengeschmack<li>mit natürlichem Vorarlberger Quellwasser und Kohlensäure",
+  "eanCodes": [
+    "9001835007258"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Stallehr 41, A-6700 Bludenz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Heinrich Ganahl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0043555262115",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Quellwasser, Zucker, Kohlensäure, Orangensaftkonzentrat, Säuerungsmittel Citronensäure und Phosphorsäure, Farbstoff Ammonsulfit-Zuckerkulör, natürliches Aroma, Aroma Koffein, Stabilisatoren Pektin und Johannisbrotkernmehl",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.6
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Koffeinhaltige Cola-Orangenlimonade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 168,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 40,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.008,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und lichtgeschützt lagern.",
+      "usageHints": "Kühl und lichtgeschützt lagern."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l .86"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Arlberg Limonade Cola-Mix",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/arlberg-limonade-cola-mix/00-425359"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l .86"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 43700,
+  "recommendationArticleIds": [],
+  "seoDescription": "Arlberg Limonade Cola-Mix online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Arlberg Limonade Cola-Mix online bestellen | BILLA",
+  "slug": "arlberg-limonade-cola-mix",
+  "storeAvalibility": [
+    "00-8409",
+    "00-8400",
+    "00-8395",
+    "00-8530",
+    "00-99202"
+  ],
+  "url": "/produkte/arlberg-limonade-cola-mix/00-425359",
+  "vatCode": "20",
+  "video": ""
+}

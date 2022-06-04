@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-683"
+  ],
+  "articleId": "00-378089",
+  "articleOnlyCanonicalPath": "/produkte/biozentrale-wie-reis-gruene-erbse/00-378089",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Biozentrale",
+  "brandPath": "/marken/biozentrale",
+  "canonicalPath": "/produkte/biozentrale-wie-reis-gruene-erbse/00-378089",
+  "category": "Grundnahrungsmittel",
+  "description": "Unser biozentrale Wie Reis Grüne Erbse sieht herkömmlichem Reis zum Verwechseln ähnlich. Doch es handelt sich um eine proteinreiche Alternative aus zermahlenen grünen Erbsen - sozusagen grüne Erbsen in Form von Reis.<br>Die veganen und glutenfreien Hülsenfruchtkörner überzeugen auch mit einer kurzen Kochzeit von ca. 10 Minuten.<li>Hoher Proteingehalt<li>Von Natur aus vegan und glutenfrei<li>100 % Hülsenfrucht</li>",
+  "eanCodes": [
+    "4005009102447"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D - 84384 Ulbering",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bio-Zentrale Naturprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2020-07-01T00:00:00",
+      "ingredients": "Zutaten: grünes Erbsenmehl*.\n*aus kontrolliert-ökologischer Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 283
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 280
+        }
+      ],
+      "name": "Reis aus Erbsenmehl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1457,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 344,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 57,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Zubereitung: Inhalt in ca. 3 Liter kochendes Salzwasser geben und ca. 10 Minuten köcheln. Danach in einem Sieb abtropfen lassen und mit kaltem Wasser abschrecken.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und trocken lagern."
+    }
+  ],
+  "grammage": "280 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 14.25"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Biozentrale Wie Reis Grüne Erbse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683/produkte/biozentrale-wie-reis-gruene-erbse/00-378089"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 14.25"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Biozentrale Wie Reis Grüne Erbse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Biozentrale Wie Reis Grüne Erbse online bestellen | BILLA",
+  "slug": "biozentrale-wie-reis-gruene-erbse",
+  "storeAvalibility": [
+    "00-10",
+    "00-176",
+    "00-3780",
+    "00-115",
+    "00-119",
+    "00-6676",
+    "00-6021",
+    "00-99202"
+  ],
+  "url": "/produkte/biozentrale-wie-reis-gruene-erbse/00-378089",
+  "vatCode": "10",
+  "video": ""
+}

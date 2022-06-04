@@ -1,0 +1,424 @@
+{
+  "articleGroupIds": [
+    "B2-511"
+  ],
+  "articleId": "00-568133",
+  "articleOnlyCanonicalPath": "/produkte/ben-und-jerrys-sundae-oh-my-banoffee-pie/00-568133",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Ben & Jerry's",
+  "brandPath": "/marken/ben-jerrys",
+  "canonicalPath": "/produkte/ben-und-jerrys-sundae-oh-my-banoffee-pie/00-568133",
+  "category": "Tiefkühl",
+  "description": "Fruchteiscreme Banane mit von kakaohaltiger Fettglasur überzogenen Karamelldrops, durchzogen von Keks-Strudeln. Soft aufgeschlagenes Eiscreme-Topping, dekoriert mit Karamellsauce und kakaohaltigen Fettglasurstücken.",
+  "eanCodes": [
+    "8711327539396"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FAIR_TRADE_MARK",
+              "valueTranslation": "FAIR TRADE MARK (internationale Standards für fairen Handel)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Stella-Klein-Löw-Weg 13, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ben & Jerry's Österreich",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2022-04-19T00:00:00",
+      "ingredients": "Zutaten: Zucker, RAHM (19%), Trinkwasser, konzentrierte MAGERMILCH, Glukosesirup, pflanzliche Öle (Soja, Raps), Kokosfett, Bananenpüree (2,2%), brauner Zucker, Stärke, Glukose-Fruktose-Sirup, EIGELB¹, WEIZENMEHL, WEIZENVOLLKORNMEHL, BUTTER, pflanzliche Ballaststoffe aus Mais, Kakao, VOLLMILCHPULVER, fettarmer Kakao, Kakaobutter, Emulgatoren (Lecithine (mit SOJA)), MAGERMILCHPULVER, Speisesalz, Stabilisatoren (Guarkernmehl, Johannisbrotkernmehl, Carrageen), Melasse, Backtriebmittel (Natriumhydrogencarbonat), Zitronensaftkonzentrat, natürliches Vanillearoma, natürliche Aromen, Vanilleextrakt, BUTTERFETT. Kann Mandel, Haselnuss und Walnuss enthalten. ¹Eier aus Freilandhaltung. > Fairtrade-Zucker, -Bananen, -Kakao, -Vanille mit Mengenausgleich. Gesamtanteil: 52% ohne Wasser und Molkereiprodukte(F). (F)info.fairtrade.net/sourcing",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.375
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 427
+        }
+      ],
+      "name": "Fruchteiscreme Banane mit von kakaohaltiger Fettglasur überzogenen Karamelldrops (7,5%), durchzogen von Keks-Strudeln (9%), und soft aufgeschlagenes Eiscreme-Topping (mit 8% Milchfett), dekoriert mit Karamellsauce (5,5%) und kakaohaltigen Fettglasurstücken (3,5%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 249,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1043,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.28,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Bei -18°C mindestens haltbar bis Ende: siehe Packungsaufdruck"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FAIR_TRADE_MARK",
+              "valueTranslation": "FAIR TRADE MARK (internationale Standards für fairen Handel)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Stella-Klein-Löw-Weg 13, 1023 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ben & Jerry's Österreich",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten: Zucker, RAHM (19%), Trinkwasser, konzentrierte MAGERMILCH, Glukosesirup, pflanzliche Öle (Soja, Raps), Kokosfett, Bananenpüree (2,2%), brauner Zucker, Stärke, Glukose-Fruktose-Sirup, EIGELB¹, WEIZENMEHL, WEIZENVOLLKORNMEHL, BUTTER, pflanzliche Ballaststoffe aus Mais, Kakao, VOLLMILCHPULVER, fettarmer Kakao, Kakaobutter, Emulgatoren (Lecithine (mit SOJA)), MAGERMILCHPULVER, Speisesalz, Stabilisatoren (Guarkernmehl, Johannisbrotkernmehl, Carrageen), Melasse, Backtriebmittel (Natriumhydrogencarbonat), Zitronensaftkonzentrat, natürliches Vanillearoma, natürliche Aromen, Vanilleextrakt, BUTTERFETT. Kann Mandel, Haselnuss und Walnuss enthalten. ¹Eier aus Freilandhaltung. > Fairtrade-Zucker, -Bananen, -Kakao, -Vanille mit Mengenausgleich. Gesamtanteil: 52% ohne Wasser und Molkereiprodukte(F).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.375
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 427
+        }
+      ],
+      "name": "Fruchteiscreme Banane mit von kakaohaltiger Fettglasur überzogenen Karamelldrops (7,5%), durchzogen von Keks-Strudeln (9%), und soft aufgeschlagenes Eiscreme-Topping (mit 8% Milchfett), dekoriert mit Karamellsauce (5,5%) und kakaohaltigen Fettglasurstücken (3,5%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 249,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1043,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.28,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Bei -18°C mindestens haltbar bis Ende: siehe Packungsaufdruck"
+    }
+  ],
+  "grammage": "427 Milliliter Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 14.03"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Ben & Jerry's Sundae Oh My! Banoffee Pie!",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/eisbecher/B2-511/produkte/ben-und-jerrys-sundae-oh-my-banoffee-pie/00-568133"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 14.03"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ben & Jerry's Sundae Oh My! Banoffee Pie! online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ben & Jerry's Sundae Oh My! Banoffee Pie! online bestellen",
+  "slug": "ben-und-jerrys-sundae-oh-my-banoffee-pie",
+  "storeAvalibility": [
+    "00-2111",
+    "00-2840",
+    "00-208",
+    "00-1265",
+    "00-2808",
+    "00-771",
+    "00-7539",
+    "00-7969",
+    "00-2218",
+    "00-2261",
+    "00-174",
+    "00-2220",
+    "00-1003",
+    "00-2208",
+    "00-2204",
+    "00-2201",
+    "00-2259",
+    "00-2923",
+    "00-99202",
+    "00-290",
+    "00-3780",
+    "00-2011",
+    "00-2109",
+    "00-7584",
+    "00-3105",
+    "00-943",
+    "00-119",
+    "00-7895",
+    "00-2342",
+    "00-281",
+    "00-570",
+    "00-309",
+    "00-176",
+    "00-5290",
+    "00-6676",
+    "00-2100",
+    "00-7759",
+    "00-5078",
+    "00-10",
+    "00-2222",
+    "00-282"
+  ],
+  "url": "/produkte/ben-und-jerrys-sundae-oh-my-banoffee-pie/00-568133",
+  "vatCode": "10",
+  "video": ""
+}

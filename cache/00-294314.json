@@ -1,0 +1,240 @@
+{
+  "articleGroupIds": [
+    "B2-623"
+  ],
+  "articleId": "00-294314",
+  "articleOnlyCanonicalPath": "/produkte/fruchtbar-fruchtpueree-kirsche-banane/00-294314",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Fruchtbar",
+  "canonicalPath": "/produkte/fruchtbar-fruchtpueree-kirsche-banane/00-294314",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Fruchtbar Fruchtpüree Kirsche Banane in Bio-Qualität ist ein fruchtiger Snack ganz ohne Zuckerzusatz und eignet sich für Kinder ab 6 Monaten.<li>Früchtezubereitung aus pürierter Banane und Kirschsaft<li>mit Inhaltsstoffen aus biologischer Landwirtschaft",
+  "eanCodes": [
+    "4260133236028"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Justus-von-Liebig-Ring 4, D-82152 Krailling",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "jufico GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Pürierte Banane (80%), Kirschsaft (20%), Zitronensaftkonzentrat, Zutaten aus kontrolliert biologischem Anbau",
+      "mandatoryIndicator": "Zutatenliste",
+      "marketingMessage": "Früchtezubereitung (Bio), aus kontrolliert biologischem Anbau, ohne Zusätze, ohne Zuckerzusatz, glutenfrei",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 125
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 120
+        }
+      ],
+      "name": "Früchtezubereitung (Bio)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 406,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 96,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Keine Zubereitung erforderlich",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen kühl lagern und innerhalb von 2 Tagen aufbrauchen.",
+      "usageHints": "WARNUNG: Zum Schutz vor Karies nicht zum Dauernuckeln geeignet. Regelmäßige Zahnpflege wird empfohlen."
+    }
+  ],
+  "grammage": "120 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 kg 11.58"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Fruchtbar Fruchtpüree Kirsche Banane",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623/produkte/fruchtbar-fruchtpueree-kirsche-banane/00-294314"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.39,
+    "unit": "1 kg 11.58"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 53010,
+  "recommendationArticleIds": [],
+  "seoDescription": "Fruchtbar Fruchtpüree Kirsche Banane online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Fruchtbar Fruchtpüree Kirsche Banane online bestellen | BILLA",
+  "slug": "fruchtbar-fruchtpueree-kirsche-banane",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/fruchtbar-fruchtpueree-kirsche-banane/00-294314",
+  "vatCode": "10",
+  "video": ""
+}

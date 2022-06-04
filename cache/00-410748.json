@@ -1,0 +1,904 @@
+{
+  "articleGroupIds": [
+    "B2-533"
+  ],
+  "articleId": "00-410748",
+  "articleOnlyCanonicalPath": "/produkte/iglo-wurstknoedel/00-410748",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-wurstknoedel/00-410748",
+  "category": "Tiefkühl",
+  "description": "Die Iglo Wurstknödel, als Klassiker der österreichischen Knödelküche, kommen mit Iglo besonders g'schmackig auf Ihren Tisch: mit einer herzhaft würzigen Wurstfüllung.",
+  "eanCodes": [
+    "9000143245727"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IGLO Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Erdäpfel, Wiener Wurst 20% (Schweine- und Rindfleisch 52%, Speck, Wasser, Pökelsalz (Salz, Konservierungsstoff: Natriumnitrit**), Gewürze, Stabilisator: Diphosphat, Rauch), WEIZENMEHL, WEIZENGRIESS, EI, faschiertes Schweinefleisch 3,3%, Selchspeck 1,6% (Schweinespeck, Speisesalz jodiert (Salz, Kaliumjodid), Rauch), Speisesalz jodiert (Salz, Kaliumjodid), Petersilie, Knoblauch, Majoran, Pfeffer, Gewürzextrakte.\n\n\n\n**Natriumnitrit ist eine traditionelle Zutat die gepökeltem Fleisch seine typische Farbe und den charakteristischen Geschmack verleiht.",
+      "marketingMessage": "Die Iglo Wurstknödel, als Klassiker der österreichischen Knödelküche, kommen mit Iglo besonders g'schmackig auf Ihren Tisch: mit einer herzhaft würzigen Wurstfüllung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 422
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Wurstknödel tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 785,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 187,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion (=200g, 2 Knödel)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1571,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 373,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Im Kochtopf: Iglo Wurstknödel noch tiefgekühlt in siedendes, leicht gesalzenes Wasser einlegen und nach neuerlichem Aufwallen nicht zugedeckt ca. 20 Minuten leicht köcheln lassen. Während des Kochens mehrmals umrühren.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\n\nOhne künstliche Farbstoffe\n\nOhne künstliche Aromastoffe\n\n\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung im Kochtopf.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren."
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IGLO Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-05-24T00:00:00",
+      "ingredients": "Zutaten: Erdäpfel, Wiener Wurst 20% (Schweine- und Rindfleisch 52%, Speck, Wasser, Pökelsalz (Salz, Konservierungsstoff: Natriumnitrit**), Gewürze, Stabilisator: Diphosphat, Rauch), WEIZENMEHL, WEIZENGRIESS, EI, faschiertes Schweinefleisch 3,3%, Selchspeck 1,6% (Schweinespeck, Speisesalz jodiert (Salz, Kaliumjodid), Rauch), Speisesalz jodiert (Salz, Kaliumjodid), Petersilie, Knoblauch, Majoran, Pfeffer, Gewürzextrakte.\n\n\n\n**Natriumnitrit ist eine traditionelle Zutat die gepökeltem Fleisch seine typische Farbe und den charakteristischen Geschmack verleiht.",
+      "marketingMessage": "Die Iglo Wurstknödel, als Klassiker der österreichischen Knödelküche, kommen mit Iglo besonders g'schmackig auf Ihren Tisch: mit einer herzhaft würzigen Wurstfüllung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 422
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Wurstknödel tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 785,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 187,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion (=200g, 2 Knödel)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1571,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 373,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Im Kochtopf: Iglo Wurstknödel noch tiefgekühlt in siedendes, leicht gesalzenes Wasser einlegen und nach neuerlichem Aufwallen nicht zugedeckt ca. 20 Minuten leicht köcheln lassen. Während des Kochens mehrmals umrühren.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\n\nOhne künstliche Farbstoffe\n\nOhne künstliche Aromastoffe\n\n\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung im Kochtopf.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren."
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IGLO Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-06-02T00:00:00",
+      "ingredients": "Zutaten: Erdäpfel, Wiener Wurst 20% (Schweine- und Rindfleisch 52%, Speck, Wasser, Pökelsalz (Salz, Konservierungsstoff: Natriumnitrit*), Gewürze, Stabilisator: Diphosphat, Rauch), WEIZENMEHL, WEIZENGRIESS, EI, faschiertes Schweinefleisch 3,3%, Selchspeck 1,6% (Schweinespeck, Speisesalz jodiert (Salz, Kaliumjodid), Rauch), Speisesalz jodiert (Salz, Kaliumjodid), Petersilie, Knoblauch, Majoran, Pfeffer, Gewürzextrakte.\n\n*Natriumnitrit ist eine traditionelle Zutat die gepökeltem Fleisch seine typische Farbe und den charakteristischen Geschmack verleiht.",
+      "marketingMessage": "Die iglo Wurstknödel, als Klassiker der österreichischen Knödelküche, kommen mit Iglo besonders g'schmackig auf Ihren Tisch: mit einer herzhaft würzigen Wurstfüllung.\nNutri-Score \"B\", iglo.at/nutriscore, Nutri Score wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 422
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Wurstknödel tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 814,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 193,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion** (=200g, 2 Knödel) ** zubereitet nach Anleitung im Kocht",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1613,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 383,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 54,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Im Kochtopf: Iglo Wurstknödel noch tiefgekühlt in siedendes, leicht gesalzenes Wasser einlegen und nach neuerlichem Aufwallen nicht zugedeckt ca. 20 Minuten leicht köcheln lassen. Während des Kochens mehrmals umrühren.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farbstoffe\nOhne künstliche Aromastoffe\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren.\nBitte achten Sie darauf, dass das Produkt vor dem Verzehr vollständig durchgegart ist"
+    }
+  ],
+  "grammage": "400 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 8.73"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Wurstknödel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/knoedel-und-beilagen/B2-533/produkte/iglo-wurstknoedel/00-410748"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 8.73"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Wurstknödel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Wurstknödel online bestellen | BILLA",
+  "slug": "iglo-wurstknoedel",
+  "storeAvalibility": [
+    "00-4090",
+    "00-2313",
+    "00-7075",
+    "00-4466",
+    "00-3011",
+    "00-4748",
+    "00-3740",
+    "00-6884",
+    "00-7245",
+    "00-8085",
+    "00-9894",
+    "00-3059",
+    "00-3114",
+    "00-5603",
+    "00-7393",
+    "00-1070",
+    "00-9290",
+    "00-7336",
+    "00-2045",
+    "00-4690",
+    "00-2098",
+    "00-10",
+    "00-2201",
+    "00-1425",
+    "00-2808",
+    "00-6910",
+    "00-4834",
+    "00-7084",
+    "00-8426",
+    "00-9183",
+    "00-8940",
+    "00-4605",
+    "00-4078",
+    "00-2287",
+    "00-3062",
+    "00-3105",
+    "00-3253",
+    "00-3050",
+    "00-3120",
+    "00-3780",
+    "00-6864",
+    "00-6024",
+    "00-1826",
+    "00-7766",
+    "00-3512",
+    "00-4270",
+    "00-4283",
+    "00-4421",
+    "00-2204",
+    "00-9753",
+    "00-3384",
+    "00-3055",
+    "00-2220",
+    "00-5962",
+    "00-7424",
+    "00-3445",
+    "00-1710",
+    "00-3027",
+    "00-6304",
+    "00-6843",
+    "00-2306",
+    "00-950",
+    "00-2342",
+    "00-9030",
+    "00-7223",
+    "00-7860",
+    "00-1198",
+    "00-6219",
+    "00-4783",
+    "00-2259",
+    "00-6011",
+    "00-3047",
+    "00-6021",
+    "00-3042",
+    "00-8946",
+    "00-2131",
+    "00-2223",
+    "00-6975",
+    "00-3234",
+    "00-3709",
+    "00-3711",
+    "00-6745",
+    "00-7082",
+    "00-3580",
+    "00-3856",
+    "00-4440",
+    "00-823",
+    "00-3713",
+    "00-1417",
+    "00-6928",
+    "00-7204",
+    "00-3860",
+    "00-3744",
+    "00-3857",
+    "00-7606",
+    "00-6281",
+    "00-7743",
+    "00-6353",
+    "00-5552",
+    "00-6676",
+    "00-9209",
+    "00-4551",
+    "00-3005",
+    "00-3212",
+    "00-6724",
+    "00-1132",
+    "00-4441",
+    "00-7114",
+    "00-7368",
+    "00-7653",
+    "00-6760",
+    "00-2111",
+    "00-4016",
+    "00-1107",
+    "00-7616",
+    "00-4912",
+    "00-3617",
+    "00-4756",
+    "00-7139",
+    "00-3118",
+    "00-2011",
+    "00-6424",
+    "00-4655",
+    "00-3379",
+    "00-1108",
+    "00-7358",
+    "00-4879",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-wurstknoedel/00-410748",
+  "vatCode": "10",
+  "video": ""
+}

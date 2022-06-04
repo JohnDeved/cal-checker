@@ -1,0 +1,281 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-527312",
+  "articleOnlyCanonicalPath": "/produkte/explore-cuisine-gruene-linsen-lasagne/00-527312",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Explore Cuisine",
+  "canonicalPath": "/produkte/explore-cuisine-gruene-linsen-lasagne/00-527312",
+  "category": "Grundnahrungsmittel",
+  "description": "Mit der Grüne Linsen Lasagne in Bio-Qualität von Explore Cuisine lassen sich italienische Pastagerichte auf gesunde Art zubereiten.<li>Nudelblätter aus grünem Linsenmehl, grünem Erbsenmehl und braunem Reismehl<li>aus kontrolliert biologischer Landwirtschaft",
+  "eanCodes": [
+    "7640164291079"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "CH des Couleuvres 8b, 1295 Tannay, Switzerland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ethical Foods SA",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "admin@pepuplife.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.pepuplife.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Grünes Linsenmehl* (50%), grünes Erbsenmehl*, braunes Reismehl* *aus kontrolliert biologischer Landwirtschaft.",
+      "marketingMessage": "Bio Pasta getrocknet aus Hülsenfrüchten - viel Eiweiß, Ballaststoffe",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 250
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 272
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Bio Lasagne aus Grünen Linsen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1436,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 339,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 56,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Schichten Sie die Scheiben und weitere Zutaten in eine backofenfeste Form, wobei Sie mit genügend Sauce unten starten und oben abschließen. Im Backofen bei 200 Grad für 40-45 Minuten überbacken.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Trocken lagern und vor Wärme schützen"
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59,
+    "unit": "1 kg 14.36"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Explore Cuisine Grüne Linsen Lasagne",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/explore-cuisine-gruene-linsen-lasagne/00-527312"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59,
+    "unit": "1 kg 14.36"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 61740,
+  "recommendationArticleIds": [
+    "00-89591"
+  ],
+  "seoDescription": "Explore Cuisine Grüne Linsen Lasagne online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Explore Cuisine Grüne Linsen Lasagne online bestellen | BILLA",
+  "slug": "explore-cuisine-gruene-linsen-lasagne",
+  "storeAvalibility": [
+    "00-4675",
+    "00-4605",
+    "00-4551",
+    "00-3105",
+    "00-355",
+    "00-4982",
+    "00-8012",
+    "00-3005",
+    "00-5223",
+    "00-7358",
+    "00-4783",
+    "00-4078",
+    "00-6864",
+    "00-2218",
+    "00-1913",
+    "00-4779",
+    "00-350",
+    "00-5962",
+    "00-7539",
+    "00-4655",
+    "00-3114",
+    "00-3780",
+    "00-3146",
+    "00-7393",
+    "00-4690",
+    "00-411",
+    "00-3157",
+    "00-3709",
+    "00-4466",
+    "00-2045",
+    "00-7084",
+    "00-3143",
+    "00-7653",
+    "00-7606",
+    "00-2342",
+    "00-5871",
+    "00-1826",
+    "00-9290",
+    "00-6819",
+    "00-7765",
+    "00-1457",
+    "00-3830",
+    "00-3979",
+    "00-4441",
+    "00-3384",
+    "00-6740",
+    "00-225",
+    "00-3700",
+    "00-4107",
+    "00-4834",
+    "00-5363",
+    "00-10",
+    "00-2840",
+    "00-521",
+    "00-4932",
+    "00-3617",
+    "00-7857",
+    "00-5108",
+    "00-99202"
+  ],
+  "url": "/produkte/explore-cuisine-gruene-linsen-lasagne/00-527312",
+  "vatCode": "10",
+  "video": ""
+}

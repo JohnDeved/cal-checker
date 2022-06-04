@@ -1,0 +1,360 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-422029",
+  "articleOnlyCanonicalPath": "/produkte/schaerdinger-berghof-vollmilch-35/00-422029",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Schärdinger",
+  "brandPath": "/marken/schaerdinger",
+  "canonicalPath": "/produkte/schaerdinger-berghof-vollmilch-35/00-422029",
+  "category": "Kühlwaren",
+  "description": "Bei Schärdinger steht das Tierwohl ganz oben und das schmeckt man in jedem Schluck der erfrischenden Berghof Vollmilch mit 3,5 % Fett.<li>hergestellt mit gentechnikfreier Milch aus Österreich<li>Qualität regelmäßig durch unabhängige Kontrollstellen geprüft<li>im praktischen Schraubglas",
+  "eanCodes": [
+    "9066000173503"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Die länger frische Vollmilch von Schärdinger Berghof stammt ausschließlich von österreichischen Bergbauernbetrieben. Diese sorgen unter schwieriger Bedingung der Höhenlage für beste heimische Milch und erhalten damit auch unsere wertvollen Almenlandschaften intakt. Die Vielfalt an gesunden Kräutern und Gräsern auf den Almen macht die Bergbauernmilch so unverwechselbar im Geschmack und verleiht ihr das natürliche Aroma. Erhältlich ist die Berghof Milch mit 3,5 % Fett in der 750ml PET Flasche.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.798
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "100% österreichische Vollmilch, 3,5% Fett, hocherhitzt, länger frisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 267,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 64,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt bei 3-6 °C lagern. Ungeöffnet mindestens haltbar bis: siehe Deckel. Nach dem Öffnen innerhalb weniger Tage verbrauchen."
+    }
+  ],
+  "grammage": "0.75 Liter Flasche (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.25,
+    "unit": "1 l 1.67"
+  },
+  "maximalOrderQuantity": 80,
+  "minimalOrderQuantity": 0,
+  "name": "Schärdinger Berghof Vollmilch 3.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/schaerdinger-berghof-vollmilch-35/00-422029"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.25,
+    "unit": "1 l 1.67"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    8,
+    16,
+    24,
+    32,
+    40,
+    48,
+    56,
+    64,
+    72,
+    80
+  ],
+  "rank": 106770,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schärdinger Berghof Vollmilch 3.5% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schärdinger Berghof Vollmilch 3.5% online bestellen | BILLA",
+  "slug": "schaerdinger-berghof-vollmilch-35",
+  "storeAvalibility": [
+    "00-4690",
+    "00-3560",
+    "00-4350",
+    "00-5871",
+    "00-4660",
+    "00-4090",
+    "00-6799",
+    "00-4700",
+    "00-5603",
+    "00-3979",
+    "00-4672",
+    "00-4016",
+    "00-4748",
+    "00-4551",
+    "00-4655",
+    "00-6372",
+    "00-4170",
+    "00-4674",
+    "00-9589",
+    "00-4813",
+    "00-4840",
+    "00-3322",
+    "00-4028",
+    "00-6235",
+    "00-4540",
+    "00-6877",
+    "00-4945",
+    "00-6688",
+    "00-6255",
+    "00-4601",
+    "00-4200",
+    "00-4126",
+    "00-4226",
+    "00-6304",
+    "00-4478",
+    "00-4107",
+    "00-4524",
+    "00-4838",
+    "00-6810",
+    "00-4469",
+    "00-4881",
+    "00-4834",
+    "00-4482",
+    "00-4440",
+    "00-4078",
+    "00-6897",
+    "00-4707",
+    "00-4605",
+    "00-4879",
+    "00-4912",
+    "00-4565",
+    "00-3378",
+    "00-4441",
+    "00-4489",
+    "00-6932",
+    "00-4099",
+    "00-4755",
+    "00-4407",
+    "00-4059",
+    "00-8940",
+    "00-4270",
+    "00-4779",
+    "00-4283",
+    "00-5967",
+    "00-6492",
+    "00-4021",
+    "00-6916",
+    "00-6439",
+    "00-6811",
+    "00-6569",
+    "00-6274",
+    "00-4770",
+    "00-4629",
+    "00-4076",
+    "00-4675",
+    "00-4291",
+    "00-6628",
+    "00-4513",
+    "00-6864",
+    "00-4146",
+    "00-3196",
+    "00-4249",
+    "00-8946",
+    "00-4756",
+    "00-4925",
+    "00-6197",
+    "00-6749",
+    "00-4421",
+    "00-6306",
+    "00-4952",
+    "00-4619",
+    "00-6480",
+    "00-6487",
+    "00-3379",
+    "00-6760",
+    "00-4424",
+    "00-4466",
+    "00-4847",
+    "00-4225",
+    "00-5777",
+    "00-4932",
+    "00-4982",
+    "00-4104",
+    "00-4003",
+    "00-6983",
+    "00-4673",
+    "00-4001",
+    "00-99202"
+  ],
+  "url": "/produkte/schaerdinger-berghof-vollmilch-35/00-422029",
+  "vatCode": "10",
+  "video": ""
+}

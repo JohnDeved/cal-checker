@@ -1,0 +1,245 @@
+{
+  "articleGroupIds": [
+    "B2-484",
+    "B2-481",
+    "B2-491"
+  ],
+  "articleId": "00-36653",
+  "articleOnlyCanonicalPath": "/produkte/stubaier-bauernschinken/00-36653",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Stubaier",
+  "canonicalPath": "/produkte/stubaier-bauernschinken/00-36653",
+  "category": "Kühlwaren",
+  "description": "Der Stubaier Bauernschinken ist kräftig geräuchert und schmeckt würzig-intensiv. Er passt perfekt zur herzhaften Brettljause und zu einem deftigen Abendessen.<li>Preis pro kg<li>nach traditionellem Rezept",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6060 Hall in Tirol,Trientlstr. 5",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Andrä Hörtnagl Produktion und Handel GmbH.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hoertnagl.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Wasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: E250); Gewürze und Gewürzextrakte, Stabilisator: E450, E451, E452; Geschmacksverstärker: E621; Antioxidationsmittel: E270, E300, E301, E330; Dextrose, Maltodextrin, Verdickungsmittel:  E415; Aroma;",
+      "mandatoryIndicator": "Vakuumverpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1000
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Stubaier Bauernschinken\n\ngekocht und geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 134,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 564,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Hall in Tirol",
+      "preperations": [],
+      "storageHint": "Bei +2°C bis +6°C lagern\n\nUngeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 23.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 23.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 23.5,
+    "unit": "100 g 2.35"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Stubaier Bauernschinken",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/schinken/B2-484/produkte/stubaier-bauernschinken/00-36653",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/stubaier-bauernschinken/00-36653",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/stubaier-bauernschinken/00-36653"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 23.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 23.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 23.5,
+    "unit": "100 g 2.35"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 84900,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stubaier Bauernschinken online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stubaier Bauernschinken online bestellen | BILLA",
+  "slug": "stubaier-bauernschinken",
+  "storeAvalibility": [
+    "00-8895",
+    "00-8243",
+    "00-8657",
+    "00-8151",
+    "00-8140",
+    "00-8426",
+    "00-8085",
+    "00-8155",
+    "00-8022",
+    "00-8158",
+    "00-8334",
+    "00-8159",
+    "00-8031",
+    "00-8241",
+    "00-8076",
+    "00-8173",
+    "00-8075",
+    "00-8230",
+    "00-8636",
+    "00-8213",
+    "00-8606",
+    "00-8193",
+    "00-8646",
+    "00-8070",
+    "00-8360",
+    "00-99202"
+  ],
+  "url": "/produkte/stubaier-bauernschinken/00-36653",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

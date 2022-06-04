@@ -1,0 +1,331 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-6E2",
+    "B2-73"
+  ],
+  "articleId": "00-543938",
+  "articleOnlyCanonicalPath": "/produkte/lifebar-berry-maca-baobab/00-543938",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Lifebar",
+  "canonicalPath": "/produkte/lifebar-berry-maca-baobab/00-543938",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Energieriegel Lifebar Berry Maca Baobab mit dem Geschmack nach fruchtigen Beeren ist eine glutenfreie Rawfood-Leistungsnahrung ohne Zusatz von Zucker.<li>Superfood-Riegel aus Rohkostzutaten<li>mit Früchten, Nüssen und Macapulver<li>von Natur aus süß",
+  "eanCodes": [
+    "8594071484590"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_AWARENESS_FOUNDATION",
+              "valueTranslation": "VEGAN AWARENESS Foundation (gibt das 'Certified Vegan' Logo heraus)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DZG_GLUTEN_FREE",
+              "valueTranslation": "GLUTEN-FREI - Zeichen der Deutschen Zöliakiegesellschaft (DZG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "R01",
+              "valueTranslation": "Recyclingsnummer 01: PET oder PETE Lebensmittelverpackungen"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bachstraße 9\nD - 95666 Mitterteich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "lifefood Rohkost AG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "TSCHECHISCHE REPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Datteln*, MANDELN*, Kokosnuss*, getrocknete Kirschen* (8 %), CASHEWKERNE*, Baobabpulver* (5%), gefriergetrocknetes Preiselbeerpulver* (4%), MANDELMUS*, Macapulver* (2%), Himalayasalz*\n*= Aus zertifiziert biologischem Anbau. Kann Spuren von anderen Nüssen und Sesam enthalten.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt",
+      "marketingMessage": "BIO Qualität. Vegan. Glutenfrei. Ohne Zuckerzusatz, enthält von Natur aus Zucker. Rawfood. Paleo Energy Bar",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 47
+        }
+      ],
+      "name": "BIO LIFEBAR PLUS - BERRY SUPERFOOD. Rohkost-Superfood-Riegel aus Früchten, Nüssen und Macapulver.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1491,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 357,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 51,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 44,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "1 Riegel",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 715,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 172,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "origin": "Prag",
+      "preperations": [],
+      "storageHint": "Kühl, trocken und dunkel aufbewahren",
+      "usageHints": "Nach dem Öffnen innerhalb von 5 Tagen verzehren."
+    }
+  ],
+  "grammage": "47 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 42.34"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Lifebar Berry Maca Baobab",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/lifebar-berry-maca-baobab/00-543938",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/lifebar-berry-maca-baobab/00-543938",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/lifebar-berry-maca-baobab/00-543938"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 42.34"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 116010,
+  "recommendationArticleIds": [
+    "00-900424"
+  ],
+  "seoDescription": "Lifebar Berry Maca Baobab online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lifebar Berry Maca Baobab online bestellen | BILLA",
+  "slug": "lifebar-berry-maca-baobab",
+  "storeAvalibility": [
+    "00-6676",
+    "00-2342",
+    "00-3780",
+    "00-119",
+    "00-4016",
+    "00-6021",
+    "00-3103",
+    "00-2899",
+    "00-6138",
+    "00-99202",
+    "00-176",
+    "00-823",
+    "00-3042",
+    "00-3120",
+    "00-174",
+    "00-281",
+    "00-720",
+    "00-6496",
+    "00-2259"
+  ],
+  "url": "/produkte/lifebar-berry-maca-baobab/00-543938",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,562 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-615909",
+  "articleOnlyCanonicalPath": "/produkte/iglo-erbsen-karotten-duo/00-615909",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_tiefgek",
+    "s_falergen",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-erbsen-karotten-duo/00-615909",
+  "category": "Tiefkühl",
+  "description": "Das Iglo Erbsen Karotten Duo kombiniert die Gemüseklassiker aus dem Marchfeld im praktischen 300g Format. Die Erbsen-Karotten-Mischung passt wunderbar zu Reis - als Alternative zum klassischen Risi-Bisi.",
+  "eanCodes": [
+    "9008695922820"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-08-02T00:00:00",
+      "ingredients": "Zutaten: Erbsen, Karotten; in veränderlichen Gewichtsanteilen.",
+      "marketingMessage": "iglo Erbsen Karotten Duo - natürlich aus dem Marchfeld und ideal für Rezepte für Kinder oder als klassische Beilage zu Fisch, Fleisch oder als vegetarische Variante.\n\nNutri-Score \"A\", iglo.at/nutriscore, Nutri Score wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 322
+        }
+      ],
+      "name": "Erbsen Karotten Duo, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "pro Portion** (=150g) ** zubereitet nach Anleitung in der Mikrowelle\n*",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 71,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 298,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 82,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 659,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        },
+        {
+          "householdPortion": "***Vitamin A berechnet aus dem Provitamin A-Carotinoid Gehalt",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 47,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 199,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 55,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 439,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "In der Mikrowelle:\nPackungsinhalt unaufgetaut mit ca. 1-2 EL Wasser in ein mikrowellengeeignetes Geschirr geben. Zugedeckt bei 600 Watt ca. 6 Min. erhitzen. Anschließend kurz ziehen lassen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Im Topf:\nPackungsinhalt unaufgetaut in ca. 1/4 l kochendes, leicht gesalzenes Wasser geben. Nach dem Wiederaufwallen ca. 2-3 Min. zugedeckt leicht köcheln lassen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: Entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Feld oben",
+      "sustenanceClaim": "Nährwerte unterliegen den bei Naturprodukten üblichen Schwankungen.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\nProdukt bitte vor dem Verzehr durcherhitzen!\nInformationen für die Zubereitung im Dampfgarer auf iglo.at"
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-05-24T00:00:00",
+      "ingredients": "Zutaten: Erbsen, Karotten; in veränderlichen Gewichtsanteilen.",
+      "marketingMessage": "iglo Erbsen Karotten Duo - natürlich aus dem Marchfeld und ideal für Rezepte für Kinder oder als klassische Beilage zu Fisch, Fleisch oder als vegetarische Variante.\n\nNutri-Score \"A\", iglo.at/nutriscore, Nutri Score wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 322
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Erbsen Karotten Duo, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "***Vitamin A berechnet aus dem Provitamin A-Carotinoid Gehalt",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 199,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 47,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 55,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 439,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion** (=150g) ** zubereitet nach Anleitung in der Mikrowelle\n*",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 298,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 71,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 82,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 659,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "Im Topf:\nPackungsinhalt unaufgetaut in ca. 1/4 l kochendes, leicht gesalzenes Wasser geben. Nach dem Wiederaufwallen ca. 2-3 Min. zugedeckt leicht köcheln lassen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        },
+        {
+          "instruction": "In der Mikrowelle:\nPackungsinhalt unaufgetaut mit ca. 1-2 EL Wasser in ein mikrowellengeeignetes Geschirr geben. Zugedeckt bei 600 Watt ca. 6 Min. erhitzen. Anschließend kurz ziehen lassen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: Entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Feld oben",
+      "sustenanceClaim": "Nährwerte unterliegen den bei Naturprodukten üblichen Schwankungen.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\nProdukt bitte vor dem Verzehr durcherhitzen!\nInformationen für die Zubereitung im Dampfgarer auf iglo.at"
+    }
+  ],
+  "grammage": "300 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 9.30"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Erbsen Karotten Duo",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/iglo-erbsen-karotten-duo/00-615909"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 9.30"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 109430,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Erbsen Karotten Duo online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Erbsen Karotten Duo online bestellen | BILLA",
+  "slug": "iglo-erbsen-karotten-duo",
+  "storeAvalibility": [
+    "00-3055",
+    "00-2295",
+    "00-3549",
+    "00-3617",
+    "00-9555",
+    "00-7606",
+    "00-3780",
+    "00-7082",
+    "00-99202",
+    "00-6676",
+    "00-3005",
+    "00-10",
+    "00-2342",
+    "00-4756",
+    "00-6197",
+    "00-5290",
+    "00-2111",
+    "00-7120",
+    "00-3120",
+    "00-1108"
+  ],
+  "url": "/produkte/iglo-erbsen-karotten-duo/00-615909",
+  "vatCode": "10",
+  "video": ""
+}

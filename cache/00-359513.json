@@ -1,0 +1,168 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-359513",
+  "articleOnlyCanonicalPath": "/produkte/ottakringer-brauwerk-session-ipa/00-359513",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Ottakringer",
+  "brandPath": "/marken/ottakringer",
+  "canonicalPath": "/produkte/ottakringer-brauwerk-session-ipa/00-359513",
+  "category": "Getränke",
+  "description": "Für Seefahrer & Feinmotoriker!<br>Hopfig-Herber Genuss zu jeder Tageszeit, Mango, Maracuja & Lychee grüßen die Nase, intensive Bittere erfreut den Körper.<br>Leichtigkeit macht sich breit - alles easy.",
+  "eanCodes": [
+    "9007600304812"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ottakringer Platz 1, 1160 Wien/Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ottakringer Brauerei GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-09-17T00:00:00",
+      "ingredients": "enthält GERSTE, HAFER",
+      "marketingMessage": "Für Seefahrer & Feinmotoriker!\n\nHopfig-herber Genuss zu jeder Tageszeit,\n\nMango-Maracuja & Lychee grüssen die Nase, intensive\n\nbittere erfreut den Körper. Leichtigkeit macht sich\n\nbreit, alles easy",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.36
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Kreativbier - Schankbier.",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Ottakringer Brauwerk Session I.P.A.",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/ottakringer-brauwerk-session-ipa/00-359513"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 133580,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ottakringer Brauwerk Session I.P.A. online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ottakringer Brauwerk Session I.P.A. online bestellen | BILLA",
+  "slug": "ottakringer-brauwerk-session-ipa",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/ottakringer-brauwerk-session-ipa/00-359513",
+  "vatCode": "20",
+  "video": ""
+}

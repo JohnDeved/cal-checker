@@ -1,0 +1,289 @@
+{
+  "articleGroupIds": [
+    "B2-442",
+    "B2-490"
+  ],
+  "articleId": "00-629511",
+  "articleOnlyCanonicalPath": "/produkte/tiroler-adler/00-629511",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_falergen",
+    "s_feinkost",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tiroler-adler/00-629511",
+  "category": "Kühlwaren",
+  "description": "Nussiges Käsevergnügen verspricht der geschmacklich hochfliegende Tiroler Adler von Tirol Milch: ein Hartkäse, der gut zu Früchten und Schwarzbrot passt.<li>Hartkäse mit Rotkultur 45 % Fett i. Tr., aus pasteurisierter Milch",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "FAT_PERCENTAGE_IN_DRY_MATTER",
+              "description": "Fett in Trockenmasse %",
+              "hasTranslation": "False",
+              "value": "45"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Während der Premium-Alpenreife von mindestens 9 Monaten wird der Tiroler Adler sorgsam mit Rotkulturen gepflegt. Dadurch erhält er seinen würzig-kräftigen Geschmack, dessen Aroma sich auf der Zunge und auf dem Gaumen harmonisch entfaltet. Sein Teig ist sehr geschmeidig und er erhält mit zunehmendem Alter eine besondere Textur.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.8
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.75
+        }
+      ],
+      "name": "Hartkäse mit Rotkultur 45% Fett i. Tr., aus pasteurisierter Milch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 392,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1626,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 20.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen bei 3-8 °C lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet bei 3-8 °C mindestens haltbar bis: siehe Aufdruck"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.5,
+    "unit": "100 g 1.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Tiroler Adler",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/tiroler-adler/00-629511",
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/tiroler-adler/00-629511"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.5,
+    "unit": "100 g 1.95"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 109210,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tiroler Adler online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tiroler Adler online bestellen | BILLA",
+  "slug": "tiroler-adler",
+  "storeAvalibility": [
+    "00-8075",
+    "00-115",
+    "00-8213",
+    "00-309",
+    "00-8895",
+    "00-5078",
+    "00-2342",
+    "00-2313",
+    "00-8334",
+    "00-1017",
+    "00-8154",
+    "00-8070",
+    "00-10",
+    "00-8230",
+    "00-3384",
+    "00-8022",
+    "00-8085",
+    "00-355",
+    "00-3452",
+    "00-6676",
+    "00-8173",
+    "00-8076",
+    "00-3780",
+    "00-8636",
+    "00-176",
+    "00-119",
+    "00-8360",
+    "00-3118",
+    "00-950",
+    "00-1710",
+    "00-8155",
+    "00-5181",
+    "00-8646",
+    "00-7539",
+    "00-8158",
+    "00-99202",
+    "00-3234",
+    "00-408",
+    "00-8426",
+    "00-8241",
+    "00-3050",
+    "00-8185",
+    "00-281",
+    "00-1457",
+    "00-3120",
+    "00-8159",
+    "00-8193",
+    "00-3042",
+    "00-8140",
+    "00-8188",
+    "00-3044",
+    "00-117",
+    "00-8031",
+    "00-3593",
+    "00-8657",
+    "00-3857",
+    "00-836",
+    "00-5027",
+    "00-8417",
+    "00-8606",
+    "00-3082",
+    "00-8243",
+    "00-174",
+    "00-8151"
+  ],
+  "url": "/produkte/tiroler-adler/00-629511",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

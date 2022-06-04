@@ -1,0 +1,233 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-818783",
+  "articleOnlyCanonicalPath": "/produkte/peppersweet-aufstrich---die-kaesemacher/00-818783",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Die Käsemacher",
+  "brandPath": "/marken/die-kaesemacher",
+  "canonicalPath": "/produkte/peppersweet-aufstrich---die-kaesemacher/00-818783",
+  "category": "Kühlwaren",
+  "description": "Diese fein-cremige Frischkäsezubereitung ist eine echte Spezialität von DIE KÄSEMACHER. Mit echten Peppersweet (Kirschpaprika aus eigener Züchtung) verfeinert hat dieser Aufstrich eine würzig-pikante, zugleich auch süße Note - ein Gedicht!</li>",
+  "eanCodes": [
+    "9003454072006"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europastraße 5, A-3902 Vitis",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Die Käsemacher",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Frischkäsezubereitung mind. 45% Fett i. Tr. (61% FRISCHKÄSE, 20% Kirschpaprika, 15% BUTTER, Speisesalz, Zucker, Verdickungsmittel: Guarkernmehl, Konservierungsstoff: Kaliumsorbat)",
+      "marketingMessage": "Diese fein-cremige Frischkäsezubereitung ist eine echte Spezialität von DIE KÄSEMACHER. Mit echten \"Peppersweet\" (Kirschpaprika aus eigener Züchtung) verfeinert hat dieser Aufstrich eine würzig-pikante, zugleich auch süße Note - ein Gedicht!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.16
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Frischkäsezubereitung mind. 45% Fett i. Tr. mit Kirschpaprika (Peppersweet)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 205,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 852,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet und gekühlt (4 -7°C) mindestens haltbar bis: Siehe Aufdruck.",
+      "usageHints": "Nach dem Öffnen innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "150 g Stk",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 kg 15.27"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Peppersweet Aufstrich - Die Käsemacher",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/peppersweet-aufstrich---die-kaesemacher/00-818783"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 kg 15.27"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Peppersweet Aufstrich - Die Käsemacher online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Peppersweet Aufstrich - Die Käsemacher online bestellen | BILLA",
+  "slug": "peppersweet-aufstrich---die-kaesemacher",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/peppersweet-aufstrich---die-kaesemacher/00-818783",
+  "vatCode": "10",
+  "video": ""
+}

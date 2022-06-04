@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-686"
+  ],
+  "articleId": "00-585130",
+  "articleOnlyCanonicalPath": "/produkte/noan-gruene-oliven-greek-amfissa/00-585130",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Noan",
+  "canonicalPath": "/produkte/noan-gruene-oliven-greek-amfissa/00-585130",
+  "category": "Grundnahrungsmittel",
+  "description": "Erstkalssige Amfissa BIO Oliven aus dem griechischen Pilion.<br><br>Das NON-Profit-Unternehmen NOAN bietet jetzt die Amfissa-Oliven auch als Tafelolive an.<br>Der Reinerlös bzw. garantierte 10% des Umsatzes aus den Verkäufen der NOAN-Produkte gehen an ausgesuchte Kinderbildungsprojekte.",
+  "eanCodes": [
+    "9009493040006"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AUSTRIA_BIO_GARANTIE",
+              "valueTranslation": "AUSTRIA BIO GARANTIE (ABG) Biokontrollstelle Österreich"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Starkfriedgasse 49, 1180 Wien, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "NOAN GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@noan.org",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "01 / 2266000",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Grüne griechische Oliven mit Kern*\nWasser, Meersalz, Milchsäure, Zitronensäure\n*aus kontrolliert biologischem Anbau",
+      "marketingMessage": "Erstkalssige entkernte Amfissa BIO Oliven aus dem griechischen Pilion. Das NON - Profit -Unternehmen NOAN bietet jetzt die Amfissa - Oliven auch als Tafelolive an. Der Reinerlös bzw garantierte 10% des Umsatzes aus den Verkäufen der NOAN-Produkte gehen an ausgesuchte Kinderbildungsprojekte.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 180
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 520
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Grüne Bio Oliven mit Kern, Salzlake",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 168,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 703,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 17.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Griechenland  - Pilion",
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen kühl und lichtgeschützt lagern und innerhalb von 14 Tagen verzehren."
+    }
+  ],
+  "grammage": "300 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 16.63"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Noan Grüne Oliven Greek Amfissa",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686/produkte/noan-gruene-oliven-greek-amfissa/00-585130"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 16.63"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 60520,
+  "recommendationArticleIds": [
+    "00-439664"
+  ],
+  "seoDescription": "Noan Grüne Oliven Greek Amfissa online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Noan Grüne Oliven Greek Amfissa online bestellen | BILLA",
+  "slug": "noan-gruene-oliven-greek-amfissa",
+  "storeAvalibility": [
+    "00-3780",
+    "00-225",
+    "00-1032",
+    "00-783",
+    "00-4551",
+    "00-7653",
+    "00-10",
+    "00-5108",
+    "00-355",
+    "00-99202"
+  ],
+  "url": "/produkte/noan-gruene-oliven-greek-amfissa/00-585130",
+  "vatCode": "10",
+  "video": ""
+}

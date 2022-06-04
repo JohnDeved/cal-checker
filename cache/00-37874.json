@@ -1,0 +1,270 @@
+{
+  "articleGroupIds": [
+    "B2-442",
+    "B2-490"
+  ],
+  "articleId": "00-37874",
+  "articleOnlyCanonicalPath": "/produkte/zillertaler-almkaese/00-37874",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Zillertaler Bergsenn",
+  "canonicalPath": "/produkte/zillertaler-almkaese/00-37874",
+  "category": "Kühlwaren",
+  "description": "Der Zillertaler Almkäse zergeht dank seiner cremigen Konsistenz schon auf der Zunge. Das Aroma kann sich aufgrund der leichten Röstaromen von Malz und Weißbrot bestens entfalten.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "OTHER_EXTERNAL_INFORMATION"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hollenzen 116, A-6290 Mayrhofen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "ErlebnisSennerei Zillertal",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@sennerei-zillertal.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Pasteurisierte HeuMILCH g.t.S., unjodiertes Speisesalz, tierisches Lab, Mikroorganismenkulturen",
+      "marketingMessage": "Käseliebhaber bestätigen uns immer wieder: der Almkäse ist ihr Favorit! Aufgrund seiner cremigen Konsistenz zergeht er auf der Zunge und sein Aroma kann sich bestens entfalten: leichte Röstaromen von Malz und Weißbrot, belebt durch den frisch-fruchtigen Duft nach Buttermilch und Apfel - jeder Schnitt ein Genuss!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.81
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.8
+        }
+      ],
+      "name": "Schnittkäse 45% Fett.i.Tr., aus pasteurisierter Heumilch g.t.S.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 356,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1478,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet mindestens haltbar bis: siehe Aufdruck. Gekühlt bis max. +8°C lagern.",
+      "usageHints": "Nach dem Öffnen innerhalb von 2-3 Tage verbrauchen."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 18.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 18.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 18.5,
+    "unit": "100 g 1.85"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Zillertaler Almkäse",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/zillertaler-almkaese/00-37874",
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/zillertaler-almkaese/00-37874"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 18.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 18.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 18.5,
+    "unit": "100 g 1.85"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 58550,
+  "recommendationArticleIds": [],
+  "seoDescription": "Zillertaler Almkäse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Zillertaler Almkäse online bestellen | BILLA",
+  "slug": "zillertaler-almkaese",
+  "storeAvalibility": [
+    "00-8151",
+    "00-8230",
+    "00-8075",
+    "00-8188",
+    "00-8895",
+    "00-8243",
+    "00-8070",
+    "00-8646",
+    "00-8159",
+    "00-8158",
+    "00-8334",
+    "00-8426",
+    "00-8241",
+    "00-8085",
+    "00-8193",
+    "00-8213",
+    "00-8185",
+    "00-8417",
+    "00-8154",
+    "00-8173",
+    "00-8022",
+    "00-8076",
+    "00-8606",
+    "00-8031",
+    "00-8636",
+    "00-8360",
+    "00-99202"
+  ],
+  "url": "/produkte/zillertaler-almkaese/00-37874",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

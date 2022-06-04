@@ -1,0 +1,149 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-477003",
+  "articleOnlyCanonicalPath": "/produkte/100-blumen-wiener-lager/00-477003",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "100 Blumen",
+  "canonicalPath": "/produkte/100-blumen-wiener-lager/00-477003",
+  "category": "Getränke",
+  "description": "Das neue Wiener Bier. <li>Vollbier <li>Alk. 5,2% vol.<li>Stammwürze 12,5°<li>Wasser, Gerstenmalz, Hopfen, Hefe</li>Inspiriert durch das traditionelle Wiener Lager von Anton Dreher. Der malzige Körper und die fein orchestrierten Hopfennoten bilden ein herrlich ausgewogenes, vollmundiges Bier. Das 100 Blumen - Wiener Lager 1020 schlägt die Brücke zwischen Tradition und Moderne.",
+  "eanCodes": [
+    "9120073430021"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5.2,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "1230 Wien, Endresstraße 18",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "100 Blumen Brauerei GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.100blumen.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-02-25T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen, Hefe",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 580
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Vollbier",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.54,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.54,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.54,
+    "unit": "500 ml 3.85"
+  },
+  "maximalOrderQuantity": 96,
+  "minimalOrderQuantity": 0,
+  "name": "100 Blumen Wiener Lager",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/100-blumen-wiener-lager/00-477003"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.54,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.54,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.54,
+    "unit": "500 ml 3.85"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72,
+    96
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "100 Blumen Wiener Lager online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "100 Blumen Wiener Lager online bestellen | BILLA",
+  "slug": "100-blumen-wiener-lager",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/100-blumen-wiener-lager/00-477003",
+  "vatCode": "20",
+  "video": ""
+}

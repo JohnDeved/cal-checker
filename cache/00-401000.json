@@ -1,0 +1,533 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-401000",
+  "articleOnlyCanonicalPath": "/produkte/iglo-roestgemuese-france/00-401000",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern",
+    "s_tiefgek",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-roestgemuese-france/00-401000",
+  "category": "Tiefkühl",
+  "description": "Das Iglo  Röstgemüse France lässt sich in nur wenigen Minuten zubereiten und passt ideal zu rotem Fleisch und Fisch. Das Röstgemüse France besticht durch seinen herzhaften Geschmack, der durch Champignons abgerundet wird.",
+  "eanCodes": [
+    "9008695926323",
+    "9000143060122",
+    "9000143298228"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten:\n\nGemüsemischung 58% (Fisolen, Erbsen, Paprika, Mais; in veränderlichen Gewichtsanteilen), Champignons 19%, Zwiebel, Margarine (Palmöl*, Rapsöl, Kokosfett, Wasser, Salz), Würzmittel (Speisesalz jodiert (Salz, Kaliumjodid), Maltodextrin, Zwiebel, Hefepulver, natürliche Aromen (enthält SELLERIE), Knoblauch, natürliches Pfeffer-Aroma mit anderen natürlichen Aromen, Pfeffer, Rapsöl, Curcuma, Lorbeerlaub).\n\n*enthält zertifiziert nachhaltiges Palmöl",
+      "marketingMessage": "Das Iglo Röstgemüse France passt ideal zu rotem Fleisch und Fisch und lässt sich in nur wenigen Minuten zubereiten. Es besticht durch seinen herzhaften Geschmack, der mit zarten Champignons abgerundet wird.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 759
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 750
+        }
+      ],
+      "name": "Röstgemüse France tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 249,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 60,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 18,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 374,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 89,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 27,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 5,
+      "preperations": [
+        {
+          "instruction": "In der Pfanne:\n\nGewünschte Menge Röstgemüse France unaufgetaut ohne Zugabe von Fett in eine stark erhitzte Pfanne geben. Bei starker Hitze unter häufigem Wenden ca. 7 Min. rösten.",
+          "type": "Roesten - Kochmethode trockene Hitze zb.: eine offene Flamme"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\n\nOhne künstliche Farb- und Aromastoffe\n\n\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung in der Pfanne.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten:\nGemüsemischung 58% (Fisolen, Erbsen, Paprika, Mais; in veränderlichen Gewichtsanteilen), Champignons 19%, Zwiebel, Margarine (Palmöl*, Rapsöl, Kokosfett, Wasser, Salz), Würzmittel (Speisesalz jodiert (Salz, Kaliumjodid), Maltodextrin, Zwiebel, Hefepulver, natürliche Aromen (enthält SELLERIE), Knoblauch, natürliches Pfeffer-Aroma mit anderen natürlichen Aromen, Pfeffer, Rapsöl, Curcuma, Lorbeerlaub).\n*enthält zertifiziert nachhaltiges Palmöl",
+      "marketingMessage": "Das Iglo Röstgemüse France passt ideal zu rotem Fleisch und Fisch und lässt sich in nur wenigen Minuten zubereiten. Es besticht durch seinen herzhaften Geschmack, der mit zarten Champignons abgerundet wird.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 759
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 750
+        }
+      ],
+      "name": "Röstgemüse France tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 249,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 60,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 18,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 374,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 89,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 27,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 5,
+      "preperations": [
+        {
+          "instruction": "In der Pfanne:\nGewünschte Menge Röstgemüse France unaufgetaut ohne Zugabe von Fett in eine stark erhitzte Pfanne geben. Bei starker Hitze unter häufigem Wenden ca. 7 Min. rösten.",
+          "type": "Roesten - Kochmethode trockene Hitze zb.: eine offene Flamme"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farb- und Aromastoffe\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung in der Pfanne.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    }
+  ],
+  "grammage": "750 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 5.99"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Röstgemüse France",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/iglo-roestgemuese-france/00-401000"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 5.99"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 220720,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Röstgemüse France online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Röstgemüse France online bestellen | BILLA",
+  "slug": "iglo-roestgemuese-france",
+  "storeAvalibility": [
+    "00-3780",
+    "00-2342",
+    "00-3120",
+    "00-2111",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-roestgemuese-france/00-401000",
+  "vatCode": "10",
+  "video": ""
+}

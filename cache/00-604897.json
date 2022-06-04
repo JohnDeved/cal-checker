@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-992"
+  ],
+  "articleId": "00-604897",
+  "articleOnlyCanonicalPath": "/produkte/frosch-lavendel-scheuermilch/00-604897",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Frosch",
+  "brandPath": "/marken/frosch",
+  "canonicalPath": "/produkte/frosch-lavendel-scheuermilch/00-604897",
+  "category": "Haushalt",
+  "description": "<li>Löst optimal jede Art von Schmutz in Küche und Bad, insbesondere auf Keramik, Emaille, Edelstahl und Glasoberflächen, sowie auf Elektro und Glaskeramikkochflächen<li>Die Rezeptur mit natürlichem Marmormehl und Lavendelextrakten sorgt für hygienische Sauberkeit und verbreitet einen angenehm frischen Lavendelduft<li>Sanft zur Haut und den Oberflächen</li><u>Anwendung:</u><li>Unverdünnt direkt auf verschmutzte Flächen, ein feuchtes Tuch oder einen Schwamm geben<li>Keine harten und kratzenden Scheuerschwämme benutzen<li>Gut nachspülen<li>Tipp: Richtige Dosierung spart Kosten und schont die Umwelt</li><u>Hinweise:</u><li>Außer Reichweite von Kindern aufbewahren<li>Nicht mit anderen Produkten mischen<li>Nicht geeignet für Acryl-Oberflächen<li>Vor Frost schützen</li>",
+  "eanCodes": [
+    "4001499183102"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5400 Hallein, Neualmerstrasse 13",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Erdal GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-03-02T00:00:00",
+      "ingredients": "< 5 % nichtionische Tenside, Duftstoffe, Konservierungsmittel\n(Phenoxyethanol). Weitere Inhaltsstoffe: Marmormehl\nund Lavendelextrakte",
+      "marketingMessage": "Eigenschaften: \n* Löst optimal jede Art von Schmutz in Küche und Bad, insbesondere auf Keramik, Emaille, Edelstahl und Glasoberflächen, sowie auf Elektro und Glaskeramikkochflächen. \n* Die Rezeptur mit natürlichem Marmormehl und Lavendelextrakten sorgt für hygienische Sauberkeit und verbreitet einen angenehm frischen Lavendelduft. \n* Sanft zur Haut und den Oberflächen.\n\nAnwendung: \n* Unverdünnt direkt auf verschmutzte Flächen, ein feuchtes Tuch oder einen Schwamm geben.\n* Keine harten und kratzenden Scheuerschwämme benutzen. \n* Gut nachspülen.\n\nTipp: \nRichtige Dosierung spart Kosten und schont die Umwelt.\n\nHinweise: \n* Außer Reichweite von Kindern aufbewahren. \n* Nicht mit anderen Produkten mischen.\n* Nicht geeignet für Acryl-Oberflächen. \n* Vor Frost schützen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 694
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Milliliter Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 3.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Frosch Lavendel Scheuermilch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/diverse-haushaltsreiniger/B2-992/produkte/frosch-lavendel-scheuermilch/00-604897"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 3.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frosch Lavendel Scheuermilch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frosch Lavendel Scheuermilch online bestellen | BILLA",
+  "slug": "frosch-lavendel-scheuermilch",
+  "storeAvalibility": [
+    "00-3005",
+    "00-7609",
+    "00-7733",
+    "00-4270",
+    "00-8646",
+    "00-8235",
+    "00-8395",
+    "00-5003",
+    "00-6255",
+    "00-4441",
+    "00-3688",
+    "00-4283",
+    "00-1425",
+    "00-8151",
+    "00-7653",
+    "00-3714",
+    "00-5603",
+    "00-2313",
+    "00-3420",
+    "00-4783",
+    "00-3583",
+    "00-9030",
+    "00-6916",
+    "00-7857",
+    "00-6749",
+    "00-2201",
+    "00-2223",
+    "00-3445",
+    "00-6496",
+    "00-10",
+    "00-6001",
+    "00-3996",
+    "00-7783",
+    "00-99202",
+    "00-4847",
+    "00-7963",
+    "00-1114",
+    "00-8173",
+    "00-6022",
+    "00-6760",
+    "00-7535",
+    "00-3580",
+    "00-3584",
+    "00-7743",
+    "00-5290",
+    "00-4107",
+    "00-3780",
+    "00-9415"
+  ],
+  "url": "/produkte/frosch-lavendel-scheuermilch/00-604897",
+  "vatCode": "20",
+  "video": ""
+}

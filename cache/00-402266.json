@@ -1,0 +1,275 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-402266",
+  "articleOnlyCanonicalPath": "/produkte/stainzer-dicke-milch-35/00-402266",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Stainzer",
+  "canonicalPath": "/produkte/stainzer-dicke-milch-35/00-402266",
+  "category": "Kühlwaren",
+  "description": "Die Stainzer Dicke Milch 3,5 % schmeckt mild-säuerlich. Sie ist pur ein Genuss, passt ideal zum Sterz und lässt sich für viele rustikale Gerichte verwenden.<li>steirische Sauermilch<li>stichfest<li>3,5 % Fettanteil",
+  "eanCodes": [
+    "9024800101508"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Unsere Stainzer Dicke Milch wird sorgsam mit Spezialkulturen gereift und überzeugt durch ihren feinen, säuerlichen Geschmack.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.534
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Sauermilch aus pasteurisierter Milch mit 3,5% Fett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 61,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 256,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (bis +6°C) lagern. Nach dem Öffnen innerhalb weniger Tage aufbrauchen. Ungeöffnet mindestens haltbar bis: siehe Giebel."
+    }
+  ],
+  "grammage": "0.5 Liter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 l 1.98"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Stainzer Dicke Milch 3.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/stainzer-dicke-milch-35/00-402266"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 l 1.98"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 79680,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stainzer Dicke Milch 3.5% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stainzer Dicke Milch 3.5% online bestellen | BILLA",
+  "slug": "stainzer-dicke-milch-35",
+  "storeAvalibility": [
+    "00-6487",
+    "00-6424",
+    "00-6724",
+    "00-6758",
+    "00-6799",
+    "00-6559",
+    "00-6494",
+    "00-7743",
+    "00-6740",
+    "00-6900",
+    "00-6304",
+    "00-6928",
+    "00-7245",
+    "00-6281",
+    "00-6508",
+    "00-6952",
+    "00-6684",
+    "00-6554",
+    "00-6179",
+    "00-6262",
+    "00-7189",
+    "00-7393",
+    "00-6496",
+    "00-6884",
+    "00-6123",
+    "00-6983",
+    "00-7302",
+    "00-6338",
+    "00-6975",
+    "00-6745",
+    "00-6518",
+    "00-6871",
+    "00-6439",
+    "00-7336",
+    "00-6018",
+    "00-4783",
+    "00-6138",
+    "00-6024",
+    "00-6248",
+    "00-6749",
+    "00-6811",
+    "00-6892",
+    "00-7358",
+    "00-6558",
+    "00-6108",
+    "00-6533",
+    "00-6840",
+    "00-6235",
+    "00-6805",
+    "00-8433",
+    "00-7082",
+    "00-6353",
+    "00-99202"
+  ],
+  "url": "/produkte/stainzer-dicke-milch-35/00-402266",
+  "vatCode": "10",
+  "video": ""
+}

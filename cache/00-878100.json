@@ -1,0 +1,336 @@
+{
+  "articleGroupIds": [
+    "B2-489"
+  ],
+  "articleId": "00-878100",
+  "articleOnlyCanonicalPath": "/produkte/knacker-geschnitten/00-878100",
+  "attributes": [
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/knacker-geschnitten/00-878100",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9002707508002"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "F.X. Grimm Strasse 3, A-5110 Oberndorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Franz Ablinger & Co Fleischhauereibetrieb GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.ablinger.co.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-12-09T00:00:00",
+      "ingredients": "ZUTATEN: 70% Schweine-* + Rindfleisch*, Speck*, Trinkwasser, Kartoffelstärke, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), \nStabilisator: Polyphosphate, Geschmacksverstärker: Mononatriumglutamat, Gewürzextrakte, Gewürze, Antioxidationsmittel: Ascorbinsäure, Farbstoff: echtes Karmin, Aroma, Speisewürze, Rauch.\n*aus Österreich und Deutschland",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt",
+      "marketingMessage": "Aus Tradition das Beste",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 166
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Knacker geräuchert & gebrüht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 256,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1062,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 31,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 41,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Schweinefleisch, Rindfleisch und Speck aus Österreich und Deutschland",
+      "preperations": [],
+      "storageHint": "Gekühlt bei +2° bis +7°C\nmindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Produkt nach dem Öffnen ehestmöglich verbrauchen.\n15 Minuten vor dem Verzehr öffnen!"
+    }
+  ],
+  "grammage": "150 g Packung",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 11.93"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Knacker geschnitten",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wuerstel/B2-489/produkte/knacker-geschnitten/00-878100"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 11.93"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 86480,
+  "recommendationArticleIds": [],
+  "seoDescription": "Knacker geschnitten online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Knacker geschnitten online bestellen | BILLA",
+  "slug": "knacker-geschnitten",
+  "storeAvalibility": [
+    "00-4350",
+    "00-4076",
+    "00-6895",
+    "00-5529",
+    "00-5381",
+    "00-4834",
+    "00-4779",
+    "00-4283",
+    "00-4001",
+    "00-4619",
+    "00-3979",
+    "00-4407",
+    "00-3326",
+    "00-4945",
+    "00-4126",
+    "00-4629",
+    "00-5603",
+    "00-5165",
+    "00-4170",
+    "00-4524",
+    "00-5359",
+    "00-4660",
+    "00-5737",
+    "00-3420",
+    "00-4513",
+    "00-5108",
+    "00-5027",
+    "00-5104",
+    "00-4879",
+    "00-4466",
+    "00-5082",
+    "00-4146",
+    "00-6910",
+    "00-4107",
+    "00-4675",
+    "00-4672",
+    "00-3983",
+    "00-4601",
+    "00-4200",
+    "00-4755",
+    "00-4016",
+    "00-4982",
+    "00-5447",
+    "00-4881",
+    "00-5871",
+    "00-4748",
+    "00-4551",
+    "00-5391",
+    "00-5322",
+    "00-9589",
+    "00-5031",
+    "00-4440",
+    "00-4840",
+    "00-6001",
+    "00-4003",
+    "00-4838",
+    "00-4912",
+    "00-4469",
+    "00-4489",
+    "00-4673",
+    "00-4090",
+    "00-5962",
+    "00-5414",
+    "00-4482",
+    "00-99202",
+    "00-4291",
+    "00-4847",
+    "00-5531",
+    "00-4441",
+    "00-3135",
+    "00-3259",
+    "00-4540",
+    "00-5003",
+    "00-8441",
+    "00-4478",
+    "00-4770",
+    "00-3996",
+    "00-4707",
+    "00-5199",
+    "00-5290",
+    "00-8953",
+    "00-3378",
+    "00-4700",
+    "00-5112",
+    "00-4104",
+    "00-4021",
+    "00-4932",
+    "00-4925",
+    "00-4952",
+    "00-5226",
+    "00-5777",
+    "00-5945",
+    "00-4605",
+    "00-4270",
+    "00-3322",
+    "00-6845",
+    "00-4099",
+    "00-5552",
+    "00-4421",
+    "00-5067",
+    "00-6502",
+    "00-3379",
+    "00-5363",
+    "00-4813",
+    "00-5181",
+    "00-4078",
+    "00-3700",
+    "00-4756",
+    "00-5454",
+    "00-5967",
+    "00-4249",
+    "00-3560",
+    "00-4059",
+    "00-4424",
+    "00-4690",
+    "00-5000",
+    "00-4655",
+    "00-5405",
+    "00-3711",
+    "00-4674",
+    "00-5306",
+    "00-5078",
+    "00-5223",
+    "00-4225"
+  ],
+  "url": "/produkte/knacker-geschnitten/00-878100",
+  "vatCode": "10",
+  "video": ""
+}

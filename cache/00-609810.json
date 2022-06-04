@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-683"
+  ],
+  "articleId": "00-609810",
+  "articleOnlyCanonicalPath": "/produkte/efko-zuckermais-koerner/00-609810",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Efko",
+  "brandPath": "/marken/efko",
+  "canonicalPath": "/produkte/efko-zuckermais-koerner/00-609810",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Zuckermais Körner von Efko sind eine schmackhafte Zutat für Salate, Beilagen oder Füllungen. <li>Zuckermais, gelöst und pasteurisiert<li>aromatisch und intensiv gelb<li>bei Raumtemperatur lagern<li>nach dem Öffnen kühlen und bald aufbrauchen",
+  "eanCodes": [
+    "9000451005228"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4070 Eferding, Hinzenbach 38, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "efko",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-01-05T00:00:00",
+      "ingredients": "Zutaten: Zuckermais, Wasser, Salz",
+      "marketingMessage": "Kleine Auslese \n\nMais aus Oberösterreich\n\nVegan",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 220
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.51
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 330
+        }
+      ],
+      "name": "Zuckermais. Pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 93,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 392,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Mindestens haltbar bis Ende: siehe Etikette. Vor direkter Sonneneinstrahlung schützen. Nach dem Öffnen nur wenige Tage im Kühlschrank haltbar."
+    }
+  ],
+  "grammage": "330 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 6.64"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "efko Zuckermais Körner",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683/produkte/efko-zuckermais-koerner/00-609810"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 6.64"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 15990,
+  "recommendationArticleIds": [
+    "00-624541"
+  ],
+  "seoDescription": "efko Zuckermais Körner online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "efko Zuckermais Körner online bestellen | BILLA",
+  "slug": "efko-zuckermais-koerner",
+  "storeAvalibility": [
+    "00-7606",
+    "00-10",
+    "00-720",
+    "00-4655",
+    "00-4779",
+    "00-4605",
+    "00-7653",
+    "00-3780",
+    "00-1529",
+    "00-99202",
+    "00-1132",
+    "00-2342",
+    "00-3617"
+  ],
+  "url": "/produkte/efko-zuckermais-koerner/00-609810",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,237 @@
+{
+  "articleGroupIds": [
+    "B2-435"
+  ],
+  "articleId": "00-324900",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-hamburgerlaibchen/00-324900",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio",
+    "s_aut"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-hamburgerlaibchen/00-324900",
+  "category": "Kühlwaren",
+  "description": "Ja! Natürlich Jungrind stammt ausschließlich von österreichischen Bio-Betrieben und ist zu 100 % gentechnikfrei. Die Ja! Natürlich Jungrinder wachsen artgerecht beim Muttertier auf und leben ganz natürlich im Herdenverband. Das Fleisch ist Bio und ist besonders aromatisch, hellrot und feinfaserig.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-01-09T00:00:00",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-31732-EG\r\nAT-20246-EG\r\nAT-40803-EG\r\nAT-BIO-301\nÖsterreich Landwirtschaft\r\nFettgehalt geringer als 15%\r\nVerhältnis Kollagen/Fleischeiweiß geringer als 15%\r\nFür sichere Speisen ist Küchenhygiene wichtig! Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen.\r\nUrsprung: Österreich",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Bio-Hamburgerlaibchen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 9.7,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 193,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 9.6,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 806,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 18.6,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 35,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.1,
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.7,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-4 °C",
+      "usageHints": "Nach dem Öffnen  ehebaldigst verarbeiten."
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 18.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 18.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 18.99,
+    "unit": "1 kg 18,99 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.25,
+  "name": "Ja! Natürlich Hamburgerlaibchen",
+  "orderQuantityStepSize": 0.25,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/rindfleisch/B2-435/produkte/ja-natuerlich-hamburgerlaibchen/00-324900"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 18.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 18.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 18.99,
+    "unit": "1 kg 18,99 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 198850,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Hamburgerlaibchen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Hamburgerlaibchen online bestellen | BILLA",
+  "slug": "ja-natuerlich-hamburgerlaibchen",
+  "storeAvalibility": [
+    "00-281",
+    "00-99202"
+  ],
+  "url": "/produkte/ja-natuerlich-hamburgerlaibchen/00-324900",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    25,
+    50,
+    75,
+    100,
+    125
+  ]
+}

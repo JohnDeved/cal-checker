@@ -1,0 +1,254 @@
+{
+  "articleGroupIds": [
+    "B2-483"
+  ],
+  "articleId": "00-695138",
+  "articleOnlyCanonicalPath": "/produkte/frierss-drautaler-brettljause/00-695138",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Frierss",
+  "brandPath": "/marken/frierss",
+  "canonicalPath": "/produkte/frierss-drautaler-brettljause/00-695138",
+  "category": "Kühlwaren",
+  "description": "Die Drautaler Brettljause von Frierss ist eine schmackhafte Variation aus Kärntenr Spezialitäten und bietet alles, was zu einer echten Kärntner Jause gehört: ein gut durchzogener Kärntner Bauchspeck, eine Scheibe vom besonders zarten Kärntner Karreespeck und zwei Original Kärntner Hauswürstel ¿ herzhaft-würziger Jausengenuss!",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gewerbezeile 4,9500 Villach, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Frierss und Söhne GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Karreespeck ca.100gr. u. Bauchspeck ca.100gr.: Schweinefleisch, Niritpökelsalz (Speisesalz, Konservierungsmittel: E250), Saccharose, Gewürze, Dextrose, Antioxidationsmittel:E301, Konservierungsmittel:E252. Zutaten Hauswürstel ca.180gr.: Für 100g Hauswürstel werden 142g Rind- und Schweinefleisch verwendet, Speck, Speisesalz, Dextrose, Saccharose, Gewürze, MAGERMILCHPULVER, Geschmacksverstärker: E621, Antioxidationsmittel: E301, Konservierungsmittel: E252.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.306
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.3
+        }
+      ],
+      "name": "Drautaler Brettljause, geräuchert und getrocknet",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 446,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1848,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 37.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 24.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "ungekühlt lagern bis +22°C"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.4,
+  "name": "Frierss Drautaler Brettljause",
+  "orderQuantityStepSize": 0.4,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483/produkte/frierss-drautaler-brettljause/00-695138"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 78050,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frierss Drautaler Brettljause online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frierss Drautaler Brettljause online bestellen | BILLA",
+  "slug": "frierss-drautaler-brettljause",
+  "storeAvalibility": [
+    "00-7600",
+    "00-7980",
+    "00-7653",
+    "00-7963",
+    "00-7915",
+    "00-6130",
+    "00-9030",
+    "00-7710",
+    "00-7766",
+    "00-8235",
+    "00-7553",
+    "00-7535",
+    "00-7602",
+    "00-7810",
+    "00-7629",
+    "00-7536",
+    "00-7667",
+    "00-7860",
+    "00-7592",
+    "00-7758",
+    "00-7676",
+    "00-7491",
+    "00-7609",
+    "00-99202",
+    "00-7538",
+    "00-7716",
+    "00-7681",
+    "00-7632",
+    "00-7975",
+    "00-7835",
+    "00-7866",
+    "00-7920",
+    "00-7856",
+    "00-7895",
+    "00-7539",
+    "00-7765",
+    "00-7783",
+    "00-7565",
+    "00-7831",
+    "00-7566",
+    "00-7969",
+    "00-7616",
+    "00-7547",
+    "00-7544",
+    "00-7606",
+    "00-7827",
+    "00-7665",
+    "00-7759",
+    "00-7940",
+    "00-7675",
+    "00-7733",
+    "00-7857",
+    "00-5290",
+    "00-7546",
+    "00-7603",
+    "00-7611",
+    "00-7642"
+  ],
+  "url": "/produkte/frierss-drautaler-brettljause/00-695138",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    40,
+    80,
+    120,
+    160,
+    200
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-472032",
+  "articleOnlyCanonicalPath": "/produkte/danone-actimel-antioxidant-heidelbeere-joghurt/00-472032",
+  "attributes": [
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Danone",
+  "brandPath": "/marken/danone",
+  "canonicalPath": "/produkte/danone-actimel-antioxidant-heidelbeere-joghurt/00-472032",
+  "category": "Kühlwaren",
+  "description": "4 x 115g<br><br>Actimel Joghurt für dein Immunsystem. Da steckt viel für dich drin! Einfach löffeln & Immunsystem unterstützen.<br>Du hast viel um die Ohren? Für dein Extra an Vitaminen, wenn du es brauchst! <b>Antioxidant</b> mit Heidelbeeren für volle Frucht-Power.<br>Vollgepackt mit Milliarden L.Casei Joghurtkulturen und den Vitaminen B6 & D zur Unterstützung deines Immunsystems. Zusätzlich hilft dir das Antioxidant Vitamin E dabei, deine Zellen zu schützen.",
+  "eanCodes": [
+    "4009700041388"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Technologiestr. 10, AT-1120 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Danone GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "00800 800 900 88",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.actimel.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-12T00:00:00",
+      "healthClaim": "*Die Vitamine B6 und D tragen zu einer normalen Funktion des Immunsystems bei. **Vitamin E trägt dazu bei, die Zellen vor oxidativem Stress zu schützen. Danone weist auf die Bedeutung einer abwechslungsreichen und ausgewogenen Ernährung und einer gesunden Lebensweise hin.",
+      "ingredients": "Zutaten: fettarmer JOGHURT, Zucker, 3,6% Heidelbeere, modifizierte Maisstärke, färbendes Trauben- und Karottenkonzentrat, Säureregulator Citronensäure, Natriumcitrate; Verdickungsmittel Guarkernmehl, natürliches Aroma, Vitamin E, B6 und D, Kultur Lactobacillus Casei.",
+      "marketingMessage": "Actimel® Joghurt für dein Immunsystem. Da steckt viel für dich drin! Einfach löffeln & Immunsystem unterstützen. Du hast viel um die Ohren? Für dein Extra an Vitaminen, wenn du es brauchst! Antioxidant mit Heidelbeeren für volle Frucht-Power. Vollgepackt mit Milliarden L.Casei Joghurtkulturen und den Vitaminen B6 & D zur Unterstützung deines Immunsystems. Zusätzlich hilft dir das Antioxidant Vitamin E dabei, deine Zellen zu schützen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 460
+        }
+      ],
+      "name": "Fettarmer Joghurt mit 8% Heidelbeerzubereitung, 1,8% Fett im Milchanteil",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4.35,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 342,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4.35,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 81,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 150,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.21,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 1.67,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 1.8,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "115 g (Pro Becher)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 393,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 93,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 13.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 173,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.24,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 1.92,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 2.07,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Bei max. +8 °C mindestens haltbar bis: siehe Oberseite"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Technologiestr. 10, AT-1120 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Danone GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "00800 800 900 88",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.actimel.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-11T00:00:00",
+      "healthClaim": "*Die Vitamine B6 und D tragen zu einer normalen Funktion des Immunsystems bei. **Vitamin E trägt dazu bei, die Zellen vor oxidativem Stress zu schützen. Danone weist auf die Bedeutung einer abwechslungsreichen und ausgewogenen Ernährung und einer gesunden Lebensweise hin.",
+      "ingredients": "Zutaten: fettarmer JOGHURT, Zucker, 3,6% Heidelbeere, modifizierte Maisstärke, färbendes Trauben- und Karottenkonzentrat, Säureregulator Citronensäure, Natriumcitrate; Verdickungsmittel Guarkernmehl, natürliches Aroma, Vitamin E, B6 und D, Kultur Lactobacillus Casei.",
+      "marketingMessage": "Actimel® Joghurt für dein Immunsystem. Da steckt viel für dich drin! Einfach löffeln & Immunsystem unterstützen. Du hast viel um die Ohren? Für dein Extra an Vitaminen, wenn du es brauchst! Antioxidant mit Heidelbeeren für volle Frucht-Power. Vollgepackt mit Milliarden L.Casei Joghurtkulturen und den Vitaminen B6 & D zur Unterstützung deines Immunsystems. Zusätzlich hilft dir das Antioxidant Vitamin E dabei, deine Zellen zu schützen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 460
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4.35,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 342,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4.35,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 81,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 150,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.21,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 1.67,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 1.8,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "115 Gramm pro Becher",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 393,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 93,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 13.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 173,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.24,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin D",
+              "nutritionalValue": 1.92,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 2.07,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Bei max. +8 °C mindestens haltbar bis: siehe Oberseite"
+    }
+  ],
+  "grammage": "460 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 5.41"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Danone Actimel Antioxidant Heidelbeere Joghurt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/danone-actimel-antioxidant-heidelbeere-joghurt/00-472032"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 5.41"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Danone Actimel Antioxidant Heidelbeere Joghurt online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Danone Actimel Antioxidant Heidelbeere Joghurt online bestellen",
+  "slug": "danone-actimel-antioxidant-heidelbeere-joghurt",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/danone-actimel-antioxidant-heidelbeere-joghurt/00-472032",
+  "vatCode": "10",
+  "video": ""
+}

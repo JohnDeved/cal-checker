@@ -1,0 +1,273 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-672757",
+  "articleOnlyCanonicalPath": "/produkte/tirol-milch-leichtmilch-laenger-frisch-15/00-672757",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tirol-milch-leichtmilch-laenger-frisch-15/00-672757",
+  "category": "Kühlwaren",
+  "description": "Die Leichtmilch mit nur 1,5 % Fettgehalt von Tirol Milch überzeugt mit vollem Geschmack dank der besonders kräuterreichen Almweiden.<li>gentechnikfreie Milch aus Tirol<li>frische Bergbauernmilch<li>teilentrahmt, hocherhitzt<li>bleibt länger frisch",
+  "eanCodes": [
+    "9006020000601"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "RENNET_TYPE",
+              "description": "Labart Typ",
+              "hasTranslation": "True",
+              "value": "NO_RENNET",
+              "valueTranslation": "Kein Lab"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch Molkerei Wörgl, Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-06-15T00:00:00",
+      "marketingMessage": "Der Tiroler Milch eilt ihr Ruf voraus. Das liegt an unserer Berglandwirtschaft mit den saftigen Wiesen und Almen. Hier findet sich eine Vegetation, wie sie anderswo kaum anzutreffen ist. Bei uns wächst ein hervorragendes Futter für gesunde Kühe und somit die Grundlage für die besondere Qualität unserer Milch. Auf den hiesigen Almweiden gedeihen mehr als hundert verschiedene Kräuter und Gräser. Deren Aromen wirken sich auf den Nährstoffgehalt der Milch aus und sorgen dafür, dass sie so einzigartig im Geschmack ist.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.059
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Tiroler Bergbauern Leichtmilch*, fettarme Milch 1,5 % Fett, hocherhitzt, länger frisch.   *enthält rund 57% weniger Fett als Vollmilch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 197,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 47,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3-6 °C) lagern. Ungeöffnet mindestens haltbar bis: siehe Giebel. Nach dem Öffnen innerhalb weniger Tage verbrauchen."
+    }
+  ],
+  "grammage": "1 Liter Stück (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.35,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.35,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.35
+  },
+  "maximalOrderQuantity": 120,
+  "minimalOrderQuantity": 0,
+  "name": "Tirol Milch Leichtmilch länger frisch 1.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/tirol-milch-leichtmilch-laenger-frisch-15/00-672757"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.35,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.35,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.35
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    12,
+    24,
+    36,
+    48,
+    60,
+    72,
+    84,
+    96,
+    108,
+    120
+  ],
+  "rank": 119990,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tirol Milch Leichtmilch länger frisch 1.5% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tirol Milch Leichtmilch länger frisch 1.5% online bestellen",
+  "slug": "tirol-milch-leichtmilch-laenger-frisch-15",
+  "storeAvalibility": [
+    "00-8151",
+    "00-8241",
+    "00-8193",
+    "00-8895",
+    "00-8334",
+    "00-8140",
+    "00-8085",
+    "00-8022",
+    "00-8188",
+    "00-8158",
+    "00-8646",
+    "00-8230",
+    "00-99202",
+    "00-8076",
+    "00-8606",
+    "00-8031",
+    "00-8426",
+    "00-8075",
+    "00-8185",
+    "00-8159",
+    "00-8213",
+    "00-8235",
+    "00-8243",
+    "00-7866",
+    "00-8417",
+    "00-8154",
+    "00-8070",
+    "00-8657",
+    "00-8155",
+    "00-8173",
+    "00-8636",
+    "00-8360"
+  ],
+  "url": "/produkte/tirol-milch-leichtmilch-laenger-frisch-15/00-672757",
+  "vatCode": "10",
+  "video": ""
+}

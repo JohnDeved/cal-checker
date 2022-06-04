@@ -1,0 +1,159 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-612119",
+  "articleOnlyCanonicalPath": "/produkte/stella-artois-belgien/00-612119",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Stella Artois",
+  "canonicalPath": "/produkte/stella-artois-belgien/00-612119",
+  "category": "Getränke",
+  "description": "Das beliebte Pilsner Stella Artois aus Belgien hat schon lange die internationalen Herzen erobert. Es begeistert mit einem mild-malzigen Geschmack.<li>zarte Würznoten und angenehme Bitterkeit<li>leicht hopfig",
+  "eanCodes": [
+    "0000054054134",
+    "5410228141266"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R71"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "21 Boulevard Industriel, B-1070 Brussels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "N.V. INBEV BELGIUM S.A..",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Mobile Website (oder WAP-Seite) (optimiert für Smartphone etc.)",
+          "detail": "www.talktoabinbev.com; www.stellaartois.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "BELGIEN"
+      ],
+      "fromDate": "2018-02-16T00:00:00",
+      "ingredients": "ENTHÄLT:GERSTENMALZ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.53
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "500 ml 1.65"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Stella Artois Belgien",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/stella-artois-belgien/00-612119"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "500 ml 1.65"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 146420,
+  "recommendationArticleIds": [
+    "00-64304"
+  ],
+  "seoDescription": "Stella Artois Belgien online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stella Artois Belgien online bestellen | BILLA",
+  "slug": "stella-artois-belgien",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/stella-artois-belgien/00-612119",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,271 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-406737",
+  "articleOnlyCanonicalPath": "/produkte/groebi-zitrone/00-406737",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_zucker",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Gröbi",
+  "brandPath": "/marken/groebi",
+  "canonicalPath": "/produkte/groebi-zitrone/00-406737",
+  "category": "Getränke",
+  "description": "Gröbi Zitrone bietet spritzige Erfrischung und eignet sich für kalorienbewusste Limonadenfans. Gröbi steht bereits seit 1967 für zuckerfreien Genuss.<li>ohne Zucker<li>mit Kohlensäure versetzt<li>vitaminreich<li>veganes Produkt",
+  "eanCodes": [
+    "9022100001108"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-83026 Rosenheim",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DrinkStar GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, Kohlensäure, Säuerungsmittel Citronensäure, Zitronensaftkonzentrat, Säureregulator Trinatriumcitrat, natürliches Citrusaroma, Süßungsmittel Natriumcyclamat, Aspartam, Acesulfam K und Natriumsaccharin, Vitaminmischung (Vitamin B6, Biotin und Vitamin B12).\n\nEnthält eine Phenylalaninquelle.",
+      "mandatoryIndicator": "mit Süßungsmitteln",
+      "marketingMessage": "Sehnsucht nach Erfrischung? GRÖBI ist der tägliche Frische Kick mit feiner Zitrusnote für figurbewusste Genießer. Mit vielen Vitaminen und spritzigem Wasser aus eigener Quelle - ganz ohne überflüssige Kalorien.\nGRÖBI. Null Zucker, viele Vitamine, voller Fruchtgeschmack!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.533
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Zuckerfreies Erfrischungsgetränk mit Zitronengeschmack. \nMit 3 Vitaminen. Mit Süßungsmitteln.  Vegan.",
+      "nutritions": [
+        {
+          "householdPortion": "Glas (250 ml)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 6,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Biotin",
+              "nutritionalValue": 7.5,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 7.5,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.2,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Vor Wärme und Licht schützen.",
+      "sustenanceClaim": "3 VITAMINE\n0% KALORIEN*\n* Energie pro 250ml-Portion (15 kJ/3 kcal): 0 % der Referenzmenge für einen durchschnittlichen Erwachsenen (8.400 kJ/2.000 kcal)"
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": true,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 l .75"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Gröbi Zitrone",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/groebi-zitrone/00-406737"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 l .75"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 179010,
+  "recommendationArticleIds": [
+    "00-64319"
+  ],
+  "seoDescription": "Gröbi Zitrone online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gröbi Zitrone online bestellen | BILLA",
+  "slug": "groebi-zitrone",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/groebi-zitrone/00-406737",
+  "vatCode": "20",
+  "video": ""
+}

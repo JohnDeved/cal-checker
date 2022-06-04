@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-487"
+  ],
+  "articleId": "00-240263",
+  "articleOnlyCanonicalPath": "/produkte/stastnik-putenkantwurst/00-240263",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Stastnik",
+  "brandPath": "/marken/stastnik",
+  "canonicalPath": "/produkte/stastnik-putenkantwurst/00-240263",
+  "category": "Kühlwaren",
+  "description": "Die köstliche Stastnik Putenkantwurst überzeugt durch ihren fein würzigen Geschmack und ist durch ihre charakteristische eckige Form unverwechselbar. Die milde Buchenholzräucherung, sowie der kontrollierte Reifungsprozess von 3 bis 6 Wochen, prägen den unvergleichlichen Geschmack.",
+  "eanCodes": [
+    "9001369000077"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Industriestraße 2-8,\nA-2201 Gerasdorf/Weinviertel",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Stastnik GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-09-29T00:00:00",
+      "ingredients": "Zutaten: 135g Putenfleisch für 100g Enderzeugnis,; Pflanzenöl (Palm), Speisesalz, Dextrose, Gewürze (enthält SENFMEHL),  Antioxidationsmittel: E 300; Gewürzextrakte, Konservierungsstoff: E 250; Rote Bete Pulver, Buchenrauch.\nDas Produkt kann Spuren von Sellerie enthalten.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt",
+      "marketingMessage": "Stastnik seit 1898\nSlow-How seit 1898",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 91
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 80
+        }
+      ],
+      "name": "Puten Kantwurst",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1475,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 355,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet mindestens haltbar bis: siehe Aufdruck\nLagerung bei +2°C bis +6°C,",
+      "usageHints": "Nach dem Öffnen zum ehebaldigen Verzehr bestimmt."
+    }
+  ],
+  "grammage": "80 g Packung",
+  "grammageBadge": "80 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 37.38"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Stastnik Putenkantwurst",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/truthahn-und-putenwurst/B2-487/produkte/stastnik-putenkantwurst/00-240263"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 37.38"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 140470,
+  "recommendationArticleIds": [
+    "00-693846"
+  ],
+  "seoDescription": "Stastnik Putenkantwurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stastnik Putenkantwurst online bestellen | BILLA",
+  "slug": "stastnik-putenkantwurst",
+  "storeAvalibility": [
+    "00-3857",
+    "00-4283",
+    "00-10",
+    "00-355",
+    "00-99202"
+  ],
+  "url": "/produkte/stastnik-putenkantwurst/00-240263",
+  "vatCode": "10",
+  "video": ""
+}

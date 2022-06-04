@@ -1,0 +1,247 @@
+{
+  "articleGroupIds": [
+    "B2-451"
+  ],
+  "articleId": "00-612365",
+  "articleOnlyCanonicalPath": "/produkte/pinzgau-milch-bergbauern-butter/00-612365",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Pinzgau Milch",
+  "canonicalPath": "/produkte/pinzgau-milch-bergbauern-butter/00-612365",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "9005182031171"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "5751 Maishofen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Pinzgau Milch Produktions GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "06542/68266",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "06542/68266",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.253
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Süßrahmbutter aus pasteurisiertem Rahm. Fettgehalt mindestens 82%",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 746,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3068,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 82,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 49.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "gekühlt bei +6°C"
+    }
+  ],
+  "grammage": "250 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.85,
+    "unit": "1 kg 11.40"
+  },
+  "maximalOrderQuantity": 10,
+  "minimalOrderQuantity": 0,
+  "name": "Pinzgau Milch Bergbauern Butter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/butter/B2-451/produkte/pinzgau-milch-bergbauern-butter/00-612365"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.85,
+    "unit": "1 kg 11.40"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pinzgau Milch Bergbauern Butter online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pinzgau Milch Bergbauern Butter online bestellen | BILLA",
+  "slug": "pinzgau-milch-bergbauern-butter",
+  "storeAvalibility": [
+    "00-5067",
+    "00-6001",
+    "00-5737",
+    "00-5529",
+    "00-5226",
+    "00-5322",
+    "00-5454",
+    "00-5003",
+    "00-5363",
+    "00-5165",
+    "00-5031",
+    "00-5447",
+    "00-5391",
+    "00-5945",
+    "00-6366",
+    "00-8953",
+    "00-6845",
+    "00-5962",
+    "00-6910",
+    "00-5290",
+    "00-5381",
+    "00-5112",
+    "00-8441",
+    "00-5414",
+    "00-5104",
+    "00-5306",
+    "00-99202",
+    "00-5405",
+    "00-5108",
+    "00-4813",
+    "00-5199",
+    "00-5531",
+    "00-5359",
+    "00-5082",
+    "00-5027",
+    "00-5181",
+    "00-5000",
+    "00-6895",
+    "00-5078",
+    "00-5223",
+    "00-5552"
+  ],
+  "url": "/produkte/pinzgau-milch-bergbauern-butter/00-612365",
+  "vatCode": "10",
+  "video": ""
+}

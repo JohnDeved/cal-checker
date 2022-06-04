@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-343358",
+  "articleOnlyCanonicalPath": "/produkte/gmundner-milch-naturjoghurt-32/00-343358",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Gmundner Milch",
+  "canonicalPath": "/produkte/gmundner-milch-naturjoghurt-32/00-343358",
+  "category": "Kühlwaren",
+  "description": "Gutes aus dem Salzkammergut: Das Gmundner Naturjoghurt 3.2% wird aus frischer Milch hergestellt und cremig gerührt. Es schmeckt dadurch besonders leicht.<li>Naturjoghurt aus Gmunden<li>3,2 % Fettanteil<li>cremig aufgeschlagen<li>gentechnikfrei",
+  "eanCodes": [
+    "9006207000387"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Theresienthalstraße 16, 4810 Gmunden",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Gmundner Molkerei eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "pasteurisierte Milch",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 514
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Joghurt aus pasteurisierter Milch, 3,2% Fett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 64,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 268,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt lagern. Nach dem Öffnen ehebaldigst verbrauchen."
+    }
+  ],
+  "grammage": "500 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 kg 2.18"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Gmundner Milch Naturjoghurt 3.2%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/gmundner-milch-naturjoghurt-32/00-343358"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 kg 2.18"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 46370,
+  "recommendationArticleIds": [],
+  "seoDescription": "Gmundner Milch Naturjoghurt 3.2% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gmundner Milch Naturjoghurt 3.2% online bestellen | BILLA",
+  "slug": "gmundner-milch-naturjoghurt-32",
+  "storeAvalibility": [
+    "00-4283",
+    "00-4466",
+    "00-4629",
+    "00-4090",
+    "00-4672",
+    "00-4482",
+    "00-4840",
+    "00-4291",
+    "00-4565",
+    "00-4770",
+    "00-5603",
+    "00-4078",
+    "00-4834",
+    "00-4932",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/gmundner-milch-naturjoghurt-32/00-343358",
+  "vatCode": "10",
+  "video": ""
+}

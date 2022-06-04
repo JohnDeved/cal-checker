@@ -1,0 +1,209 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-878684",
+  "articleOnlyCanonicalPath": "/produkte/schweppes-wild-berry/00-878684",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schweppes",
+  "brandPath": "/marken/schweppes",
+  "canonicalPath": "/produkte/schweppes-wild-berry/00-878684",
+  "category": "Getränke",
+  "description": "Schweppes Russian Wild Berry für einzigartigen Genuss. Das Getränk Russian Wild Berry besticht durch einen trendigen, aber dezenten Flavour mit einer geheimnisvoll beerigen Note. Lust auf ein einzigartiges Geschmackserlebnis und das Aroma wilder Beeren? Russian Wild Berry ist sowohl pur als auch mit Spirituosen wie Wodka oder Gin ein wahrer Gaumenschmaus! Oder probier doch mal den prickelnd fruchtigen Signature Drink Lillet Wild Berry.</li>",
+  "eanCodes": [
+    "4000140704253"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hagener Strasse 261, 57223 Kreuztal",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Schweppes Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zucker, Kohlensäure , Säurungsmittel Citronensäure, Aroma, Konzentrate ( Hibiscus, Karotte )",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 350
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 200
+        }
+      ],
+      "name": "Erfrischungsgetränk mit dem Geschmack wilder Beeren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 156,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 36,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bitte kühl und dunkel lagern",
+      "usageHints": "Bitte kühl und dunkel lagern"
+    }
+  ],
+  "grammage": "0.2 l Flasche (Einweg)",
+  "grammageBadge": "0.2 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l 6.45"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Schweppes Wild Berry",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/schweppes-wild-berry/00-878684"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 l 6.45"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 81090,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schweppes Wild Berry online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schweppes Wild Berry online bestellen | BILLA",
+  "slug": "schweppes-wild-berry",
+  "storeAvalibility": [
+    "00-174",
+    "00-99202",
+    "00-10",
+    "00-3700"
+  ],
+  "url": "/produkte/schweppes-wild-berry/00-878684",
+  "vatCode": "20",
+  "video": ""
+}

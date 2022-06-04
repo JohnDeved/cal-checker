@@ -1,0 +1,221 @@
+{
+  "articleGroupIds": [
+    "B2-484"
+  ],
+  "articleId": "00-530416",
+  "articleOnlyCanonicalPath": "/produkte/berger-huehnerschinken/00-530416",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-huehnerschinken/00-530416",
+  "category": "Kühlwaren",
+  "description": "Der Hühnerschinken von Berger zeichnet sich durch seine mürbe Struktur und sein feines Aroma aus. Er ist besonders mager und fettarm.<li>Schinken aus feinem Hühnerfilet<li>weniger Kalorien als herkömmlicher Schinken<li>aromatischer, mürber Geschmack<li>ohne Zusatz von Geschmacksverstärkern",
+  "eanCodes": [
+    "9001455011765"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Koglerstraße 8, 3443 Sieghartskirchen, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FLEISCHWAREN BERGER GESMBH & CO KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-01-03T00:00:00",
+      "ingredients": "Zutaten:85% Hühnerfleisch*,Trinkwasser,Speisesalz,Maltodextrin, Stabilisatoren:Di-, Triphosphate;Gewürze,Gewürzextrakte,Antioxidationsmittel:Natriumascorbat;Konservierungsstoff:Natriumnitrit. *Ursprungsland: EU.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 114
+        }
+      ],
+      "name": "Hühner-Schinken Schinken gekocht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 101,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 425,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei: +2°C bis +6°C Ungeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt."
+    }
+  ],
+  "grammage": "100 g Packung",
+  "grammageBadge": "100 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.39,
+    "unit": "1 kg 23.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Hühnerschinken",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/schinken/B2-484/produkte/berger-huehnerschinken/00-530416"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.39,
+    "unit": "1 kg 23.90"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 152880,
+  "recommendationArticleIds": [
+    "00-754099"
+  ],
+  "seoDescription": "Berger Hühnerschinken online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Hühnerschinken online bestellen | BILLA",
+  "slug": "berger-huehnerschinken",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/berger-huehnerschinken/00-530416",
+  "vatCode": "10",
+  "video": ""
+}

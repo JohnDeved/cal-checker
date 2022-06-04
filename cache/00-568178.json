@@ -1,0 +1,233 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-568178",
+  "articleOnlyCanonicalPath": "/produkte/moloko-lemonade/00-568178",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Moloko",
+  "canonicalPath": "/produkte/moloko-lemonade/00-568178",
+  "category": "Getränke",
+  "description": "Das perfekte Erfrischungsgetränk für Sommerabende und Partys heißt Moloko Lemonade. Zitrus-, Ingwer- und Holunderblüten-Aromen schaffen den besonderen Geschmack.<li>kohlensäurehaltig<li>perfekt als Basis für Mischgetränke<li>mit Gerstenmalz-Extrakt für extra-weichen Geschmack",
+  "eanCodes": [
+    "4051454000098"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "73033 Göppingen, Germany",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Moloko Beverage GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.drink-moloko.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zucker, Zitronensaft aus Zitronensaftkonzentrat (4%), Orangensaft aus Orangensaftkonzentrat (2%), Kohlensäure, Säuerungsmittel Citronensäure, natürliches Aroma, Säureregulator Natriumcitrat, GERSTENMALZ-EXTRAKT, Antioxidationsmittel Ascorbinsäure, Stabilisatoren Pektine und Johannisbrotkernmehl.",
+      "marketingMessage": "Moloko-Refresh your Mind",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 274
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Erfrischungsgetränk Zitrone, Orange mit dem Geschmack nach Holunderblüten und Ingwer - kohlensäurehaltig. Pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 52,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 221,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.012,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Mindestens haltbar bis: Siehe Dosenboden"
+    }
+  ],
+  "grammage": "250 ml Dose (Einweg)",
+  "grammageBadge": "250 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.36"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Moloko Lemonade",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/moloko-lemonade/00-568178"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.36"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 82690,
+  "recommendationArticleIds": [
+    "00-288648"
+  ],
+  "seoDescription": "Moloko Lemonade online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Moloko Lemonade online bestellen | BILLA",
+  "slug": "moloko-lemonade",
+  "storeAvalibility": [
+    "00-2364",
+    "00-10",
+    "00-3027",
+    "00-836",
+    "00-2675",
+    "00-3082",
+    "00-950",
+    "00-3214",
+    "00-2111",
+    "00-119",
+    "00-2223",
+    "00-5078",
+    "00-174",
+    "00-2190",
+    "00-2808",
+    "00-2261",
+    "00-3146",
+    "00-2260",
+    "00-6676",
+    "00-388",
+    "00-471",
+    "00-2342",
+    "00-2238",
+    "00-282",
+    "00-3042",
+    "00-3206",
+    "00-2170",
+    "00-99202"
+  ],
+  "url": "/produkte/moloko-lemonade/00-568178",
+  "vatCode": "20",
+  "video": ""
+}

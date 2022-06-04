@@ -1,0 +1,250 @@
+{
+  "articleGroupIds": [
+    "B2-743"
+  ],
+  "articleId": "00-501506",
+  "articleOnlyCanonicalPath": "/produkte/lorenz-pistazien-geroestet-und-gesalzen2/00-501506",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern",
+    "s_falergen",
+    "s_naehrsto"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lorenz",
+  "brandPath": "/marken/lorenz",
+  "canonicalPath": "/produkte/lorenz-pistazien-geroestet-und-gesalzen2/00-501506",
+  "category": "Süßes & Salziges",
+  "description": "Lorenz Pistazien werden ohne Konservierungsstoffe, ohne Geschmacksverstärker und ohne Aroma- und Farbstoffe hergestellt. Durch ihren von Natur aus hohen Gehalt an Vitamin B6 und Magnesium können Pistazien einen wichtigen Beitrag zu einer ausgewogenen Ernährung leisten. Genießen Sie die edle, erlesene Qualität der Lorenz Pistazien aus dem kalifornischen Central Valley.",
+  "eanCodes": [
+    "4018077766053"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bahnhofstraße 34, A-9020 Klagenfurt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "The Lorenz Bahlsen Snack-World GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: PISTAZIEN geröstet, Salz. KANN AUCH SPUREN VON ERDNÜSSEN UND ANDEREN SCHALENFRÜCHTEN ENTHALTEN.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt. WARNUNG: KLEINE KINDER KÖNNEN AN NÜSSEN ERSTICKEN",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 105.95
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Pistazien geröstet und gesalzen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2500,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 603,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 48,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Trocken lagern. Vor Wärme schützen."
+    }
+  ],
+  "grammage": "100 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 2.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.49,
+    "unit": "1 kg 24.90"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lorenz Pistazien geröstet & gesalzen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/nuesse/B2-743/produkte/lorenz-pistazien-geroestet-und-gesalzen2/00-501506"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 2.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.49,
+    "unit": "1 kg 24.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 112710,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lorenz Pistazien geröstet & gesalzen online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lorenz Pistazien geröstet & gesalzen online bestellen | BILLA",
+  "slug": "lorenz-pistazien-geroestet-und-gesalzen2",
+  "storeAvalibility": [
+    "00-4551",
+    "00-783",
+    "00-10",
+    "00-99202",
+    "00-7539"
+  ],
+  "url": "/produkte/lorenz-pistazien-geroestet-und-gesalzen2/00-501506",
+  "vatCode": "10",
+  "video": ""
+}

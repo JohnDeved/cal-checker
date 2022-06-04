@@ -1,0 +1,599 @@
+{
+  "articleGroupIds": [
+    "B2-331"
+  ],
+  "articleId": "00-801895",
+  "articleOnlyCanonicalPath": "/produkte/nescafe-dolce-gusto-caramel-macchiato/00-801895",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nescafé",
+  "brandPath": "/marken/nescafe",
+  "canonicalPath": "/produkte/nescafe-dolce-gusto-caramel-macchiato/00-801895",
+  "category": "Getränke",
+  "description": "Latte Macchiato mit leckerem Karamellgeschmack: Lassen sie sich von unserem Latte Macchiato Caramel von NESCAFÉ® Dolce Gusto® verführen!",
+  "eanCodes": [
+    "7613037788884",
+    "7613033024160",
+    "7613033024191"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-13T00:00:00",
+      "ingredients": "Zutaten: Weiße Kapsel: VOLLMILCHPULVER (59,4%), Zucker (38,1%), Aromen. Kann enthalten SOJA. Schwarze Kapsel: Gemahlener Röstkaffee.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "marketingMessage": "Der NESCAFÉ® Dolce Gusto® Latte Macchiato Caramel ist eine eindrucksvolle Kaffeekreation aus heißer Milch, Karamellaroma, zartem Kaffee und Milchschaum. Dieses italienische Kultgetränk mit höherem Milchanteil als Cappuccino garantiert perfekten Kaffeegenuss.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 230.22
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 145.6
+        }
+      ],
+      "name": "Gemahlener Röstkaffe und Vollmilchpulver mit Zucker und Karamellaroma.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1430,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 340,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 44.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 40.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.34,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 258,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 61,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 8,
+      "preperations": [
+        {
+          "instruction": "Zubereitung laut Piktogramm auf der Verpackung",
+          "type": "Trockene/konzentrierte Nahrung mit Wasser wieder in urspruengliche Festigkeit/Konsistenz bringen"
+        }
+      ],
+      "storageHint": "Sauber, trocken und bei Raumtemperatur lagern."
+    }
+  ],
+  "grammage": "145.6 Gramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 4.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.35,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 4.79,
+    "unit": "1 kg 32.90"
+  },
+  "maximalOrderQuantity": 18,
+  "minimalOrderQuantity": 0,
+  "name": "Nescafé Dolce Gusto Caramel Macchiato",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331/produkte/nescafe-dolce-gusto-caramel-macchiato/00-801895"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 4.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.35,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 4.79,
+    "unit": "1 kg 32.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 50370,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nescafé Dolce Gusto Caramel Macchiato online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nescafé Dolce Gusto Caramel Macchiato online bestellen | BILLA",
+  "slug": "nescafe-dolce-gusto-caramel-macchiato",
+  "storeAvalibility": [
+    "00-290",
+    "00-8946",
+    "00-3120",
+    "00-3050",
+    "00-3022",
+    "00-7114",
+    "00-4779",
+    "00-2923",
+    "00-2213",
+    "00-3001",
+    "00-7229",
+    "00-6979",
+    "00-1900",
+    "00-281",
+    "00-430",
+    "00-9555",
+    "00-7017",
+    "00-2098",
+    "00-6108",
+    "00-6910",
+    "00-3445",
+    "00-3780",
+    "00-3681",
+    "00-6892",
+    "00-1911",
+    "00-7224",
+    "00-4078",
+    "00-7336",
+    "00-9639",
+    "00-7676",
+    "00-3125",
+    "00-4675",
+    "00-4283",
+    "00-4540",
+    "00-4847",
+    "00-6749",
+    "00-7539",
+    "00-3580",
+    "00-7424",
+    "00-7860",
+    "00-3979",
+    "00-5363",
+    "00-4441",
+    "00-7491",
+    "00-1457",
+    "00-5447",
+    "00-783",
+    "00-1425",
+    "00-2301",
+    "00-4482",
+    "00-987",
+    "00-7733",
+    "00-6001",
+    "00-6439",
+    "00-6688",
+    "00-4945",
+    "00-1550",
+    "00-6021",
+    "00-3349",
+    "00-9753",
+    "00-3023",
+    "00-9498",
+    "00-8235",
+    "00-3510",
+    "00-1198",
+    "00-4170",
+    "00-2015",
+    "00-6932",
+    "00-7915",
+    "00-3860",
+    "00-5104",
+    "00-3405",
+    "00-3118",
+    "00-2223",
+    "00-3105",
+    "00-7606",
+    "00-1476",
+    "00-6011",
+    "00-6353",
+    "00-5003",
+    "00-3507",
+    "00-7073",
+    "00-3363",
+    "00-6130",
+    "00-3384",
+    "00-7058",
+    "00-7857",
+    "00-4090",
+    "00-3822",
+    "00-5000",
+    "00-7538",
+    "00-8433",
+    "00-3321",
+    "00-2131",
+    "00-3947",
+    "00-7189",
+    "00-8188",
+    "00-2204",
+    "00-4755",
+    "00-6022",
+    "00-6281",
+    "00-10",
+    "00-1207",
+    "00-7758",
+    "00-3027",
+    "00-4126",
+    "00-3149",
+    "00-4021",
+    "00-471",
+    "00-3841",
+    "00-9589",
+    "00-7075",
+    "00-6684",
+    "00-7358",
+    "00-3688",
+    "00-5108",
+    "00-4421",
+    "00-3601",
+    "00-6843",
+    "00-3157",
+    "00-6952",
+    "00-3848",
+    "00-6559",
+    "00-1108",
+    "00-7139",
+    "00-5552",
+    "00-1027",
+    "00-6823",
+    "00-4099",
+    "00-4879",
+    "00-2840",
+    "00-289",
+    "00-6676",
+    "00-6480",
+    "00-3996",
+    "00-5322",
+    "00-4700",
+    "00-3856",
+    "00-6490",
+    "00-3709",
+    "00-6255",
+    "00-3394",
+    "00-7204",
+    "00-4707",
+    "00-4672",
+    "00-6138",
+    "00-99202",
+    "00-6916",
+    "00-9688",
+    "00-7675",
+    "00-8241",
+    "00-4783",
+    "00-4107",
+    "00-5603",
+    "00-4932",
+    "00-6496",
+    "00-2111",
+    "00-9167",
+    "00-6724",
+    "00-411",
+    "00-2345",
+    "00-1132",
+    "00-7721",
+    "00-9308",
+    "00-3114",
+    "00-6740",
+    "00-6197",
+    "00-9225",
+    "00-355",
+    "00-1479",
+    "00-6884",
+    "00-3617",
+    "00-3143",
+    "00-7940",
+    "00-3308",
+    "00-1016",
+    "00-6502",
+    "00-6819",
+    "00-7743",
+    "00-6871",
+    "00-3150",
+    "00-6219",
+    "00-209",
+    "00-220",
+    "00-5391",
+    "00-249",
+    "00-4655",
+    "00-3059",
+    "00-3735",
+    "00-2313",
+    "00-1524",
+    "00-2899",
+    "00-4690",
+    "00-823",
+    "00-3869",
+    "00-5290",
+    "00-6845",
+    "00-7536",
+    "00-4270",
+    "00-6760",
+    "00-8940",
+    "00-6628",
+    "00-4551",
+    "00-1114",
+    "00-3857",
+    "00-3253",
+    "00-3700",
+    "00-1409",
+    "00-3005",
+    "00-4834",
+    "00-4629",
+    "00-6864",
+    "00-6840",
+    "00-7084",
+    "00-7082",
+    "00-7665",
+    "00-3713",
+    "00-3512",
+    "00-7759",
+    "00-8012",
+    "00-7232",
+    "00-7393",
+    "00-3296",
+    "00-4016",
+    "00-4424",
+    "00-4440",
+    "00-3234",
+    "00-119",
+    "00-6306",
+    "00-720",
+    "00-1529",
+    "00-6810",
+    "00-2100",
+    "00-3506",
+    "00-6274",
+    "00-521",
+    "00-2369",
+    "00-3468",
+    "00-2342",
+    "00-3212",
+    "00-3633",
+    "00-3146",
+    "00-3940",
+    "00-225",
+    "00-4249",
+    "00-2808",
+    "00-3140",
+    "00-7653",
+    "00-4756",
+    "00-2208",
+    "00-2907",
+    "00-1032",
+    "00-7783",
+    "00-4982",
+    "00-9415",
+    "00-6975",
+    "00-6745",
+    "00-9290",
+    "00-3744",
+    "00-6262",
+    "00-5531",
+    "00-5027",
+    "00-3569",
+    "00-6372",
+    "00-5871",
+    "00-2045",
+    "00-3235",
+    "00-3326",
+    "00-4813",
+    "00-1455",
+    "00-350",
+    "00-3103",
+    "00-1041",
+    "00-4605",
+    "00-6897",
+    "00-1913",
+    "00-5078",
+    "00-3501",
+    "00-3669",
+    "00-1017",
+    "00-1500",
+    "00-1098",
+    "00-8441",
+    "00-174",
+    "00-4513",
+    "00-3042"
+  ],
+  "url": "/produkte/nescafe-dolce-gusto-caramel-macchiato/00-801895",
+  "vatCode": "20",
+  "video": ""
+}

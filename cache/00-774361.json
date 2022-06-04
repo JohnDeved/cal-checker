@@ -1,0 +1,194 @@
+{
+  "articleGroupIds": [
+    "B2-6C4"
+  ],
+  "articleId": "00-774361",
+  "articleOnlyCanonicalPath": "/produkte/stangl-suppe-abc/00-774361",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Stangl",
+  "canonicalPath": "/produkte/stangl-suppe-abc/00-774361",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9003069250080"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Grazerstraße 27, 8403 Lebring",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Stangl Teigwaren GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@stanglnudeln.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: HARTWEIZENGRIEß 100% echter und reiner Hartweizengrieß, EIER aus Bodenhaltung. (10% bzw 2 Eier pro kg).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 259
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Qualitäts - Eierteigwaren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 373,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1580,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 70,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [
+        {
+          "instruction": "Man nimmt ungefähr zehnmal soviel Wasser als Teigware (zB für 10 dkg Teigware 1 Liter) und gibt bei 1 Liter Wasser einen schwach gefüllten Teelöffel Salz bei.\nDie Teigware soll man nur in das brodelnde Wasser einlegen und wiederholt kosten.\nTeigwaren munden leicht kernig am besten\n\nKochzeit für Suppe-ABC: 3-5 Minuten \n\nspzieller Tipp: Geben Sie etwas Öl in das Wasser, so verhindern Sie das lästige überkochen und verkleben",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "trocken und vor Sonnenlicht geschützt lagern"
+    }
+  ],
+  "grammage": "250 Gramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 5.16"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Stangl Suppe-ABC",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/suppeneinlagen2/B2-6C4/produkte/stangl-suppe-abc/00-774361"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 5.16"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 62300,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stangl Suppe-ABC online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stangl Suppe-ABC online bestellen | BILLA",
+  "slug": "stangl-suppe-abc",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/stangl-suppe-abc/00-774361",
+  "vatCode": "10",
+  "video": ""
+}

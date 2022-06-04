@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-63"
+  ],
+  "articleId": "00-522663",
+  "articleOnlyCanonicalPath": "/produkte/billa-blaumohn-gemahlen/00-522663",
+  "attributes": [
+    "s_marke",
+    "s_hkland"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "BILLA",
+  "brandPath": "/marken/billa",
+  "canonicalPath": "/produkte/billa-blaumohn-gemahlen/00-522663",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9010437006705"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Schalenfrüchte sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "-"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Billa AG, IZ NÖ Süd, Straße 3, Objekt 16, 2355 Wr. Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Billa",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hotline@billa.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 828 700",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-11-11T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.204
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Blaumohn thermisch stabilisiert, gemahlen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2201,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 27,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 533,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 60,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 42,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.6,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 48,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.5,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken lagern  \r\nVor Wärme geschützt lagern  ",
+      "usageHints": "Nach dem Öffnen gut verschlossen aufbewahren und innerhalb von 7 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "200 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "1 kg 8.45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "BILLA Blaumohn Gemahlen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/B2-63/produkte/billa-blaumohn-gemahlen/00-522663"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.69,
+    "unit": "1 kg 8.45"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "BILLA Blaumohn Gemahlen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "BILLA Blaumohn Gemahlen online bestellen | BILLA",
+  "slug": "billa-blaumohn-gemahlen",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/billa-blaumohn-gemahlen/00-522663",
+  "vatCode": "10",
+  "video": ""
+}

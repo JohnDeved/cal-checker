@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-655"
+  ],
+  "articleId": "00-252657",
+  "articleOnlyCanonicalPath": "/produkte/daily-meal-kuerbis-mango-suppe/00-252657",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Daily Meal",
+  "canonicalPath": "/produkte/daily-meal-kuerbis-mango-suppe/00-252657",
+  "category": "Grundnahrungsmittel",
+  "description": "Diese Bio-Kürbis-Suppe mit fruchtiger Mango ist eine leckere, vegane Mahlzeit im Glas für jeden Tag. Und dazu ganz einfach und schnell zuzubereiten: Schütteln, Öffnen, Erhitzen und dann einfach Genießen.",
+  "eanCodes": [
+    "4007680107100"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hinterm Teich 5, 32351 Stemwede-Levern",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rila Feinkost-Importe GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2018-08-09T00:00:00",
+      "ingredients": "Zutaten: Gemüse* (43%: Hokkaido-Kürbis* (63%), Tomatenpüree*, Zwiebeln*, SELLERIE*), Wasser, Mangopüree* (4%), Apfelpüree*, Kokosnussextrakt*, Tomatenmark*, Meersalz, natives Olivenöl* extra (1%), Speisestärke*, Rohrzucker*, Verdickungsmittel: Guarkernmehl*, Johannisbrotkernmehl*; konzentrierter Zitronensaft*, Gewürze* (enthält SENF*), Palmfett*, Dextrose*, Maltodextrin*, Karamellzucker*, Sonnenblumenöl*/*aus kontrolliert ökologischem Anbau",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 611
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 350
+        }
+      ],
+      "name": "Kürbis-Mango-Suppe BIO",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 48,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 202,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.75,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Glas schütteln, öffnen und bei 600 Watt 3 Minuten in der Mikrowelle erhitzen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ]
+    }
+  ],
+  "grammage": "350 Milliliter Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 11.40"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Daily Meal Kürbis-Mango Suppe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/dosensuppen/B2-655/produkte/daily-meal-kuerbis-mango-suppe/00-252657"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 l 11.40"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Daily Meal Kürbis-Mango Suppe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Daily Meal Kürbis-Mango Suppe online bestellen | BILLA",
+  "slug": "daily-meal-kuerbis-mango-suppe",
+  "storeAvalibility": [
+    "00-6676",
+    "00-176",
+    "00-5078",
+    "00-119",
+    "00-10",
+    "00-174",
+    "00-115",
+    "00-99202"
+  ],
+  "url": "/produkte/daily-meal-kuerbis-mango-suppe/00-252657",
+  "vatCode": "10",
+  "video": ""
+}

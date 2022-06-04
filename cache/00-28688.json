@@ -1,0 +1,294 @@
+{
+  "articleGroupIds": [
+    "B2-456"
+  ],
+  "articleId": "00-28688",
+  "articleOnlyCanonicalPath": "/produkte/kaerntnermilch-vollmilch-352/00-28688",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kärntnermilch",
+  "brandPath": "/marken/kaerntnermilch",
+  "canonicalPath": "/produkte/kaerntnermilch-vollmilch-352/00-28688",
+  "category": "Kühlwaren",
+  "description": "Die frische Vollmilch 3,5% von Kärntermilch hat den vollen Fettgehalt und schmeckt köstlich. Sie eignet sich für die Zubereitung von Müsli oder zum Backen.<li>Qualität aus Österreich<li>wird ohne Unterbrechung der Kühlkette ausgeliefert",
+  "eanCodes": [
+    "9004283008402"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Villacher Straße 92, A-9800 Spittal/Drau Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kärntnermilch reg. Gen.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kaerntnermilch.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.535
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Vollmilch 3,5%Fett hocherhitzt, länger haltbar",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 64,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 267,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.5 Liter Packung (Einweg)",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 l 1.98"
+  },
+  "maximalOrderQuantity": 100,
+  "minimalOrderQuantity": 0,
+  "name": "Kärntnermilch Vollmilch 3.5%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milch/B2-456/produkte/kaerntnermilch-vollmilch-352/00-28688"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 l 1.98"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50,
+    60,
+    70,
+    80,
+    90,
+    100
+  ],
+  "rank": 59160,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kärntnermilch Vollmilch 3.5% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kärntnermilch Vollmilch 3.5% online bestellen | BILLA",
+  "slug": "kaerntnermilch-vollmilch-352",
+  "storeAvalibility": [
+    "00-7600",
+    "00-7609",
+    "00-7975",
+    "00-7539",
+    "00-7491",
+    "00-7915",
+    "00-7616",
+    "00-7758",
+    "00-7611",
+    "00-7963",
+    "00-7553",
+    "00-7535",
+    "00-7827",
+    "00-7632",
+    "00-7665",
+    "00-7783",
+    "00-7566",
+    "00-6130",
+    "00-7733",
+    "00-7602",
+    "00-7592",
+    "00-7710",
+    "00-7538",
+    "00-7766",
+    "00-7629",
+    "00-7980",
+    "00-7860",
+    "00-7857",
+    "00-7603",
+    "00-7676",
+    "00-7584",
+    "00-7765",
+    "00-7856",
+    "00-7759",
+    "00-9030",
+    "00-7565",
+    "00-7546",
+    "00-7681",
+    "00-7940",
+    "00-7675",
+    "00-7547",
+    "00-7835",
+    "00-7810",
+    "00-7831",
+    "00-7716",
+    "00-7920",
+    "00-7866",
+    "00-7895",
+    "00-7969",
+    "00-7536",
+    "00-7606",
+    "00-7642",
+    "00-7667",
+    "00-7544",
+    "00-7653",
+    "00-99202"
+  ],
+  "url": "/produkte/kaerntnermilch-vollmilch-352/00-28688",
+  "vatCode": "10",
+  "video": ""
+}

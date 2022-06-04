@@ -1,0 +1,234 @@
+{
+  "articleGroupIds": [
+    "B2-370",
+    "B2-317"
+  ],
+  "articleId": "00-295431",
+  "articleOnlyCanonicalPath": "/produkte/magnesia-go/00-295431",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Magnesia",
+  "canonicalPath": "/produkte/magnesia-go/00-295431",
+  "category": "Getränke",
+  "description": "Das Magnesia Go ist ein natürliches stilles Mineralwasser mit hohem Magnesiumgehalt. Es wird frisch aus der Quelle in die Flasche gefüllt.<li>magnesiumhaltig",
+  "eanCodes": [
+    "8594001023738"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Horova 3, CZ 36001 Karlovy Vary",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mattoni 1873 a.s.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@magnesia.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.magnesia.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "TSCHECHISCHE REPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "mandatoryIndicator": "Quellort Mnichov u Mariánských Lázní - Quellname\nMagnesia",
+      "marketingMessage": "magnesiumhaltig",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.78
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "Natürliches Mineralwasser Still",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 5.2,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 3.9,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 35.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 172,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 950,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 10.2,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur lichtgeschützt lagern. Nach dem Öffnen gekühlt lagern und alsbald verbrauchen.",
+      "sustenanceClaim": "Magnesiumhaltig"
+    }
+  ],
+  "grammage": "0.75 l Flasche (Einweg)",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 l 1.05"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Magnesia Go",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/mineralwasser/still/B2-370/produkte/magnesia-go/00-295431",
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/magnesia-go/00-295431"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 l 1.05"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 102410,
+  "recommendationArticleIds": [],
+  "seoDescription": "Magnesia Go online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Magnesia Go online bestellen | BILLA",
+  "slug": "magnesia-go",
+  "storeAvalibility": [
+    "00-10",
+    "00-7328",
+    "00-99202"
+  ],
+  "url": "/produkte/magnesia-go/00-295431",
+  "vatCode": "20",
+  "video": ""
+}

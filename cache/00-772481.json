@@ -1,0 +1,165 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-772481",
+  "articleOnlyCanonicalPath": "/produkte/guinness-bier/00-772481",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Guinness",
+  "canonicalPath": "/produkte/guinness-bier/00-772481",
+  "category": "Getränke",
+  "description": "Seine besonders dunkle Farbe erhält das Guinness Bier durch die Röstung der Gerste. Zusammen mit Hopfen, Wasser und Hefe sorgt sie für das süß-bittere Aroma.<li>Alkoholgehalt: 4,2 % vol<li>mit der typischen, cremig-gelben Schaumkrone",
+  "eanCodes": [
+    "0000050213245"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 4.2,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "St. James's Gate, Dublin 8, Ireland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Guinness & Co.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "IRLAND"
+      ],
+      "fromDate": "2021-03-09T00:00:00",
+      "ingredients": "Zutaten: Wasser, Malz, GERSTE, geröstete GERSTE, Hopfen, Stickstoff",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 359
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Zentiliter",
+          "value": 33
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Guinness Bier",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/guinness-bier/00-772481"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 154210,
+  "recommendationArticleIds": [
+    "00-412370"
+  ],
+  "seoDescription": "Guinness Bier online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Guinness Bier online bestellen | BILLA",
+  "slug": "guinness-bier",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/guinness-bier/00-772481",
+  "vatCode": "20",
+  "video": ""
+}

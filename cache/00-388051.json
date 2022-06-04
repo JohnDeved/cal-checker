@@ -1,0 +1,305 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-388051",
+  "articleOnlyCanonicalPath": "/produkte/stainzer-naturjoghurt/00-388051",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Stainzer",
+  "canonicalPath": "/produkte/stainzer-naturjoghurt/00-388051",
+  "category": "Kühlwaren",
+  "description": "Das Stainzer Naturjoghurt gerührt mit natürlichem Fettgehalt ist besonders mild und cremig.",
+  "eanCodes": [
+    "9066001207801"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-05-13T00:00:00",
+      "marketingMessage": "Das Stainzer Naturjoghurt gerührt mit natürlichem Fettgehalt ist besonders mild und cremig.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.516
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Naturjoghurt aus pasteurisierter Milch mit natürlichem Fettgehalt (mindestens 3,8 %), gerührt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 280,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 67,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 120,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3-6 °C) lagern. Ungeöffnet mindestens haltbar bis: siehe Deckel. Nach dem Öffnen innerhalb weniger Tage aufbrauchen."
+    }
+  ],
+  "grammage": "500 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 kg 2.18"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Stainzer Naturjoghurt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/stainzer-naturjoghurt/00-388051"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 kg 2.18"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Stainzer Naturjoghurt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Stainzer Naturjoghurt online bestellen | BILLA",
+  "slug": "stainzer-naturjoghurt",
+  "storeAvalibility": [
+    "00-6892",
+    "00-6760",
+    "00-6928",
+    "00-6065",
+    "00-7082",
+    "00-6108",
+    "00-6970",
+    "00-6533",
+    "00-6819",
+    "00-6745",
+    "00-6877",
+    "00-8433",
+    "00-7302",
+    "00-6338",
+    "00-6011",
+    "00-6900",
+    "00-6897",
+    "00-6684",
+    "00-6274",
+    "00-8946",
+    "00-6588",
+    "00-6021",
+    "00-6496",
+    "00-7358",
+    "00-6219",
+    "00-6179",
+    "00-6518",
+    "00-6353",
+    "00-6051",
+    "00-6281",
+    "00-6871",
+    "00-6569",
+    "00-6975",
+    "00-6724",
+    "00-6123",
+    "00-6799",
+    "00-6248",
+    "00-6558",
+    "00-6490",
+    "00-6024",
+    "00-6688",
+    "00-6255",
+    "00-6884",
+    "00-6304",
+    "00-7189",
+    "00-4783",
+    "00-6197",
+    "00-6864",
+    "00-6932",
+    "00-8012",
+    "00-6439",
+    "00-6494",
+    "00-6480",
+    "00-6952",
+    "00-7393",
+    "00-6138",
+    "00-6554",
+    "00-6628",
+    "00-7245",
+    "00-6983",
+    "00-7743",
+    "00-6508",
+    "00-6823",
+    "00-6306",
+    "00-6489",
+    "00-6811",
+    "00-6843",
+    "00-6979",
+    "00-6492",
+    "00-6805",
+    "00-6372",
+    "00-6916",
+    "00-6487",
+    "00-6740",
+    "00-6840",
+    "00-8940",
+    "00-6758",
+    "00-6018",
+    "00-6559",
+    "00-6749",
+    "00-6676",
+    "00-6810",
+    "00-7336",
+    "00-6424",
+    "00-6022",
+    "00-6235",
+    "00-6262",
+    "00-99202"
+  ],
+  "url": "/produkte/stainzer-naturjoghurt/00-388051",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,660 @@
+{
+  "articleGroupIds": [
+    "B2-582"
+  ],
+  "articleId": "00-503254",
+  "articleOnlyCanonicalPath": "/produkte/iglo-mehlspeisetraum-milchrahmstrudel/00-503254",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-mehlspeisetraum-milchrahmstrudel/00-503254",
+  "category": "Tiefkühl",
+  "description": "Der Iglo Milchrahmstrudel ist ein wahrer Klassiker der österreichischen Mehlspeis-Küche. Klassisch mit feiner Vanillesauce kommt der Iglo Milchrahmstrudel so wie bei Oma auf Ihren Tisch.",
+  "eanCodes": [
+    "9008695911121"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-08-02T00:00:00",
+      "ingredients": "Zutaten: Vanillesauce 69%: MAGERMILCH, Zucker, OBERS, Stärke, natürliche Aromen, Karottenextrakt. Milchrahmstrudel 31%: TOPFEN 42%, WEIZENMEHL, Wasser, Zucker, Palmöl*, Rosinen, VOLLEI, Rapsöl, Sonnenblumenöl, Speisesalz, Hefe.\n\n\n\n*Iglo unterstützt zertifiziertes nachhaltiges Palmöl.",
+      "marketingMessage": "Der Iglo Milchrahmstrudel ist ein wahrer Klassiker unter den österreichischen Mehlspeisen. Klassisch mit feiner Vanillesauce kommt der Iglo Milchrahmstrudel so wie bei Oma auf Ihren Tisch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 434
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Milchrahmstrudel in Vanillesauce, im Kochbeutel, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 632,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 151,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2528,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 603,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 74,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 41,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Im Kochtopf:\n\nDen Kochbeutel aus der Verpackung nehmen und ungeöffnet in einen Topf mit etwa 1 Liter kochendem Wasser geben. Topf nicht zudecken! Ca. 25 Minuten leicht kochen lassen, dann herausnehmen, aufschneiden und anrichten.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        },
+        {
+          "instruction": "In der Mikrowelle:\n\nDen Kochbeutel aus der Verpackung nehmen und unterhalb der Lasche auf einer Seite mit einer Gabel mehrmals anstechen. Mit der angestochenen Seite nach oben in ein mikrowellengeeignetes Geschirr legen und zugedeckt ca. 8 Minuten bei 600 Watt erhitzen.\n\n\n\nDie ideale Zubereitungszeit hängt vom jeweiligen Mikrowellenherd ab.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne künstliche Farb- und Aromastoffe\n\nOhne Zusatz von Geschmacksverstärkern\n\n\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung im Kochtopf.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-05-06T00:00:00",
+      "ingredients": "Zutaten: Vanillesauce 69%: MAGERMILCH, Zucker, OBERS, Stärke, natürliche Aromen, Karottenextrakt. Milchrahmstrudel 31%: TOPFEN 42%, WEIZENMEHL, Wasser, Zucker, Palmöl*, Rosinen, VOLLEI, Rapsöl, Sonnenblumenöl, Speisesalz, Hefe.\n\n*Iglo unterstützt zertifiziertes nachhaltiges Palmöl.",
+      "marketingMessage": "Der Iglo Milchrahmstrudel ist ein wahrer Klassiker unter den österreichischen Mehlspeisen. Klassisch mit feiner Vanillesauce kommt der Iglo Milchrahmstrudel so wie bei Oma auf Ihren Tisch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 434
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Milchrahmstrudel in Vanillesauce, im Kochbeutel, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 632,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 151,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2528,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 603,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 74,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 41,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Im Kochtopf:\nDen Kochbeutel aus der Verpackung nehmen und ungeöffnet in einen Topf mit etwa 1 Liter kochendem Wasser geben. Topf nicht zudecken! Ca. 25 Minuten leicht kochen lassen, dann herausnehmen, aufschneiden und anrichten.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        },
+        {
+          "instruction": "In der Mikrowelle:\nDen Kochbeutel aus der Verpackung nehmen und unterhalb der Lasche auf einer Seite mit einer Gabel mehrmals anstechen. Mit der angestochenen Seite nach oben in ein mikrowellengeeignetes Geschirr legen und zugedeckt ca. 8 Minuten bei 600 Watt erhitzen.\n\nDie ideale Zubereitungszeit hängt vom jeweiligen Mikrowellenherd ab.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne künstliche Farb- und Aromastoffe\nOhne Zusatz von Geschmacksverstärkern\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung im Kochtopf.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    }
+  ],
+  "grammage": "400 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 9.98"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Mehlspeisetraum Milchrahmstrudel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/desserts-und-fruechte/suessspeisen/B2-582/produkte/iglo-mehlspeisetraum-milchrahmstrudel/00-503254"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 9.98"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 27810,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Mehlspeisetraum Milchrahmstrudel online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Mehlspeisetraum Milchrahmstrudel online bestellen | BILLA",
+  "slug": "iglo-mehlspeisetraum-milchrahmstrudel",
+  "storeAvalibility": [
+    "00-2011",
+    "00-4655",
+    "00-1107",
+    "00-3105",
+    "00-4441",
+    "00-9183",
+    "00-7114",
+    "00-6760",
+    "00-4912",
+    "00-7245",
+    "00-3711",
+    "00-10",
+    "00-1032",
+    "00-9030",
+    "00-7139",
+    "00-6021",
+    "00-4551",
+    "00-6424",
+    "00-6975",
+    "00-950",
+    "00-3059",
+    "00-6130",
+    "00-6011",
+    "00-3055",
+    "00-4078",
+    "00-2287",
+    "00-7393",
+    "00-3780",
+    "00-4748",
+    "00-2131",
+    "00-4879",
+    "00-2223",
+    "00-2306",
+    "00-7075",
+    "00-6884",
+    "00-4270",
+    "00-8940",
+    "00-5108",
+    "00-7860",
+    "00-2045",
+    "00-4090",
+    "00-8085",
+    "00-6843",
+    "00-4783",
+    "00-6724",
+    "00-3744",
+    "00-3118",
+    "00-3062",
+    "00-3445",
+    "00-6864",
+    "00-6353",
+    "00-7084",
+    "00-7358",
+    "00-823",
+    "00-7017",
+    "00-2111",
+    "00-3384",
+    "00-3047",
+    "00-4421",
+    "00-1425",
+    "00-3617",
+    "00-3580",
+    "00-2098",
+    "00-3713",
+    "00-3512",
+    "00-2259",
+    "00-4690",
+    "00-1710",
+    "00-4283",
+    "00-3740",
+    "00-1198",
+    "00-6281",
+    "00-7743",
+    "00-4605",
+    "00-2808",
+    "00-4756",
+    "00-3114",
+    "00-6219",
+    "00-6745",
+    "00-1417",
+    "00-8426",
+    "00-3050",
+    "00-1070",
+    "00-1826",
+    "00-7368",
+    "00-9290",
+    "00-6928",
+    "00-3005",
+    "00-3212",
+    "00-3860",
+    "00-3042",
+    "00-1132",
+    "00-3857",
+    "00-9894",
+    "00-2201",
+    "00-7653",
+    "00-4834",
+    "00-2313",
+    "00-4466",
+    "00-3709",
+    "00-9753",
+    "00-2342",
+    "00-4440",
+    "00-5962",
+    "00-7424",
+    "00-6910",
+    "00-7606",
+    "00-4016",
+    "00-3027",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-mehlspeisetraum-milchrahmstrudel/00-503254",
+  "vatCode": "10",
+  "video": ""
+}

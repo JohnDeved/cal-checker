@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-441"
+  ],
+  "articleId": "00-253281",
+  "articleOnlyCanonicalPath": "/produkte/echter-liptauer---die-kaesemacher/00-253281",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Die Käsemacher",
+  "brandPath": "/marken/die-kaesemacher",
+  "canonicalPath": "/produkte/echter-liptauer---die-kaesemacher/00-253281",
+  "category": "Kühlwaren",
+  "description": "Der echte Liptauer von DIE KÄSEMACHER wird in traditioneller Weise aus Brimsen Frischkäse vom Schaf hergestellt und mit Butter sowie verschiedenstem Gemüse (Zwiebeln, Gurken, Kapern, Paprika) verfeinert. Vor allem in Österreich ist der Liptauer ein beliebter Brotaufstrich und wird traditionell beim Heurigen gereicht.</li>",
+  "eanCodes": [
+    "9003454021905",
+    "9003454062205",
+    "9003454062212"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Europastraße 5, A-3902 Vitis",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Die Käsemacher",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2018-08-24T00:00:00",
+      "ingredients": "Zutaten: 35% FRISCHKÄSE, 26% SCHAFFRISCHKÄSE, 17% SCHLAGOBERS, 7% Zwiebel, 4% BUTTER, 3% Gurken, 2%, Kapern, Paprika, Speisesalz, Paprikaextrakt, Gewürze, Konservierungsstoff: Kaliumsorbat, Verdickungsmittel: Guarkernmehl.",
+      "marketingMessage": "Der echte Liptauer von DIE KÄSEMACHER wird in traditioneller Weise aus Brimsen Frischkäse vom Schaf hergestellt und mit Butter sowie verschiedenstem Gemüse (Zwiebeln, Gurken, Kapern, Paprika) verfeinert. Vor allem in Österreich ist der Liptauer ein beliebter Brotaufstrich und wird traditionell beim Heurigen gereicht.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.16
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Frischkäsezubereitung aus pasteurisierter Schaf- und Kumilch mindestens 45% Fett i. Tr. mit 12% Gemüse",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 224,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 931,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet und gekühlt (4 - 7°C) mindestens haltbar bis: siehe Aufdruck.",
+      "usageHints": "Nach dem Öffnen innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "150 g Stk",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 kg 15.27"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Echter Liptauer - Die Käsemacher",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441/produkte/echter-liptauer---die-kaesemacher/00-253281"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29,
+    "unit": "1 kg 15.27"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Echter Liptauer - Die Käsemacher online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Echter Liptauer - Die Käsemacher online bestellen | BILLA",
+  "slug": "echter-liptauer---die-kaesemacher",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/echter-liptauer---die-kaesemacher/00-253281",
+  "vatCode": "10",
+  "video": ""
+}

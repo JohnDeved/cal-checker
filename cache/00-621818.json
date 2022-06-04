@@ -1,0 +1,248 @@
+{
+  "articleGroupIds": [
+    "B2-656"
+  ],
+  "articleId": "00-621818",
+  "articleOnlyCanonicalPath": "/produkte/wegschaider-blunzengroestl-mit-kartoffeln/00-621818",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Wegschaider",
+  "canonicalPath": "/produkte/wegschaider-blunzengroestl-mit-kartoffeln/00-621818",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9002562122030"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Linzerstrasse 42 4221 Steyregg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Wegschaider GmbH&CoKG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.wegschaider.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 50% Kartoffeln, 26% Rind- und Schweinefleisch, Trinkwasser, 9% Schweineblut, Speisesalz, Knoblauch, Zwiebel, WEIZENMEHL, Dextrose, Stabilisator: Diphosphat, Konservierungsstoff: Natriumnitrit, Geschmacksverstärler: Mononatriumglutamat, Gewürze (u.a. SENF, SELLERIE) Gewürzextrakt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 335
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 330
+        }
+      ],
+      "name": "Blunzen Gröst'l fertig mit Kartoffeln",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 224,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 932,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Verpackung ablösen, mit einer Gabel etwas zerkleinern und in einer beschichteten Pfanne ca. 3 Minuten kurz anbraten",
+          "type": "Braten der Speisen in Fett"
+        },
+        {
+          "instruction": "Verpackung ablösen, mit einer Gabel etwas zerkleinern und in einer Pfanne ca. 3 Minunten kurz anbraten",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Gekühlt Lagern bei 2°C bis 6°C"
+    }
+  ],
+  "grammage": "330 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 9.06"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Wegschaider Blunzengröstl mit Kartoffeln",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/menues-und-dosengerichte/B2-656/produkte/wegschaider-blunzengroestl-mit-kartoffeln/00-621818"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 9.06"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 58970,
+  "recommendationArticleIds": [],
+  "seoDescription": "Wegschaider Blunzengröstl mit Kartoffeln online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Wegschaider Blunzengröstl mit Kartoffeln online bestellen | BILLA",
+  "slug": "wegschaider-blunzengroestl-mit-kartoffeln",
+  "storeAvalibility": [
+    "00-6932",
+    "00-4707",
+    "00-6745",
+    "00-6508",
+    "00-4982",
+    "00-6496",
+    "00-4421",
+    "00-6897",
+    "00-6108",
+    "00-7302",
+    "00-6628",
+    "00-4170",
+    "00-4424",
+    "00-6138",
+    "00-99202",
+    "00-6494",
+    "00-4605",
+    "00-4945",
+    "00-6018",
+    "00-6559",
+    "00-4783",
+    "00-4028",
+    "00-6892",
+    "00-8940",
+    "00-7245",
+    "00-4225",
+    "00-6676",
+    "00-5967",
+    "00-6492",
+    "00-4601",
+    "00-4104",
+    "00-4099",
+    "00-6021",
+    "00-6900"
+  ],
+  "url": "/produkte/wegschaider-blunzengroestl-mit-kartoffeln/00-621818",
+  "vatCode": "10",
+  "video": ""
+}

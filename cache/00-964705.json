@@ -1,0 +1,204 @@
+{
+  "articleGroupIds": [
+    "B2-344"
+  ],
+  "articleId": "00-964705",
+  "articleOnlyCanonicalPath": "/produkte/strongbow-apple-cider---gold-apple2/00-964705",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Strongbow",
+  "brandPath": "/marken/strongbow",
+  "canonicalPath": "/produkte/strongbow-apple-cider---gold-apple2/00-964705",
+  "category": "Getränke",
+  "description": "Strongbow Apfel Cider Gold ist ein erfrischendes alkoholisches Getränk aus Äpfeln.<br>Ideal auf Eis serviert, für die pure Erfrischung.",
+  "eanCodes": [
+    "8586000984486"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 4.5,
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Poschacherstraße 35\n\n4021 Linz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brau Union Österreich AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.strongbow.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2018-07-03T00:00:00",
+      "ingredients": "Zutaten: Wasser, Apfelsaft aus Apfelsaftkonzentrat, Zucker, Farbstoff Zuckerkulör, Säuerungsmittel Apfelsäure, Kohlensäure, Antioxidationsmittel, KaliummetabiSULFIT, natürliches Aroma.",
+      "marketingMessage": "Strongbow Apfel Cider Gold ist ein erfrischendes alkoholisches Getränk aus Äpfeln. Ideal auf Eis serviert, für die pure Erfrischung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.46
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 440
+        }
+      ],
+      "name": "Cider - karbonisiertes Getränk auf Basis von Apfelwein.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 228,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 54,
+              "unit": "Kilokalorie"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.44 l Dose",
+  "grammageBadge": "0.44 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.42,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 1.42,
+    "unit": "1 l 4.30"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Strongbow Apple Cider - Gold Apple",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/sekt-und-champagner2/cider/B2-344/produkte/strongbow-apple-cider---gold-apple2/00-964705"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.42,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 1.42,
+    "unit": "1 l 4.30"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 107210,
+  "recommendationArticleIds": [
+    "00-965077"
+  ],
+  "seoDescription": "Strongbow Apple Cider - Gold Apple online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Strongbow Apple Cider - Gold Apple online bestellen | BILLA",
+  "slug": "strongbow-apple-cider---gold-apple2",
+  "storeAvalibility": [
+    "00-10",
+    "00-9753",
+    "00-6910",
+    "00-3157",
+    "00-99202",
+    "00-355",
+    "00-2342",
+    "00-4126",
+    "00-117",
+    "00-4551",
+    "00-7114"
+  ],
+  "url": "/produkte/strongbow-apple-cider---gold-apple2/00-964705",
+  "vatCode": "20",
+  "video": ""
+}

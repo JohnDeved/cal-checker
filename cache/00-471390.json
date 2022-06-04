@@ -1,0 +1,231 @@
+{
+  "articleGroupIds": [
+    "B2-411"
+  ],
+  "articleId": "00-471390",
+  "articleOnlyCanonicalPath": "/produkte/vegini-cevapcici/00-471390",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Vegini",
+  "canonicalPath": "/produkte/vegini-cevapcici/00-471390",
+  "category": "Kühlwaren",
+  "description": "Vegan genießen, aber mit Biss.Vegini ist \"the next generation of food\". Der pflanzliche Genuss auf Basis von Erbsenprotein, ohne Zusatz- und Konservierungsstoffe aber mit Biss. Vegini ist die neue Proteinquelle der Zukunft. Schnell zubereitet,vegan & viel Geschmack mit Biss. Überzeug dich selbst! Vegini ist für alle die sich vegan, vegetarisch oder flexitarisch ernähren und \"gutes\" Essen lieben. Eine abwechslungsreiche und ausgewogene Ernährung und eine gesunde Lebensweise ist wichtig. Der Genuss von vegini ist ein Teil davon.</li>",
+  "eanCodes": [
+    "9120073487735"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Diamantplatz 1; 3304 St. Georgen/Y.; Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "VeggieMeat GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-03-15T00:00:00",
+      "ingredients": "Zutaten: Trinkwasser, Erbsenprotein*, Sonnenblumenöl, Kokosöl, Stabilisator: Methylcellulose,  Weingeistessig, Erbsenfaser, Kartoffelstärke, Gewürze, natürliche Aromen, , Rote Beete Pulver, Karamellzuckersirup, Gewürzextrakt, Salz.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "marketingMessage": "Vegan genießen, aber mit Biss.Vegini ist \"the next generation of food\". Der pflanzliche Genuss auf Basis von Erbsenprotein, ohne Zusatz- und Konservierungsstoffe aber mit Biss. vegini ist die neue Proteinquelle der Zukunft. Schnell zubereitet, vegan & viel Geschmack mit Biss. Überzeug dich selbst! vegini ist für alle die sich vegan, vegetarisch oder flexitarisch ernähren und \"gutes\" Essen lieben. Eine abwechslungsreiche und ausgewogene Ernährung und eine gesunden Lebensweise sind wichtig. Der Genuss von vegini ist ein Teil davon.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 213.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Pflanzliche Zubereitung basierend auf Erbsenprotein (18 %).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1050,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 253,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 3.6,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Zubereitung: Nur in erhitztem Zustand verzehren. In der Pfanne ~ 4-6 min. bei mittlerer Hitze mit etwas Öl oder am Griller (Weißglut) ~ 4-6 min. auf jeder Seite anbraten.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "Gekühlt bei max. 7 °C\nmindestens haltbar bis / Charge: siehe Oberfolie",
+      "sustenanceClaim": "frei von Geschmacksverstärkern",
+      "usageHints": "Nach dem Öffnen innerhalb eines Tages aufbrauchen."
+    }
+  ],
+  "grammage": "200 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 17.45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Vegini Cevapcici",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/schnelle-kueche/menueschalen/B2-411/produkte/vegini-cevapcici/00-471390"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 17.45"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 222840,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vegini Cevapcici online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vegini Cevapcici online bestellen | BILLA",
+  "slug": "vegini-cevapcici",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/vegini-cevapcici/00-471390",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,200 @@
+{
+  "articleGroupIds": [
+    "B2-6A2"
+  ],
+  "articleId": "00-769821",
+  "articleOnlyCanonicalPath": "/produkte/vorarlberger-riebelgriess/00-769821",
+  "attributes": [
+    "s_fett",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen",
+    "s_naehrsto"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "",
+  "canonicalPath": "/produkte/vorarlberger-riebelgriess/00-769821",
+  "category": "Grundnahrungsmittel",
+  "description": "Das besondere am Vorarlberger Riebelgrieß ist, dass er gegenüber dem herkömmlichen Weizengrieß auch die Keime und Schalenteile des Weizens enthält. Er ist somit bekömmlicher. Riebelgrieß ist nicht nur für die Vorarlberger Spezialität \"Riebel\" zu verwenden, er eignet sich auch für alle anderen Speisen, die sonst mit Grieß zubereitet werden, wie Grießauflauf, Grießnockerl, Grießmus usw.",
+  "eanCodes": [
+    "9002982000185"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "OHNE_GEN_TECHNIK",
+              "valueTranslation": "OHNE GENTECHNIK (kontrolliert von VLOG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6800 Feldkirch Reichsstraße 139",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vorarlberger Mühlen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schalenhaltiger Weizengrieß für original Vorarlberger Riebel",
+      "marketingMessage": "AUF BESTES GELINGEN",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1009
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "RiebelGrieß",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 306,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1282,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 61,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [
+        {
+          "instruction": "Vorarlberger Riebel, Rezept für 4 Personen:\n500 ml Milch mit einer guten Prise Salz in einem Topf aufkochen. 300 g Vorarlberger Riebelgrieß einrühren und zugedeckt auskühlen lassen. In einer großen Eisen- oder Bratpfanne  100 g Butterschmalz erhitzen und den inzwischen festen Brei unter oftmaligen Wenden und Zerstoßen knusprig rösten. \nVorarlberger Riebelgrieß ist besonders bekömmlich. Er enthält Keime, Schalenteile und damit auch die Vitamine des Weizens. Auch andere Speisen wie Grießauflauf, Grießnockerl und Grießmus gelingen bestens.\n\nNur selbst gemacht schmeckt wie selbst gemacht.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Bei Raumtemperatur und trockener Lagerung mindestens haltbar bis:",
+      "usageHints": "Bei Raumtemperatur und trockener Lagerung mindestens haltbar bis:"
+    }
+  ],
+  "grammage": "1 Kilogramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Vorarlberger RiebelGriess",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/getreideprodukte/B2-6A2/produkte/vorarlberger-riebelgriess/00-769821"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 44460,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vorarlberger RiebelGriess online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vorarlberger RiebelGriess online bestellen | BILLA",
+  "slug": "vorarlberger-riebelgriess",
+  "storeAvalibility": [],
+  "url": "/produkte/vorarlberger-riebelgriess/00-769821",
+  "vatCode": "10",
+  "video": ""
+}

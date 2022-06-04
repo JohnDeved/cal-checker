@@ -1,0 +1,251 @@
+{
+  "articleGroupIds": [
+    "B2-48A"
+  ],
+  "articleId": "00-98219",
+  "articleOnlyCanonicalPath": "/produkte/handl-tyrol-landjaeger/00-98219",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Handl Tyrol",
+  "brandPath": "/marken/handl-tyrol",
+  "canonicalPath": "/produkte/handl-tyrol-landjaeger/00-98219",
+  "category": "Kühlwaren",
+  "description": "Der praktische Snack für unterwegs oder fürs Jausenteller: Die knackigen Tyrol Landjäger von Handl sind leicht geräuchert und fein gewürzt.<li>aus Schweine- und Rindfleisch, mit Speck<li>enthält keine zusätzlichen Aromen oder Geschmacksverstärker<li>regionale Herkunft",
+  "eanCodes": [
+    "9001745002404"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bundesstraße 33, A-6551 Pians",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Handl Tyrol GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "speckmeister@handltyrol.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.handltyrol.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten:Schweinefleisch, Rindfleisch, Speck, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Dextrose, Gewürze, Zucker, Antioxidationsmittel: Natriumascorbat; Reifekulturen, essbare Wursthülle aus Rinderkollagen (Farbstoff: Paprikaextrakt), Rauch. 100g Landjäger werden aus 150g\n\nSchweine- und Rindfleisch hergestellt.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "marketingMessage": "Der HANDL TYROL Landjäger wird aus 100 % österreichischem Fleisch hergestellt. Er ist als typisch kantige Rohwurst mit seinem würzigen Geschmack und zarten Biss der ideale Proviant beim Wandern und sollte auch bei keiner Tiroler Brettljause fehlen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 204
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Landjäger",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 481,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1991,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 43,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungekühlt lagerfähig bei Raumtemperatur. Nach dem Öffnen gekühlt lagern und innerhalb von 5 Tagen verzehren.",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\n\nund Aromen."
+    }
+  ],
+  "grammage": "200 g Packung",
+  "grammageBadge": "200 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.29,
+    "unit": "1 kg 26.45"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Handl Tyrol Landjäger",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/cabanossi/B2-48A/produkte/handl-tyrol-landjaeger/00-98219"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.29,
+    "unit": "1 kg 26.45"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 98460,
+  "recommendationArticleIds": [],
+  "seoDescription": "Handl Tyrol Landjäger online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Handl Tyrol Landjäger online bestellen | BILLA",
+  "slug": "handl-tyrol-landjaeger",
+  "storeAvalibility": [
+    "00-5454",
+    "00-5027",
+    "00-8395",
+    "00-10",
+    "00-8426",
+    "00-5381",
+    "00-8243",
+    "00-5067",
+    "00-5306",
+    "00-8441",
+    "00-8241",
+    "00-8158",
+    "00-8085",
+    "00-5000",
+    "00-8606",
+    "00-5531",
+    "00-4466",
+    "00-6845",
+    "00-99202"
+  ],
+  "url": "/produkte/handl-tyrol-landjaeger/00-98219",
+  "vatCode": "10",
+  "video": ""
+}

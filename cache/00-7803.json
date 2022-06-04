@@ -1,0 +1,387 @@
+{
+  "articleGroupIds": [
+    "B2-333"
+  ],
+  "articleId": "00-7803",
+  "articleOnlyCanonicalPath": "/produkte/teekanne-gold-teefix/00-7803",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Teekanne",
+  "brandPath": "/marken/teekanne",
+  "canonicalPath": "/produkte/teekanne-gold-teefix/00-7803",
+  "category": "Getränke",
+  "description": "Genießer hochwertigen Tees brühen sich Gold Teefix von Teekanne auf. Die Schwarztee-Mischung stammt aus der Hochlandernte in Ceylon und Assam.<li>exklusive Schwarztee-Komposition in fein abgestimmter Mischung<li>hocharomatischer Geschmack",
+  "eanCodes": [
+    "9001475020235",
+    "9001475020204",
+    "9001475094588",
+    "9001475036274",
+    "9001475202310",
+    "9001475030357",
+    "9001475074573"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Münchner Bundesstraße 120, A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Teekanne GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-02-25T00:00:00",
+      "ingredients": "Schwarzer Tee",
+      "marketingMessage": "Für unser Naturprodukt TEEKANNE Gold Teefix verwenden wir nur hochwertige und feinste Tees aus bestem Ceylon und Assam Schwarztee. Von der Auswahl der Tees in Ceylon und Assam, über die schonende Verarbeitung bis zum fertigen Teebeutel liegt alles in unserer Hand. Nur so können wir garantieren, dass der volle Genuss von TEEKANNE Gold Teefix bis in die Tasse erhalten bleibt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 72
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 40
+        }
+      ],
+      "name": "Schwarzteemischung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0.05,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.05,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 4,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "1 Tasse ( 200 ml )",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0.08,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.08,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 7,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 20,
+      "preperations": [
+        {
+          "instruction": "Teepyramide unbedingt mit frischem, sprudelnd kochendem Wasser aufgießen (200 ml) und 3-5 Minuten ziehen lassen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und trocken lagern"
+    }
+  ],
+  "grammage": "20 Teebeutel Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19
+  },
+  "maximalOrderQuantity": 18,
+  "minimalOrderQuantity": 0,
+  "name": "Teekanne Gold Teefix",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/kaffee-tee-und-co/tee/B2-333/produkte/teekanne-gold-teefix/00-7803"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 58620,
+  "recommendationArticleIds": [],
+  "seoDescription": "Teekanne Gold Teefix online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Teekanne Gold Teefix online bestellen | BILLA",
+  "slug": "teekanne-gold-teefix",
+  "storeAvalibility": [
+    "00-4655",
+    "00-7653",
+    "00-3062",
+    "00-2109",
+    "00-3569",
+    "00-6819",
+    "00-10",
+    "00-2111",
+    "00-4779",
+    "00-1913",
+    "00-471",
+    "00-5363",
+    "00-1826",
+    "00-2201",
+    "00-3114",
+    "00-7358",
+    "00-2220",
+    "00-6051",
+    "00-6138",
+    "00-9290",
+    "00-1128",
+    "00-8173",
+    "00-783",
+    "00-7075",
+    "00-6864",
+    "00-1457",
+    "00-7616",
+    "00-6021",
+    "00-2342",
+    "00-2313",
+    "00-4847",
+    "00-408",
+    "00-5003",
+    "00-3253",
+    "00-6022",
+    "00-6676",
+    "00-3023",
+    "00-2208",
+    "00-3011",
+    "00-7229",
+    "00-6684",
+    "00-3744",
+    "00-2223",
+    "00-6480",
+    "00-3700",
+    "00-7857",
+    "00-3146",
+    "00-4078",
+    "00-943",
+    "00-6372",
+    "00-1132",
+    "00-1900",
+    "00-3617",
+    "00-497",
+    "00-7860",
+    "00-4675",
+    "00-7783",
+    "00-6724",
+    "00-2131",
+    "00-3506",
+    "00-7743",
+    "00-987",
+    "00-355",
+    "00-7084",
+    "00-174",
+    "00-7539",
+    "00-1002",
+    "00-208",
+    "00-5108",
+    "00-8012",
+    "00-249",
+    "00-7940",
+    "00-3713",
+    "00-823",
+    "00-4270",
+    "00-2907",
+    "00-5603",
+    "00-3042",
+    "00-7062",
+    "00-7204",
+    "00-3157",
+    "00-6760",
+    "00-4707",
+    "00-3235",
+    "00-4605",
+    "00-6745",
+    "00-3606",
+    "00-4107",
+    "00-2204",
+    "00-4982",
+    "00-3709",
+    "00-1016",
+    "00-1198",
+    "00-3445",
+    "00-3780",
+    "00-6496",
+    "00-7721",
+    "00-7491",
+    "00-4672",
+    "00-3025",
+    "00-7606",
+    "00-3510",
+    "00-5552",
+    "00-7336",
+    "00-6255",
+    "00-7676",
+    "00-4170",
+    "00-1649",
+    "00-4421",
+    "00-3143",
+    "00-3940",
+    "00-7114",
+    "00-4690",
+    "00-3688",
+    "00-99202"
+  ],
+  "url": "/produkte/teekanne-gold-teefix/00-7803",
+  "vatCode": "20",
+  "video": ""
+}

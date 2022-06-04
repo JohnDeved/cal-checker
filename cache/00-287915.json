@@ -1,0 +1,307 @@
+{
+  "articleGroupIds": [
+    "B2-31A"
+  ],
+  "articleId": "00-287915",
+  "articleOnlyCanonicalPath": "/produkte/sanlucar-asterix-smoothie/00-287915",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "SanLucar",
+  "brandPath": "/marken/sanlucar",
+  "canonicalPath": "/produkte/sanlucar-asterix-smoothie/00-287915",
+  "category": "Getränke",
+  "description": "Mit Ananas, Banane und Erdbeere.",
+  "eanCodes": [
+    "9120070962136"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "SanLucar-Platz 1, 2483 Ebreichsdorf, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SanLucar \"fruit to go\" GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@sanlucar.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-02-28T00:00:00",
+      "ingredients": "Zutaten: Apfelpüree (25%), Apfelsaft aus Apfelsaftkonzentrat (24,3%), Ananaspüree (20%), Schwarzkarottensaft aus Schwarzkarottensaftkonzentrat (10%), Erdbeerpüree (10%), Bananenpüree (10%), Zitronensaft aus Zitronensaftkonzentrat (0,5%), Acerolaextrakt (0,2%)",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 275
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Zubereitung aus Fruchtsaftkonzentraten, Gemüsekonzentrat und Fruchtpürees. Pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 51,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 214,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt bei +2 bis +7°C mindestens haltbar bis: siehe Flaschenhals.",
+      "sustenanceClaim": "Ohne Zuckerzusatz - enthält von Natur aus Zucker. Ohne Konservierungsstoffe.",
+      "usageHints": "Vor dem Öffnen gut schütteln und dann innerhalb von 2 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "250 ml Flasche (Einweg)",
+  "grammageBadge": "250 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 l 10.36"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "SanLucar Asterix Smoothie",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/smoothies-und-fresh-juice/B2-31A/produkte/sanlucar-asterix-smoothie/00-287915"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 l 10.36"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    8,
+    16,
+    24,
+    32
+  ],
+  "rank": 59110,
+  "recommendationArticleIds": [],
+  "seoDescription": "SanLucar Asterix Smoothie online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "SanLucar Asterix Smoothie online bestellen | BILLA",
+  "slug": "sanlucar-asterix-smoothie",
+  "storeAvalibility": [
+    "00-1136",
+    "00-8657",
+    "00-6877",
+    "00-4838",
+    "00-3308",
+    "00-8400",
+    "00-2342",
+    "00-3259",
+    "00-8334",
+    "00-174",
+    "00-7249",
+    "00-2213",
+    "00-117",
+    "00-3294",
+    "00-9266",
+    "00-3042",
+    "00-9555",
+    "00-6108",
+    "00-4469",
+    "00-1002",
+    "00-4601",
+    "00-7866",
+    "00-5078",
+    "00-3234",
+    "00-4003",
+    "00-4226",
+    "00-3050",
+    "00-702",
+    "00-3569",
+    "00-8230",
+    "00-8395",
+    "00-2260",
+    "00-3326",
+    "00-3162",
+    "00-6001",
+    "00-133",
+    "00-2208",
+    "00-3059",
+    "00-1943",
+    "00-3551",
+    "00-2204",
+    "00-1958",
+    "00-7073",
+    "00-309",
+    "00-1524",
+    "00-1670",
+    "00-2312",
+    "00-7676",
+    "00-4021",
+    "00-115",
+    "00-289",
+    "00-9357",
+    "00-7611",
+    "00-6018",
+    "00-4673",
+    "00-2923",
+    "00-3509",
+    "00-4104",
+    "00-4912",
+    "00-2907",
+    "00-2259",
+    "00-3739",
+    "00-9589",
+    "00-8606",
+    "00-3063",
+    "00-6758",
+    "00-1500",
+    "00-1003",
+    "00-3378",
+    "00-2238",
+    "00-5027",
+    "00-4660",
+    "00-4813",
+    "00-823",
+    "00-3321",
+    "00-2840",
+    "00-3062",
+    "00-112",
+    "00-1480",
+    "00-6916",
+    "00-1108",
+    "00-388",
+    "00-281",
+    "00-836",
+    "00-6219",
+    "00-2345",
+    "00-3579",
+    "00-6559",
+    "00-7616",
+    "00-7547",
+    "00-771",
+    "00-4619",
+    "00-2808",
+    "00-950",
+    "00-4945",
+    "00-367",
+    "00-7721",
+    "00-8235",
+    "00-1671",
+    "00-1768",
+    "00-3584",
+    "00-3005",
+    "00-1801",
+    "00-1455",
+    "00-329",
+    "00-282",
+    "00-6676",
+    "00-783",
+    "00-1649",
+    "00-330",
+    "00-10",
+    "00-1750",
+    "00-6895",
+    "00-1866",
+    "00-99202"
+  ],
+  "url": "/produkte/sanlucar-asterix-smoothie/00-287915",
+  "vatCode": "20",
+  "video": ""
+}

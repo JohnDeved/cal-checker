@@ -1,0 +1,277 @@
+{
+  "articleGroupIds": [
+    "B2-6D3"
+  ],
+  "articleId": "00-491067",
+  "articleOnlyCanonicalPath": "/produkte/maggi-schnelle-pfanne-asiatisch/00-491067",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Maggi",
+  "brandPath": "/marken/maggi",
+  "canonicalPath": "/produkte/maggi-schnelle-pfanne-asiatisch/00-491067",
+  "category": "Grundnahrungsmittel",
+  "description": "Maggi Schnelle Pfanne Typisch Asiatisch mit Soja Sauce und Ingwer ist ideal, wenn es schnell gehen muss. Einfach Zutaten Ihrer Wahl (z.B. Gemüse, Fleisch, gekochte Nudeln, et...) in etwas Öl anbraten und die Kochwürzung nach Geschmack unterrühren. Fertig ist Ihr Gericht!",
+  "eanCodes": [
+    "0000042402909"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SPANIEN"
+      ],
+      "fromDate": "2022-02-07T00:00:00",
+      "ingredients": "ZUTATEN: Zwiebeln*, 19,5 % Sojasauce (Wasser*, SOJABOHNEN*, Salz, Weingeistessig*), Zucker*, Wasser*, Weingeistessig*, Sonnenblumenöl*, Meersalz*, Gewürze* (Knoblauch, Ingwer), Maisstärke*, GERSTENMALZEXTRAKT*. *natürliche Zutaten",
+      "marketingMessage": "MAGGI Würzmittel Soja&Ingwer eignet sich ideal, wenn es schnell gehen muss. Einfach Zutaten Ihrer Wahl ( z.B. Gemüse, Fleisch, gekochte Nudeln, et..) in etwas Öl anbraten und Magg Würzmittel Soja&Ingwer nach Geschmack unterrühren. Fertig ist Ihr Gericht!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 340
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 210
+        }
+      ],
+      "name": "Flüssige Würzmischung mit Soja Sauce & Ingwer",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 747,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 178,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 25.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 19.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 284,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 68,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 66,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 4,
+      "preperations": [
+        {
+          "instruction": "So einfach geht's für 2 Personen: Kombiniere ca. 500 g Zutaten deiner Wahl (zb.: Fleisch, Gemüse oder gekochte Nudeln,...) und braten diese in Öl an. Ca. 3 Esslöffel MAGGI Schnelle Pfanne unterrühren, fertig! Dosiere je nach Geschmack. Tipp für Saucenliebhaber: z. B. Einfach etwas Sahne, Dosentomaten, ... zugeben.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Mindestens haltbar bis Ende: Siehe Flaschenhals.",
+      "usageHints": "Nach Anbruch im Kühlschrank aufbewahren und innerhalb der nächsten 30 Tage verbrauchen."
+    }
+  ],
+  "grammage": "175 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 17.09"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "MAGGI Schnelle Pfanne Asiatisch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/saucen-und-dressings/saucen/B2-6D3/produkte/maggi-schnelle-pfanne-asiatisch/00-491067"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 17.09"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "MAGGI Schnelle Pfanne Asiatisch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "MAGGI Schnelle Pfanne Asiatisch online bestellen | BILLA",
+  "slug": "maggi-schnelle-pfanne-asiatisch",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/maggi-schnelle-pfanne-asiatisch/00-491067",
+  "vatCode": "10",
+  "video": ""
+}

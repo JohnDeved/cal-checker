@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-321"
+  ],
+  "articleId": "00-478916",
+  "articleOnlyCanonicalPath": "/produkte/zipfer-hops-kola-zitron2/00-478916",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Zipfer",
+  "brandPath": "/marken/zipfer",
+  "canonicalPath": "/produkte/zipfer-hops-kola-zitron2/00-478916",
+  "category": "Getränke",
+  "description": "Sei offen für prickelnd, aber nicht süß, für hopfig, aber nicht bitter. Sei offen für Zipfer Hops Kola Zitron, die Erfrischung mit Hopfenlimonade. Als Biermischgetränk mit erfrischender Hopfenlimonade und fruchtigem Geschmack ist Hops der perfekte Durstlöscher für den erwachsenen Gaumen. Eine neue Welt. Nach einem Hops Kola Zitron ist nichts mehr, wie es war: alkoholfreies, dunkles Bier und prickelnde Hopfen-Kola-Zitronenlimonade öffnen dir die Augen und den Gaumen. Für mehr!<li>weniger Zucker als herkömmliche Limonaden <li>ganz ohne künstliche Zusatzstoffe",
+  "eanCodes": [
+    "9028800141014"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4871 Zipf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brauerei Zipf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 206 97 97",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-12-22T00:00:00",
+      "ingredients": "Zutaten: Wasser, Fruktosesirup, GERSTENMALZ, GERSTENröstmalzextrakt, Kohlensäure, Hopfen, Säuerungsmittel Citronensäure, natürliches Aroma, Hopfenextrakt, Aroma: Koffein",
+      "marketingMessage": "Alkohlfreies Biermischgetränk\nHops Zitrone 0.0 Alk. \nmit Hopfenlimonade",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.35
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Alkoholfreies, koffeinhaltiges Biermischgetränk aus 70% Hopfen-Kola-Zitronenlimonade und 30% alkoholfreiem Bier.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 25,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 104,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "500 ml 1.50"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Zipfer Hops Kola Zitron",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/alkoholfreies-bier/B2-321/produkte/zipfer-hops-kola-zitron2/00-478916"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "500 ml 1.50"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Zipfer Hops Kola Zitron online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Zipfer Hops Kola Zitron online bestellen | BILLA",
+  "slug": "zipfer-hops-kola-zitron2",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/zipfer-hops-kola-zitron2/00-478916",
+  "vatCode": "20",
+  "video": ""
+}

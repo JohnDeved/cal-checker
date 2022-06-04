@@ -1,0 +1,225 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-767959",
+  "articleOnlyCanonicalPath": "/produkte/philadelphia-feta-und-gurke/00-767959",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Philadelphia",
+  "brandPath": "/marken/philadelphia",
+  "canonicalPath": "/produkte/philadelphia-feta-und-gurke/00-767959",
+  "category": "Kühlwaren",
+  "description": "Der Philadelphia Balance Feta & Gurke bringt mediterranes Lebensgefühl auf den Teller. Der würzige Frischkäse ist fettreduziert – für unbeschwerten Genuss.<li>mit Feta aus Schafs- und Ziegenmilch<li>herzhaft gewürzt mit Zwiebeln, Knoblauch und Pfeffer",
+  "eanCodes": [
+    "7622300318468"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "FRISCHKÄSE,MILCH,FETA,SCHAFS,ZIEGENMILCH",
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1140 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mondelez Österreich",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: FRISCHKÄSE, Molkenerzeugnisse (aus MILCH), Gurkenstückchen (6%), FETA (2%) (enthält SCHAFS- und ZIEGENMILCH), Speisesalz, Verdickungsmittel (Johannisbrotkernmehl, Carrageen), Zwiebel, Knoblauch, modifizierte Stärke, Säuerungsmittel (Citronensäure, Milchsäure), Aromen (enthalten MILCH), weißer Pfeffer.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 189
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 175
+        }
+      ],
+      "name": "Käsezubereitung der Dreiviertelfettstufe mit Frischkäse, Feta und Gurkenstückchen, wärmebehandelt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 570,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 137,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt aufbewahren."
+    }
+  ],
+  "grammage": "175 g Becher",
+  "grammageBadge": "175 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 8.51"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Philadelphia Feta & Gurke",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/philadelphia-feta-und-gurke/00-767959"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 8.51"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 103440,
+  "recommendationArticleIds": [],
+  "seoDescription": "Philadelphia Feta & Gurke online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Philadelphia Feta & Gurke online bestellen | BILLA",
+  "slug": "philadelphia-feta-und-gurke",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/philadelphia-feta-und-gurke/00-767959",
+  "vatCode": "10",
+  "video": ""
+}

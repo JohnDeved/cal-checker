@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-672"
+  ],
+  "articleId": "00-12262",
+  "articleOnlyCanonicalPath": "/produkte/darbo-reform-erdbeer-konfituere/00-12262",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Darbo",
+  "brandPath": "/marken/darbo",
+  "canonicalPath": "/produkte/darbo-reform-erdbeer-konfituere/00-12262",
+  "category": "Grundnahrungsmittel",
+  "description": "Zuckersüßer Erdbeergeschmack für jedermann: Die köstliche Erdbeer Konfitüre von Darbo kommt gänzlich ohne raffinierten Zucker aus.<li>Fruchtanteil von 40 %<li>Fruchtaufstrich mit dem Süßungsmittel Sorbitsirup<li>pflanzliches Geliermittel Pektin zur Bindung",
+  "eanCodes": [
+    "9001432005305"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "6135 Stans/Tirol, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "A. Darbo AG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.darbo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-04-18T00:00:00",
+      "ingredients": "Zutaten: Süßungsmittel Sorbitsirup, 40% Erdbeeren, Geliermittel Pektin, Säuerungsmittel Citronensäure.",
+      "mandatoryIndicator": "Kann bei übermäßigem Verzehr abführend wirken.",
+      "marketingMessage": "Alle Früchte werden besonders sorgfältig ausgewählt und schonend verarbeitet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 505
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 330
+        }
+      ],
+      "name": "Zuckerarmer Fruchtaufstrich Erdbeer mit Süßungsmittel Sorbitsirup",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 143,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 598,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 56,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen gekühlt aufbewahren."
+    }
+  ],
+  "grammage": "330 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.24,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.24,
+    "unit": "1 kg 3.76"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Darbo Reform Erdbeer Konfitüre",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/marmeladen-und-konfitueren/B2-672/produkte/darbo-reform-erdbeer-konfituere/00-12262"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.24,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.24,
+    "unit": "1 kg 3.76"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 169650,
+  "recommendationArticleIds": [],
+  "seoDescription": "Darbo Reform Erdbeer Konfitüre online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Darbo Reform Erdbeer Konfitüre online bestellen | BILLA",
+  "slug": "darbo-reform-erdbeer-konfituere",
+  "storeAvalibility": [
+    "00-7539",
+    "00-521",
+    "00-355",
+    "00-4756",
+    "00-5108",
+    "00-6130",
+    "00-4551",
+    "00-10",
+    "00-99202",
+    "00-2045",
+    "00-4707",
+    "00-225"
+  ],
+  "url": "/produkte/darbo-reform-erdbeer-konfituere/00-12262",
+  "vatCode": "10",
+  "video": ""
+}

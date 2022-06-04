@@ -1,0 +1,199 @@
+{
+  "articleGroupIds": [
+    "B2-6C3"
+  ],
+  "articleId": "00-344546",
+  "articleOnlyCanonicalPath": "/produkte/le-veneziane-potato-gnocchi/00-344546",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Le Veneziane",
+  "canonicalPath": "/produkte/le-veneziane-potato-gnocchi/00-344546",
+  "category": "Grundnahrungsmittel",
+  "description": "Glutenfreie Kartoffel-Gnocchi",
+  "eanCodes": [
+    "8009915008707"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via Molino di Ferro, 6 31050 Vedelago (Italy)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Molino di Ferro S.p.A.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+390423487035",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.molinodiferro.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: rehydrierte Kartoffeln 70% (Wasser, Kartoffelflocken, Emulgator: Mono- und Diglyceride von Speisefettsäuren, Aromen), Maismehl, Kartoffelstärke, Reismehl, Salz, Säureregulator: Milchsäure, Konservierungsmittel: Sorbinsäure, Aroma.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 515
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Kartoffel-Gnocchi ohne Gluten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 651,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 153,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.33,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 34.49,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.08,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.48,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Die Gnocchi in siedendes Salzwasser geben. Wenn sie an der Wasseroberfläche aufsteigen, noch 1-2 Minuten ziehen lassen, dann abschöpfen und servieren. Kochzeit: 2 Minuten.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "usageHints": "Die Verpackung muss vor dem Öffnen unversehrt bleiben."
+    }
+  ],
+  "grammage": "500 Gramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 6.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Le Veneziane Potato Gnocchi",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/le-veneziane-potato-gnocchi/00-344546"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 6.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 216510,
+  "recommendationArticleIds": [],
+  "seoDescription": "Le Veneziane Potato Gnocchi online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Le Veneziane Potato Gnocchi online bestellen | BILLA",
+  "slug": "le-veneziane-potato-gnocchi",
+  "storeAvalibility": [
+    "00-4551",
+    "00-10",
+    "00-355",
+    "00-99202"
+  ],
+  "url": "/produkte/le-veneziane-potato-gnocchi/00-344546",
+  "vatCode": "10",
+  "video": ""
+}

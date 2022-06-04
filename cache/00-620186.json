@@ -1,0 +1,163 @@
+{
+  "articleGroupIds": [
+    "B2-9B3"
+  ],
+  "articleId": "00-620186",
+  "articleOnlyCanonicalPath": "/produkte/dr-beckmann-farb-schmutzfaengertuch/00-620186",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Beckmann",
+  "brandPath": "/marken/dr-beckmann",
+  "canonicalPath": "/produkte/dr-beckmann-farb-schmutzfaengertuch/00-620186",
+  "category": "Haushalt",
+  "eanCodes": [
+    "4008455026411"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AISE_2010",
+              "valueTranslation": "AISE Charter Update 2010 (Nachhaltigkeit in der Reinigungsmittelindustrie in Europa)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P102"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lemböckgasse 49/Haus 1/Stiege A, A-1230 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.delta-pronatura.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "Vergiftungsinformationszentrale (VIZ)\n+43-1-4 06 43 43",
+          "type": ""
+        },
+        {
+          "channel": "Name",
+          "detail": "delta pronatura Handels GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2016-07-28T00:00:00",
+      "marketingMessage": "Dr. Beckmann Farb & Schmutzfänger-Tücher \nschützt vor Verfärbungen und erhält die Farben",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 54
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Stück",
+          "value": 1
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Keine",
+      "usageHints": "Geeignet für alle Waschtemperaturen und Textilien#\n1. Waschmaschine wie gewohnt füllen und Waschmittel wie gewohnt dosieren.#\n2. Den Dr. Beckmann  Farb- & Schmutzfänger in die Trommel geben und gewünschtes Waschprogramm starten.#\n3. Nach dem Waschgang das Tuch einfach über die offene Trommeltür hängen."
+    }
+  ],
+  "grammage": "1 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Beckmann Farb-/Schmutzfängertuch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/waschmittel-und-weichspueler/flecken--und-vorwaschmittel/B2-9B3/produkte/dr-beckmann-farb-schmutzfaengertuch/00-620186"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.29
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 201470,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Beckmann Farb-/Schmutzfängertuch online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Beckmann Farb-/Schmutzfängertuch online bestellen | BILLA",
+  "slug": "dr-beckmann-farb-schmutzfaengertuch",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/dr-beckmann-farb-schmutzfaengertuch/00-620186",
+  "vatCode": "20",
+  "video": ""
+}

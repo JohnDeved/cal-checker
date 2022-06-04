@@ -1,0 +1,217 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-372"
+  ],
+  "articleId": "00-438862",
+  "articleOnlyCanonicalPath": "/produkte/waldquelle-spritzig/00-438862",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Waldquelle",
+  "brandPath": "/marken/waldquelle",
+  "canonicalPath": "/produkte/waldquelle-spritzig/00-438862",
+  "category": "Getränke",
+  "description": "Waldquelle Spritzig ist ein natürlich erfrischendes Mineralwasser und reich an Kohlensäure. Die großen Perlen erinnern beim Einschenken ins Glas an den 'Champagner' unter den Mineralwässern. Pur getrunken ist es ein wahres Erlebnis. Gemischt mit Fruchtsäften oder Wein bringt die  natürliche Frische den vollen Geschmack zur Entfaltung.",
+  "eanCodes": [
+    "9001521000228"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Auwiese 1, 7332 Kobersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Waldquelle Kobersdorf Ges.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2618 / 8249",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.waldquelle.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "mandatoryIndicator": "Waldquellen 3, 6 und 9 in 7332 Kobersdorf",
+      "marketingMessage": "Einfach unsere Natur",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.54
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser mit Kohlensäure versetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 16.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 9.6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 2.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 85.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 15,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 284,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 39,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur lichtgeschützt lagern."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.55,
+    "unit": "1 l .37"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Waldquelle spritzig",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/waldquelle-spritzig/00-438862",
+    "~/warengruppe/getraenke/mineralwasser/prickelnd/B2-372/produkte/waldquelle-spritzig/00-438862"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.55,
+    "unit": "1 l .37"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 117060,
+  "recommendationArticleIds": [],
+  "seoDescription": "Waldquelle spritzig online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Waldquelle spritzig online bestellen | BILLA",
+  "slug": "waldquelle-spritzig",
+  "storeAvalibility": [
+    "00-7539",
+    "00-282",
+    "00-119",
+    "00-7810",
+    "00-3431",
+    "00-1750",
+    "00-1771",
+    "00-323",
+    "00-1958",
+    "00-99202"
+  ],
+  "url": "/produkte/waldquelle-spritzig/00-438862",
+  "vatCode": "20",
+  "video": ""
+}

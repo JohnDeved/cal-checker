@@ -1,0 +1,398 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-314226",
+  "articleOnlyCanonicalPath": "/produkte/iglo-buntes-pusztagemuese/00-314226",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_tiefgek",
+    "s_falergen",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-buntes-pusztagemuese/00-314226",
+  "category": "Tiefkühl",
+  "description": "Knackiges Gemüse mit einer süßen Note: Das bunte Pusztagemüse von Iglo wird erntefrisch eingefroren und bringt Farbe auf Österreichs Teller.<li>Gemüsemischung aus Paprika, Karotten, Erbsen, Karfiol, Fisolen und Mais, tiefgekühlt<li>mit Gemüse aus dem Wiener Marchfeld",
+  "eanCodes": [
+    "9008695958126"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-10-28T00:00:00",
+      "healthClaim": "Vitamin A trägt zur Erhaltung normaler Sehkraft bei.\nProteine tragen zur Erhaltung und Zunahme von\nMuskelmasse bei.",
+      "ingredients": "Zutaten: Gemüsemischung (Karotten, Erbsen, Fisolen, Karfiol, Mais, roter und gelber Paprika; in veränderlichen Gewichtsanteilen).",
+      "marketingMessage": "Das Iglo Pusztagemüse ist durch die Vielzahl an Gemüsesorten besonders bunt. Paprika, Karotten, Erbsen, Karfiol, Fisolen und Mais bringen Farbe auf Österreichs Teller.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 716
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 700
+        }
+      ],
+      "name": "Buntes Pusztagemüse, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 185,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 44,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 41,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 329,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 278,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 66,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 61,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 493,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 4,
+      "preperations": [
+        {
+          "instruction": "Im Topf (kochen): Salzwasser zum Kochen bringen, gewünschte Menge Buntes Pusztagemüse unaufgetaut hineingeben. Nach dem Wiederaufwallen des Wassers ca. 5 Min. weiterkochen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        },
+        {
+          "instruction": "In der Mikrowelle (bezogen auf 300g): Buntes Pusztagemüse unaufgetaut mit ca. 3 EL Wasser in ein mikrowellengeeignetes Geschirr geben. Zugedeckt bei ca. 750 Watt etwa 10 Min. erhitzen, dabei bei der Hälfte der Zeit umrühren.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Im Dampfgarer: Buntes Pusztagemüse unaufgetaut in einen gelochten Behälter geben. Bei 100°C ca. 6 Min. dämpfen.",
+          "type": "Dampfgaren-Zubereitung unter Druck in versiegelten Gefaess ohne Entweichen von Dampf"
+        },
+        {
+          "instruction": "Im Topf (dünsten): (bezogen auf 300g) Buntes Pusztagemüse unaufgetaut mit ca. 2 EL zerlassenem Fett in einen Topf geben und salzen. Zugedeckt bei mittlerer Hitze ca. 8 Min. zubereiten, mehrmals umrühren.",
+          "type": "Schmoren/Duensten - Zubereitung Fleisch durch Garen in Fluessigkeit"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: Entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck.",
+      "sustenanceClaim": "Nährwerte unterliegen den bei Naturprodukten\nüblichen Schwankungen und beziehen sich auf die\nZubereitung in der Mikrowelle. Vitamin A berechnet aus dem Provitamin A-Carotinoid Gehalt.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "700 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 3.79,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.49,
+    "unit": "1 kg 3.56"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Buntes Pusztagemüse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/iglo-buntes-pusztagemuese/00-314226"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 3.79,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.49,
+    "unit": "1 kg 3.56"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 100670,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Buntes Pusztagemüse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Buntes Pusztagemüse online bestellen | BILLA",
+  "slug": "iglo-buntes-pusztagemuese",
+  "storeAvalibility": [
+    "00-3780",
+    "00-3005",
+    "00-2111",
+    "00-2295",
+    "00-1108",
+    "00-10",
+    "00-5108",
+    "00-6197",
+    "00-7082",
+    "00-6676",
+    "00-7606",
+    "00-9555",
+    "00-3617",
+    "00-3120",
+    "00-2342",
+    "00-3055",
+    "00-5290",
+    "00-99202"
+  ],
+  "url": "/produkte/iglo-buntes-pusztagemuese/00-314226",
+  "vatCode": "10",
+  "video": ""
+}

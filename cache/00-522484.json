@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-684"
+  ],
+  "articleId": "00-522484",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-zwetschkenroester/00-522484",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-zwetschkenroester/00-522484",
+  "category": "Grundnahrungsmittel",
+  "description": "Für den Ja! Natürlich Bio-Zwetschkenröster werden zu 100% österreichische Bio-Früchte und österreichischer Bio-Rübenzucker verwenden und in einer Wiener Manufaktur nach traditioneller Rezeptur hergestellt. Der hohe Anteil an Bio-Zwetschken von 87% macht ihn zu einem besonderen Geschmackserlebnis. <li>Herstellung in Österreich<li>100% Österreichische Früchte und Österreichischer Rübenzucker<li>Hoher Fruchtanteil von 87% für ein besonderes Geschmackserlebnis<li>Schmeckt wie selbstgemacht",
+  "eanCodes": [
+    "9010437009010"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-11-06T00:00:00",
+      "ingredients": "Bio-Zwetschken 87%, Bio-Zucker 12.75%, Bio-Zitronensaftkonzentrat .2%, Bio-Gewürze .05%",
+      "mandatoryIndicator": "AT-BIO-301\nÖsterreich Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.424
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 230
+        }
+      ],
+      "name": "Bio-Röster Zwetschke",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 386,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4.5,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 91,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 8.8,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.2,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lichtgeschützt lagern  ",
+      "usageHints": "Nach dem Öffnen gekühlt lagern. ehebaldigst "
+    }
+  ],
+  "grammage": "230 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.09,
+    "unit": "1 kg 13.43"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Ja! Natürlich Zwetschkenröster",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/obst-und-kompotte/B2-684/produkte/ja-natuerlich-zwetschkenroester/00-522484"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.09,
+    "unit": "1 kg 13.43"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Zwetschkenröster online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Zwetschkenröster online bestellen | BILLA",
+  "slug": "ja-natuerlich-zwetschkenroester",
+  "storeAvalibility": [
+    "00-10",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/ja-natuerlich-zwetschkenroester/00-522484",
+  "vatCode": "10",
+  "video": ""
+}

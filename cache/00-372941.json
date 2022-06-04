@@ -1,0 +1,252 @@
+{
+  "articleGroupIds": [
+    "B2-484"
+  ],
+  "articleId": "00-372941",
+  "articleOnlyCanonicalPath": "/produkte/berger-beinschinken-selektion/00-372941",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-beinschinken-selektion/00-372941",
+  "category": "Kühlwaren",
+  "description": "Dieser neue Premium-Schinken wurde anlässlich 125-Jahre Genussgeschichte konzipiert. Der exquisite Beinschinken Selektion wird ausschließlich aus dem regionalen und gentechnikfreien REGIONAL-OPTIMAL-Schweinefleisch nach traditionellem Familienrezept von Hand gefertigt.<br>Gut zu wissen:<br><li>AMA-Gütesiegel<li>von Natur aus glutenfrei<li>von Natur aus lactosefrei<li>ohne Zusatz von Geschmacksverstärkern<li>100% österreichisches Fleisch<li>REGIONAL-OPTIMAL<li>handgefertigt",
+  "eanCodes": [
+    "9001455026219"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Koglerstraße 8, 3443 Sieghartskirchen, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FLEISCHWAREN BERGER GESMBH & CO KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-01-03T00:00:00",
+      "ingredients": "Zutaten:Schweinefleisch,Trinkwasser,Speisesalz,Maltodextrin, Dextrose,Stabilisatoren:Di-,Triphosphate;Gewürze,Gewürzextrakte, Antioxidationsmittel:Natriumascorbat;Konservierungsstoff: Natriumnitrit.",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 156
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 130
+        }
+      ],
+      "name": "Beinschinken Selektion Kochschinken geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 137,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 573,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei: +2°C bis +6°C Ungeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern",
+      "usageHints": "Nach dem Öffnen zum unmittelbaren Verzehr bestimmt."
+    }
+  ],
+  "grammage": "130 g Packung",
+  "grammageBadge": "130 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 26.08"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Beinschinken Selektion",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/schinken/B2-484/produkte/berger-beinschinken-selektion/00-372941"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.39,
+    "unit": "1 kg 26.08"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 152460,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Beinschinken Selektion online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Beinschinken Selektion online bestellen | BILLA",
+  "slug": "berger-beinschinken-selektion",
+  "storeAvalibility": [
+    "00-10",
+    "00-7393",
+    "00-3857",
+    "00-2360",
+    "00-4690",
+    "00-323",
+    "00-355",
+    "00-4513",
+    "00-3871",
+    "00-4482",
+    "00-1107",
+    "00-3856",
+    "00-3059",
+    "00-3709",
+    "00-4283",
+    "00-1457",
+    "00-5078",
+    "00-4126",
+    "00-281",
+    "00-1032",
+    "00-1480",
+    "00-9290",
+    "00-99202"
+  ],
+  "url": "/produkte/berger-beinschinken-selektion/00-372941",
+  "vatCode": "10",
+  "video": ""
+}

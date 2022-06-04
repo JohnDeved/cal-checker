@@ -1,0 +1,262 @@
+{
+  "articleGroupIds": [
+    "B2-F",
+    "B2-312"
+  ],
+  "articleId": "00-472621",
+  "articleOnlyCanonicalPath": "/produkte/hoellinger-bio-eistee-pfirsich/00-472621",
+  "attributes": [
+    "s_bio",
+    "s_new",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_new"
+  ],
+  "brand": "Höllinger",
+  "brandPath": "/marken/hoellinger",
+  "canonicalPath": "/produkte/hoellinger-bio-eistee-pfirsich/00-472621",
+  "category": "Neu im Online Shop",
+  "description": "Neben der Produkt-Neuheit investierte Höllinger auch in seine bestehende Sorte, den Höllinger Bio Ice Tea Pfirsich. Im Rahmen des Relaunches wurde die Rezeptur adaptiert und ebenso auf die koffeinfreie Früchtetee-Basis umgestellt.Die 100 Prozent rePET Flasche garantiert, dass aus gesammelten Flaschen wieder recycelte PET-Flaschen entstehen und Kunststoff-Flaschen mehrmals verwendet werden. Doch nicht nur die Rezeptur, auch das Design wurde optimiert. So präsentiert sich der Höllinger Ice Tea Pfirsich in einer reduzierten Optik, die ganz im Zeichen seiner erfrischenden Basis steht und die Frucht in den Mittelpunkt rückt. Gleichzeitig ist der Höllinger Bio Ice Tea Pfirsich vegan und kommt ohne künstliche Aromen, Farb- sowie Konservierungsstoffe aus.</li>",
+  "eanCodes": [
+    "9120008993508"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AUSTRIA_BIO_GARANTIE",
+              "valueTranslation": "AUSTRIA BIO GARANTIE (ABG) Biokontrollstelle Österreich"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VEGAN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-3021 Pressbaum, Postfach 1 | Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMS Höllinger Gmbh",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@hoellinger-juice.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zucker*, Pfirsichsaft* 2 % (aus Pfirsichsaftkonzentrat), natürliches Pfirsich-Aroma, Säuerungsmittel: Citronensäure, Früchtetee-Extrakt* (0,12 %). *Aus biologischem Anbau.",
+      "marketingMessage": "100% rePET",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.53
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Bio Pfirsich-Eistee mit Früchtetee-Extrakt. Pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 27,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 115,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.5 l Flasche (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 3.18"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Höllinger Bio Eistee Pfirsich",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/hoellinger-bio-eistee-pfirsich/00-472621",
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eistee/B2-312/produkte/hoellinger-bio-eistee-pfirsich/00-472621"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 3.18"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Höllinger Bio Eistee Pfirsich online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Höllinger Bio Eistee Pfirsich online bestellen | BILLA",
+  "slug": "hoellinger-bio-eistee-pfirsich",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hoellinger-bio-eistee-pfirsich/00-472621",
+  "vatCode": "20",
+  "video": ""
+}

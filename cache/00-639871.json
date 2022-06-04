@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-642"
+  ],
+  "articleId": "00-639871",
+  "articleOnlyCanonicalPath": "/produkte/pelzmann-steirisches-kuerbiskernoel-gga/00-639871",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Pelzmann",
+  "canonicalPath": "/produkte/pelzmann-steirisches-kuerbiskernoel-gga/00-639871",
+  "category": "Grundnahrungsmittel",
+  "description": "Für unser Steirisches Kürbiskernöl verwenden wir Kürbiskerne aus dem geografisch geschützten Herkunftsgebiet in Österreich.",
+  "eanCodes": [
+    "9002504112211",
+    "9002504111153"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PROTECTED_GEOGRAPHICAL_INDICATION",
+              "valueTranslation": "GESCHÜTZTE GEOGRAPHISCHE ANGABE (PGS) (für regionale Nahrungsmittel)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Pelzmannstraße 3, A-8435 Wagna, Steiermark, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ölmühle Pelzmann",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.pelzmann.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Für unser Steirisches Kürbiskernöl verwenden wir Kürbiskerne aus dem geografisch geschützten Herkunftsgebiet in Österreich.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.48
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Steirisches Kürbiskernöl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 820,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3370,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 91,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Steiermark",
+      "preperations": [],
+      "storageHint": "Lichtgeschützt und nicht über Zimmertemperatur lagern",
+      "usageHints": "Nach dem Öffnen innerhalb von 3 Monaten konsumieren. Nicht zum Braten oder Frittieren verwenden."
+    }
+  ],
+  "grammage": "250 Milliliter Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 7.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 7.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 7.49,
+    "unit": "1 l 29.96"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Pelzmann Steirisches Kürbiskernöl g.g.A.",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/essig-und-oel/oel/B2-642/produkte/pelzmann-steirisches-kuerbiskernoel-gga/00-639871"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 7.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 7.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 7.49,
+    "unit": "1 l 29.96"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51780,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pelzmann Steirisches Kürbiskernöl g.g.A. online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pelzmann Steirisches Kürbiskernöl g.g.A. online bestellen | BILLA",
+  "slug": "pelzmann-steirisches-kuerbiskernoel-gga",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/pelzmann-steirisches-kuerbiskernoel-gga/00-639871",
+  "vatCode": "10",
+  "video": ""
+}

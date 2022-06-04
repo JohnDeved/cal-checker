@@ -1,0 +1,168 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-522346",
+  "articleOnlyCanonicalPath": "/produkte/bevog-kramah-ipa/00-522346",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Bevog",
+  "canonicalPath": "/produkte/bevog-kramah-ipa/00-522346",
+  "category": "Getränke",
+  "description": "Das Kramah I.P.A. von Bevog ist so besonders wie sein österreichischer Hersteller. Aromen tropischer Früchte und Bitterkeit begleiten Holunder- und Malzaromen.<li>Starkbier mit 6,5 % vol Alkohol<li>außergewöhnliches Dosendesign",
+  "eanCodes": [
+    "9120053280288"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 6.5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R41"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-8490 Bad Radkersburg, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brauhaus Bevog GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.bevog.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-21T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen, Hefe.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 348
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "500 ml 4.08"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Bevog Kramah I.P.A.",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/bevog-kramah-ipa/00-522346"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "500 ml 4.08"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 97880,
+  "recommendationArticleIds": [
+    "00-401714"
+  ],
+  "seoDescription": "Bevog Kramah I.P.A. online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bevog Kramah I.P.A. online bestellen | BILLA",
+  "slug": "bevog-kramah-ipa",
+  "storeAvalibility": [
+    "00-771",
+    "00-388",
+    "00-176",
+    "00-10",
+    "00-2342",
+    "00-2190",
+    "00-119",
+    "00-3780",
+    "00-174",
+    "00-3042",
+    "00-6676",
+    "00-3044",
+    "00-99202"
+  ],
+  "url": "/produkte/bevog-kramah-ipa/00-522346",
+  "vatCode": "20",
+  "video": ""
+}

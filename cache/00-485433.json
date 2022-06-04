@@ -1,0 +1,242 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-485",
+    "B2-491"
+  ],
+  "articleId": "00-485433",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-kraeuterkarree/00-485433",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_spezern",
+    "s_feinkost",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_aut"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-kraeuterkarree/00-485433",
+  "category": "Kühlwaren",
+  "description": "Bestes mageres Bio-Schweinskarree, mit Bio-Gewürzen mild verfeinert und schonend gekocht, sodass sich der Fleischeigengeschmack gut entfaltet. Mit besten Bio-Kräutern ummantelt. Das Bio-Kräuterkarree von Ja! Natürlich zeichnet sich durch einen niedrigen Fettgehalt aus.<br><li>Aus artgerechter Tierhaltung<li>Ohne Geschmacksverstärker<li>Glutenfrei<li>100% Bio<li>Aus Österreich</li>",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-11-26T00:00:00",
+      "ingredients": "Bio-Schweinefleisch, Wasser, Nitritpökelsalz, Bio-Dextrose, Stabilisator (Natriumcitrate), Antioxidationsmittel (Natriumascorbat), Bio-Gewürze, Bio-Kräuter",
+      "mandatoryIndicator": "AT-BIO-301\nÖsterreich Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Bio-Kräuterkarree, gekocht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 681,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 8.1,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 163,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.6,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.8,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 39,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 42,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-6 °C",
+      "usageHints": "Nach dem Öffnen gekühlt lagern und ehebaldigst verzehren."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 29.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 29.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 29.9,
+    "unit": "100 g 2.99"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Ja! Natürlich Kräuterkarree",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/ja-natuerlich-kraeuterkarree/00-485433",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurstspezialitaeten/B2-485/produkte/ja-natuerlich-kraeuterkarree/00-485433",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/ja-natuerlich-kraeuterkarree/00-485433"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 29.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 29.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 29.9,
+    "unit": "100 g 2.99"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 144180,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Kräuterkarree online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Kräuterkarree online bestellen | BILLA",
+  "slug": "ja-natuerlich-kraeuterkarree",
+  "storeAvalibility": [
+    "00-3384",
+    "00-6021",
+    "00-355",
+    "00-10",
+    "00-3044",
+    "00-3082",
+    "00-5078",
+    "00-6676",
+    "00-1701",
+    "00-950",
+    "00-2342",
+    "00-8185",
+    "00-3011",
+    "00-119",
+    "00-3780",
+    "00-7114",
+    "00-176",
+    "00-174",
+    "00-99202"
+  ],
+  "url": "/produkte/ja-natuerlich-kraeuterkarree/00-485433",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

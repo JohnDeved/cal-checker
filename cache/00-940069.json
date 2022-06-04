@@ -1,0 +1,296 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-940069",
+  "articleOnlyCanonicalPath": "/produkte/mayflower-sardellenringe/00-940069",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Mayflower",
+  "canonicalPath": "/produkte/mayflower-sardellenringe/00-940069",
+  "category": "Grundnahrungsmittel",
+  "description": "Sardellenringe mit Kapern in Sonnenblumenöl.",
+  "eanCodes": [
+    "9001458043558"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "LY",
+              "valueTranslation": "Umschließungsnetze und Hebenetze (ohne nähere Angaben)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Untere Donaustraße 11, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMGRO GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.imgro.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "PERU"
+      ],
+      "fromDate": "2018-03-05T00:00:00",
+      "ingredients": "Zutaten: Sonnenblumenöl 49%, SARDELLENFILETS 40% (Engraulis ringens), Salz 7%, Kapern 4%",
+      "mandatoryIndicator": "Bitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.216
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "SARDELLENRINGE mit Kapern in Sonnenblumenöl",
+      "nutritions": [
+        {
+          "householdPortion": "Nährwertinformation 100g enthalten durchschnittlich (abgetropft)",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 188,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 785,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 14.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "100 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 20.90"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Mayflower Sardellenringe",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/mayflower-sardellenringe/00-940069"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 20.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 80470,
+  "recommendationArticleIds": [],
+  "seoDescription": "Mayflower Sardellenringe online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mayflower Sardellenringe online bestellen | BILLA",
+  "slug": "mayflower-sardellenringe",
+  "storeAvalibility": [
+    "00-3617",
+    "00-2045",
+    "00-3713",
+    "00-4932",
+    "00-5027",
+    "00-3143",
+    "00-6108",
+    "00-6864",
+    "00-9290",
+    "00-7539",
+    "00-521",
+    "00-350",
+    "00-3700",
+    "00-4675",
+    "00-7075",
+    "00-1457",
+    "00-4283",
+    "00-3780",
+    "00-10",
+    "00-9753",
+    "00-3947",
+    "00-225",
+    "00-4707",
+    "00-4655",
+    "00-3979",
+    "00-4779",
+    "00-2100",
+    "00-4605",
+    "00-7114",
+    "00-4126",
+    "00-99202",
+    "00-5108",
+    "00-7675",
+    "00-2342",
+    "00-7653",
+    "00-4078",
+    "00-3512",
+    "00-4783",
+    "00-6740",
+    "00-2218",
+    "00-4551",
+    "00-7857",
+    "00-7606",
+    "00-4249",
+    "00-3114",
+    "00-4170",
+    "00-4421",
+    "00-4107",
+    "00-6024",
+    "00-355",
+    "00-4690",
+    "00-783"
+  ],
+  "url": "/produkte/mayflower-sardellenringe/00-940069",
+  "vatCode": "10",
+  "video": ""
+}

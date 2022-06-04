@@ -1,0 +1,244 @@
+{
+  "articleGroupIds": [
+    "B2-634",
+    "B2-6A3"
+  ],
+  "articleId": "00-770069",
+  "articleOnlyCanonicalPath": "/produkte/salzburger-landmehl-bio-dinkelmehl/00-770069",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio",
+    "s_aut"
+  ],
+  "brand": "Salzburger",
+  "canonicalPath": "/produkte/salzburger-landmehl-bio-dinkelmehl/00-770069",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Bio-Dinkelmehl aus der Qualitätsmühle Salzburger Landmehl entfaltet beim Backen ein nussiges Aroma, das pikantes wie süßes Gebäck bereichert.<li>Bio-Dinkelmehl des Typs T700<li>aus gentechnikfreiem, österreichischem Getreide",
+  "eanCodes": [
+    "9004312003002"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AUSTRIA_BIO_GARANTIE",
+              "valueTranslation": "AUSTRIA BIO GARANTIE (ABG) Biokontrollstelle Österreich"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Taggerstraße 43 , 5440 Golling",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lerchenmühle Wieser",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@lerchenmuehle.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1015
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Bio Dinkelmehl T700",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 344,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1460,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 69,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt und trocken lagern"
+    }
+  ],
+  "grammage": "1 Kilogramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Salzburger Landmehl Bio Dinkelmehl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/mehl/B2-634/produkte/salzburger-landmehl-bio-dinkelmehl/00-770069",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/salzburger-landmehl-bio-dinkelmehl/00-770069"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 63830,
+  "recommendationArticleIds": [],
+  "seoDescription": "Salzburger Landmehl Bio Dinkelmehl online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Salzburger Landmehl Bio Dinkelmehl online bestellen | BILLA",
+  "slug": "salzburger-landmehl-bio-dinkelmehl",
+  "storeAvalibility": [
+    "00-5223",
+    "00-5078",
+    "00-5359",
+    "00-6895",
+    "00-6910",
+    "00-5552",
+    "00-8441",
+    "00-5031",
+    "00-5447",
+    "00-5306",
+    "00-5082",
+    "00-5226",
+    "00-5000",
+    "00-5290",
+    "00-5405",
+    "00-6502",
+    "00-5027",
+    "00-5181",
+    "00-5945",
+    "00-6366",
+    "00-99202",
+    "00-6845",
+    "00-5454",
+    "00-6001",
+    "00-5108",
+    "00-5737",
+    "00-5381",
+    "00-5104",
+    "00-5199",
+    "00-5003",
+    "00-5112",
+    "00-8953",
+    "00-5414",
+    "00-5322",
+    "00-5067",
+    "00-5363",
+    "00-5391",
+    "00-5165",
+    "00-5529",
+    "00-5531",
+    "00-5962"
+  ],
+  "url": "/produkte/salzburger-landmehl-bio-dinkelmehl/00-770069",
+  "vatCode": "10",
+  "video": ""
+}

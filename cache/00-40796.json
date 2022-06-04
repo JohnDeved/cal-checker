@@ -1,0 +1,259 @@
+{
+  "articleGroupIds": [
+    "B2-442",
+    "B2-490"
+  ],
+  "articleId": "00-40796",
+  "articleOnlyCanonicalPath": "/produkte/waldviertler-selchkaese---die-kaesemacher/00-40796",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_spezeig",
+    "s_spezern",
+    "s_feinkost",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Die Käsemacher",
+  "brandPath": "/marken/die-kaesemacher",
+  "canonicalPath": "/produkte/waldviertler-selchkaese---die-kaesemacher/00-40796",
+  "category": "Kühlwaren",
+  "description": "Der würzige, halbfeste Schnittkäse aus pasteurisierter Schafmilch ist einer der Klassiker im umfangreichen Sortiment von DIE KÄSEMACHER. Er überzeugt vor allem durch seine aromatische Würze mit zartem Schafmilcharoma, seiner geschmeidigen Konsistenz und seinem natürlichen Buchenholz Aroma.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Litschauerstraße 18, A-3860 Heidenreichstein",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Die Käsemacher",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 99% SCHAFMILCH, Speisesalz, Lab, Milchsäurekulturen, Buchenholzrauch.",
+      "marketingMessage": "Der würzige, halbfeste Schnittkäse aus pasteurisierter Schafmilch ist einer der Klassiker im umfangreichen Sortiment von DIE KÄSEMACHER. Er überzeugt vor allem durch seine aromatische Würze mit zartem Schafmilcharoma, seiner geschmeidigen Konsistenz und seinem natürlichen Buchenholz Aroma. Dafür wurde er bereits mit zahlreichen Auszeichnungen, wie der Gold Medaille bei der Internationalen Käsiade 2016, dem World Cheese Award 2017/18 (BRONZE) und dem World Cheese Award 2018/2019 (GOLD) gewürdigt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Schnittkäse aus pasteurisierter Schafmilch mindestens 45% Fett i. Tr., geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 388,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1609,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet und gekühlt (4 -7°C) mindestens haltbar bis: Siehe Aufdruck.",
+      "usageHints": "Nach dem Öffnen innerhalb von 3 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Waldviertler Selchkäse - Die Käsemacher",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/waldviertler-selchkaese---die-kaesemacher/00-40796",
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/waldviertler-selchkaese---die-kaesemacher/00-40796"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 27.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 27.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 27.9,
+    "unit": "100 g 2.79"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Waldviertler Selchkäse - Die Käsemacher online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Waldviertler Selchkäse - Die Käsemacher online bestellen | BILLA",
+  "slug": "waldviertler-selchkaese---die-kaesemacher",
+  "storeAvalibility": [
+    "00-3780",
+    "00-2342",
+    "00-3506",
+    "00-3468",
+    "00-3022",
+    "00-119",
+    "00-2295",
+    "00-2013",
+    "00-3681",
+    "00-10",
+    "00-1901",
+    "00-3688",
+    "00-7114",
+    "00-9688",
+    "00-9332",
+    "00-3143",
+    "00-3579",
+    "00-9498",
+    "00-3125",
+    "00-5078",
+    "00-2045",
+    "00-3501",
+    "00-3044",
+    "00-9639",
+    "00-3212",
+    "00-3149",
+    "00-6676",
+    "00-1943",
+    "00-3082",
+    "00-3055",
+    "00-176",
+    "00-950",
+    "00-6021",
+    "00-3940",
+    "00-3150",
+    "00-3713",
+    "00-355",
+    "00-9233",
+    "00-3062",
+    "00-174",
+    "00-9290",
+    "00-3384",
+    "00-3076",
+    "00-2011",
+    "00-3580",
+    "00-8185",
+    "00-9266",
+    "00-99202"
+  ],
+  "url": "/produkte/waldviertler-selchkaese---die-kaesemacher/00-40796",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

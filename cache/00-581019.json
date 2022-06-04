@@ -1,0 +1,346 @@
+{
+  "articleGroupIds": [
+    "B2-531"
+  ],
+  "articleId": "00-581019",
+  "articleOnlyCanonicalPath": "/produkte/vegitastic-bio-burger-laibchen/00-581019",
+  "attributes": [
+    "s_bio",
+    "s_new",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_new"
+  ],
+  "brand": "Vegitastic",
+  "canonicalPath": "/produkte/vegitastic-bio-burger-laibchen/00-581019",
+  "category": "Tiefkühl",
+  "description": "Echter Power Genuss für fleischfreie Tage.<br>Mit der Kraft wertvoller Hülsenfrüchte und Leinsamen, von Natur aus reich an Omega 3, Proteinen und Ballaststoffen. Traditionell gewürzt. Sind als Teil einer gesunden Lebensweise sowie einer ausgewogenen, abwechslungsreichen Ernährung zu genießen.<li>OHNE Zusatzstoffe und Stabilisatoren<li>100% pflanzlich<li>Hergestellt in Österreich, mit österreichischem Soja<li>Gänzlich plastikfreie Verpackung, wir fördern den Verein Ocean Blue, der sich für plastikfreie Gewässer einsetzt</li>",
+  "eanCodes": [
+    "9180007340093"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AUSTRIA_BIO_GARANTIE",
+              "valueTranslation": "AUSTRIA BIO GARANTIE (ABG) Biokontrollstelle Österreich"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Platanenstr. 12, 2522 Oberwaltersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "allVEGiTASTIC GmbH&CoKG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "Instagram: @vegitastic.at, FB: @vegitastic",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.vegitastic.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-31T00:00:00",
+      "ingredients": "Zutaten: Linsen*, Reis*, SOJABOHNEN*, Leinsamen*, Zwiebel*,  SOJAMEHL*, Leinsamenmehl*, Sonnenblumenkerne*, Kartoffelstärke*, Maismehl*, Branntweinessig*, Rapsöl*, Sonnenblumenöl*, SENFSAAT*, Gewürze*, Salz\n\n*aus kontrolliert biologischem Anbau",
+      "marketingMessage": "Echter Power Genuss für fleischfreie Tage.\nMit der Kraft wertvoller Hülsenfrüchte und Leinsamen, von Natur aus reich an Omega 3, Proteinen und Ballaststoffen. Traditionell gewürzt. Sind als Teil einer gesunden Lebensweise sowie einer ausgewogenen, abwechslungsreichen Ernährung zu genießen.\n\n*\tOHNE Zusatzstoffe und Stabilisatoren\n*\t100% pflanzlich\n*\thergestellt in Österreich, mit österreichischem Soja\n*\tideal für solche, die sich ausgewogen ernähren wollen, Vegetarier und Veganer  \n*\tgänzlich plastikfreie Verpackung, wir fördern den Verein Ocean Blue, der sich für plastikfreie Gewässer einsetzt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 196
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 180
+        }
+      ],
+      "name": "VEGANE LAIBCHEN BASIEREND AUF HÜLSENFRÜCHTEN (52%)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 813,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 194,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4.4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6.3,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Biotin",
+              "nutritionalValue": 9.7,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 40.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 415,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 83.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 45,
+              "measureDefinition": "~",
+              "nutritionName": "Mangan",
+              "nutritionalValue": 0.89,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 29,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 229,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 2.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Zink",
+              "nutritionalValue": 1.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Omega-3-Fettsäuren",
+              "nutritionalValue": 1.68,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Linsen und Reis aus EU und nicht-EU.\nSojabohnen aus Österreich",
+      "preperations": [
+        {
+          "instruction": "NICHT AUFTAUEN! In der Fritteuse 3,5 Min. bei 170°C frittieren.",
+          "type": "Frittieren - Zubereitung eingetaucht im heißem Öl oder Fett"
+        },
+        {
+          "instruction": "NICHT AUFTAUEN! Ca. 4 Esslöffel Öl in eine beschichtete Pfanne geben, erhitzen und dann die tiefgekühlten Bio Burger Laibchen bei mittlerer Hitze auf jeder Seite 3 bis 4 Minuten knusprig anbraten.",
+          "type": "Braten der Speisen in Fett"
+        }
+      ],
+      "storageHint": "Bei -18 °C mindestens haltbar bis:\nsiehe Aufdruck. Aufbewahrung:\n-18°C ***Fach siehe Aufdruck, \n-12°C **Fach 1 Monat,\n-6°C *Fach 1 Woche\nNach dem Auftauen nicht wieder einfrieren!",
+      "sustenanceClaim": "Ähnlicher Gehalt an Omega-3-Fettsäuren wie Meeresfische. Hauptbestandteil Alpha-Linolensäure. Sind als Teil einer gesunden Lebensweise sowie einer ausgewogenen, abwechslungsreichen Ernährung zu genießen.\n\nOHNE Laktose, OHNE Palmöl, OHNE Gentechnik*, OHNE Geschmacksverstärker*, OHNE texturierte Proteinkonzentrate, OHNE Methylzellulose*, OHNE künstliche Farb-* und Aromastoffe*, OHNE Zusatzstoffe und OHNE Konservierungsmittel* (*gemäß EU-BIO-Verordnung)",
+      "usageHints": "Als Burger oder statt Fleisch oder Fisch als Hauptgericht, in der Suppe oder mit Salat und Dip. Weitere Vorschläge: https://vegitastic.com/rezepte/"
+    }
+  ],
+  "grammage": "180 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 22.17"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Vegitastic Bio Burger Laibchen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/fleisch-und-fisch/B2-531/produkte/vegitastic-bio-burger-laibchen/00-581019"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 22.17"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vegitastic Bio Burger Laibchen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vegitastic Bio Burger Laibchen online bestellen | BILLA",
+  "slug": "vegitastic-bio-burger-laibchen",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/vegitastic-bio-burger-laibchen/00-581019",
+  "vatCode": "10",
+  "video": ""
+}

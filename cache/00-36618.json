@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-491",
+    "B2-481"
+  ],
+  "articleId": "00-36618",
+  "articleOnlyCanonicalPath": "/produkte/frierss-kaerntner-bauernkrainer/00-36618",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Frierss",
+  "brandPath": "/marken/frierss",
+  "canonicalPath": "/produkte/frierss-kaerntner-bauernkrainer/00-36618",
+  "category": "Kühlwaren",
+  "description": "Die Kärntner Bauernkrainer werden nach Kärntner Tradition aus bestem heimischen Schweinefleisch gefertigt.<br>Sorgfältig kalt geräuchert, überzeugen Sie Kenner nach dem Kochen mit delikatwürzigem Geschmack.<br>Die Kärntner Bauernkrainer gelten vor allem zu Ostern und zu Weihnachten als traditionelle Spezialität.<br><br>Zubereitungsempfehlung: Ca. 20 Minuten in heißem nicht wallendem Wasser kochen (ziehen) lassen.<br>Hervorragend mit Estragonsenf und frisch geriebenen Kren.<br>Traditionelle Spezialität bei der Osterjause sowie herzhafter Klassiker zur Festzeit.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Gewerbezeile 4, 9500 Villach, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rudolf Frierss und Söhne GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 109g Schweinefleisch für 100g Bauernkrainer, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Dextrose, Gewürze (enthält SENF) und Gewürzextrakte, Zucker, Stabilisator: Diphosphate, Geschmacksverstärker: Mononatriumglutamat, Antioxidationsmittel: Ascorbinsäure, Natriumascorbat; Würze, Aroma.",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.215
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.2
+        }
+      ],
+      "name": "Kärntner Bauernkrainer, geräuchert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 436,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1807,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 37,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "ca. 20 min in heissem nicht wallendem Wasser ziehen lassen.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen gekühlt lagern\n\n\n\ngekühlt lagern bei +2°C bis +6°C",
+      "usageHints": "Vor Verzehr kochen!\n\n\n\nehebaldig verbrauchen"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 20.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 20.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 20.9,
+    "unit": "100 g 2.09"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 1,
+  "name": "Frierss Kärntner Bauernkrainer",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/frierss-kaerntner-bauernkrainer/00-36618",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/frierss-kaerntner-bauernkrainer/00-36618"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 20.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 20.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 20.9,
+    "unit": "100 g 2.09"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 120210,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frierss Kärntner Bauernkrainer online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frierss Kärntner Bauernkrainer online bestellen | BILLA",
+  "slug": "frierss-kaerntner-bauernkrainer",
+  "storeAvalibility": [],
+  "url": "/produkte/frierss-kaerntner-bauernkrainer/00-36618",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    100,
+    200,
+    300,
+    400,
+    500
+  ]
+}

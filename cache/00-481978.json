@@ -1,0 +1,218 @@
+{
+  "articleGroupIds": [
+    "B2-511"
+  ],
+  "articleId": "00-481978",
+  "articleOnlyCanonicalPath": "/produkte/nomoo-bio-bananen-schokoladeneis/00-481978",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Nomoo",
+  "brandPath": "/marken/nomoo",
+  "canonicalPath": "/produkte/nomoo-bio-bananen-schokoladeneis/00-481978",
+  "category": "Tiefkühl",
+  "description": "Ein Bananen-Shake zum Löffeln - nur ohne Milch.<br>Süße Banane trifft knackige Kuvertüre.<br>So fruchtig, cremig und natürlich zu gleich - deine Geschmacksnerven werden sich schockverlieben.<br>Auch Bananen-Skeptiker sind begeistert.<br>Verfeinert mit cremiger Kokosnussmilch.",
+  "eanCodes": [
+    "4280001899605",
+    "4280001899612"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hospeltstraße 32, 50825 Köln",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "NRDS GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-02-22T00:00:00",
+      "ingredients": "Bananenpüree* 50%, Kokosnussmilch* (Kokosnuss(fleisch)extrakt* 75%,\nWasser), Wasser, Rohrohrzucker*, Schokoladenkuvertüre* 5%\n(Rohrohrzucker*, Kakaomasse*, Kakaobutter*), Inulin*, Traubenzucker*,\nAkazienfaser*, Meersalz, Verdickungsmittel (Pektin,\nJohannisbrotkernmehl*, Guarkernmehl*).\n*aus kontrolliert ökologischer Landwirtschaft\nEU/-Nicht-EU-Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 0.368
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 525,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 126,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 16.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 15.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.19,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Milliliter Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 11.98"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Nomoo Bio Bananen-Schokoladeneis",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/eisbecher/B2-511/produkte/nomoo-bio-bananen-schokoladeneis/00-481978"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 11.98"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nomoo Bio Bananen-Schokoladeneis online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nomoo Bio Bananen-Schokoladeneis online bestellen | BILLA",
+  "slug": "nomoo-bio-bananen-schokoladeneis",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/nomoo-bio-bananen-schokoladeneis/00-481978",
+  "vatCode": "10",
+  "video": ""
+}

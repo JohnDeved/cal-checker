@@ -1,0 +1,356 @@
+{
+  "articleGroupIds": [
+    "B2-6C2"
+  ],
+  "articleId": "00-683046",
+  "articleOnlyCanonicalPath": "/produkte/felix-sugo-mit-steirischen-almrindfleisch/00-683046",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Felix",
+  "brandPath": "/marken/felix",
+  "canonicalPath": "/produkte/felix-sugo-mit-steirischen-almrindfleisch/00-683046",
+  "category": "Grundnahrungsmittel",
+  "description": "Felix Sugo mit Almrindfleisch enthält weder Konservierungsstoffe* noch  Geschmacksverstärker und ist gluten- und laktosefrei.<br><br>*laut Verordnung",
+  "eanCodes": [
+    "9000295830338"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Felixstr. 24, A- 7210 Mattersburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Felix Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "080008/33549",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: pro 100g Sugo mit Steirischem Almrind: Tomaten 149g, Rindfleisch** 12g, Karotten, Zwiebeln 6g,  SELLERIE, Salz, Rapsöl 1,3g,  Zucker, Gewürze, Kräuter. **vom Steirischen Almrind",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.549
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 360
+        }
+      ],
+      "name": "Sugo mit Steirischem Almrindfleisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 67,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 282,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Inhalt in passendem Geschirr unter Umrühren erwärmen",
+          "type": "Erhitzen und servieren - Vor dem Servieren erhitzen oder erwaermen"
+        },
+        {
+          "instruction": "oder in einem mikrowellentauglichen Gefäß zugedeckt erhitzen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ]
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "OTHER_EXTERNAL_INFORMATION"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Felixstr. 24, A- 7210 Mattersburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Felix Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "080008/33549",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-05-30T00:00:00",
+      "ingredients": "Zutaten: Tomaten, Rindfleisch gegart*, Karotten, Zwiebeln, SELLERIE,  Kräuter, Gewürze, Salz,  Zucker, Säuerungsmittel: Essigsäure, Rapsöl, Limettensaftkonzentrat, natürliches Aroma.\n*vom Steirischen Almrind\nZur Herstellung von 100 g Sugo werden 161 g Tomaten, 9 g gegartes Rindfleisch (entspricht 12 g Frischfleisch), 7 g Karotten, 6 g Zwiebel und 5 g Sellerie verwendet.",
+      "marketingMessage": "Sugo mit regionaler Spezialität, ohne Konservierungsstoffe*, ohne Geschmacksverstärker, glutenfrei, laktosefrei, *lt. Verordnung",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.549
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 360
+        }
+      ],
+      "name": "Sugo mit Steirischem Almrindfleisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 70,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 293,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Tomaten aus EU.",
+      "preperations": [
+        {
+          "instruction": "Inhalt in passendem Geschirr unter Umrühren erwärmen",
+          "type": "Erhitzen und servieren - Vor dem Servieren erhitzen oder erwaermen"
+        },
+        {
+          "instruction": "oder in einem mikrowellentauglichen Gefäß zugedeckt erhitzen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Wärmegeschützt lagern. Nach dem Öffnen 2-3 Tage im Kühlschrank haltbar.",
+      "sustenanceClaim": "ohne Geschmacksverstärker, ohne Konservierungsstoffe*  *lt. Verordnung",
+      "usageHints": "Vor dem Öffnen schütteln."
+    }
+  ],
+  "grammage": "360 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 7.47"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Felix Sugo mit Steirischen Almrindfleisch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/sugo-und-pesto/B2-6C2/produkte/felix-sugo-mit-steirischen-almrindfleisch/00-683046"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 7.47"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 21470,
+  "recommendationArticleIds": [],
+  "seoDescription": "Felix Sugo mit Steirischen Almrindfleisch online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Felix Sugo mit Steirischen Almrindfleisch online bestellen",
+  "slug": "felix-sugo-mit-steirischen-almrindfleisch",
+  "storeAvalibility": [
+    "00-3384",
+    "00-3780",
+    "00-174",
+    "00-99202",
+    "00-10",
+    "00-3005",
+    "00-2342"
+  ],
+  "url": "/produkte/felix-sugo-mit-steirischen-almrindfleisch/00-683046",
+  "vatCode": "10",
+  "video": ""
+}

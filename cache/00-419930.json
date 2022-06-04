@@ -1,0 +1,251 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-419930",
+  "articleOnlyCanonicalPath": "/produkte/hipp-fruehkarotten-mit-kartoffeln/00-419930",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-fruehkarotten-mit-kartoffeln/00-419930",
+  "category": "Grundnahrungsmittel",
+  "description": "<li>ab dem 5. Monat</li><li>wirkt stuhlfestigend</li><li>mit Omega-3-Fettsäuren</li><li>in Bio-Qualität</li><li>frei von Gluten</li><br><br>HiPP Früh-Karotten mit Kartoffeln wird ohne Zusatz von Salz, Aromen, Farb- und Konservierungsstoffen hergestellt. Glutenfrei und ohne Verdickungsmittel. Mit stuhlfestigender Wirkung. Mit wertvollen Omega-3-Fettsäuren aus Bio-Rapsöl. In feinster Bio-Qualität.",
+  "eanCodes": [
+    "4062300021112"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-14T00:00:00",
+      "ingredients": "Zutaten: Karotten* 78 %, Wasser, Kartoffeln* 10 %, Rapsöl* 0,9 %. *Aus biologischer Erzeugung.",
+      "mandatoryIndicator": "ab 5. Monat #von Natur aus glutenfrei #Achten Sie auf eine ausgewogene Ernährung und gesunde Lebensweise.",
+      "marketingMessage": "Das Gemüse für HiPP wird gemäß den strengen Richtlinien des biologischen Landbaus angebaut - ohne künstliche Dünge- und Spritzmittel. Es ist ideal für den Start mit der Beikost ab dem 5. Monat. HiPP Gemüsegläschen sind besonders auf die Ernährungsbedürfnisse des Babys abgestimmt. So wie es für die erste Beikost empfohlen wird, setzen wir kein Salz zu - deshalb bitte auch nicht nachwürzen. HiPP Früh-Karotten mit Kartoffeln sorgt aufgrund der ausgesuchten Gemüsesorten für einen babygerechten Geschmack.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 298
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 190
+        }
+      ],
+      "name": "BIO Karotten mit Kartoffeln",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 39,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 165,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Alpha-Linolensäure",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Für eine komplette Mahlzeit ½ Glas Gemüse mit ½ Glas HiPP Fleischzubereitung und 1 Teelöffel HiPP Rapsöl (2 g) mischen. Bei Bedarf auch mehr Gemüse. Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, kräftig umrühren und Temperatur prüfen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Für eine komplette Mahlzeit ½ Glas Gemüse mit ½ Glas HiPP Fleischzubereitung und 1 Teelöffel HiPP Rapsöl (2 g) mischen. Bei Bedarf auch mehr Gemüse. Geöffnetes Glas bzw. Teilmenge im Wasserbad oder Mikrowelle erwärmen, kräftig umrühren und Temperatur prüfen.",
+          "type": "Simmern/Koecheln - Zubereitung in Wasser, welches knapp unter dem Siedepunkt gehalten wird"
+        }
+      ],
+      "storageHint": "Nicht erwärmten Rest verschlossen im Kühlschrank lagern und am nächsten Tag aufbrauchen.",
+      "usageHints": "In den ersten Beikostwochen vor der Milchmahlzeit. #Bitte Plastiklöffel verwenden. #Bitte überzeugen Sie sich vor Verwendung, dass das Glas unversehrt geblieben ist."
+    }
+  ],
+  "grammage": "190 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 6.79"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Frühkarotten mit Kartoffeln",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/hipp-fruehkarotten-mit-kartoffeln/00-419930"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 6.79"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 132520,
+  "recommendationArticleIds": [
+    "00-708520"
+  ],
+  "seoDescription": "Hipp Frühkarotten mit Kartoffeln online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Frühkarotten mit Kartoffeln online bestellen | BILLA",
+  "slug": "hipp-fruehkarotten-mit-kartoffeln",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-fruehkarotten-mit-kartoffeln/00-419930",
+  "vatCode": "10",
+  "video": ""
+}

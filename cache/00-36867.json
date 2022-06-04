@@ -1,0 +1,259 @@
+{
+  "articleGroupIds": [
+    "B2-491",
+    "B2-481"
+  ],
+  "articleId": "00-36867",
+  "articleOnlyCanonicalPath": "/produkte/moser-kaesewurst-geraeuchert/00-36867",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Moser",
+  "canonicalPath": "/produkte/moser-kaesewurst-geraeuchert/00-36867",
+  "category": "Kühlwaren",
+  "description": "Die Käsewurst von Moser ist geräuchert und gebraten. Durch den gewürfelten Käse in der Wurst entsteht ein vollmundiges Aroma.<li>aus Rind- und Schweinefleisch <li>mit Emmentaler<li>enthält Gewürze und Senf",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-3250 Wieselburg/Erlauf, Manker Straße 4",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Moser Wurst GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "moserwurst.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-04-24T00:00:00",
+      "ingredients": "Zutaten: Rind- & Schweinefleisch, Emmentaler 45% FiT (ENTHÄLT MILCH), Nitritpökelsalz (Speisesalz, Konservierungsstoff E250), Gewürze (ENTHÄLT SENF), Gewürzextrakte, Dextrose, Geschmacksverstärker E621, Antioxidationsmittel E300, E301, Stabilisatoren E450, E451, E452, Frucht- und Gemüsekonzentrat (aus Rettich, Rote Beete, Schwarze Johannisbeere, Apfel, Tomaten), Maltodextrin, Aroma. Zur Herstellung von 100g Käsewurst wurden 81g Rind- & Schweinefleisch und 21g Käse verwendet.",
+      "mandatoryIndicator": "Wursthülle nicht essbar",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 2.6
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 2.6
+        }
+      ],
+      "name": "geräucherte und gebratene Fleischwurst",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 265,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1104,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "bei max. +7°C mindestens haltbar bis: siehe Aufdruck"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Moser Käsewurst Geräuchert",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/moser-kaesewurst-geraeuchert/00-36867",
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/moser-kaesewurst-geraeuchert/00-36867"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 70890,
+  "recommendationArticleIds": [],
+  "seoDescription": "Moser Käsewurst Geräuchert online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Moser Käsewurst Geräuchert online bestellen | BILLA",
+  "slug": "moser-kaesewurst-geraeuchert",
+  "storeAvalibility": [
+    "00-3780",
+    "00-3180",
+    "00-3076",
+    "00-3510",
+    "00-3711",
+    "00-6983",
+    "00-3584",
+    "00-3983",
+    "00-3617",
+    "00-3055",
+    "00-3506",
+    "00-3121",
+    "00-4675",
+    "00-3102",
+    "00-3378",
+    "00-9415",
+    "00-3415",
+    "00-3162",
+    "00-9589",
+    "00-3143",
+    "00-8185",
+    "00-3583",
+    "00-3063",
+    "00-3196",
+    "00-3379",
+    "00-3633",
+    "00-3259",
+    "00-3170",
+    "00-3296",
+    "00-3979",
+    "00-3501",
+    "00-3996",
+    "00-3326",
+    "00-3322",
+    "00-3308",
+    "00-4249",
+    "00-3560",
+    "00-3420",
+    "00-4350",
+    "00-3135",
+    "00-3700",
+    "00-99202"
+  ],
+  "url": "/produkte/moser-kaesewurst-geraeuchert/00-36867",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

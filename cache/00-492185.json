@@ -1,0 +1,311 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-492185",
+  "articleOnlyCanonicalPath": "/produkte/mayflower-msc-wildlachs-in-tomatensauce/00-492185",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Mayflower",
+  "canonicalPath": "/produkte/mayflower-msc-wildlachs-in-tomatensauce/00-492185",
+  "category": "Grundnahrungsmittel",
+  "description": "Wildlachs in Tomatensauce",
+  "eanCodes": [
+    "9001458041196"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "GEN",
+              "valueTranslation": "Kiemen- und Verwickelnetze - Kiemen- und Verwickelnetze (ohne nähere Angaben)"
+            },
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "LY",
+              "valueTranslation": "Umschließungsnetze und Hebenetze (ohne nähere Angaben)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Untere Donaustraße 11, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMGRO GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.imgro.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "LETTLAND"
+      ],
+      "fromDate": "2021-06-24T00:00:00",
+      "ingredients": "Zutaten: WILDLACHSFILET 64% (Oncorhynchus gorbuscha), Wasser, Tomatenpaste 12%, Gewürze, Salz, Konservierungsstoff: Essigsäure.",
+      "mandatoryIndicator": "Trotz sorgfälltiger Kontrollen, können Gräten vorhanden sein.\nBitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 80
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.145
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Wildlachs in Tomatensauce",
+      "nutritions": [
+        {
+          "householdPortion": "Nährwertinformation: 100g (abgetropft) enthalten durchschnittlich:",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 116,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 486,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "servierfertig!",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und trocken lagern. Nach dem Öffnen bei 5°C aufbewahren und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "125 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 19.92"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Mayflower MSC Wildlachs in Tomatensauce",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/mayflower-msc-wildlachs-in-tomatensauce/00-492185"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 19.92"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Mayflower MSC Wildlachs in Tomatensauce online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mayflower MSC Wildlachs in Tomatensauce online bestellen | BILLA",
+  "slug": "mayflower-msc-wildlachs-in-tomatensauce",
+  "storeAvalibility": [
+    "00-521",
+    "00-4779",
+    "00-3947",
+    "00-225",
+    "00-3512",
+    "00-4170",
+    "00-3617",
+    "00-4283",
+    "00-4655",
+    "00-6024",
+    "00-350",
+    "00-4605",
+    "00-4107",
+    "00-4932",
+    "00-6740",
+    "00-4675",
+    "00-9753",
+    "00-4707",
+    "00-6864",
+    "00-4078",
+    "00-6108",
+    "00-7857",
+    "00-10",
+    "00-5027",
+    "00-4690",
+    "00-4126",
+    "00-9290",
+    "00-7075",
+    "00-2100",
+    "00-2342",
+    "00-2218",
+    "00-783",
+    "00-4249",
+    "00-3713",
+    "00-4783",
+    "00-1457",
+    "00-4421",
+    "00-7675",
+    "00-2045",
+    "00-7539",
+    "00-7653",
+    "00-3114",
+    "00-5108",
+    "00-3143",
+    "00-3700",
+    "00-7606",
+    "00-4551",
+    "00-3979",
+    "00-3780",
+    "00-7114",
+    "00-355",
+    "00-99202"
+  ],
+  "url": "/produkte/mayflower-msc-wildlachs-in-tomatensauce/00-492185",
+  "vatCode": "10",
+  "video": ""
+}

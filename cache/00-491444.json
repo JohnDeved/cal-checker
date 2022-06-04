@@ -1,0 +1,321 @@
+{
+  "articleGroupIds": [
+    "B2-313"
+  ],
+  "articleId": "00-491444",
+  "articleOnlyCanonicalPath": "/produkte/peeroton-hypotonic-inspiring-lemon/00-491444",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Peeroton",
+  "canonicalPath": "/produkte/peeroton-hypotonic-inspiring-lemon/00-491444",
+  "category": "Getränke",
+  "description": "<li>Hypotones Mineralstoffgetränk mit Süßungsmittel, Citrus Geschmack und Grünteeextrakt, 4 Vitamine zugesetzt<li>Kohlensäurefrei<li> Vegan",
+  "eanCodes": [
+    "9007088125671"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Millennium Tower, Handelskai 94-96, A-1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Peeroton GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@peeroton.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-06-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Säuerungsmittel Citronensäure, Grünteeextrakt, Süßungsmittel Sucralose,  natürliches Aroma, färbende Frucht- und Pflanzenkonzentrate aus Zitrone und Saflor, Mineralstoffe Magnesiumcitrate, Kaliumcitrate, Natriumcitrate und Calciumlactate, Vitamine Niacin, Vitamin B6, Vitamin B12 und Pantothensäure",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 800
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 750
+        }
+      ],
+      "name": "kohlensäurefreies, veganes, hypotones Mineralstoffgetränk mit Süßungsmittel, Citrus Geschmack und Grünteeextrakt, 4 Vitamine zugesetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 8,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.18,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 72,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 60,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 40,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 18,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 40,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 6.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 40,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 1,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 40,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.56,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 1,
+      "preperations": []
+    }
+  ],
+  "grammage": "0.75 l Flasche (Einweg)",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 2.65"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Peeroton Hypotonic Inspiring Lemon",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/energydrinks/B2-313/produkte/peeroton-hypotonic-inspiring-lemon/00-491444"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 2.65"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Peeroton Hypotonic Inspiring Lemon online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Peeroton Hypotonic Inspiring Lemon online bestellen | BILLA",
+  "slug": "peeroton-hypotonic-inspiring-lemon",
+  "storeAvalibility": [
+    "00-2015",
+    "00-6823",
+    "00-3452",
+    "00-7017",
+    "00-1032",
+    "00-3059",
+    "00-3082",
+    "00-3143",
+    "00-4107",
+    "00-7062",
+    "00-2342",
+    "00-7114",
+    "00-3118",
+    "00-2364",
+    "00-3593",
+    "00-4779",
+    "00-3780",
+    "00-3871",
+    "00-4078",
+    "00-1047",
+    "00-2360",
+    "00-7084",
+    "00-6219",
+    "00-7565",
+    "00-1071",
+    "00-10",
+    "00-5165",
+    "00-3606",
+    "00-7675",
+    "00-3023",
+    "00-3431",
+    "00-7653",
+    "00-4912",
+    "00-4126",
+    "00-4655",
+    "00-3561",
+    "00-1003",
+    "00-3551",
+    "00-1107",
+    "00-2923",
+    "00-7538",
+    "00-9290",
+    "00-2543",
+    "00-7860",
+    "00-4707",
+    "00-5945",
+    "00-3076",
+    "00-4551",
+    "00-4226",
+    "00-7759",
+    "00-4881",
+    "00-3384",
+    "00-355",
+    "00-2154",
+    "00-4283",
+    "00-3633",
+    "00-3506",
+    "00-323",
+    "00-1457",
+    "00-4813",
+    "00-1041",
+    "00-1132",
+    "00-4756",
+    "00-7393",
+    "00-3709",
+    "00-4690",
+    "00-6255",
+    "00-99202"
+  ],
+  "url": "/produkte/peeroton-hypotonic-inspiring-lemon/00-491444",
+  "vatCode": "20",
+  "video": ""
+}

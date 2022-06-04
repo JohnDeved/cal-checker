@@ -1,0 +1,174 @@
+{
+  "articleGroupIds": [
+    "B2-A13"
+  ],
+  "articleId": "00-293399",
+  "articleOnlyCanonicalPath": "/produkte/beneful-fleischhaeppchen-mit-huhn/00-293399",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Beneful",
+  "brandPath": "/marken/beneful",
+  "canonicalPath": "/produkte/beneful-fleischhaeppchen-mit-huhn/00-293399",
+  "category": "Haustier",
+  "description": "Ihr Hund wird diese köstlichen Snacks reich an Huhn lieben, die in kleine Stücke geteilt werden können, um allen Hundegrößen gerecht zu werden.<br>Diese gesunden Snacks sind reich an Protein, mit Vitaminen, für viele besondere Momente zwischen Ihnen und Ihrem besten Freund.<br>Leckere Snacks mit 95% Fleisch, davon jeweils 35% Huhn.",
+  "eanCodes": [
+    "7613036587389"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "IE/kg: Vit A: 5000; Vit D3: 500; Vit. E: 50. Konservierungsstoffe."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Protein: 36,0%, Fettgehalt: 21,0%, Rohasche: 8,0%, Rohfaser: 2,0%, Feuchtigkeit: 30,0%."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Um die Gesundheit Ihres Hundes aufrechtzuerhalten, beachten Sie die Fütterungsempfehlung. Sauberes, frisches Trinkwasser sollte stets zur Verfügung stehen. Achten Sie auf eine tägliche ausreichende Bewegung; Fütterungsempfehlung: Tägliche Fütterungsmenge bis zu: 7 kg - 5 Stücke; 15 kg - 8 Stücke; 30 kg - 13 Stücke"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "DE 05 3 66 0001 13"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: Zutaten:Fleisch und tierische Nebenerzeugnisse (95%; 35% vom Huhn, 30% vom Rind, 30% vom Schwein), Mineralstoffe, Pflanzliche Nebenerzeugnisse."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-01-30T00:00:00",
+      "mandatoryIndicator": "Ergänzungsfuttermittel für ausgewachsene Hunde",
+      "marketingMessage": "Ihr Hund wird diese köstlichen Snacks reich an Huhn lieben, die in kleine Stücke geteilt werden können, um allen Hundegrößen gerecht zu werden. Diese gesunden Snacks sind reich an Protein, mit Vitaminen, für viele besondere Momente zwischen Ihnen und Ihrem besten Freund.\n Leckere Snacks mit 95% Fleisch, davon jeweils 35% Huhn",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 76
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 70
+        }
+      ],
+      "name": "Ergänzungsfuttermittel für ausgewachsene Hunde",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Den ungeöffneten Beutel bitte kühl und trocken lagern"
+    }
+  ],
+  "grammage": "70 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 31.29"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Beneful Fleischhäppchen mit Huhn",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/hunde/hunde-snacks/B2-A13/produkte/beneful-fleischhaeppchen-mit-huhn/00-293399"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 31.29"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 38250,
+  "recommendationArticleIds": [],
+  "seoDescription": "Beneful Fleischhäppchen mit Huhn online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Beneful Fleischhäppchen mit Huhn online bestellen | BILLA",
+  "slug": "beneful-fleischhaeppchen-mit-huhn",
+  "storeAvalibility": [
+    "00-4675",
+    "00-7393",
+    "00-3114",
+    "00-3023",
+    "00-7857",
+    "00-3118",
+    "00-7759",
+    "00-6024",
+    "00-7606",
+    "00-4690",
+    "00-10",
+    "00-7653",
+    "00-99202"
+  ],
+  "url": "/produkte/beneful-fleischhaeppchen-mit-huhn/00-293399",
+  "vatCode": "13",
+  "video": ""
+}

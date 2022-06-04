@@ -1,0 +1,165 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-522372",
+  "articleOnlyCanonicalPath": "/produkte/bevog-tak-pale-ale/00-522372",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Bevog",
+  "canonicalPath": "/produkte/bevog-tak-pale-ale/00-522372",
+  "category": "Getränke",
+  "description": "Dieses Bier wurde kreiert, um eine geschmackvolle, aromatische und ausgewogene Biersorte zu schaffen. Die Grundlage des Bieres bildet eine relativ einfache Kombination aus Basismalz und karamellisiertem Malz. Diese Grundlage wurde mit 4 Hopfensorten belegt, die dem Bier ein frisches, fruchtiges Aroma und einen wunderbar erfrischenden Geschmack verleihen. All das bildet zusammen mit der Malzbasis ein sehr ausgewogenes und extrem trinkbares Ale.",
+  "eanCodes": [
+    "9120053280318"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5.5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R41"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-8490 Bad Radkersburg, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brauhaus Bevog GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.bevog.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-21T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen, Hefe",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 348
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "500 ml 4.08"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Bevog Tak Pale Ale",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/bevog-tak-pale-ale/00-522372"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "500 ml 4.08"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Bevog Tak Pale Ale online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bevog Tak Pale Ale online bestellen | BILLA",
+  "slug": "bevog-tak-pale-ale",
+  "storeAvalibility": [
+    "00-3042",
+    "00-3780",
+    "00-119",
+    "00-388",
+    "00-10",
+    "00-2342",
+    "00-2190",
+    "00-174",
+    "00-176",
+    "00-771",
+    "00-3044",
+    "00-6676",
+    "00-99202"
+  ],
+  "url": "/produkte/bevog-tak-pale-ale/00-522372",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,245 @@
+{
+  "articleGroupIds": [
+    "B2-441"
+  ],
+  "articleId": "00-281914",
+  "articleOnlyCanonicalPath": "/produkte/vegavita-hummus-pomodori-secchi/00-281914",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Vegavita",
+  "brandPath": "/marken/vegavita",
+  "canonicalPath": "/produkte/vegavita-hummus-pomodori-secchi/00-281914",
+  "category": "Kühlwaren",
+  "description": "Einen originellen und schmackhaften Brotaufstrich kreiert Vegavita mit dem Hummus Pomodori Secchi: Getrocknete Tomaten verleihen ihm säuerlich-frisches Aroma.<li>Bio-Kichererbsen-Aufstrich aus Österreich<li>mediterran gewürzt<li>für Dips, aufs Brot oder zum Falafel<li>vegan",
+  "eanCodes": [
+    "9009865001710"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Saccharose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Fructose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VEGAN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "post@vegavita.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-10-31T00:00:00",
+      "ingredients": "Zutaten: 42% Kichererbsen* gekocht (Kichererbsen*, Wasser), Sonnenblumenöl, Sojabasis* (Wasser, SOJABOHNEN*), Wasser, SESAMSAAT*, 4% Tomaten* (Tomatenstücke*, Tomatensaft*), Karotten*, 3% Tomaten* getrocknet, Speisesalz, Tomatenpulver*, Maisstärke*, Zitronensaft* aus Zitronensaftkonzentrat*, Zucker*, Zwiebel*, Knoblauch* getrocknet, Verdickungsmittel: Johannisbrotkernmehl*, Gewürze*.\n\n* aus kontrolliert biologischer Landwirtschaft\n",
+      "mandatoryIndicator": "AT-BIO-301\nEU-/Nicht-EU-Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.15
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "pflanzlicher Bio Brotaufstrich aus Kichererbsen, mit getrockneten Tomaten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 965,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 233,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4.2,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2.3,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.56,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-6 °C",
+      "usageHints": "Nach dem Öffnen fest verschließen und ehebaldigst verzehren."
+    }
+  ],
+  "grammage": "150 g Packung",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.15,
+    "unit": "1 kg 14.33"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Vegavita Hummus Pomodori Secchi",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441/produkte/vegavita-hummus-pomodori-secchi/00-281914"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.15,
+    "unit": "1 kg 14.33"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 111360,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vegavita Hummus Pomodori Secchi online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vegavita Hummus Pomodori Secchi online bestellen | BILLA",
+  "slug": "vegavita-hummus-pomodori-secchi",
+  "storeAvalibility": [],
+  "url": "/produkte/vegavita-hummus-pomodori-secchi/00-281914",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,176 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-372"
+  ],
+  "articleId": "00-823470",
+  "articleOnlyCanonicalPath": "/produkte/mix-it-sodawasser/00-823470",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Mix It",
+  "canonicalPath": "/produkte/mix-it-sodawasser/00-823470",
+  "category": "Getränke",
+  "description": "Das Mix It Sodawasser ist ein neutrales Wasser, das mit erfrischender Kohlensäure versetzt ist. Es eignet sich zum Mischen und zum pur Genießen.<li>enthält Kohlensäure<li>bei Raumtemperatur lichtgeschützt lagern",
+  "eanCodes": [
+    "0000090168789"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PET_TO_PET",
+              "valueTranslation": "PET to PET (Recycling von PET Flaschen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Tiroler Straße 20, A-3105 Unterradlberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Egger Getränke GmbH & Co OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "eggergetraenke.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-18T00:00:00",
+      "ingredients": "Zutaten: Wasser, Kohlensäure.",
+      "marketingMessage": "Das Sodawasser. Extra prickelnd.\nKlimaneutral produziert.\nQualität aus Österreich.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Sodawasser",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur lichtgeschützt lagern."
+    }
+  ],
+  "grammage": "0.5 l Flasche (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.29,
+    "unit": "1 l .58"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Mix It Sodawasser",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/mix-it-sodawasser/00-823470",
+    "~/warengruppe/getraenke/mineralwasser/prickelnd/B2-372/produkte/mix-it-sodawasser/00-823470"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.29,
+    "unit": "1 l .58"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30,
+    36
+  ],
+  "rank": 148210,
+  "recommendationArticleIds": [
+    "00-89088"
+  ],
+  "seoDescription": "Mix It Sodawasser online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mix It Sodawasser online bestellen | BILLA",
+  "slug": "mix-it-sodawasser",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/mix-it-sodawasser/00-823470",
+  "vatCode": "20",
+  "video": ""
+}

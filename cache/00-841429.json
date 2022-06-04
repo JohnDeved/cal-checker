@@ -1,0 +1,255 @@
+{
+  "articleGroupIds": [
+    "B2-642"
+  ],
+  "articleId": "00-841429",
+  "articleOnlyCanonicalPath": "/produkte/hamlitsch-steirisches-kuerbiskernoel-gga/00-841429",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hamlitsch",
+  "canonicalPath": "/produkte/hamlitsch-steirisches-kuerbiskernoel-gga/00-841429",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Steirische Kürbiskernöl g.g.A. von Hamlitsch ist ein zu 100 % reines Produkt mit einem unvergleichlichen Aroma und einem wunderbar nussigen Geschmack.<li>original steirisches Kürbiskernöl g.g.A. (geschützte geografische Angabe)<li>durch schonendes Rösten und Pressen hergestellt<li>enthält mehrfach ungesättigte Fettsäuren<li>reich an Vitamin E",
+  "eanCodes": [
+    "9003391000032"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PROTECTED_GEOGRAPHICAL_INDICATION",
+              "valueTranslation": "GESCHÜTZTE GEOGRAPHISCHE ANGABE (PGS) (für regionale Nahrungsmittel)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wirtschaftspark 28, A-8530 Deutschlandsberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Weststeirische Ölmühle Hamlitsch GmbH & Co KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Durch schonendes Rösten und Pressen verarbeiten wir in unserem Familienbetrieb seit 1928 nach alter Tradition steirische Kürbiskerne zum Steirischen Kürbiskernöl ggA. (geschützte geografische Angabe).                   Die vielen Auszeichnungen und Prämierungen unseres Produktes spiegeln den hohen Qualitätsstandard wider und garantieren dem Konsumenten höchste Sorgfalt bei der Auswahl der Kürbiskerne und deren Verarbeitung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 882
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Steirisches Kürbiskernöl ggA",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3700,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 900,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 100,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 242,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 29,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen gut verschlossen aufbewahren und zügig aufbrauchen. Vor Wärme und Licht geschützt lagern."
+    }
+  ],
+  "grammage": "0.5 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 13.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 13.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 13.29,
+    "unit": "1 l 26.58"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hamlitsch Steirisches Kürbiskernöl g.g.A.",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/essig-und-oel/oel/B2-642/produkte/hamlitsch-steirisches-kuerbiskernoel-gga/00-841429"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 13.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 13.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 13.29,
+    "unit": "1 l 26.58"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 52320,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hamlitsch Steirisches Kürbiskernöl g.g.A. online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hamlitsch Steirisches Kürbiskernöl g.g.A. online bestellen",
+  "slug": "hamlitsch-steirisches-kuerbiskernoel-gga",
+  "storeAvalibility": [
+    "00-7082",
+    "00-1071",
+    "00-2369",
+    "00-397",
+    "00-2364",
+    "00-7302",
+    "00-643",
+    "00-7224",
+    "00-7204",
+    "00-10",
+    "00-7229",
+    "00-7393",
+    "00-2174",
+    "00-1532",
+    "00-2218",
+    "00-1132",
+    "00-99202",
+    "00-1249",
+    "00-7336",
+    "00-355",
+    "00-7245",
+    "00-1596",
+    "00-7139",
+    "00-7358",
+    "00-133",
+    "00-1098",
+    "00-1457",
+    "00-7743",
+    "00-1208",
+    "00-2338",
+    "00-282",
+    "00-1128",
+    "00-7189"
+  ],
+  "url": "/produkte/hamlitsch-steirisches-kuerbiskernoel-gga/00-841429",
+  "vatCode": "10",
+  "video": ""
+}

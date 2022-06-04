@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-759",
+    "B2-E21",
+    "B2-758"
+  ],
+  "articleId": "00-781259",
+  "articleOnlyCanonicalPath": "/produkte/milka-happy-birthday/00-781259",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Milka",
+  "brandPath": "/marken/milka",
+  "canonicalPath": "/produkte/milka-happy-birthday/00-781259",
+  "category": "Süßes & Salziges",
+  "description": "Ein süßes und schokoladiges \"Happy Birthday\" verkündet Milka mit den köstlichen Schokoladenpralinen in der schönen Geschenkpackung.<li>Pralinen aus Alpenmilch-Schokolade<li>gefüllt mit einer süßen Milchcreme<li>mit Haselnusscreme verfeinert<li>in der hübschen Geschenkverpackung",
+  "eanCodes": [
+    "7622210598080",
+    "7622210079473"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "allergyIndicator": "MAGERMILCHPULVER,MILCH,BUTTERREINFETT,SOJALECITHIN,HASELNÜSSE,KANN ANDERE NÜSSE UND WEIZEN ENTHALTEN.",
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1140 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mondelez Österreich",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2020-01-09T00:00:00",
+      "ingredients": "Zutaten: Zucker, Palmöl, Kakaobutter, MAGERMILCHPULVER, Süßmolkenpulver (aus MILCH), Kakaomasse, BUTTERREINFETT, Emulgatoren (SOJALECITHIN, E476, Sonnenblumenlecithin), HASELNÜSSE, Aromen, Molkenerzeugniss (aus MILCH). KANN ANDERE NÜSSE UND WEIZEN ENTHALTEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 150
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 110
+        }
+      ],
+      "name": "Alpenmilch Schokolade Pralinen gefüllt mit Milchcrème (39%).",
+      "nutritions": [
+        {
+          "householdPortion": "5 Pralines (27.5g)",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2380,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 570,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 37,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 53.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.43,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken lagern und vor Wärme schützen."
+    }
+  ],
+  "grammage": "110 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 2.19,
+    "unit": "100 g 1.99"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Milka Happy Birthday",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/bonbonniere-und-spezialitaeten/B2-759/produkte/milka-happy-birthday/00-781259",
+    "~/warengruppe/geschenkideen/geschenksideen/bonbonniere/B2-E21/produkte/milka-happy-birthday/00-781259",
+    "~/warengruppe/suesses-und-salziges/suesses2/suesse-spezialitaeten/B2-758/produkte/milka-happy-birthday/00-781259"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 2.19,
+    "unit": "100 g 1.99"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 56600,
+  "recommendationArticleIds": [],
+  "seoDescription": "Milka Happy Birthday online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Milka Happy Birthday online bestellen | BILLA",
+  "slug": "milka-happy-birthday",
+  "storeAvalibility": [
+    "00-783",
+    "00-4551",
+    "00-10",
+    "00-6130",
+    "00-7539",
+    "00-7075",
+    "00-355",
+    "00-4707",
+    "00-2045",
+    "00-7017",
+    "00-99202",
+    "00-9225",
+    "00-350"
+  ],
+  "url": "/produkte/milka-happy-birthday/00-781259",
+  "vatCode": "10",
+  "video": ""
+}

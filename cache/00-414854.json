@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-221"
+  ],
+  "articleId": "00-414854",
+  "articleOnlyCanonicalPath": "/produkte/berger-hausbrot/00-414854",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-hausbrot/00-414854",
+  "category": "Brot & Gebäck",
+  "description": "Außen resch, innen saftig präsentiert sich das Berger Hausbrot. Es ist aus Roggen- und Weizenmehl gebacken. Natursauerteig hält das Brot länger frisch.<li>mit Fenchel, Koriander und Kümmel fein abgeschmeckt",
+  "eanCodes": [
+    "9003644001649"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hörschingerstraße 17, 4061 Pasching",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Michael Berger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: ROGGENMEHL, Wasser, WEIZENMEHL, Natursauerteig (ROGGENMEHL, Wasser), Hefe, unjodiertes Speisesalz, Brotgewürz(Fenchel, Koriander, Kümmel), Säuerungsmittel: Milch und Essigsäure, Ascorbinsäure, Kann Spuren von Soja und Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 450
+        }
+      ],
+      "name": "Schwarzbrot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 221,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 925,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 41.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "450 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "1 kg 4.33"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Hausbrot",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221/produkte/berger-hausbrot/00-414854"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "1 kg 4.33"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 69880,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Hausbrot online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Hausbrot online bestellen | BILLA",
+  "slug": "berger-hausbrot",
+  "storeAvalibility": [
+    "00-4059",
+    "00-4407",
+    "00-4225",
+    "00-4932",
+    "00-4707",
+    "00-5967",
+    "00-4755",
+    "00-4170",
+    "00-4838",
+    "00-4925",
+    "00-4028",
+    "00-4090",
+    "00-4879",
+    "00-4001",
+    "00-4478",
+    "00-4099",
+    "00-4952",
+    "00-99202",
+    "00-4945",
+    "00-4847",
+    "00-4021",
+    "00-4104",
+    "00-4540",
+    "00-4226",
+    "00-4601"
+  ],
+  "url": "/produkte/berger-hausbrot/00-414854",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,396 @@
+{
+  "articleGroupIds": [
+    "B2-333",
+    "B2-625"
+  ],
+  "articleId": "00-576335",
+  "articleOnlyCanonicalPath": "/produkte/hipp-bio-fenchel-tee/00-576335",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Hipp",
+  "brandPath": "/marken/hipp",
+  "canonicalPath": "/produkte/hipp-bio-fenchel-tee/00-576335",
+  "category": "Getränke",
+  "description": "HiPP Bio-Fenchel-Tee ist ein milder, bekömmlicher Tee. Er besteht aus hochwertigem Bio-Fenchel, der besonders streng auf Schadstoffe kontrolliert wird. HiPP Bio-Fenchel-Tee ist mit der besonderen HiPP Sorgfalt hergestellt.",
+  "eanCodes": [
+    "4062300282773"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "ORGANIC_CERTIFICATE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-4810 GMUNDEN",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HiPP Austria GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-02-28T00:00:00",
+      "ingredients": "Zutaten: Bio-Fenchel 100%.",
+      "mandatoryIndicator": "Wichtiger Hinweis zur Zahngesundheit: Bitte grundsätzlich aus dem Becher trinken lassen. Aufgrund des Gehalts an natürlichen Kohlenhydraten kann häufiges oder andauerndes Nuckeln oder Saugen aus der Flasche oder sog. Trinklerntassen (speziell bei kleiner Öffnung) Zahnschäden (Karies) verursachen. Deshalb: Flasche oder Trinklerntasse dem Kind nicht zum dauernden Nuckeln, Saugen, als Beruhigungssauger oder Einschlafhilfe überlassen. Achten Sie darauf, dass Ihr Kind zügig trinkt. Von Beginn an für regelmäßige Zahnpflege sorgen. #glutenfrei",
+      "marketingMessage": "HiPP Bio Fencheltee schmeckt mild und wohltuend und besteht aus 100% Bio-Fenchel, welcher strengstens schadstoffkontrolliert ist. Natürlich in bewährter HiPP Bio-Qualität und mit dem Zahnfreundlich Logo ausgezeichnet eignet sich der Tee bestens als Durstlöscher zu jeder Jahreszeit.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 68
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 30
+        }
+      ],
+      "name": "Bio Fenchel Tee",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 5,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "20 Aufgussbeutel à 1,5g",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 10,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 20,
+      "preperations": [
+        {
+          "instruction": "Aufgussbeutel mit ca. 200 ml kochendem Wasser übergießen und ca. 5 Minuten ziehen lassen. Auf Trinktemperatur (ca. 37°C) abkühlen. Temperatur überprüfen. Tee stets frisch zubereiten. Bitte nicht nachsüßen!",
+          "type": "Simmern/Koecheln - Zubereitung in Wasser, welches knapp unter dem Siedepunkt gehalten wird"
+        }
+      ],
+      "storageHint": "Trocken und bei Raumtemperatur mindestens haltbar bis: siehe Verpackungsaufdruck",
+      "usageHints": "Je nach Alter Ihres Kindes 1-2 Portionen über den Tag verteilt. HiPP Bio-Fenchel-Tee schmeckt warm und kalt. #Bitte überzeugen Sie sich vor Verwendung, dass die Verpackung unversehrt geblieben ist."
+    }
+  ],
+  "grammage": "30 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 89.67"
+  },
+  "maximalOrderQuantity": 18,
+  "minimalOrderQuantity": 0,
+  "name": "Hipp Bio-Fenchel-Tee",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/kaffee-tee-und-co/tee/B2-333/produkte/hipp-bio-fenchel-tee/00-576335",
+    "~/warengruppe/grundnahrungsmittel/baby/getraenke-und-tees/B2-625/produkte/hipp-bio-fenchel-tee/00-576335"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 89.67"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 74730,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hipp Bio-Fenchel-Tee online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hipp Bio-Fenchel-Tee online bestellen | BILLA",
+  "slug": "hipp-bio-fenchel-tee",
+  "storeAvalibility": [
+    "00-7062",
+    "00-7491",
+    "00-7783",
+    "00-7975",
+    "00-3023",
+    "00-3379",
+    "00-3445",
+    "00-4779",
+    "00-7665",
+    "00-3042",
+    "00-1016",
+    "00-9589",
+    "00-7857",
+    "00-7229",
+    "00-3580",
+    "00-1457",
+    "00-3512",
+    "00-4146",
+    "00-7866",
+    "00-3856",
+    "00-4421",
+    "00-1117",
+    "00-3780",
+    "00-6496",
+    "00-7632",
+    "00-3688",
+    "00-3121",
+    "00-5777",
+    "00-1071",
+    "00-4982",
+    "00-6724",
+    "00-4107",
+    "00-1198",
+    "00-5290",
+    "00-6480",
+    "00-4469",
+    "00-6372",
+    "00-4440",
+    "00-3196",
+    "00-2907",
+    "00-1701",
+    "00-2201",
+    "00-2342",
+    "00-5322",
+    "00-4170",
+    "00-220",
+    "00-4655",
+    "00-4021",
+    "00-4783",
+    "00-3669",
+    "00-3633",
+    "00-7606",
+    "00-4673",
+    "00-6975",
+    "00-3713",
+    "00-1913",
+    "00-2364",
+    "00-5603",
+    "00-1041",
+    "00-7716",
+    "00-4619",
+    "00-3296",
+    "00-4551",
+    "00-7204",
+    "00-7592",
+    "00-3940",
+    "00-3584",
+    "00-5381",
+    "00-6533",
+    "00-7969",
+    "00-6979",
+    "00-4126",
+    "00-281",
+    "00-1132",
+    "00-3617",
+    "00-7676",
+    "00-7535",
+    "00-4674",
+    "00-4672",
+    "00-7758",
+    "00-7368",
+    "00-4001",
+    "00-1425",
+    "00-6424",
+    "00-7358",
+    "00-3162",
+    "00-1900",
+    "00-6760",
+    "00-4945",
+    "00-2190",
+    "00-7245",
+    "00-6897",
+    "00-3005",
+    "00-3102",
+    "00-2208",
+    "00-2369",
+    "00-6745",
+    "00-9290",
+    "00-6810",
+    "00-3560",
+    "00-7653",
+    "00-10",
+    "00-4675",
+    "00-7743",
+    "00-99202"
+  ],
+  "url": "/produkte/hipp-bio-fenchel-tee/00-576335",
+  "vatCode": "10",
+  "video": ""
+}

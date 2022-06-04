@@ -1,0 +1,222 @@
+{
+  "articleGroupIds": [
+    "B2-758",
+    "B2-E21",
+    "B2-759"
+  ],
+  "articleId": "00-782194",
+  "articleOnlyCanonicalPath": "/produkte/lindt-lindor-kugeln-weiss/00-782194",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lindt",
+  "brandPath": "/marken/lindt",
+  "canonicalPath": "/produkte/lindt-lindor-kugeln-weiss/00-782194",
+  "category": "Süßes & Salziges",
+  "description": "Erfahren Sie das zarteste Geheimnis der Maîtres Chocolatiers von Lindt: Lindor Weiss. Umhüllt von feinster, weißer Lindt Schokolade entdecken Ihre Sinne die unendlich zartschmelzende Füllung, die sich am Gaumen zum vollen Genuss entfaltet.",
+  "eanCodes": [
+    "9003600572770"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Zucker, Kakaobutter, pflanzliche Fette (Kokosnuss, Palmkern), VollMILCHpulver, MILCHzucker, Emulgator (SOJAlecithin), Aromen.Kann HASELNÜSSE und andere SCHALENFRÜCHTE enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 139.3
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Weiße Schokolade mit zartschmelzender Füllung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 633,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2628,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 48,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 45,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 44,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "125 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "100 g 3.75"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lindt Lindor Kugeln Weiß",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/suesse-spezialitaeten/B2-758/produkte/lindt-lindor-kugeln-weiss/00-782194",
+    "~/warengruppe/geschenkideen/geschenksideen/bonbonniere/B2-E21/produkte/lindt-lindor-kugeln-weiss/00-782194",
+    "~/warengruppe/suesses-und-salziges/suesses2/bonbonniere-und-spezialitaeten/B2-759/produkte/lindt-lindor-kugeln-weiss/00-782194"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "100 g 3.75"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 121190,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lindt Lindor Kugeln Weiß online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lindt Lindor Kugeln Weiß online bestellen | BILLA",
+  "slug": "lindt-lindor-kugeln-weiss",
+  "storeAvalibility": [
+    "00-7539",
+    "00-7017",
+    "00-2045",
+    "00-7075",
+    "00-355",
+    "00-6130",
+    "00-99202",
+    "00-4707",
+    "00-9225",
+    "00-350",
+    "00-4551",
+    "00-10",
+    "00-783"
+  ],
+  "url": "/produkte/lindt-lindor-kugeln-weiss/00-782194",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,267 @@
+{
+  "articleGroupIds": [
+    "B2-451"
+  ],
+  "articleId": "00-409024",
+  "articleOnlyCanonicalPath": "/produkte/tiroler-suessrahm-alpenbutter/00-409024",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Tiroler",
+  "canonicalPath": "/produkte/tiroler-suessrahm-alpenbutter/00-409024",
+  "category": "Kühlwaren",
+  "description": "Gelb, geschmeidig und aromatisch - gute Butter schmeckt nach ihrer Herkunft.<br>Ein Glück zu wissen, wo unsere Kühe weiden, denn derenhervorragende Milch macht den Charakter unserer Tiroler Alpenbutter aus.",
+  "eanCodes": [
+    "9006020031155"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch Molkerei Wörgl, Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Gelb, geschmeidig und aromatisch - gute Butter schmeckt nach ihrer Herkunft. Ein Glück zu wissen, wo unsere Kühe weiden, denn derenhervorragende Milch macht den Charakter unserer Tiroler Alpenbutter aus.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.26
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Tiroler Teebutter 82 % Fett, aus pasteurisiertem Rahm",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 743,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3056,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 82,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3-7 °C) lagern. Ungeöffnet mindestens haltbar bis: siehe Aufdruck."
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 11.56"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tiroler Süßrahm Alpenbutter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/butter/B2-451/produkte/tiroler-suessrahm-alpenbutter/00-409024"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 11.56"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 105400,
+  "recommendationArticleIds": [
+    "00-504851"
+  ],
+  "seoDescription": "Tiroler Süßrahm Alpenbutter online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tiroler Süßrahm Alpenbutter online bestellen | BILLA",
+  "slug": "tiroler-suessrahm-alpenbutter",
+  "storeAvalibility": [
+    "00-8230",
+    "00-8151",
+    "00-8022",
+    "00-8193",
+    "00-8657",
+    "00-6130",
+    "00-8636",
+    "00-8075",
+    "00-8646",
+    "00-8140",
+    "00-8188",
+    "00-8085",
+    "00-8334",
+    "00-8173",
+    "00-8158",
+    "00-8155",
+    "00-8426",
+    "00-8895",
+    "00-8076",
+    "00-8417",
+    "00-8606",
+    "00-7866",
+    "00-8213",
+    "00-8185",
+    "00-8159",
+    "00-8241",
+    "00-8235",
+    "00-8243",
+    "00-8031",
+    "00-8070",
+    "00-7539",
+    "00-8154",
+    "00-8360",
+    "00-99202"
+  ],
+  "url": "/produkte/tiroler-suessrahm-alpenbutter/00-409024",
+  "vatCode": "10",
+  "video": ""
+}

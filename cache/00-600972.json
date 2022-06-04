@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-F",
+    "B2-4A"
+  ],
+  "articleId": "00-600972",
+  "articleOnlyCanonicalPath": "/produkte/sardellenfilet-mariniert/00-600972",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Medusa",
+  "canonicalPath": "/produkte/sardellenfilet-mariniert/00-600972",
+  "category": "Neu im Online Shop",
+  "eanCodes": [
+    "8001115067614",
+    "9002275394014"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Krebstiere und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Weichtiere und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Herrstellungsbetrieb von Via Mazzini, 62 - Ariano Polesine (RO)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Cesare Regnoli & Figlio srl",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Sardellen 69%, Sonnenblumenöl, Weinessig, Salz, Kräuter und Gewürze. Kann Spuren von Weichtieren, Krustentieren, gluten-haltigem Getreide, Milch enthalten.",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 153
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 130
+        }
+      ],
+      "name": "Sardellenfilets mariniert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 144,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 604,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Packung nicht lochen; nach dem Öffnen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verbrauchen. Bei 0°C bis +4°C"
+    }
+  ],
+  "grammage": "130 g Stk",
+  "grammageBadge": "130 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 kg 46.08"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Sardellenfilet Mariniert",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/sardellenfilet-mariniert/00-600972",
+    "~/warengruppe/kuehlwaren/fisch/B2-4A/produkte/sardellenfilet-mariniert/00-600972"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 kg 46.08"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Sardellenfilet Mariniert online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Sardellenfilet Mariniert online bestellen | BILLA",
+  "slug": "sardellenfilet-mariniert",
+  "storeAvalibility": [
+    "00-174",
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/sardellenfilet-mariniert/00-600972",
+  "vatCode": "10",
+  "video": ""
+}

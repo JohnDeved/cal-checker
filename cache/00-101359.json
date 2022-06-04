@@ -1,0 +1,324 @@
+{
+  "articleGroupIds": [
+    "B2-432"
+  ],
+  "articleId": "00-101359",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-huehnerfilet3/00-101359",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-huehnerfilet3/00-101359",
+  "category": "Kühlwaren",
+  "description": "Hochwertiges vom österreichischen Fleischverarbeiter Hofstädter: Die vier Hühner Filets eignen sich ideal für helle Fleischragouts oder direkt zum Anbraten.<li>Hühner in Österreich aufgewachsen und verarbeitet<li>regionale Herkunft",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "-"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-11-13T00:00:00",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-61992-EG\r\nHandelsklasse A\r\nfrisch \r\nKüchenhygiene ist wichtig: Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen (mind. 75°C)!\r\nGeboren in: Österreich \r\nAufgezogen in: Österreich \r\nGeschlachtet in: Österreich \r\nZerlegt in: Österreich ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Hühner Filet, frisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 425,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 100,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1.4,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 46,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.3,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei -1 bis 4°C.",
+      "usageHints": "Nach dem Öffnen zur unmittelbaren Verarbeitung bestimmt.\n"
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.99,
+    "unit": "1 kg 17,99 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.7,
+  "name": "Hofstädter Hühnerfilet",
+  "orderQuantityStepSize": 0.7,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432/produkte/hofstaedter-huehnerfilet3/00-101359"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.99,
+    "unit": "1 kg 17,99 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 171870,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Hühnerfilet online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Hühnerfilet online bestellen | BILLA",
+  "slug": "hofstaedter-huehnerfilet3",
+  "storeAvalibility": [
+    "00-6255",
+    "00-7765",
+    "00-6490",
+    "00-6588",
+    "00-7358",
+    "00-7229",
+    "00-6508",
+    "00-7566",
+    "00-6819",
+    "00-7642",
+    "00-6262",
+    "00-7539",
+    "00-7245",
+    "00-5199",
+    "00-174",
+    "00-6366",
+    "00-6108",
+    "00-7616",
+    "00-5414",
+    "00-6123",
+    "00-6130",
+    "00-5359",
+    "00-6353",
+    "00-6235",
+    "00-6179",
+    "00-8953",
+    "00-6502",
+    "00-7606",
+    "00-6970",
+    "00-7565",
+    "00-8441",
+    "00-7536",
+    "00-6021",
+    "00-7603",
+    "00-7835",
+    "00-6197",
+    "00-6932",
+    "00-7716",
+    "00-6676",
+    "00-6843",
+    "00-4783",
+    "00-6760",
+    "00-6138",
+    "00-6011",
+    "00-7491",
+    "00-6219",
+    "00-5290",
+    "00-7546",
+    "00-6487",
+    "00-7969",
+    "00-6871",
+    "00-6306",
+    "00-7653",
+    "00-7856",
+    "00-7975",
+    "00-6628",
+    "00-7336",
+    "00-6274",
+    "00-6424",
+    "00-7857",
+    "00-6758",
+    "00-6248",
+    "00-7544",
+    "00-6494",
+    "00-7676",
+    "00-6051",
+    "00-6018",
+    "00-6952",
+    "00-7393",
+    "00-7602",
+    "00-7827",
+    "00-7766",
+    "00-6518",
+    "00-6979",
+    "00-7860",
+    "00-7082",
+    "00-7189",
+    "00-7940",
+    "00-6559",
+    "00-6823",
+    "00-7675",
+    "00-7759",
+    "00-8012",
+    "00-7302",
+    "00-9030",
+    "00-6558",
+    "00-6892",
+    "00-5391",
+    "00-6684",
+    "00-8185",
+    "00-6439",
+    "00-6900",
+    "00-6810",
+    "00-6928",
+    "00-5381",
+    "00-6022",
+    "00-5322",
+    "00-6569",
+    "00-7629",
+    "00-7963",
+    "00-6975",
+    "00-99202"
+  ],
+  "url": "/produkte/hofstaedter-huehnerfilet3/00-101359",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    70,
+    140,
+    210,
+    280,
+    350
+  ]
+}

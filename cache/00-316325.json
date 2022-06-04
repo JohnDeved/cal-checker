@@ -1,0 +1,230 @@
+{
+  "articleGroupIds": [
+    "B2-211",
+    "B2-221",
+    "B2-6E2",
+    "B2-6E3"
+  ],
+  "articleId": "00-316325",
+  "articleOnlyCanonicalPath": "/produkte/weizenfrei-landbrot-glutenfrei/00-316325",
+  "attributes": [
+    "s_marke",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Weizenfrei",
+  "canonicalPath": "/produkte/weizenfrei-landbrot-glutenfrei/00-316325",
+  "category": "Brot & Gebäck",
+  "description": "Das  weizen- und glutenfreie Landbrot oder Hausbrot ähnelt einem klassischen Sauerteigbrot und hat einen bekömmlich ausgeglichenen Geschmack.",
+  "eanCodes": [
+    "9120072856211"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DZG_GLUTEN_FREE",
+              "valueTranslation": "GLUTEN-FREI - Zeichen der Deutschen Zöliakiegesellschaft (DZG)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R04"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Betriebsring 3, A-2483 Ebreichsdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Weizenfrei Holding GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.weizenfrei.co.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-07-02T00:00:00",
+      "ingredients": "Zutaten: Wasser, Maisstärke, Tapiokastärke, Reismehl 4,8%, Reisvollkornmehl 4,8%, glutenfreies Hafermehl 2,9%, Sauerteig (Reismehl, Wasser), Hefe, Verdickungsmittel (Hydroxypropylmethylcellulose, Xanthan, Natrium-Carboxymethylcellulose), Rapsöl, Zuckerrübensirup, Salz, Ballaststoffe (Kartoffelfasern, Psyllium Samenfasern), GLUTENFREIER GERSTENMALZEXTRAKT, Zucker, Psyllium Samenschalen, Karamellzucker, Säuerungsmittel (Milchsäure), Emulgator (Diglyceride) Kann enthalten: EIER und SESAM",
+      "mandatoryIndicator": "Glutenfrei, AT-027-039",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 400
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Weizenfreie Landbrot, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 209,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 883,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 42.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Backrohr auf 180 Grad vorheizen.\nTiefgefrorene Landbrot mit Backpapier auf dem Backblech in der mittleren Schiene für 30 min backen.\nVor dem Verzehr 60 min auskühlen lassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Tiefgekühlt bei -18 Grad lagern.",
+      "usageHints": "Nach den Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "400 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Weizenfrei Landbrot Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/weizenfrei-landbrot-glutenfrei/00-316325",
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221/produkte/weizenfrei-landbrot-glutenfrei/00-316325",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/weizenfrei-landbrot-glutenfrei/00-316325",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/laktosefrei/B2-6E3/produkte/weizenfrei-landbrot-glutenfrei/00-316325"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Weizenfrei Landbrot Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Weizenfrei Landbrot Glutenfrei online bestellen | BILLA",
+  "slug": "weizenfrei-landbrot-glutenfrei",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202",
+    "00-7075"
+  ],
+  "url": "/produkte/weizenfrei-landbrot-glutenfrei/00-316325",
+  "vatCode": "10",
+  "video": ""
+}

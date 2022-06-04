@@ -1,0 +1,217 @@
+{
+  "articleGroupIds": [
+    "B2-313"
+  ],
+  "articleId": "00-489802",
+  "articleOnlyCanonicalPath": "/produkte/pure-bio-energy-drink-orange-karotte/00-489802",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Pure",
+  "canonicalPath": "/produkte/pure-bio-energy-drink-orange-karotte/00-489802",
+  "category": "Getränke",
+  "description": "<li>Energy Drink mit Orangen-Pfirsich-Karotten Geschmack. <li>Der erste Energy Drink auf 100% biologischem Anbau.",
+  "eanCodes": [
+    "9120037002189"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AUSTRIA_BIO_GARANTIE",
+              "valueTranslation": "AUSTRIA BIO GARANTIE (ABG) Biokontrollstelle Österreich"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Herbeckstraße 62, A-1180 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Pure Bio* Products KG Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.pure-bio.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "",
+          "detail": "9120037000000",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-08-31T00:00:00",
+      "ingredients": "Zutaten: Wasser, Orangensaft (8%, aus Orangensaft-Konzentrat*), Zucker*, Karottensaft (2%, aus Karottensaft-Konzentrat*), Kohlensäure, Säuerungsmittel Zitronensäure, Antioxidationsmittel Ascorbinsäure, natürliches Koffein*, natürliches Aroma, Karamelzuckersirup*. *aus ökologischem Landbau",
+      "mandatoryIndicator": "Erhöhter Koffeingehalt (32mg/100ml). Für Kinder und schwangere oder stillende Frauen nicht empfohlen.",
+      "marketingMessage": "Der erste Energy Drink auf 100% biologischem Anbau",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 263
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Energy Drink mit Orangen-Pfirsich-Karotten Geschmack,  Durch vorsichtiges Pasteurisieren haltbar gemacht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 30,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 122,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "250 ml Dose (Einweg)",
+  "grammageBadge": "250 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.36"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Pure Bio Energy Drink Orange-Karotte",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/energydrinks/B2-313/produkte/pure-bio-energy-drink-orange-karotte/00-489802"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.36"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Pure Bio Energy Drink Orange-Karotte online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Pure Bio Energy Drink Orange-Karotte online bestellen | BILLA",
+  "slug": "pure-bio-energy-drink-orange-karotte",
+  "storeAvalibility": [
+    "00-10",
+    "00-174",
+    "00-99202"
+  ],
+  "url": "/produkte/pure-bio-energy-drink-orange-karotte/00-489802",
+  "vatCode": "20",
+  "video": ""
+}

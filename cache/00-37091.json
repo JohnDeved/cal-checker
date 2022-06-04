@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-221"
+  ],
+  "articleId": "00-37091",
+  "articleOnlyCanonicalPath": "/produkte/berger-roggenbrot/00-37091",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-roggenbrot/00-37091",
+  "category": "Brot & Gebäck",
+  "description": "Kräftig im Geschmack, mit einer besonders reschen Kruste und einem griffigen Kern ist das Roggenbrot von Berger eine gute Grundlage für herzhafte Beläge.<li>Roggenmischbrot mit Roggenschrot verfeinert<li>gesund dank hohem Ballaststoffgehalt<li>mit Natursauerteig gebacken<li>aus einem österreichischen Familienbetrieb",
+  "eanCodes": [
+    "9003644001724"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hörschingerstraße 17, 4061 Pasching",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Erwin Berger",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: ROGGENMEHL, Wasser, Natursauerteig(ROGGENMEHL, Wasser), Hefe, unjodiertes Speisesalz, ROGGENSCHROT, ROGGENMALZRÖSTMEHL, ROGGENKLEIE, Säuerungsmittel( Milch- und  Essigsäure)",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1000
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 970
+        }
+      ],
+      "name": "Schwarzbrot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 204,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 855,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 41.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "970 Gramm",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.9,
+    "unit": "1 kg 4.02"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Roggenbrot",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221/produkte/berger-roggenbrot/00-37091"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.9,
+    "unit": "1 kg 4.02"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51000,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Roggenbrot online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Roggenbrot online bestellen | BILLA",
+  "slug": "berger-roggenbrot",
+  "storeAvalibility": [
+    "00-4226",
+    "00-4945",
+    "00-5967",
+    "00-4001",
+    "00-4478",
+    "00-4707",
+    "00-4225",
+    "00-4601",
+    "00-4952",
+    "00-4932",
+    "00-4059",
+    "00-4099",
+    "00-4028",
+    "00-4755",
+    "00-4879",
+    "00-4170",
+    "00-4847",
+    "00-4838",
+    "00-99202",
+    "00-4021",
+    "00-4407",
+    "00-4925",
+    "00-4104",
+    "00-4540",
+    "00-4090"
+  ],
+  "url": "/produkte/berger-roggenbrot/00-37091",
+  "vatCode": "10",
+  "video": ""
+}

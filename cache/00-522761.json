@@ -1,0 +1,419 @@
+{
+  "articleGroupIds": [
+    "B2-511"
+  ],
+  "articleId": "00-522761",
+  "articleOnlyCanonicalPath": "/produkte/haeagen-dazs-strawberry-cheesecake/00-522761",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Häagen-Dazs",
+  "canonicalPath": "/produkte/haeagen-dazs-strawberry-cheesecake/00-522761",
+  "category": "Tiefkühl",
+  "description": "Die Häagen-Dazs Strawberry Cheesecake Eiscreme ist ein Muss für alle Cheesecake-Fans.<br>Feinste Eiscreme mit Käsekuchen-Geschmack, durchzogen mit Erdbeersauce und Keksen. Sie werden es genießen!",
+  "eanCodes": [
+    "3415580031943",
+    "3415581176711"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "150 Rue Gallieni, 92100 Boulogne-Billancourt France",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "General Mills France SAS",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.haagen-dazs.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-10-04T00:00:00",
+      "ingredients": "Zutaten: Frische SAHNE (28%), Zucker, KONDENSMAGERMILCH, Erdbeerpüree, WEIZENMEHL, EIGELB, Kokosnussöl, Himbeerpüree, FRISCHKÄSE, SAHNE, BUTTERREINFETT, Zitronensaftkonzentrat, Geliermittel (Pektine), natürliche Aromen, Melasse, Speisesalz, Backtriebmittel (Natriumhydrogencarbonat). Für Allergene siehe fettgedruckte Zutaten. KANN SOJA ENTHALTEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 430
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 460
+        }
+      ],
+      "name": "Eiscreme mit Käsekuchen-Geschmack durchzogen mit Erdbeersauce (14%) und Keksstückchen (8%).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1088,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 260,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 28.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "2 Löffel (86g)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 936,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 224,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 12.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 39,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 21.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.26,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 4,
+      "preperations": [],
+      "storageHint": "Bei -18°C und kühler lagern.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "400 Milliliter Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 14.98"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Häagen-Dazs Strawberry Cheesecake",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/eis/eisbecher/B2-511/produkte/haeagen-dazs-strawberry-cheesecake/00-522761"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.99,
+    "unit": "1 l 14.98"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Häagen-Dazs Strawberry Cheesecake online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Häagen-Dazs Strawberry Cheesecake online bestellen | BILLA",
+  "slug": "haeagen-dazs-strawberry-cheesecake",
+  "storeAvalibility": [
+    "00-6424",
+    "00-3120",
+    "00-6760",
+    "00-4690",
+    "00-3512",
+    "00-4421",
+    "00-4078",
+    "00-7139",
+    "00-4605",
+    "00-950",
+    "00-4834",
+    "00-3050",
+    "00-7860",
+    "00-3005",
+    "00-7358",
+    "00-2808",
+    "00-1198",
+    "00-8940",
+    "00-4090",
+    "00-6884",
+    "00-3857",
+    "00-7424",
+    "00-3780",
+    "00-10",
+    "00-7393",
+    "00-1070",
+    "00-4466",
+    "00-4655",
+    "00-4440",
+    "00-823",
+    "00-4783",
+    "00-9183",
+    "00-2201",
+    "00-2313",
+    "00-4879",
+    "00-3740",
+    "00-5962",
+    "00-2098",
+    "00-6910",
+    "00-3055",
+    "00-3212",
+    "00-3711",
+    "00-3059",
+    "00-3114",
+    "00-3027",
+    "00-7743",
+    "00-6011",
+    "00-7084",
+    "00-4748",
+    "00-4551",
+    "00-3580",
+    "00-7606",
+    "00-7114",
+    "00-4016",
+    "00-9030",
+    "00-3047",
+    "00-1425",
+    "00-2011",
+    "00-3445",
+    "00-2111",
+    "00-6864",
+    "00-6928",
+    "00-2342",
+    "00-1107",
+    "00-9753",
+    "00-3062",
+    "00-99202",
+    "00-6219",
+    "00-3713",
+    "00-3617",
+    "00-8085",
+    "00-2306",
+    "00-2287",
+    "00-6843",
+    "00-7653",
+    "00-1710",
+    "00-4441",
+    "00-6353",
+    "00-4283",
+    "00-9290",
+    "00-2223",
+    "00-2259",
+    "00-6745",
+    "00-8426",
+    "00-6676",
+    "00-2131",
+    "00-3105",
+    "00-4270",
+    "00-2045",
+    "00-6975",
+    "00-7368",
+    "00-6724",
+    "00-1417",
+    "00-7336",
+    "00-1132",
+    "00-9894",
+    "00-7075",
+    "00-3384",
+    "00-3709",
+    "00-1826",
+    "00-4912",
+    "00-6021",
+    "00-3860",
+    "00-3744",
+    "00-7245",
+    "00-3042",
+    "00-3118"
+  ],
+  "url": "/produkte/haeagen-dazs-strawberry-cheesecake/00-522761",
+  "vatCode": "10",
+  "video": ""
+}

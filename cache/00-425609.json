@@ -1,0 +1,204 @@
+{
+  "articleGroupIds": [
+    "B2-742"
+  ],
+  "articleId": "00-425609",
+  "articleOnlyCanonicalPath": "/produkte/barilla-grissini-torinesi/00-425609",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Barilla",
+  "brandPath": "/marken/barilla",
+  "canonicalPath": "/produkte/barilla-grissini-torinesi/00-425609",
+  "category": "Süßes & Salziges",
+  "description": "Ob zum Aperitif, in Käse gedippt oder eingerollt in Parmaschinken: Die Barilla Grissini Torinesi sind in jeder Form ein knuspriger Leckerbissen.<li>Gebäckstangen mit Sonnenblumenöl<li>mit ausgewählten Zutaten<li>ideal als Vorspeise, zum Dippen oder als kleiner Snack zwischendurch",
+  "eanCodes": [
+    "8076808610019",
+    "8076809529631"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via Mantova 166, Parma - Italy.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Barilla G. e R. Fratelli - Società per Azioni",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: WEICHWEIZENMEHL, Sonnenblumenöl 6,6%, GERSTEN- und Maismalzextrakt, Salz, HARTWEIZENGRIESS, Hefe. KANN SPUREN VON SCHALENFRÜCHTEN, MILCH, SESAMSAMEN, SOJA UND EI ENTHALTEN. DIE FETTGEDRUCKTEN ZUTATEN KÖNNEN BEI MENSCHEN MIT ALLERGIEN ODER UNVERTRÄGLICHKEITEN ALLERGISCHE REAKTIONEN HERVORRUFEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 170
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Gebäckstangen mit Sonnenblumenöl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1736,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 412,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 71.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.875,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "125 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "100 g 1.19"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Barilla Grissini Torinesi",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/knabbereien/B2-742/produkte/barilla-grissini-torinesi/00-425609"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.49,
+    "unit": "100 g 1.19"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 90920,
+  "recommendationArticleIds": [],
+  "seoDescription": "Barilla Grissini Torinesi online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Barilla Grissini Torinesi online bestellen | BILLA",
+  "slug": "barilla-grissini-torinesi",
+  "storeAvalibility": [
+    "00-10",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/barilla-grissini-torinesi/00-425609",
+  "vatCode": "10",
+  "video": ""
+}

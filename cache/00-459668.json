@@ -1,0 +1,260 @@
+{
+  "articleGroupIds": [
+    "B2-357"
+  ],
+  "articleId": "00-459668",
+  "articleOnlyCanonicalPath": "/produkte/topo-chico-hard-seltzer---tropic-mango/00-459668",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Topo Chico",
+  "brandPath": "/marken/topo-chico",
+  "canonicalPath": "/produkte/topo-chico-hard-seltzer---tropic-mango/00-459668",
+  "category": "Getränke",
+  "description": "Topo Chico Hard Seltzer - das ist eine köstliche Mischung aus kohlensäurehaltigem Wasser, Alkohol und natürlichen Aromen, die so schmeckt, wie man es von einem Hard Seltzer erwartet. Gleichermaßen erfrischend wie leicht. <br>Erfrische dich mit dieser köstlich-komplexen Kombination tropischer Mango. Der bitter-süße Geschmack von Topo Chico Tropical Mango wird dich in wenigen Schlucken in die Tropen versetzt. Topo Chico ist glutenfrei mit nur 96 Kalorien pro Dose.<li>kohlensäurehaltiges Wasser mit Alkohol und natürlichen Fruchtaromen <li>ohne künstliche Zusatzstoffe <li>ohne Konservierungsstoffe <li>in der praktischen Dose für unterwegs",
+  "eanCodes": [
+    "5449000294708"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 19, 1109 Wien.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Coca-Cola HBC Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 202040",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2020-11-17T00:00:00",
+      "mandatoryIndicator": "Für Kinder und schwangere oder stillende Frauen nicht empfohlen.",
+      "marketingMessage": "Natürliche Aromen",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.36
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Alkoholhaltiges Getränk mit tropischem Mangogeschmack. kohlensäurehaltig.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 120,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 29,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 396,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 96,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "sustenanceClaim": "Enthält geringfügige Mengen von Fett, gesättigte Fettsäuren und Eiweiss.",
+      "usageHints": "In moderaten Mengen konsumieren."
+    }
+  ],
+  "grammage": "0.33 l Dose",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 6.03"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Topo Chico Hard Seltzer - Tropic Mango",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/spirituosen/alkopops/B2-357/produkte/topo-chico-hard-seltzer---tropic-mango/00-459668"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 6.03"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Topo Chico Hard Seltzer - Tropic Mango online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Topo Chico Hard Seltzer - Tropic Mango online bestellen | BILLA",
+  "slug": "topo-chico-hard-seltzer---tropic-mango",
+  "storeAvalibility": [
+    "00-10",
+    "00-7539",
+    "00-99202"
+  ],
+  "url": "/produkte/topo-chico-hard-seltzer---tropic-mango/00-459668",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,212 @@
+{
+  "articleGroupIds": [
+    "B2-757"
+  ],
+  "articleId": "00-700720",
+  "articleOnlyCanonicalPath": "/produkte/wick-blau-ohne-zucker/00-700720",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Wick",
+  "canonicalPath": "/produkte/wick-blau-ohne-zucker/00-700720",
+  "category": "Süßes & Salziges",
+  "description": "Die zuckerfreien Wick Blau Hustenpastillen sind im wiederverschließbaren Karton verpackt. Die Bonbons mit Menthol unterstützen ein tiefes Atemerlebnis.<li>flache, dreieckige Hustenzuckerl<li>mit Menthol und Minzöl<li>im kleinen Karton – praktisch für unterwegs<li>für ein leichteres Atmen bei Erkältungen<li>ohne Zucker",
+  "eanCodes": [
+    "4030300022040",
+    "5410076280407"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Dechant-Sprünken-Str. 53-57, 46446 Emmerich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Katjes Fassin GmbH + Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-05-27T00:00:00",
+      "ingredients": "Zutaten: Süßungsmittel (Isomalt, Xylit, Acesulfam K), Minzöl, Menthol (0,2%), Farbstoffe: Patentblau und Indigotin.",
+      "mandatoryIndicator": "kann bei übermäßigem Verzehr abführend wirken,\nmit Süßungsmitteln",
+      "marketingMessage": "WICK Blau Hustenbonbons helfen, ein tiefes Atemerlebnis zu geniessen. Die sorgsam ausgewählte Komposition aus reinem Menthol und japanischer Arvensis-Minze verleiht ihnen ihren klassischen Geschmack. Atmen Sie tief ein und spüren Sie das Menthol.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 46
+        }
+      ],
+      "name": "Hustenbonbons mit Menthol. Mit Süßungsmitteln.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 233,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 970,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 97,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "46 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "100 g 4.76"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Wick Blau ohne Zucker",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/zuckerl-und-bonbons/B2-757/produkte/wick-blau-ohne-zucker/00-700720"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "100 g 4.76"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 176170,
+  "recommendationArticleIds": [],
+  "seoDescription": "Wick Blau ohne Zucker online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Wick Blau ohne Zucker online bestellen | BILLA",
+  "slug": "wick-blau-ohne-zucker",
+  "storeAvalibility": [
+    "00-10",
+    "00-7075",
+    "00-7539",
+    "00-99202",
+    "00-350"
+  ],
+  "url": "/produkte/wick-blau-ohne-zucker/00-700720",
+  "vatCode": "10",
+  "video": ""
+}

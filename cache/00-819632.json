@@ -1,0 +1,367 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-491"
+  ],
+  "articleId": "00-819632",
+  "articleOnlyCanonicalPath": "/produkte/ablinger-extrawurst/00-819632",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_feinkost",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Ablinger",
+  "brandPath": "/marken/ablinger",
+  "canonicalPath": "/produkte/ablinger-extrawurst/00-819632",
+  "category": "Kühlwaren",
+  "description": "Die klassische Extrawurst, frisch aus der Feinkostabteilung: Die Ablinger Extrawurst mit feinem Brät aus Speck, Rind- und Schweinefleisch schmeckt aromatisch.<li>gekochte Wurst für die Semmel oder die Jausenplatte<li>aufgeschnitten und verzehrfertig<li>gekühlte Lieferung",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "F.X. Grimm Strasse 3, A-5110 Oberndorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Franz Ablinger & Co Fleischhauereibetrieb GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.ablinger.co.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "ZUTATEN: 64% Schweine-* + Rindfleisch*, Speck*, Trinkwasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Kartoffelstärke, Stabilisator: Diphosphate, Geschmacksverstärker: Mononatriumgluatamat, Gewürzextrakte, Maltodextrin, Zucker, Gewürze, Antioxidationsmittel: Ascorbinsäure, Farbstoff: echtes Karmin, Speisewürze, Aroma.",
+      "mandatoryIndicator": "Nicht essbare Wursthülle.",
+      "marketingMessage": "Aus Tradition das Beste",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 2.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 2.5
+        }
+      ],
+      "name": "Extrawurst gebrüht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 267,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1106,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 34,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 43,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 37,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "*aus Österreich und Deutschland",
+      "preperations": [],
+      "storageHint": "Gekühlt bei +2° bis +7°C\nmindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Produkt nach dem Öffnen ehestmöglich verbrauchen!"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 16.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 16.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 16.9,
+    "unit": "100 g 1.69"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Ablinger Extrawurst",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/ablinger-extrawurst/00-819632",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/ablinger-extrawurst/00-819632"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 16.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 16.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 16.9,
+    "unit": "100 g 1.69"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 108410,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ablinger Extrawurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ablinger Extrawurst online bestellen | BILLA",
+  "slug": "ablinger-extrawurst",
+  "storeAvalibility": [
+    "00-4028",
+    "00-4673",
+    "00-4090",
+    "00-8022",
+    "00-4655",
+    "00-4932",
+    "00-5031",
+    "00-5181",
+    "00-8185",
+    "00-4099",
+    "00-6001",
+    "00-5290",
+    "00-8159",
+    "00-4350",
+    "00-4672",
+    "00-8334",
+    "00-4200",
+    "00-5529",
+    "00-4700",
+    "00-5104",
+    "00-5199",
+    "00-4524",
+    "00-4912",
+    "00-8636",
+    "00-4540",
+    "00-5552",
+    "00-5067",
+    "00-5226",
+    "00-5414",
+    "00-8158",
+    "00-4478",
+    "00-6502",
+    "00-4003",
+    "00-5454",
+    "00-4466",
+    "00-5447",
+    "00-5962",
+    "00-8085",
+    "00-5777",
+    "00-5945",
+    "00-8953",
+    "00-4513",
+    "00-6366",
+    "00-5078",
+    "00-4482",
+    "00-4840",
+    "00-4291",
+    "00-8426",
+    "00-8173",
+    "00-4226",
+    "00-8075",
+    "00-5405",
+    "00-8230",
+    "00-4469",
+    "00-5165",
+    "00-4690",
+    "00-4225",
+    "00-4551",
+    "00-8140",
+    "00-4107",
+    "00-4629",
+    "00-4605",
+    "00-4601",
+    "00-5381",
+    "00-4565",
+    "00-8646",
+    "00-4881",
+    "00-5306",
+    "00-5391",
+    "00-4249",
+    "00-4952",
+    "00-4755",
+    "00-4440",
+    "00-99202",
+    "00-4945",
+    "00-4879",
+    "00-8213",
+    "00-5112",
+    "00-8188",
+    "00-4707",
+    "00-4016",
+    "00-4847",
+    "00-5737",
+    "00-8657",
+    "00-4834",
+    "00-5363",
+    "00-4021",
+    "00-5027",
+    "00-4170",
+    "00-4813",
+    "00-5967",
+    "00-8031",
+    "00-4441",
+    "00-4674",
+    "00-8417",
+    "00-4001",
+    "00-8193",
+    "00-5531",
+    "00-4770",
+    "00-8155",
+    "00-4076",
+    "00-5359",
+    "00-4982",
+    "00-4078",
+    "00-4838",
+    "00-5108",
+    "00-4126",
+    "00-4270",
+    "00-8076",
+    "00-5322",
+    "00-4779",
+    "00-8243",
+    "00-4104",
+    "00-8360",
+    "00-5003",
+    "00-8070",
+    "00-8895",
+    "00-4407",
+    "00-4424",
+    "00-5000",
+    "00-5082",
+    "00-8606",
+    "00-4146",
+    "00-3196",
+    "00-3979",
+    "00-5871",
+    "00-4059",
+    "00-5223",
+    "00-4748",
+    "00-8151",
+    "00-8241",
+    "00-5603",
+    "00-4925",
+    "00-4283",
+    "00-4421",
+    "00-8154",
+    "00-4619",
+    "00-4489",
+    "00-4660",
+    "00-6845"
+  ],
+  "url": "/produkte/ablinger-extrawurst/00-819632",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

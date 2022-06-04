@@ -1,0 +1,198 @@
+{
+  "articleGroupIds": [
+    "B2-A24"
+  ],
+  "articleId": "00-871443",
+  "articleOnlyCanonicalPath": "/produkte/whiskas-knuspertaschen-anti-hairball/00-871443",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Whiskas",
+  "brandPath": "/marken/whiskas",
+  "canonicalPath": "/produkte/whiskas-knuspertaschen-anti-hairball/00-871443",
+  "category": "Haustier",
+  "eanCodes": [
+    "5998749108598"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "Zusatzstoffe pro kg: Antioxidanzien; Ernährungsphysiologische Zusatzstoffe: Vitamin A: 6466 IE, Vitamin Dü: 713 IE, Kupfer (Kupfer(II)-sulfat-Pentahydrat): 6.8 mg, Jod (Kaliumjodid): 1.7 mg."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile (%): Protein: 22.0; Fettgehalt: 22.0; anorganischer Stoff: 9.0; Rohfaser: 2.0."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Fütterungsempfehlung: Füttern Sie 12 Stück täglich. Reduzieren Sie die Vollnahrung entsprechend. Bitte kühl und trocken lagern. Innerhalb von 4 Wochen nach dem Öffnen verbrauchen. Ein Extranapf mit frischem Trinkwasser sollte immer bereitstehen."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "HU05100034"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: Getreide, pflanzliche Nebenerzeugnisse, Öle und Fette, Fleisch und tierische Nebenerzeugnisse (u.a. 4% Huhn), Mineralstoffe, pflanzliche Eiweißextrakte."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, 1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mars Austria OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2017-09-26T00:00:00",
+      "mandatoryIndicator": "Verpackung für Kinder und Tiere unzugänglich aufbewahren (Erstickungsgefahr).",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 79.996
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 60
+        }
+      ],
+      "name": "Ergänzungsfuttermittel für ausgewachsene Katzen - Tiernahrung.",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Bitte geschlossen an einem kühlen und trockenen Ort lagern."
+    }
+  ],
+  "grammage": "60 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 29.83"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Whiskas Knuspertaschen Anti-Hairball",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/katzen/katzen-snacks/B2-A24/produkte/whiskas-knuspertaschen-anti-hairball/00-871443"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 29.83"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 69080,
+  "recommendationArticleIds": [],
+  "seoDescription": "Whiskas Knuspertaschen Anti-Hairball online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Whiskas Knuspertaschen Anti-Hairball online bestellen | BILLA",
+  "slug": "whiskas-knuspertaschen-anti-hairball",
+  "storeAvalibility": [
+    "00-4982",
+    "00-6740",
+    "00-3780",
+    "00-7075",
+    "00-7653",
+    "00-99202",
+    "00-7084",
+    "00-3506",
+    "00-7606",
+    "00-3641",
+    "00-6024",
+    "00-3681",
+    "00-4779",
+    "00-4350",
+    "00-3114",
+    "00-10",
+    "00-4675",
+    "00-7114",
+    "00-7223",
+    "00-7857",
+    "00-4421"
+  ],
+  "url": "/produkte/whiskas-knuspertaschen-anti-hairball/00-871443",
+  "vatCode": "13",
+  "video": ""
+}

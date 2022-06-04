@@ -1,0 +1,283 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-865434",
+  "articleOnlyCanonicalPath": "/produkte/rio-mare-thunfisch-in-olivenoel2/00-865434",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rio Mare",
+  "brandPath": "/marken/rio-mare",
+  "canonicalPath": "/produkte/rio-mare-thunfisch-in-olivenoel2/00-865434",
+  "category": "Grundnahrungsmittel",
+  "description": "Dieser Thunfisch stammt aus MSC zertifizierter Fischerei. Er wird ausschließlich mit reinem Olivenöl und einer Prise Meersalz eingelegt. So bleibt der authentische Geschmack der zarten Thunfischfilets erhalten.<br><li>Skipjackthunfisch<li>MSC zertifiziert</li>",
+  "eanCodes": [
+    "8004030125001"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHAREA",
+              "description": "Fangzone ",
+              "hasTranslation": "True",
+              "value": "51",
+              "valueTranslation": "Westlicher Indischer Ozean"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DOLPHIN_SAFE",
+              "valueTranslation": "DOLPHIN SAFE (Delphin-freundlich Tunfischfang)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Trabrennstr. 5, 1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bolton Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.riomare.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Thunfisch (Euthynnus (Katsuwonus) pelamis), Olivenöl, Salz",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 104
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 210
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 160
+        }
+      ],
+      "name": "Thunfisch in Olivenöl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 410,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1695,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 38,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "160 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 24.94"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Rio Mare Thunfisch in Olivenöl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/rio-mare-thunfisch-in-olivenoel2/00-865434"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 24.94"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 122580,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rio Mare Thunfisch in Olivenöl online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rio Mare Thunfisch in Olivenöl online bestellen | BILLA",
+  "slug": "rio-mare-thunfisch-in-olivenoel2",
+  "storeAvalibility": [
+    "00-7114",
+    "00-3700",
+    "00-4932",
+    "00-4249",
+    "00-9290",
+    "00-3617",
+    "00-3143",
+    "00-7606",
+    "00-6024",
+    "00-4779",
+    "00-5108",
+    "00-521",
+    "00-99202",
+    "00-4551",
+    "00-7539",
+    "00-4126",
+    "00-4707",
+    "00-4421",
+    "00-4107",
+    "00-3713",
+    "00-225",
+    "00-7675",
+    "00-2100",
+    "00-355",
+    "00-3947",
+    "00-10",
+    "00-4078",
+    "00-6740",
+    "00-7653",
+    "00-783",
+    "00-4675",
+    "00-4655",
+    "00-9753",
+    "00-4170",
+    "00-2045",
+    "00-4605",
+    "00-6108",
+    "00-4690",
+    "00-350",
+    "00-1457",
+    "00-2342",
+    "00-6864",
+    "00-3512",
+    "00-7857",
+    "00-3979",
+    "00-4283",
+    "00-4783",
+    "00-3780",
+    "00-5027",
+    "00-3114",
+    "00-7075",
+    "00-2218"
+  ],
+  "url": "/produkte/rio-mare-thunfisch-in-olivenoel2/00-865434",
+  "vatCode": "10",
+  "video": ""
+}

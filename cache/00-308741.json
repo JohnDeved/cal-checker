@@ -1,0 +1,193 @@
+{
+  "articleGroupIds": [
+    "B2-211"
+  ],
+  "articleId": "00-308741",
+  "articleOnlyCanonicalPath": "/produkte/die-grillerei-grill-pita-brot/00-308741",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Die Grillerei",
+  "canonicalPath": "/produkte/die-grillerei-grill-pita-brot/00-308741",
+  "category": "Brot & Gebäck",
+  "description": "Unser vielseitiges Pitabrot, auch als Lepinja bekannt, lässt sich nicht nur hervorragend befüllen, sondern ist auch eine tolle Beilage zu gegrilltem Fleisch und Gemüse.<br>Wer es gerne etwas würziger mag, verfeinert es nach Belieben mit Olivenöl, Knoblauch oder Basilikumpesto.",
+  "eanCodes": [
+    "9010158009900"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [],
+      "countryOrigins": [],
+      "fromDate": "2019-05-07T00:00:00",
+      "ingredients": "Zutaten:\n\nWEIZENMEHL, Wasser,Sonnenblumenöl,Hefe, Salz, Zucker.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.4
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        },
+        {
+          "type": "Portionsgroesse",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Fladenbrot, Weizengebäck, tiefgekühlt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 996,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11.7,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 235,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1.9,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.9,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 18.8,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 49,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.4,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13.6,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 30.8,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [],
+      "storageHint": "Bei -18°C, 365 Tage. Abgetaute Produkte dürfen nicht wieder gefroren werden. Das Produkt 45 min bei Raumtemperatur auftauen.",
+      "usageHints": "Nach dem Auftauen einen Tag haltbar."
+    }
+  ],
+  "grammage": "400 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Die Grillerei Grill Pita Brot",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/die-grillerei-grill-pita-brot/00-308741"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 168960,
+  "recommendationArticleIds": [],
+  "seoDescription": "Die Grillerei Grill Pita Brot online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Die Grillerei Grill Pita Brot online bestellen | BILLA",
+  "slug": "die-grillerei-grill-pita-brot",
+  "storeAvalibility": [
+    "00-7120",
+    "00-7075",
+    "00-2342",
+    "00-10",
+    "00-4551",
+    "00-3549",
+    "00-99202",
+    "00-3780"
+  ],
+  "url": "/produkte/die-grillerei-grill-pita-brot/00-308741",
+  "vatCode": "10",
+  "video": ""
+}

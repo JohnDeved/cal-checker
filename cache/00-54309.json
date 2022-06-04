@@ -1,0 +1,289 @@
+{
+  "articleGroupIds": [
+    "B2-632"
+  ],
+  "articleId": "00-54309",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-tortencreme/00-54309",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-tortencreme/00-54309",
+  "category": "Grundnahrungsmittel",
+  "description": "Mit der klassischen Dr. Oetker Tortencreme bereiten Sie schnittfeste Butter-, Schoko- oder Nusscremen zu und krönen auch Cupcakes mit einem leckeren Topping.<li>Cremepulver klassischer Art für verschiedene Buttercremen<li>gelingt ohne Kochen<li>zur Zubereitung von Torten- und Mehlspeisfüllungen geeignet",
+  "eanCodes": [
+    "9008200010226",
+    "9008200001002"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Zucker, modifizierte Stärke, Stabilisatoren (E 450, E 339), Geliermittel (Carrageen), Dextrose",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 123.065
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Cremepulver für die Zubereitung verschiedener Buttercremen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 398,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1657,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 37,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 35,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Die Packung enthält: 100 g Cremepulver Klassische Buttercreme:  Sie fügen noch hinzu: 250 ml (1/4 l) Milch 250 g weiche Butter 170-200 g Staubzucker 1 Pck. Dr. Oetker Vanillin-Zucker Zubereitung: Tortencreme-Pulver mit einem Schneebesen in die Milch (Zimmertemperatur) einrühren und zu einer cremigen Masse verrühren. Die Masse ca. 15 Minuten stehen lassen. Butter, Zucker und Vanillin-Zucker mit einem Handmixer (Rührstäbe) schaumig rühren. Die Tortencreme löffelweise unter die Buttermasse rühren.",
+          "type": "Aufschlagen mit Schneebesen oder elektrischen Mixer - Lufteinschluss fuer Volumen und Stabilitaet"
+        }
+      ],
+      "storageHint": "Trocken und nicht über Zimmertemperatur lagern!"
+    }
+  ],
+  "grammage": "100 Gramm Paket",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 11.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Tortencreme",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/backmischungen-und-fuellungen/B2-632/produkte/dr-oetker-tortencreme/00-54309"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 11.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 45030,
+  "recommendationArticleIds": [
+    "00-6218"
+  ],
+  "seoDescription": "Dr. Oetker Tortencreme online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Tortencreme online bestellen | BILLA",
+  "slug": "dr-oetker-tortencreme",
+  "storeAvalibility": [
+    "00-3709",
+    "00-3507",
+    "00-4107",
+    "00-3780",
+    "00-4932",
+    "00-6819",
+    "00-6024",
+    "00-4779",
+    "00-5108",
+    "00-6823",
+    "00-3146",
+    "00-4249",
+    "00-4783",
+    "00-3445",
+    "00-4674",
+    "00-6108",
+    "00-5962",
+    "00-3118",
+    "00-4655",
+    "00-4441",
+    "00-4170",
+    "00-3633",
+    "00-8360",
+    "00-9894",
+    "00-3979",
+    "00-10",
+    "00-3114",
+    "00-3871",
+    "00-6740",
+    "00-4707",
+    "00-3032",
+    "00-3617",
+    "00-4675",
+    "00-6274",
+    "00-7675",
+    "00-2342",
+    "00-5363",
+    "00-4690",
+    "00-6255",
+    "00-3143",
+    "00-3700",
+    "00-4078",
+    "00-7536",
+    "00-3713",
+    "00-7017",
+    "00-7114",
+    "00-9225",
+    "00-7606",
+    "00-4834",
+    "00-355",
+    "00-7084",
+    "00-7539",
+    "00-7653",
+    "00-7075",
+    "00-4605",
+    "00-7940",
+    "00-3501",
+    "00-9290",
+    "00-4551",
+    "00-1457",
+    "00-6219",
+    "00-4421",
+    "00-6864",
+    "00-6533",
+    "00-7358",
+    "00-3506",
+    "00-7860",
+    "00-7857",
+    "00-6554",
+    "00-7336",
+    "00-5027",
+    "00-4982",
+    "00-4126",
+    "00-6480",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-oetker-tortencreme/00-54309",
+  "vatCode": "10",
+  "video": ""
+}

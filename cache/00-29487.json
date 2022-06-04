@@ -1,0 +1,276 @@
+{
+  "articleGroupIds": [
+    "B2-45A"
+  ],
+  "articleId": "00-29487",
+  "articleOnlyCanonicalPath": "/produkte/kaerntnermilch-broeseltopfen-202/00-29487",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kärntnermilch",
+  "brandPath": "/marken/kaerntnermilch",
+  "canonicalPath": "/produkte/kaerntnermilch-broeseltopfen-202/00-29487",
+  "category": "Kühlwaren",
+  "description": "Der traditionelle Bröseltopfen 20% hat einen Fettgehalt von 20 %. Durch die krümelige Konsistenz eignet er sich vor allem zum Kochen und für Füllungen.<li>20 % Fettgehalt in der Trockenmasse<li>hergestellt in Österreich",
+  "eanCodes": [
+    "9004283025409"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Villacher Straße 92, A-9800 Spittal/Drau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kärntnermilch reg. Gen.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kaerntnermilch.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.26
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Bröseltopfen aus pasteurisierter Milch  20% F.i.T.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 98,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 413,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": []
+    }
+  ],
+  "grammage": "250 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.85,
+    "unit": "1 kg 7.40"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kärntnermilch Bröseltopfen 20%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A/produkte/kaerntnermilch-broeseltopfen-202/00-29487"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.85,
+    "unit": "1 kg 7.40"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 84960,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kärntnermilch Bröseltopfen 20% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kärntnermilch Bröseltopfen 20% online bestellen | BILLA",
+  "slug": "kaerntnermilch-broeseltopfen-202",
+  "storeAvalibility": [
+    "00-7491",
+    "00-7642",
+    "00-7915",
+    "00-7856",
+    "00-7600",
+    "00-7553",
+    "00-7584",
+    "00-7857",
+    "00-7546",
+    "00-7547",
+    "00-7606",
+    "00-6130",
+    "00-7733",
+    "00-7602",
+    "00-7783",
+    "00-9030",
+    "00-7565",
+    "00-7758",
+    "00-7603",
+    "00-7676",
+    "00-7963",
+    "00-7810",
+    "00-7860",
+    "00-7535",
+    "00-7538",
+    "00-7766",
+    "00-7827",
+    "00-7667",
+    "00-7566",
+    "00-7681",
+    "00-7611",
+    "00-7969",
+    "00-7835",
+    "00-7592",
+    "00-7710",
+    "00-7716",
+    "00-7759",
+    "00-7616",
+    "00-7536",
+    "00-7675",
+    "00-7975",
+    "00-7629",
+    "00-7539",
+    "00-7765",
+    "00-7831",
+    "00-7940",
+    "00-7866",
+    "00-7665",
+    "00-7653",
+    "00-99202"
+  ],
+  "url": "/produkte/kaerntnermilch-broeseltopfen-202/00-29487",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,246 @@
+{
+  "articleGroupIds": [
+    "B2-482"
+  ],
+  "articleId": "00-386090",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-fair-zum-tier-haussalami/00-386090",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-fair-zum-tier-haussalami/00-386090",
+  "category": "Kühlwaren",
+  "description": "<li>Ausgezeichnet mit dem Fair zum Tier Siegel<li>Gentechnikfreies Futter<li>Auslauf an der frischen Luft<li>Schweine haben doppelt so viel Platz</li>",
+  "eanCodes": [
+    "9010158012603"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Saccharose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Histamin",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "-\n"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-09-17T00:00:00",
+      "ingredients": "Zutaten: 141g Schweinefleisch für 100g Enderzeugnis, Schweinespeck Speisesalz, Gewürze, Gewürzextrakte, Dextrose, Rote Beetepulver, Antioxidationsmittel: Ascorbinsäure; Konservierungsstoff: Natriumnitrit.",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-40843-EG\r\nGeboren in: Österreich \r\nAufgezogen in: Österreich \r\nGeschlachtet in: Österreich \r\nHergestellt in: Österreich \r\nZerlegt in: Österreich \r\nUrsprung: Österreich \r\nHerkunft: Österreich ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.08
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 80
+        }
+      ],
+      "name": "Fair zum Tier Haussalami 80g",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 451,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1870,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 56,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 39,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 85,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.1,
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 50,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 68,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 4-6 °C",
+      "usageHints": "Nach dem Öffnen  unmittelbar verzehren.\r\nNach dem Öffnen zum sofortigen Verzehr bestimmt."
+    }
+  ],
+  "grammage": "80 g Packung",
+  "grammageBadge": "80 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 24.88"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hofstädter Fair zum Tier Haussalami",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/salami/B2-482/produkte/hofstaedter-fair-zum-tier-haussalami/00-386090"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 24.88"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Fair zum Tier Haussalami online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Fair zum Tier Haussalami online bestellen | BILLA",
+  "slug": "hofstaedter-fair-zum-tier-haussalami",
+  "storeAvalibility": [
+    "00-3709",
+    "00-3871",
+    "00-9290",
+    "00-281",
+    "00-2360",
+    "00-4482",
+    "00-1480",
+    "00-4690",
+    "00-4126",
+    "00-3857",
+    "00-7393",
+    "00-10",
+    "00-1107",
+    "00-355",
+    "00-3059",
+    "00-5078",
+    "00-1032",
+    "00-3856",
+    "00-1457",
+    "00-4283",
+    "00-4513",
+    "00-323",
+    "00-99202"
+  ],
+  "url": "/produkte/hofstaedter-fair-zum-tier-haussalami/00-386090",
+  "vatCode": "10",
+  "video": ""
+}

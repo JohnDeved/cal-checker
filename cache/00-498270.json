@@ -1,0 +1,229 @@
+{
+  "articleGroupIds": [
+    "B2-357"
+  ],
+  "articleId": "00-498270",
+  "articleOnlyCanonicalPath": "/produkte/hard2ohh-hard-seltzer-grapefruit/00-498270",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Hard2Ohh",
+  "canonicalPath": "/produkte/hard2ohh-hard-seltzer-grapefruit/00-498270",
+  "category": "Getränke",
+  "description": "Starzinger¿s Hard Seltzer - H(ard)20(hh) - ist der ultimative Lifestyle-Drink aus Österreich¿ bestes prickelndes Wasser aus Frankenmarkt/OÖ trifft auf natürliches Fruchtaroma und 4% Alkohol. The BIG & BETTER Taste -ohh ja!</li>",
+  "eanCodes": [
+    "9002349044210"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bahnhofstr. 1, A-4890 Frankenmarkt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Starzinger GmbH & Co KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.starzinger.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-10-01T00:00:00",
+      "ingredients": "Zutaten: Trinkwasser, Ethanol (4,0 % vol.), Zucker, Kohlensäure, Säuerungsmittel Citronensäure, natürliches Aroma",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.38
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 355
+        }
+      ],
+      "name": "Alkohol- und Kohlensäurehaltiges Getränk mit Grapefruitgeschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 29,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 122,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme schützen."
+    }
+  ],
+  "grammage": "0.355 l Dose",
+  "grammageBadge": "0.355 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 l 5.32"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Hard2Ohh Hard Seltzer Grapefruit",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/spirituosen/alkopops/B2-357/produkte/hard2ohh-hard-seltzer-grapefruit/00-498270"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.89,
+    "unit": "1 l 5.32"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36,
+    48,
+    60
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hard2Ohh Hard Seltzer Grapefruit online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hard2Ohh Hard Seltzer Grapefruit online bestellen | BILLA",
+  "slug": "hard2ohh-hard-seltzer-grapefruit",
+  "storeAvalibility": [
+    "00-10",
+    "00-7539",
+    "00-99202"
+  ],
+  "url": "/produkte/hard2ohh-hard-seltzer-grapefruit/00-498270",
+  "vatCode": "20",
+  "video": ""
+}

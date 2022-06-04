@@ -1,0 +1,215 @@
+{
+  "articleGroupIds": [
+    "B2-582",
+    "B2-6E2",
+    "B2-6E3"
+  ],
+  "articleId": "00-467778",
+  "articleOnlyCanonicalPath": "/produkte/weizenfrei-marillenknoedel-glutenfrei/00-467778",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Weizenfrei",
+  "canonicalPath": "/produkte/weizenfrei-marillenknoedel-glutenfrei/00-467778",
+  "category": "Tiefkühl",
+  "description": "Die weizen- und laktosefreien Marillenknödel bestehen aus laktosefreiem Topfen & glutenfreiem Maisgrieß und sind mit einer feinen Marillenfruchtfüllung gefüllt.<br>Zubereitung: Tiefgekühlte Knödel in leicht gesalzenem Wasser ca. 15 Minuten leicht köcheln.",
+  "eanCodes": [
+    "9120072856600"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DZG_GLUTEN_FREE",
+              "valueTranslation": "GLUTEN-FREI - Zeichen der Deutschen Zöliakiegesellschaft (DZG)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Betriebsring 3, 2483 Ebreichsdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Weizenfrei Holding GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9120072850004",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-11-01T00:00:00",
+      "ingredients": "Zutaten: TOPFEN laktosefrei 0,2% F.i.T. (33%), Marillenfruchtfüllung (20%) (Marillen 12%, Zucker, Verdickungsmittel (Guarkernmehl), Reismehl, VOLLEI, Maisstärke, Zucker, getrockneter Glukosesirup, BUTTER laktosefrei, Kartoffelstärke, Maisgries, Gemüsefasern (Kartoffel, Flohsamen), Backtriebmittel (Natriumcarbonat), Verdickungsmittel (Xanthan, Hydroxypropylmethylcellulose, Guarkernmehl). Zutaten Semmelbrösel mit Zucker: Wasser, glutenfreie Stärken (Mais, Kartoffel, Tapioka), Wasser, Reissauerteig, Reisvollkornmehl, Reissauerteig, Reisvollkornmehl, Rapsöl, Verdickungsmittel (Hydroxymethylcellulose, Carboxymethylcellulose, Xanthan), Hefe, Pflanzenfasern, Salz, Fructose, Flohsamenschalen, laktosefreies MAGERMILCHPULVER, Emulgator (Diglyceride). Kann Spuren von Sesam und Eier enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 540
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 520
+        }
+      ],
+      "name": "Weizenfreie Marillenknödel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 177,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 747,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 29.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.76,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.38,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "520 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.49,
+    "unit": "1 kg 10.56"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Weizenfrei Marillenknödel Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/desserts-und-fruechte/suessspeisen/B2-582/produkte/weizenfrei-marillenknoedel-glutenfrei/00-467778",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/weizenfrei-marillenknoedel-glutenfrei/00-467778",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/laktosefrei/B2-6E3/produkte/weizenfrei-marillenknoedel-glutenfrei/00-467778"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.49,
+    "unit": "1 kg 10.56"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Weizenfrei Marillenknödel Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Weizenfrei Marillenknödel Glutenfrei online bestellen | BILLA",
+  "slug": "weizenfrei-marillenknoedel-glutenfrei",
+  "storeAvalibility": [
+    "00-7075",
+    "00-10",
+    "00-2342",
+    "00-3780",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/weizenfrei-marillenknoedel-glutenfrei/00-467778",
+  "vatCode": "10",
+  "video": ""
+}

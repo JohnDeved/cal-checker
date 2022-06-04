@@ -1,0 +1,373 @@
+{
+  "articleGroupIds": [
+    "B2-73",
+    "B2-6B3"
+  ],
+  "articleId": "00-656580",
+  "articleOnlyCanonicalPath": "/produkte/corny-big-schoko-banane/00-656580",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Corny",
+  "brandPath": "/marken/corny",
+  "canonicalPath": "/produkte/corny-big-schoko-banane/00-656580",
+  "category": "Süßes & Salziges",
+  "description": "Der große Riegel für einen maximalen Geschmack. Mit noch mehr gerösteten Vollkornflocken, noch mehr Bananenstücken und noch mehr Schokolade.<br><li>Mit wertvollem Getreide</li><li>Ohne Farb- und Konservierungsstoffe</li><li>Mit UTZ-zertifiziertem Kakao hergestellt</li>",
+  "eanCodes": [
+    "4011800524012"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "23608 Bad Schwartau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Schwartauer Werke GmbH & Co. KGaA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-05-27T00:00:00",
+      "ingredients": "Zutaten: MILCHSCHOKOLADE 20% (Zucker, Kakaomasse, Kakaobutter, MAGERMILCHPULVER, BUTTERFETT, Emulgator Lecithine), Getreidecrispies (WEIZENMEHL, Zucker, Reismehl, Maismehl, GERSTENMALZEXTRAKT, Salz, Karamellzuckersirup), Glukose-Fruktose-Sirup, Glukosesirup,\nVollkorngetreideflocken 13% (HAFER-,WEIZEN-, GERSTEN-), Zucker, Kokosfett, getrocknete Bananen 3%, Cornflakes (Mais, Salz, GERSTENMALZEXTRAKT), Honig, geröstete ERDNÜSSE, natürliches Aroma,\nEmulgator Lecithine, Salz.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 51
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 50
+        }
+      ],
+      "name": "Müsliriegel Milchschokolade-Banane",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1776,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 422,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 13.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 47,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 67.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 39,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 34.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "Pro Riegel (50g)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 890,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 212,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 24,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 33.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 17.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [],
+      "storageHint": "Vor Wärme schützen. Kühl und trocken lagern."
+    }
+  ],
+  "grammage": "50 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 23.80"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Corny Big Schoko-Banane",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/corny-big-schoko-banane/00-656580",
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/corny-big-schoko-banane/00-656580"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 23.80"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 73060,
+  "recommendationArticleIds": [],
+  "seoDescription": "Corny Big Schoko-Banane online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Corny Big Schoko-Banane online bestellen | BILLA",
+  "slug": "corny-big-schoko-banane",
+  "storeAvalibility": [
+    "00-3140",
+    "00-8530",
+    "00-4225",
+    "00-323",
+    "00-4059",
+    "00-1596",
+    "00-2923",
+    "00-174",
+    "00-10",
+    "00-5391",
+    "00-4489",
+    "00-1121",
+    "00-1913",
+    "00-1750",
+    "00-6262",
+    "00-411",
+    "00-604",
+    "00-239",
+    "00-3669",
+    "00-5531",
+    "00-3824",
+    "00-3138",
+    "00-3420",
+    "00-497",
+    "00-3611",
+    "00-1701",
+    "00-4003",
+    "00-3378",
+    "00-6740",
+    "00-9415",
+    "00-5223",
+    "00-2364",
+    "00-9266",
+    "00-408",
+    "00-3042",
+    "00-2338",
+    "00-2543",
+    "00-5078",
+    "00-3579",
+    "00-209",
+    "00-4291",
+    "00-1826",
+    "00-4619",
+    "00-5027",
+    "00-823",
+    "00-8606",
+    "00-99202",
+    "00-6864",
+    "00-570",
+    "00-8188",
+    "00-4478",
+    "00-2131",
+    "00-430",
+    "00-7302",
+    "00-3044",
+    "00-2208",
+    "00-2907",
+    "00-5454",
+    "00-4466",
+    "00-6884",
+    "00-3253",
+    "00-6518",
+    "00-702",
+    "00-2295",
+    "00-4756",
+    "00-8400",
+    "00-5945"
+  ],
+  "url": "/produkte/corny-big-schoko-banane/00-656580",
+  "vatCode": "10",
+  "video": ""
+}

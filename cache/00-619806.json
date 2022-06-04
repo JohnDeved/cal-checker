@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-491"
+  ],
+  "articleId": "00-619806",
+  "articleOnlyCanonicalPath": "/produkte/moser-beskidia-geraeuchert/00-619806",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Moser",
+  "canonicalPath": "/produkte/moser-beskidia-geraeuchert/00-619806",
+  "category": "Kühlwaren",
+  "description": "Der Moser Beskidia Geräuchert mit feinem Rauch-Aroma verfügt über einen großen Anteil an mageren Schinkenstücken und wird mit Grander-Wasser hergestellt.<li>geräucherte und gebratene Fleischwurst<li>herzhafte Bauernkrakauer aus ausschließlich österreichischem Fleisch<li>auch geschnitten lange haltbar",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mankerstraße 4, 3250 Wieselburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Moser Wurst GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "moserwurst.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch, Rindfleisch, Trinkwasser, Speck, Nititpökelsalz (Speisesalz, Konservierungsstoff E250), Gewürze, Gewürzextrakte, Dextrose, Geschmacksverstärker E621, Antioxidationsmittel E300, E301, Stabilisatoren E450, E451, E452, Frucht- und Gemüsekonzentrat (aus Rettich, Rote Beete, Schwarze Johannisbeere, Apfel, Tomaten), Maltodextrin, Aroma. Zur Herstellung von 100g Beskidia wurden 101g Rind- & Schweinefleisch verwendet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.3
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1.292
+        }
+      ],
+      "name": "Beskidia, geräucherte und gebratene Fleischwurst",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 186,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 778,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Nur aus österreichischem Fleisch",
+      "preperations": [],
+      "storageHint": "bei 2-6°C mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Wursthülle nicht essbar"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 26.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 26.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 26.9,
+    "unit": "100 g 2.69"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Moser Beskidia Geräuchert",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/moser-beskidia-geraeuchert/00-619806",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/moser-beskidia-geraeuchert/00-619806"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 26.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 26.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 26.9,
+    "unit": "100 g 2.69"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 12610,
+  "recommendationArticleIds": [],
+  "seoDescription": "Moser Beskidia Geräuchert online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Moser Beskidia Geräuchert online bestellen | BILLA",
+  "slug": "moser-beskidia-geraeuchert",
+  "storeAvalibility": [],
+  "url": "/produkte/moser-beskidia-geraeuchert/00-619806",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

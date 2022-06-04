@@ -1,0 +1,241 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-626064",
+  "articleOnlyCanonicalPath": "/produkte/philadelphia-balance-natur/00-626064",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Philadelphia",
+  "brandPath": "/marken/philadelphia",
+  "canonicalPath": "/produkte/philadelphia-balance-natur/00-626064",
+  "category": "Kühlwaren",
+  "description": "Der unnachahmliche und einzigartig cremig-frische Geschmack von Philadelphia Balance klassisch. Das handliche 175 g Format ergibt 5-6 Portionen des lecker-leichten Brotaufstrichs. Wie alle Philadelphia Balance Produkte, ist auch diese Sorte ideal für eine bewusste und kalorienreduzierte Ernährung. Cremig-frischer Geschmack ohne  schlechtes Gewissen, perfekt zum Genießen oder Kochen! Ob zum Frühstück, zum Abendbrot oder zum Abrunden köstlicher Gerichte - mit Philadelphia Balance Klassisch wird es zu einem einzigartigen Genusserlebnis. Dabei passt diese Sorte wunderbar zu Brot, Brötchen, Baguette, als leichte Alternative zur Sandwichcrème und, und, und. ",
+  "eanCodes": [
+    "7622300318147"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "FRISCHKÄSE,MILCH",
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1140 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mondelez Österreich",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: FRISCHKÄSE, Molkenerzeugnisse (aus MILCH), Speisesalz, Verdickungsmittel (Johannisbrotkernmehl, Carrageen), Säuerungsmittel (Citronensäure).",
+      "measurements": [
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 175
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 189
+        }
+      ],
+      "name": "Frischkäsezubereitung der Fettstufe, wärmebehandelt. Balance/ weniger Fett - Mindestens 30% weniger Fett als Philadelphia Doppelrahmstufe.",
+      "nutritions": [
+        {
+          "householdPortion": "100 g",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 150,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 625,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt aufbewahren."
+    }
+  ],
+  "grammage": "175 g Becher",
+  "grammageBadge": "175 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 8.51"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Philadelphia Balance Natur",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/philadelphia-balance-natur/00-626064"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 8.51"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 122500,
+  "recommendationArticleIds": [
+    "00-748895"
+  ],
+  "seoDescription": "Philadelphia Balance Natur online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Philadelphia Balance Natur online bestellen | BILLA",
+  "slug": "philadelphia-balance-natur",
+  "storeAvalibility": [
+    "00-4690",
+    "00-5108",
+    "00-2923",
+    "00-7539",
+    "00-4756",
+    "00-355",
+    "00-99202",
+    "00-4126",
+    "00-4707",
+    "00-2342",
+    "00-6676",
+    "00-521",
+    "00-7653",
+    "00-10",
+    "00-3780"
+  ],
+  "url": "/produkte/philadelphia-balance-natur/00-626064",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,939 @@
+{
+  "articleGroupIds": [
+    "B2-73",
+    "B2-6B3"
+  ],
+  "articleId": "00-946064",
+  "articleOnlyCanonicalPath": "/produkte/nestle-lion-cerealien-riegel/00-946064",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nestlé",
+  "brandPath": "/marken/nestle",
+  "canonicalPath": "/produkte/nestle-lion-cerealien-riegel/00-946064",
+  "category": "Süßes & Salziges",
+  "description": "6 Stück<br><br>NESTLÉ LION Cerealien im Riegelformat, als praktisches Frühstück oder als Snack für zwischendurch.",
+  "eanCodes": [
+    "5900020030405"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2019-05-28T00:00:00",
+      "ingredients": "Zutaten: 36,3% Getreide (29,4% VOLLKORNWEIZENMEHL, 3,1% VOLLKORNHAFERFLOCKEN, Maisgrieß, WEIZENMEHL, Reismehl), 20,1% Karamellcreme [gezuckerte KONDENSMILCH (VOLLMILCH, Zucker), MAGERMILCHPULVER, Salz], 18% weißer Überzug [MAGERMILCHPULVER, Kokosnussfett, Maltodextrin, Zucker, Calciumcarbonat, Kakaobutter, Emulgator (Lecithine), natürliches Vanillearoma], Glukosesirup, Zucker, 5,1% MILCHSCHOKOLADE [Zucker, MAGERMILCHPULVER, Kakaobutter, Kakaomasse, BUTTERREINFETT, Emulgatoren (Lecithine (SOJA), Polyglycerin-Polyricinoleat), natürliches Vanillearoma], Feuchthaltemittel Glycerin, Vitamine und Mineralstoffe (Cacliumcarbonat, Niacin, Pantothensäure, Folsäure, Vit. B6, Riboflavin [Vit. B2], natürliche Aromen, Kakaopulver, fettreduzierter Kakao, Salz, Emulgator (Lecithine), Antioxidationsmittel (stark tocopherolhaltige Extrakte), Karamellzuckersirup, Farbstoff (Carotin). Kann NÜSSE enthalten.",
+      "marketingMessage": "NESTLÉ LION Cerealien im Riegelformat, als praktisches Frühstück oder als Snack für zwischendurch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 188
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Getreideriegel mit Karamellcreme und Milchschokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 407,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1709,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 61,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.58,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 83,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 165,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 188,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 1506,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 78,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 13,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 78,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 4.7,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 103,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 93,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.3,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 102,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 427,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 41.3,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 47,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 377,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 3.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 1.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.36,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.33,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen."
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2022-05-13T00:00:00",
+      "ingredients": "Zutaten: 36,3% Getreide (29,4% VOLLKORNWEIZENMEHL, 3,1% VOLLKORNHAFERFLOCKEN, Maisgrieß, WEIZENMEHL, Reismehl), 20,1% Karamellcreme [gezuckerte KONDENSMILCH (VOLLMILCH, Zucker), MAGERMILCHPULVER, Salz], 18% weißer Überzug [MAGERMILCHPULVER, Kokosnussfett, Maltodextrin, Zucker, Calciumcarbonat, Kakaobutter, Emulgator (Lecithine), natürliches Vanillearoma], Glukosesirup, Zucker, 5,1% MILCHSCHOKOLADE [Zucker, MAGERMILCHPULVER, Kakaobutter, Kakaomasse, BUTTERREINFETT, Emulgatoren (Lecithine (SOJA), Polyglycerin-Polyricinoleat), natürliches Vanillearoma], Feuchthaltemittel Glycerin, Vitamine und Mineralstoffe (Cacliumcarbonat, Niacin, Pantothensäure, Folsäure, Vit. B6, Riboflavin [Vit. B2], natürliche Aromen, Kakaopulver, fettreduzierter Kakao, Salz, Emulgator (Lecithine), Antioxidationsmittel (stark tocopherolhaltige Extrakte), Karamellzuckersirup, Farbstoff (Carotin). Kann NÜSSE enthalten.",
+      "marketingMessage": "NESTLÉ LION Cerealien im Riegelformat, als praktisches Frühstück oder als Snack für zwischendurch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 188
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Getreideriegel mit Karamellcreme und Milchschokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 407,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1709,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 61,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.58,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 83,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 165,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 188,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 1506,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 78,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 13,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 78,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 4.7,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 103,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 93,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.3,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 102,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 427,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 41.3,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 47,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 377,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 3.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 1.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.36,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.33,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen."
+    }
+  ],
+  "grammage": "150 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.69,
+    "unit": "1 kg 11.27"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Nestlé Lion Cerealien Riegel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/nestle-lion-cerealien-riegel/00-946064",
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/nestle-lion-cerealien-riegel/00-946064"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.69,
+    "unit": "1 kg 11.27"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 44270,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nestlé Lion Cerealien Riegel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nestlé Lion Cerealien Riegel online bestellen | BILLA",
+  "slug": "nestle-lion-cerealien-riegel",
+  "storeAvalibility": [
+    "00-99202",
+    "00-3105",
+    "00-521",
+    "00-3125",
+    "00-2260",
+    "00-2213",
+    "00-1866",
+    "00-4551",
+    "00-720",
+    "00-4655",
+    "00-3005",
+    "00-3569",
+    "00-3011",
+    "00-1771",
+    "00-4421",
+    "00-3600",
+    "00-2295",
+    "00-7204",
+    "00-6022",
+    "00-3120",
+    "00-6740",
+    "00-3669",
+    "00-1265",
+    "00-7857",
+    "00-7229",
+    "00-2170",
+    "00-7538",
+    "00-2131",
+    "00-6480",
+    "00-1900",
+    "00-3824",
+    "00-3322",
+    "00-3050",
+    "00-8076",
+    "00-2342",
+    "00-6372",
+    "00-643",
+    "00-4813",
+    "00-3170",
+    "00-6219",
+    "00-2840",
+    "00-3138",
+    "00-2808",
+    "00-950",
+    "00-3014",
+    "00-3022",
+    "00-7114",
+    "00-397",
+    "00-1480",
+    "00-4225",
+    "00-6724",
+    "00-3196",
+    "00-3042",
+    "00-3506",
+    "00-7675",
+    "00-309",
+    "00-4783",
+    "00-5027",
+    "00-3681",
+    "00-1041",
+    "00-3633",
+    "00-3027",
+    "00-3940",
+    "00-289",
+    "00-3140",
+    "00-3445",
+    "00-4675",
+    "00-4982",
+    "00-3709",
+    "00-7592",
+    "00-6001",
+    "00-119",
+    "00-388",
+    "00-5531",
+    "00-8241",
+    "00-2204",
+    "00-7860",
+    "00-115",
+    "00-3384",
+    "00-6819",
+    "00-3135",
+    "00-4690",
+    "00-5000",
+    "00-7336",
+    "00-6952",
+    "00-7920",
+    "00-2011",
+    "00-4090",
+    "00-3583",
+    "00-3405",
+    "00-3420",
+    "00-1479",
+    "00-3143",
+    "00-2098",
+    "00-2208",
+    "00-6864",
+    "00-2111",
+    "00-1070",
+    "00-1826",
+    "00-5003",
+    "00-1550",
+    "00-7629",
+    "00-7536",
+    "00-1631",
+    "00-10",
+    "00-4932",
+    "00-7743",
+    "00-7783",
+    "00-3830",
+    "00-1911",
+    "00-4126",
+    "00-2223",
+    "00-1425",
+    "00-3700",
+    "00-4770",
+    "00-1524",
+    "00-7491",
+    "00-7600",
+    "00-2218",
+    "00-6684",
+    "00-2154",
+    "00-8173",
+    "00-174",
+    "00-4755",
+    "00-4170",
+    "00-176",
+    "00-7368",
+    "00-783",
+    "00-117",
+    "00-4249",
+    "00-7245",
+    "00-5391",
+    "00-703",
+    "00-7676",
+    "00-702",
+    "00-2259",
+    "00-987",
+    "00-112",
+    "00-2899",
+    "00-2313",
+    "00-7642",
+    "00-1457",
+    "00-6353",
+    "00-3044",
+    "00-3713",
+    "00-6845",
+    "00-7539",
+    "00-6021",
+    "00-497",
+    "00-8235",
+    "00-3214",
+    "00-3157",
+    "00-943",
+    "00-7393",
+    "00-4424",
+    "00-3025",
+    "00-1455",
+    "00-1027",
+    "00-3617",
+    "00-133",
+    "00-2201",
+    "00-3848",
+    "00-5359",
+    "00-3234",
+    "00-355",
+    "00-7535",
+    "00-7544",
+    "00-411",
+    "00-3512",
+    "00-6274",
+    "00-7424",
+    "00-5603",
+    "00-5363",
+    "00-3259",
+    "00-3103",
+    "00-1003",
+    "00-4270",
+    "00-8012",
+    "00-3023",
+    "00-4407",
+    "00-4478",
+    "00-3114",
+    "00-2238",
+    "00-3510",
+    "00-5871",
+    "00-4672",
+    "00-208",
+    "00-2222",
+    "00-1901",
+    "00-3947",
+    "00-6676",
+    "00-5962",
+    "00-249",
+    "00-3253",
+    "00-7653",
+    "00-3308",
+    "00-7835",
+    "00-4441",
+    "00-7358",
+    "00-823",
+    "00-7616",
+    "00-3431",
+    "00-3688",
+    "00-3047",
+    "00-408",
+    "00-3146",
+    "00-282",
+    "00-1207",
+    "00-2907",
+    "00-2306",
+    "00-2109",
+    "00-1039",
+    "00-4605",
+    "00-6884",
+    "00-5529",
+    "00-281",
+    "00-836",
+    "00-9894",
+    "00-3062",
+    "00-3121",
+    "00-7606",
+    "00-2369",
+    "00-4107",
+    "00-3780",
+    "00-7075",
+    "00-4779",
+    "00-209",
+    "00-7667",
+    "00-9290",
+    "00-1943",
+    "00-4707",
+    "00-1701",
+    "00-6138",
+    "00-372",
+    "00-5104",
+    "00-4540",
+    "00-1132",
+    "00-1913",
+    "00-3401",
+    "00-1409",
+    "00-6910",
+    "00-3150",
+    "00-2220",
+    "00-239",
+    "00-6018",
+    "00-3501",
+    "00-6024",
+    "00-1017",
+    "00-2923",
+    "00-6745",
+    "00-6823",
+    "00-3010"
+  ],
+  "url": "/produkte/nestle-lion-cerealien-riegel/00-946064",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,165 @@
+{
+  "articleGroupIds": [
+    "B2-353"
+  ],
+  "articleId": "00-302939",
+  "articleOnlyCanonicalPath": "/produkte/martini-rosso/00-302939",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Martini",
+  "brandPath": "/marken/martini",
+  "canonicalPath": "/produkte/martini-rosso/00-302939",
+  "category": "Getränke",
+  "description": "Es ist die besondere Komposition der Zutaten, die MARTINI ROSSO zu einem Geschmackserlebnis macht. Nicht umsonst ist der italienische Vermouth Grundlage vieler klassischer Cocktails wie dem Negroni und dem Manhattan. Vollmundige italienische Kräuter wie Beifuß, Diktam und andere Aromate reichern die exzellente Weinbasis von MARTINI ROSSO an.\n",
+  "eanCodes": [
+    "5010677914000"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 15,
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "P.ZZA LUIGI ROSSI 2, 10023 PESSIONE - TORINO - ITALY",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Martini & Rossi S.p.A.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "http://contact.martini.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2017-05-09T00:00:00",
+      "ingredients": "Enthält Sulfite",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.313
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 750
+        }
+      ],
+      "name": "Wermut",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.75 l Flasche",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 8.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 8.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 8.99,
+    "unit": "1 l 11.99"
+  },
+  "maximalOrderQuantity": 30,
+  "minimalOrderQuantity": 0,
+  "name": "Martini Rosso",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/spirituosen/aperitif-und-digestif/B2-353/produkte/martini-rosso/00-302939"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 8.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 8.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 8.99,
+    "unit": "1 l 11.99"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 170550,
+  "recommendationArticleIds": [],
+  "seoDescription": "Martini Rosso online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Martini Rosso online bestellen | BILLA",
+  "slug": "martini-rosso",
+  "storeAvalibility": [
+    "00-350",
+    "00-4551",
+    "00-10",
+    "00-1911",
+    "00-4756",
+    "00-7075",
+    "00-7539",
+    "00-174",
+    "00-5108",
+    "00-3947",
+    "00-99202"
+  ],
+  "supplierText": "Deutliche Präsenz von Kräutern und sehr ausgeprägter und typisch bitter süßer Vermouth-Geschmack. Der bittere Absinth-Ton sticht bei Rosso besonders hervor und wird durch karamelisierten Zucker, der auch für die Farbgebung verantwortlich ist, abgerundet. Martini verwendet eine Cuvée von ausgewählten trockenen Weißweinen mit 11-13% Vol. aus dem Piemont, der Romagna oder Sizilien. Weiters werden 80 verschiedene Kräuter zu Herstellung verwendet.",
+  "url": "/produkte/martini-rosso/00-302939",
+  "vatCode": "20",
+  "video": ""
+}

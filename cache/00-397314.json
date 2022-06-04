@@ -1,0 +1,227 @@
+{
+  "articleGroupIds": [
+    "B2-432",
+    "B2-F"
+  ],
+  "articleId": "00-397314",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-huehnerbrust/00-397314",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_new",
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-huehnerbrust/00-397314",
+  "category": "Kühlwaren",
+  "description": "Das Fleisch der Putenbrust ist sehr mager und durch den geringen Fettanteil entsteht der typisch milde Geschmack.</li>",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2018-12-13T00:00:00",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-31402-EG\r\nAT-20293-EG\r\nHandelsklasse A\r\nfrisch \r\nKüchenhygiene ist wichtig: Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen (mind. 75°C)!\r\nGeboren in: Österreich\r\nAufgezogen in: Österreich\r\nGeschlachtet in: Österreich\r\nZerlegt in: Österreich",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Hühner Brust",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5.1,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 101,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 428,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 1.4,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 46,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.3,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei -1 bis +4°C.",
+      "usageHints": "Nach dem Öffnen zur unmittelbaren Verarbeitung bestimmt."
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.99,
+    "unit": "1 kg 12,99 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.6,
+  "name": "Hofstädter Hühnerbrust",
+  "orderQuantityStepSize": 0.6,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432/produkte/hofstaedter-huehnerbrust/00-397314",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/hofstaedter-huehnerbrust/00-397314"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.99,
+    "unit": "1 kg 12,99 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Hühnerbrust online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Hühnerbrust online bestellen | BILLA",
+  "slug": "hofstaedter-huehnerbrust",
+  "storeAvalibility": [
+    "00-10",
+    "00-281",
+    "00-99202"
+  ],
+  "url": "/produkte/hofstaedter-huehnerbrust/00-397314",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    60,
+    120,
+    180,
+    240,
+    300
+  ]
+}

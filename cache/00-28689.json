@@ -1,0 +1,275 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-28689",
+  "articleOnlyCanonicalPath": "/produkte/kaerntnermilch-buttermilch-1/00-28689",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kärntnermilch",
+  "brandPath": "/marken/kaerntnermilch",
+  "canonicalPath": "/produkte/kaerntnermilch-buttermilch-1/00-28689",
+  "category": "Kühlwaren",
+  "description": "Die frische Buttermilch 1% stammt von pasteurisierter Milch aus Kärnten. Sie bietet pur frischen Genuss und eignet sich für Müslis, zum Backen und Marinieren.<li>Fettanteil 1 %.<li>wird gekühlt ausgeliefert<li>Qualität aus Österreich",
+  "eanCodes": [
+    "9004283012003"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Villacher Straße 92, 9800 Spittal/Drau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kärntnermilch reg. Gen.m.b.H.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.538
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Buttermilch aus pasteurisierter Milch mit 1% Fett",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 41,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 172,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.13,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Milliliter Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.8,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.8,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.8,
+    "unit": "1 l 1.60"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kärntnermilch Buttermilch 1%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/kaerntnermilch-buttermilch-1/00-28689"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.8,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.8,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.8,
+    "unit": "1 l 1.60"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 87190,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kärntnermilch Buttermilch 1% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kärntnermilch Buttermilch 1% online bestellen | BILLA",
+  "slug": "kaerntnermilch-buttermilch-1",
+  "storeAvalibility": [
+    "00-7759",
+    "00-7665",
+    "00-7536",
+    "00-7716",
+    "00-7616",
+    "00-7603",
+    "00-7653",
+    "00-7963",
+    "00-7676",
+    "00-7856",
+    "00-7539",
+    "00-7765",
+    "00-7783",
+    "00-9030",
+    "00-7710",
+    "00-7758",
+    "00-7491",
+    "00-7600",
+    "00-7535",
+    "00-7584",
+    "00-7857",
+    "00-7538",
+    "00-7827",
+    "00-7980",
+    "00-7969",
+    "00-7632",
+    "00-7547",
+    "00-7975",
+    "00-6130",
+    "00-7565",
+    "00-7831",
+    "00-7546",
+    "00-7611",
+    "00-7866",
+    "00-7860",
+    "00-7606",
+    "00-7609",
+    "00-7940",
+    "00-7681",
+    "00-7920",
+    "00-7733",
+    "00-7810",
+    "00-7592",
+    "00-7629",
+    "00-7667",
+    "00-7675",
+    "00-7895",
+    "00-7544",
+    "00-7602",
+    "00-7766",
+    "00-7566",
+    "00-7642",
+    "00-7915",
+    "00-7835",
+    "00-7553",
+    "00-99202"
+  ],
+  "url": "/produkte/kaerntnermilch-buttermilch-1/00-28689",
+  "vatCode": "10",
+  "video": ""
+}

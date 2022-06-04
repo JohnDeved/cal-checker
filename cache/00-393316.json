@@ -1,0 +1,272 @@
+{
+  "articleGroupIds": [
+    "B2-6E4"
+  ],
+  "articleId": "00-393316",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-reiswaffeln-rote-bete-und-apfel/00-393316",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-reiswaffeln-rote-bete-und-apfel/00-393316",
+  "category": "Grundnahrungsmittel",
+  "description": "Fruchtig süß",
+  "eanCodes": [
+    "4104420188174"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "TSCHECHISCHE REPUBLIK"
+      ],
+      "fromDate": "2021-05-21T00:00:00",
+      "ingredients": "Zutaten: Reis* 85 %, Rote-Bete-Pulver* 10,5 %, Apfelsaftkonzentrat* 4,5 % *aus biologischer Landwirtschaft. Kann Spuren von Soja und Milch enthalten.",
+      "marketingMessage": "Knusprige, glutenfreie Reiswaffeln mit dem fruchtig-süßen Geschmack von Roter Bete und Äpfeln.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 25
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 23.5
+        }
+      ],
+      "name": "Bio Reiswaffeln mit Rote-Bete-Pulver und\nApfelsaftkonzentrat",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1596,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 377,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 80,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bitte trocken lagern und vor Wärme schützen."
+    }
+  ],
+  "grammage": "23.5 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 kg 42.13"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Reiswaffeln Rote Bete & Apfel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/reiswaffeln-und-vollwert/B2-6E4/produkte/alnatura-reiswaffeln-rote-bete-und-apfel/00-393316"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.99,
+    "unit": "1 kg 42.13"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 78450,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Reiswaffeln Rote Bete & Apfel online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Reiswaffeln Rote Bete & Apfel online bestellen | BILLA",
+  "slug": "alnatura-reiswaffeln-rote-bete-und-apfel",
+  "storeAvalibility": [
+    "00-7393",
+    "00-8433",
+    "00-249",
+    "00-3384",
+    "00-1710",
+    "00-3857",
+    "00-4078",
+    "00-7114",
+    "00-6740",
+    "00-9753",
+    "00-4226",
+    "00-282",
+    "00-3114",
+    "00-4932",
+    "00-7084",
+    "00-2342",
+    "00-1826",
+    "00-3023",
+    "00-1457",
+    "00-4421",
+    "00-3780",
+    "00-3744",
+    "00-8946",
+    "00-112",
+    "00-7358",
+    "00-430",
+    "00-3234",
+    "00-6219",
+    "00-6884",
+    "00-10",
+    "00-7857",
+    "00-3076",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-reiswaffeln-rote-bete-und-apfel/00-393316",
+  "vatCode": "10",
+  "video": ""
+}

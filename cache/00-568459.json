@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-73"
+  ],
+  "articleId": "00-568459",
+  "articleOnlyCanonicalPath": "/produkte/hafervoll-flapjack-chia-dattel-und-pistazie/00-568459",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Hafervoll",
+  "canonicalPath": "/produkte/hafervoll-flapjack-chia-dattel-und-pistazie/00-568459",
+  "category": "Grundnahrungsmittel",
+  "description": "Auf ein traditionelles, schottisches Rezept geht der Flapjack von Hafervoll zurück. Die Zutaten Chia, Dattel & Pistazie runden das Haferflocken-Backwerk ab.<li>gebackener Müsliriegel aus Haferflocken<li>mit Honig, Pistazien, Datteln, Chia und Sesam<li>von Hand gemacht<li>im Ofen gebacken<li>ohne Zusatzstoffe",
+  "eanCodes": [
+    "0000042272144"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Senefelderstraße 44, 51469 Bergisch Gladbach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HAFERVOLL GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-02-15T00:00:00",
+      "ingredients": "Zutaten: HAFERflocken (34,9%), Honig, Sonnenblumenöl, PISTAZIEN (11,3%), getrocknete Dattelstücke (7,7%), Chiasamen (Salvia hispanica) (3,3%), SESAM, Reismehl. Kann Spuren von Milch, Soja, Ei, Erdnüssen und anderen Schalenfrüchten enthalten. Kann Stücke von Schalen und Kernen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 65
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 65
+        }
+      ],
+      "name": "Gebackener Müsliriegel mit Chiasamen, Datteln und Pistazien",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2059,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 493,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 51,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.04,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt und trocken lagern."
+    }
+  ],
+  "grammage": "65 Gramm Riegel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 33.69"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hafervoll Flapjack Chia, Dattel & Pistazie",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/hafervoll-flapjack-chia-dattel-und-pistazie/00-568459",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/hafervoll-flapjack-chia-dattel-und-pistazie/00-568459"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 33.69"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 57730,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hafervoll Flapjack Chia, Dattel & Pistazie online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hafervoll Flapjack Chia, Dattel & Pistazie online bestellen",
+  "slug": "hafervoll-flapjack-chia-dattel-und-pistazie",
+  "storeAvalibility": [
+    "00-10",
+    "00-355",
+    "00-99202",
+    "00-3780"
+  ],
+  "url": "/produkte/hafervoll-flapjack-chia-dattel-und-pistazie/00-568459",
+  "vatCode": "10",
+  "video": ""
+}

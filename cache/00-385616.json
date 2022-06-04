@@ -1,0 +1,196 @@
+{
+  "articleGroupIds": [
+    "B2-673"
+  ],
+  "articleId": "00-385616",
+  "articleOnlyCanonicalPath": "/produkte/foodspring-protein-cream-hazelnut-und-whey-duo/00-385616",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Foodspring",
+  "brandPath": "/marken/foodspring",
+  "canonicalPath": "/produkte/foodspring-protein-cream-hazelnut-und-whey-duo/00-385616",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Frühstück ist eine der wichtigsten Mahlzeiten des Tages und die perfekte Gelegenheit, deinem Proteinhaushalt einen ordentlichen Boost zu verpassen. Deshalb kommen genau hier unsere Protein Creams ins Spiel. Zuckerarm und frei von Palmöl, sind sie außerdem voll mit hochwertigem Molkeprotein, um deine Gesundheit und Fitness zu unterstützen.<br>Sie schmecken super lecker als Brotaufstrich, mit Pancakes oder auf Granola und sind außerdem ein gesunder Protein-Snack vor dem Training oder zwischendurch.<br>Unsere Protein Creams sind die gesunde Alternative wann immer du Lust auf etwas Süßes hast.",
+  "eanCodes": [
+    "4260363487368"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lobeckstr. 30-35, 10969 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "foodspring GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-04-27T00:00:00",
+      "ingredients": "Zutaten: Molkenproteinkonzentrat (25 %), Süßungsmittel (Maltit), Sonnenblumenöl, Süßmolkenpulver (7 %), Haselnüsse (6,5 %), Kakaobutter, fettarmes Kakaopulver, Kokosfett, Emulgator (Sonnenblumenlecithin), natürliches Vanillearoma.",
+      "marketingMessage": "Zeit für doppelte Köstlichkeit! Dürfen wir vorstellen? Unser Protein Cream Duo: Cremiger Hasselnussbrotaufstrich mit Whey und ohne Zuckerzusatz.** Voll beladen mit 8x mehr Protein,* 45% weniger Kohlenhydraten,* und ohne Palmöl. Und für die Umwelt: Kommt das Duo in einer 100% plastikfreien und recyclebaren Verpackung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 404
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Nahrungsergänzungsmittel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 530,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2196,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 38.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 33.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.22,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern."
+    }
+  ],
+  "grammage": "200 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 24.95"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Foodspring Protein Cream Hazelnut & Whey Duo",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/suesse-aufstriche/B2-673/produkte/foodspring-protein-cream-hazelnut-und-whey-duo/00-385616"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 24.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Foodspring Protein Cream Hazelnut & Whey Duo online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Foodspring Protein Cream Hazelnut & Whey Duo online bestellen",
+  "slug": "foodspring-protein-cream-hazelnut-und-whey-duo",
+  "storeAvalibility": [
+    "00-119",
+    "00-10",
+    "00-2342",
+    "00-281",
+    "00-3042",
+    "00-176",
+    "00-99202"
+  ],
+  "url": "/produkte/foodspring-protein-cream-hazelnut-und-whey-duo/00-385616",
+  "vatCode": "10",
+  "video": ""
+}

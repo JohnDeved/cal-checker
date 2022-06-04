@@ -1,0 +1,223 @@
+{
+  "articleGroupIds": [
+    "B2-432"
+  ],
+  "articleId": "00-95782",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-huehner-unterkeulen/00-95782",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_bio",
+    "s_aut"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-huehner-unterkeulen/00-95782",
+  "category": "Kühlwaren",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-01-03T00:00:00",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-20293-EG\r\nAT-BIO-902\nÖsterreich Landwirtschaft\r\nHandelsklasse A\r\nfrisch \r\nFür sichere Speisen ist Küchenhygiene wichtig! Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen.\r\nUrsprung: Österreich",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 1
+        }
+      ],
+      "name": "Bio-Hendlunterkeulen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 8.6,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 171,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 8.5,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 713,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 15.7,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 16.5,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 36,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4.2,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-4 °C",
+      "usageHints": "Nach dem Öffnen  unmittelbar "
+    }
+  ],
+  "grammage": "Per kg",
+  "grammageBadge": "Per kg",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "kg",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 16.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 16.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 16.29,
+    "unit": "1 kg 16,29 €"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.5,
+  "name": "Ja! Natürlich Hühner Unterkeulen",
+  "orderQuantityStepSize": 0.5,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432/produkte/ja-natuerlich-huehner-unterkeulen/00-95782"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 16.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 16.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 16.29,
+    "unit": "1 kg 16,29 €"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Hühner Unterkeulen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Hühner Unterkeulen online bestellen | BILLA",
+  "slug": "ja-natuerlich-huehner-unterkeulen",
+  "storeAvalibility": [
+    "00-10",
+    "00-281",
+    "00-99202"
+  ],
+  "url": "/produkte/ja-natuerlich-huehner-unterkeulen/00-95782",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    50,
+    100,
+    150,
+    200,
+    250
+  ]
+}

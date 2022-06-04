@@ -1,0 +1,151 @@
+{
+  "articleGroupIds": [
+    "B2-891"
+  ],
+  "articleId": "00-862313",
+  "articleOnlyCanonicalPath": "/produkte/nivea-pure-fresh-pflegedusche/00-862313",
+  "attributes": [
+    "s_marke",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nivea",
+  "brandPath": "/marken/nivea",
+  "canonicalPath": "/produkte/nivea-pure-fresh-pflegedusche/00-862313",
+  "category": "Pflege",
+  "description": "<li>Pure Fresh Pflegedusche<li>Mit Meeresmineralien & ozeanfrischer Duft<br><br>Genießen Sie den belebenden Duft des Ozeans, während die Pflegedusche mit wertvollen Meeresmineralien sich in einen samtweichen Schaum verwandelt. Für ein Gefühl von purer Frische auf der Haut.</li>",
+  "eanCodes": [
+    "4005808890330",
+    "4005900513496",
+    "9005800223070"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lehrbachgasse 13 EURO PLAZA, Gebäude H 1120 Wien Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Beiersdorf Ges mbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-04-25T00:00:00",
+      "mandatoryIndicator": "Augenkontakt vermeiden.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 296
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "usageHints": "gemäß Produktverpackung"
+    }
+  ],
+  "grammage": "250 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "100 ml .88"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Nivea Pure Fresh Pflegedusche",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/pflege/seife-und-duschbaeder/duschgel/B2-891/produkte/nivea-pure-fresh-pflegedusche/00-862313"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "100 ml .88"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 35880,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nivea Pure Fresh Pflegedusche online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nivea Pure Fresh Pflegedusche online bestellen | BILLA",
+  "slug": "nivea-pure-fresh-pflegedusche",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/nivea-pure-fresh-pflegedusche/00-862313",
+  "vatCode": "20",
+  "video": ""
+}

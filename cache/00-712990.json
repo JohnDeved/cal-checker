@@ -1,0 +1,508 @@
+{
+  "articleGroupIds": [
+    "B2-318"
+  ],
+  "articleId": "00-712990",
+  "articleOnlyCanonicalPath": "/produkte/ganic-vitamin-water-wake-up/00-712990",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Ganic",
+  "canonicalPath": "/produkte/ganic-vitamin-water-wake-up/00-712990",
+  "category": "Getränke",
+  "description": "Das Ganic Vitaminwater Daily Max versorgt Sie mit einem leckeren Mix aus Assai- und Guarana-Extrakt und belebt die Sinne.<li>wenig Kalorien<li>mit natürlichen Aromen und Farbstoffen<li>koffeinhaltig<li>mit einer Vitaminmischung aus B-Vitaminen, Niacin und Pantothensäure",
+  "eanCodes": [
+    "0000042231189",
+    "4025127032976"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RECYCLABLE_GENERAL_CLAIM",
+              "valueTranslation": "RECYCLEBAR"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "4600 Wels, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "premium-drinks & more e.U.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "facebook / social media",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.ganicwater.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-09-30T00:00:00",
+      "ingredients": "Zutaten: Wasser, Fruktosesirup, färbendes Konzentrat aus Karotte, Zitronensaftkonzentrat, Magnesiumcarbonat, Säurungsmittel: Citronensäure,  \nnatürliches Aroma, Aroma Koffein, Acai-Extrakt, Vitaminmischung: Niacin, Pantothensäure, Vitamin B 6, Vitamin B 1, Vitamin B 12, Guarana-Extrakt.",
+      "marketingMessage": "Einfach Wassser plus Vitamine",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 540
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 500
+        }
+      ],
+      "name": "Koffeinhaltiges Erfrischungsgetränk mit Trauben-Acaigeschmack.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 80,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 19,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 11.3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 2.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 0.9,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 1, Thiamin",
+              "nutritionalValue": 0.17,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.38,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.21,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Mindestens haltbar bis: siehe Flaschenhals",
+      "sustenanceClaim": "Koffeingehalt 10mg/100ml."
+    }
+  ],
+  "grammage": "0.5 l Flasche (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Flaschen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.69,
+    "unit": "1 l 3.38"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Ganic Vitamin Water Wake Up",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser-mit-geschmack/B2-318/produkte/ganic-vitamin-water-wake-up/00-712990"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.99,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Flaschen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.69,
+    "unit": "1 l 3.38"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 123450,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ganic Vitamin Water Wake Up online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ganic Vitamin Water Wake Up online bestellen | BILLA",
+  "slug": "ganic-vitamin-water-wake-up",
+  "storeAvalibility": [
+    "00-7831",
+    "00-7223",
+    "00-3082",
+    "00-7895",
+    "00-6490",
+    "00-1107",
+    "00-2260",
+    "00-3063",
+    "00-1529",
+    "00-7860",
+    "00-3538",
+    "00-3780",
+    "00-7915",
+    "00-4690",
+    "00-2261",
+    "00-6676",
+    "00-4078",
+    "00-411",
+    "00-2345",
+    "00-4226",
+    "00-7603",
+    "00-3102",
+    "00-1003",
+    "00-519",
+    "00-112",
+    "00-355",
+    "00-7710",
+    "00-3583",
+    "00-1249",
+    "00-4707",
+    "00-2312",
+    "00-3633",
+    "00-6489",
+    "00-7980",
+    "00-3214",
+    "00-6024",
+    "00-6179",
+    "00-1631",
+    "00-3394",
+    "00-8075",
+    "00-943",
+    "00-3739",
+    "00-2045",
+    "00-6871",
+    "00-7139",
+    "00-9324",
+    "00-1027",
+    "00-1911",
+    "00-4879",
+    "00-6884",
+    "00-289",
+    "00-225",
+    "00-8031",
+    "00-2360",
+    "00-3308",
+    "00-5165",
+    "00-2342",
+    "00-3856",
+    "00-3055",
+    "00-3146",
+    "00-3512",
+    "00-6952",
+    "00-4076",
+    "00-7553",
+    "00-7857",
+    "00-3688",
+    "00-117",
+    "00-4551",
+    "00-7245",
+    "00-4755",
+    "00-1671",
+    "00-4466",
+    "00-4912",
+    "00-4126",
+    "00-174",
+    "00-1380",
+    "00-4756",
+    "00-6970",
+    "00-3120",
+    "00-3445",
+    "00-987",
+    "00-3871",
+    "00-6840",
+    "00-1265",
+    "00-1866",
+    "00-3824",
+    "00-8085",
+    "00-9753",
+    "00-7017",
+    "00-7743",
+    "00-1071",
+    "00-3011",
+    "00-3860",
+    "00-2222",
+    "00-783",
+    "00-249",
+    "00-8395",
+    "00-3431",
+    "00-1098",
+    "00-7665",
+    "00-3157",
+    "00-7721",
+    "00-115",
+    "00-3094",
+    "00-176",
+    "00-99202",
+    "00-6758",
+    "00-8433",
+    "00-1114",
+    "00-2223",
+    "00-430",
+    "00-702",
+    "00-4783",
+    "00-4932",
+    "00-3735",
+    "00-4059",
+    "00-2174",
+    "00-7082",
+    "00-9233",
+    "00-2808",
+    "00-6065",
+    "00-1088",
+    "00-8012",
+    "00-4407",
+    "00-471",
+    "00-6799",
+    "00-3549",
+    "00-4440",
+    "00-2923",
+    "00-1417",
+    "00-281",
+    "00-836",
+    "00-309",
+    "00-330",
+    "00-7062",
+    "00-2259",
+    "00-6559",
+    "00-1771",
+    "00-1457",
+    "00-350",
+    "00-2170",
+    "00-282",
+    "00-2190",
+    "00-6877",
+    "00-8151",
+    "00-3681",
+    "00-2111",
+    "00-3713",
+    "00-4104",
+    "00-2675",
+    "00-3042",
+    "00-7204",
+    "00-2306",
+    "00-3384",
+    "00-8360",
+    "00-3027",
+    "00-1479",
+    "00-1913",
+    "00-3979",
+    "00-6910",
+    "00-4482",
+    "00-4838",
+    "00-1212",
+    "00-7393",
+    "00-10",
+    "00-7358",
+    "00-1041",
+    "00-6823",
+    "00-4225",
+    "00-1532",
+    "00-9357",
+    "00-604",
+    "00-7328",
+    "00-3551",
+    "00-4834",
+    "00-950",
+    "00-3569",
+    "00-6219",
+    "00-388",
+    "00-1018",
+    "00-3206",
+    "00-4489",
+    "00-1032",
+    "00-2238",
+    "00-3822",
+    "00-4283",
+    "00-3044",
+    "00-7539",
+    "00-7940",
+    "00-6338",
+    "00-2015",
+    "00-4629",
+    "00-1480",
+    "00-3025",
+    "00-5552",
+    "00-2840",
+    "00-3118",
+    "00-1943",
+    "00-9209",
+    "00-3105",
+    "00-5078",
+    "00-323",
+    "00-2109",
+    "00-3059",
+    "00-3014",
+    "00-7114",
+    "00-6864",
+    "00-1101",
+    "00-119",
+    "00-6845",
+    "00-4001",
+    "00-3506"
+  ],
+  "url": "/produkte/ganic-vitamin-water-wake-up/00-712990",
+  "vatCode": "20",
+  "video": ""
+}

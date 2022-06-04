@@ -1,0 +1,216 @@
+{
+  "articleGroupIds": [
+    "B2-753"
+  ],
+  "articleId": "00-500720",
+  "articleOnlyCanonicalPath": "/produkte/lindt-edelbitter-mousse-sauerkirsch-chili/00-500720",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lindt",
+  "brandPath": "/marken/lindt",
+  "canonicalPath": "/produkte/lindt-edelbitter-mousse-sauerkirsch-chili/00-500720",
+  "category": "Süßes & Salziges",
+  "description": "Ein besonders hoher Kakaoanteil von 70% in der Schokolade verleiht dieser feinen Edelbittertafel die typisch aromatische Note dunkler Schokolade abgerundet durch eine Sauerkirsch-Chili-Füllung auf dunkler Mousse au Chocolat. Fruchtig-feuriger Chili stammt ursprünglich aus Mittel- und Südamerika. Er verleiht dieser Schokolade-Création, gepaart mit der fruchtig-milden Note von Sauerkirschen, im Abgang eine angenehm scharfe Note. Mit der herben Edelbitter-Schokolade bildet dies ein hocharomatisches Genusserlebnis.",
+  "eanCodes": [
+    "4000539014307"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Kakaomasse, Zucker, Glukose-Fruktose-Sirup,Kakaobutter, BUTTERreinfett, Sauerkirschsaftkonzentrat (3,4%),Sauerkirschen (1,7%), Invertzucker, Zitronensaftkonzentrat,Verdickungsmittel (Pektin), Emulgator (SOJAlecithin), Vanille, Frucht-und Pflanzenkonzentrate (schwarze Karotte, Aronia, Traube), natürlichesAroma, Chilikonzentrat. Kann HASELNÜSSE und andere Schalenfrüchte, MILCHenthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 162.1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Gefüllte Edelbitter-Schokolade mitdunkler Mousse au Chocolat (26 %) und Sauerkirsch-Chili-Füllung (18 %)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 501,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2087,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 43,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 39,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "150 Gramm Tafel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "100 g 2.13"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lindt Edelbitter Mousse Sauerkirsch-Chili",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/schokoladentafeln/B2-753/produkte/lindt-edelbitter-mousse-sauerkirsch-chili/00-500720"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.19,
+    "unit": "100 g 2.13"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 189330,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lindt Edelbitter Mousse Sauerkirsch-Chili online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lindt Edelbitter Mousse Sauerkirsch-Chili online bestellen",
+  "slug": "lindt-edelbitter-mousse-sauerkirsch-chili",
+  "storeAvalibility": [
+    "00-3947",
+    "00-7539",
+    "00-174",
+    "00-1911",
+    "00-10",
+    "00-99202",
+    "00-350",
+    "00-4707",
+    "00-4551",
+    "00-355"
+  ],
+  "url": "/produkte/lindt-edelbitter-mousse-sauerkirsch-chili/00-500720",
+  "vatCode": "10",
+  "video": ""
+}

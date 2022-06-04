@@ -1,0 +1,295 @@
+{
+  "articleGroupIds": [
+    "B2-682"
+  ],
+  "articleId": "00-354809",
+  "articleOnlyCanonicalPath": "/produkte/mayflower-tintenfischstuecke-in-olivenoel/00-354809",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Mayflower",
+  "canonicalPath": "/produkte/mayflower-tintenfischstuecke-in-olivenoel/00-354809",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9001458043657"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Weichtiere und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "LHP",
+              "valueTranslation": "Leinen und Haken - Hand- und Angelleinen (von Hand bedient)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Untere Donaustraße 11, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMGRO GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SPANIEN"
+      ],
+      "fromDate": "2021-12-23T00:00:00",
+      "ingredients": "Zutaten: TINTENFISCH (Dosidicus gigas), Olivenöl 26%, Salz.",
+      "mandatoryIndicator": "Bitte beachten Sie stets auch die tatsächliche Kennzeichnung auf der Packung.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 72
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.135
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 111
+        }
+      ],
+      "name": "Tintenfischstücke in Olivenöl (26%)",
+      "nutritions": [
+        {
+          "householdPortion": "Nährwertinformation: 100g (abgetropft) enthalten durchschnittlich",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 224,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 927,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.61,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt und trocken lagern. Nach dem Öffnen gekühlt lagern und innerhalb 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "111 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 26.94"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Mayflower Tintenfischstücke in Olivenöl",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/mayflower-tintenfischstuecke-in-olivenoel/00-354809"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 26.94"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 66970,
+  "recommendationArticleIds": [],
+  "seoDescription": "Mayflower Tintenfischstücke in Olivenöl online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mayflower Tintenfischstücke in Olivenöl online bestellen | BILLA",
+  "slug": "mayflower-tintenfischstuecke-in-olivenoel",
+  "storeAvalibility": [
+    "00-6024",
+    "00-5108",
+    "00-2100",
+    "00-2045",
+    "00-3780",
+    "00-10",
+    "00-4170",
+    "00-3947",
+    "00-225",
+    "00-4675",
+    "00-7653",
+    "00-4932",
+    "00-4283",
+    "00-521",
+    "00-4107",
+    "00-2218",
+    "00-3143",
+    "00-1457",
+    "00-9753",
+    "00-4605",
+    "00-4655",
+    "00-7114",
+    "00-5027",
+    "00-3617",
+    "00-4078",
+    "00-3979",
+    "00-4779",
+    "00-6108",
+    "00-4421",
+    "00-7606",
+    "00-3713",
+    "00-3512",
+    "00-6740",
+    "00-2342",
+    "00-4249",
+    "00-355",
+    "00-4551",
+    "00-7539",
+    "00-4783",
+    "00-3700",
+    "00-7675",
+    "00-4126",
+    "00-7075",
+    "00-7857",
+    "00-9290",
+    "00-783",
+    "00-4707",
+    "00-6864",
+    "00-3114",
+    "00-4690",
+    "00-350",
+    "00-99202"
+  ],
+  "url": "/produkte/mayflower-tintenfischstuecke-in-olivenoel/00-354809",
+  "vatCode": "10",
+  "video": ""
+}

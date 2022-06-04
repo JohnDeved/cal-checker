@@ -1,0 +1,221 @@
+{
+  "articleGroupIds": [
+    "B2-311",
+    "B2-331",
+    "B2-457"
+  ],
+  "articleId": "00-962128",
+  "articleOnlyCanonicalPath": "/produkte/kaffeetschi-cold-brew-coffee-mit-kokosmilch/00-962128",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Kaffetschi",
+  "canonicalPath": "/produkte/kaffeetschi-cold-brew-coffee-mit-kokosmilch/00-962128",
+  "category": "Getränke",
+  "description": "Unser Kokos Latte erfrischt wie eine Brise Meeresluft unter schattigen Palmen. Wir lassen frisch gerösteten Arabica Kaffee in kaltem Wasser ziehen und mischen eine leichte Kokos-Reis Basis bei.</li>",
+  "eanCodes": [
+    "9120075650052"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hyegasse 3/1, AT-1030 Vienna",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "KAFFEETSCHI GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Mobile Website (oder WAP-Seite) (optimiert für Smartphone etc.)",
+          "detail": "www.kaffeetschi.co",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-10-23T00:00:00",
+      "ingredients": "Zutaten: Reis-Kokos-Drink* 60% (Wasser, Reis* 10,2%, Kokos* 2,4%, Meersalz, natürliches Kokosaroma), kalt gebrauter Kaffee* 40% (Wasser, Arabica Kaffee*) *aus biologischer Landwirtschaft\n Kann Spuren von anderen Schalenfrüchten enthalten.",
+      "mandatoryIndicator": "Erhöhter Koffeingehalt. Für Kinder und schwangere oder stillende Frauen nicht geeignet.",
+      "marketingMessage": "Unser Kokos Latte erfrischt wie eine Brise Meeresluft unter schattigen Palmen. Wir lassen frisch gerösteten Arabica Kaffee in kaltem Wasser ziehen und mischen eine leichte Kokos-Reis Basis bei. Urlaub zum Mitnehmen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 300
+        }
+      ],
+      "name": "Bio Reis-Kokos Drink mit Bio Kaffee. Pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 38,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 161,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.05,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen im Kühlschrank aufbewahren und innerhalb weniger Tage verbrauchen.",
+      "sustenanceClaim": "Koffeingehalt: 28mg/100ml, 100% natürlich, keine Zusatzstoffe",
+      "usageHints": "Natürliche Ablagerung. Vor Gebrauch gut schütteln!"
+    }
+  ],
+  "grammage": "300 ml Flasche (Einweg)",
+  "grammageBadge": "300 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 l 8.30"
+  },
+  "maximalOrderQuantity": 50,
+  "minimalOrderQuantity": 0,
+  "name": "Kaffeetschi Cold Brew Coffee mit Kokosmilch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311/produkte/kaffeetschi-cold-brew-coffee-mit-kokosmilch/00-962128",
+    "~/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331/produkte/kaffeetschi-cold-brew-coffee-mit-kokosmilch/00-962128",
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/kaffeetschi-cold-brew-coffee-mit-kokosmilch/00-962128"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 l 8.30"
+  },
+  "properties": [],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kaffeetschi Cold Brew Coffee mit Kokosmilch online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kaffeetschi Cold Brew Coffee mit Kokosmilch online bestellen",
+  "slug": "kaffeetschi-cold-brew-coffee-mit-kokosmilch",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/kaffeetschi-cold-brew-coffee-mit-kokosmilch/00-962128",
+  "vatCode": "20",
+  "video": ""
+}

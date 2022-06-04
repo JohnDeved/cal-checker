@@ -1,0 +1,379 @@
+{
+  "articleGroupIds": [
+    "B2-311",
+    "B2-331",
+    "B2-457"
+  ],
+  "articleId": "00-441228",
+  "articleOnlyCanonicalPath": "/produkte/emmi-caffe-latte-balance/00-441228",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Emmi",
+  "brandPath": "/marken/emmi",
+  "canonicalPath": "/produkte/emmi-caffe-latte-balance/00-441228",
+  "category": "Getränke",
+  "description": "Light - der Leichte. Kalorienarmer Genuss ohne Kristallzucker mit intensivem Kaffeegeschmack. 80 mg Koffein pro Becher. Crèmiger Kaffee aus Brasilien. Der Kaffee begeistert durch herausragende Konsistenz, eine einzigartige Crema und die leichte Honignote im Körper.",
+  "eanCodes": [
+    "7610900163533",
+    "7610900205165"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "RAINFOREST_ALLIANCE",
+              "valueTranslation": "RAINFOREST Alliance (zertifziert zum Schutz des Regenwaldes)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Im Teelbruch 122, D-45219 Essen",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Emmi Deutschland GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.emmi-caffelatte.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2019-08-29T00:00:00",
+      "ingredients": "Zutaten: MILCH 83%, Arabica-Kaffee** 17%, Stabilisator Natriumphosphat, Süssungsmittel Cyclamat und Saccharin, Verdickungsmittel Carrageen, Laktase. Koffeingehalt: 80mg pro Becher. **Rainforest Alliance CertifiedTM",
+      "marketingMessage": "57% Kalorien im Vergleich zu Emmi CAFFÈ LATTE MACCHIATO",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 230
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 230
+        }
+      ],
+      "name": "Milchmischerzeugnis aus Milch mit frisch gebrühtem Kaffee, mit Süssungsmittel(n), mit 0,7% Fett im Milchanteil, laktosefrei. Wärmebehandelt.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 38,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 159,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "origin": "Schweiz",
+      "preperations": [],
+      "storageHint": "bei +8°C mindestens haltbar bis: siehe Deckel",
+      "sustenanceClaim": "Fettreduziert. Restlaktosegehalt: < 0,01g/100ml. Enthält von Natur aus Zucker."
+    }
+  ],
+  "grammage": "230 ml Becher (Einweg)",
+  "grammageBadge": "230 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.91"
+  },
+  "maximalOrderQuantity": 50,
+  "minimalOrderQuantity": 0,
+  "name": "Emmi Caffè Latte Balance",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311/produkte/emmi-caffe-latte-balance/00-441228",
+    "~/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331/produkte/emmi-caffe-latte-balance/00-441228",
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/emmi-caffe-latte-balance/00-441228"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 6.91"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "rank": 158820,
+  "recommendationArticleIds": [],
+  "seoDescription": "Emmi Caffè Latte Balance online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Emmi Caffè Latte Balance online bestellen | BILLA",
+  "slug": "emmi-caffe-latte-balance",
+  "storeAvalibility": [
+    "00-2204",
+    "00-3025",
+    "00-5108",
+    "00-2808",
+    "00-4655",
+    "00-3055",
+    "00-7665",
+    "00-4283",
+    "00-3512",
+    "00-7539",
+    "00-309",
+    "00-6970",
+    "00-10",
+    "00-3780",
+    "00-2313",
+    "00-7223",
+    "00-6975",
+    "00-6745",
+    "00-4126",
+    "00-3506",
+    "00-7940",
+    "00-3580",
+    "00-7675",
+    "00-6910",
+    "00-4170",
+    "00-4482",
+    "00-7358",
+    "00-6424",
+    "00-3979",
+    "00-1866",
+    "00-6845",
+    "00-4551",
+    "00-3857",
+    "00-4834",
+    "00-4756",
+    "00-2045",
+    "00-7229",
+    "00-2261",
+    "00-282",
+    "00-4226",
+    "00-7336",
+    "00-430",
+    "00-9555",
+    "00-3143",
+    "00-7114",
+    "00-5165",
+    "00-3713",
+    "00-8140",
+    "00-323",
+    "00-4755",
+    "00-3549",
+    "00-1710",
+    "00-8530",
+    "00-7245",
+    "00-2223",
+    "00-3005",
+    "00-1032",
+    "00-4016",
+    "00-9894",
+    "00-7860",
+    "00-3050",
+    "00-2098",
+    "00-7062",
+    "00-3871",
+    "00-3860",
+    "00-1457",
+    "00-7084",
+    "00-9290",
+    "00-836",
+    "00-6219",
+    "00-3234",
+    "00-7857",
+    "00-2190",
+    "00-8395",
+    "00-2360",
+    "00-7393",
+    "00-6724",
+    "00-1132",
+    "00-2535",
+    "00-9753",
+    "00-4932",
+    "00-2923",
+    "00-3011",
+    "00-3709",
+    "00-1532",
+    "00-3321",
+    "00-367",
+    "00-1900",
+    "00-7653",
+    "00-4478",
+    "00-7606",
+    "00-3157",
+    "00-2342",
+    "00-6490",
+    "00-2201",
+    "00-3114",
+    "00-6439",
+    "00-4605",
+    "00-7082",
+    "00-2840",
+    "00-3569",
+    "00-3445",
+    "00-6281",
+    "00-4779",
+    "00-1417",
+    "00-3120",
+    "00-4107",
+    "00-8409",
+    "00-1107",
+    "00-3633",
+    "00-6884",
+    "00-2345",
+    "00-6676",
+    "00-7603",
+    "00-3700",
+    "00-7120",
+    "00-3308",
+    "00-281",
+    "00-3042",
+    "00-3681",
+    "00-3856",
+    "00-3059",
+    "00-3384",
+    "00-355",
+    "00-8334",
+    "00-4078",
+    "00-2131",
+    "00-4783",
+    "00-3551",
+    "00-1027",
+    "00-7368",
+    "00-4421",
+    "00-3063",
+    "00-330",
+    "00-4707",
+    "00-112",
+    "00-2111",
+    "00-4466",
+    "00-3118",
+    "00-3062",
+    "00-6496",
+    "00-3044",
+    "00-4912",
+    "00-1380",
+    "00-3379",
+    "00-9183",
+    "00-176",
+    "00-2222",
+    "00-4690",
+    "00-225",
+    "00-99202"
+  ],
+  "url": "/produkte/emmi-caffe-latte-balance/00-441228",
+  "vatCode": "20",
+  "video": ""
+}

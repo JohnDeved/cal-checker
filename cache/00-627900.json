@@ -1,0 +1,228 @@
+{
+  "articleGroupIds": [
+    "B2-632",
+    "B2-634",
+    "B2-6A1",
+    "B2-6A3",
+    "B2-6E2"
+  ],
+  "articleId": "00-627900",
+  "articleOnlyCanonicalPath": "/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schär",
+  "brandPath": "/marken/schaer",
+  "canonicalPath": "/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Mix B Brot-Mix von Schär ist mit Linsen- und Reismehl hergestellt. Die Backmischung ist speziell für das Backen von glutenfreiem Brot konzipiert.<li>sorgfältig zusammengestelltes Rezept<li>voller Geschmack<li>lässt sich auch gut mit der Hand verarbeiten<li>glutenfrei und ohne Laktose",
+  "eanCodes": [
+    "8008698004838"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Enthält: LUPINENPROTEIN; Kann Spuren von Soja enthalten",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Winkelau 9 - 39014 Burgstall / Postal (BZ) - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Dr. Schär AG / SPA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Maisstärke, Reismehl, LUPINENPROTEIN, Dextrose, Apfelfaser,\nVerdickungsmittel: Hydroxypropylmethylcellulose; Salz. Kann\nSpuren von SOJA enthalten",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1020
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Glutenfreie Backmischung für Brot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1461,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 345,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 77,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur trocken lagern",
+      "sustenanceClaim": "Glutenfrei, Laktosefrei"
+    }
+  ],
+  "grammage": "1000 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 4.39"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schär Mix B Brot-Mix Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/backmischungen-und-fuellungen/B2-632/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900",
+    "~/warengruppe/grundnahrungsmittel/backen/mehl/B2-634/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/brotbackmischungen/B2-6A1/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 4.39"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 49340,
+  "recommendationArticleIds": [
+    "00-887604"
+  ],
+  "seoDescription": "Schär Mix B Brot-Mix Glutenfrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schär Mix B Brot-Mix Glutenfrei online bestellen | BILLA",
+  "slug": "schaer-mix-b-brot-mix-glutenfrei",
+  "storeAvalibility": [
+    "00-10",
+    "00-355",
+    "00-99202",
+    "00-4551"
+  ],
+  "url": "/produkte/schaer-mix-b-brot-mix-glutenfrei/00-627900",
+  "vatCode": "10",
+  "video": ""
+}

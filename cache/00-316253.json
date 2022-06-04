@@ -1,0 +1,478 @@
+{
+  "articleGroupIds": [
+    "B2-9B1"
+  ],
+  "articleId": "00-316253",
+  "articleOnlyCanonicalPath": "/produkte/persil-discs-color/00-316253",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Persil",
+  "brandPath": "/marken/persil",
+  "canonicalPath": "/produkte/persil-discs-color/00-316253",
+  "category": "Haushalt",
+  "eanCodes": [
+    "9000101372991",
+    "9000101541991"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AISE_2010",
+              "valueTranslation": "AISE Charter Update 2010 (Nachhaltigkeit in der Reinigungsmittelindustrie in Europa)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "TRUE"
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_5",
+              "valueTranslation": "Nicht verschlucken. Wenn das Produkt verschluckt worden ist, Arzt aufsuchen! "
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_2",
+              "valueTranslation": "Augenkontakt vermeiden. Falls das Produkt in die Augen gelangt,gründlich mit Wasser ausspülen"
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_10",
+              "valueTranslation": "Mit trockenen Händen verwenden."
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_1",
+              "valueTranslation": "Außer Reichweite von Kindern aufbewahren."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Sofort GIFTINFORMATIONSZENTRUM/Arzt anrufen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Darf nicht in die Hände von Kindern gelangen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Bitte vollständig entleerte Verpackungen über Kunststoff-Sammelzentren entsorgen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI VERSCHLUCKEN: Mund ausspülen. KEIN Erbrechen herbeiführen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI BERÜHRUNG MIT DER HAUT: Mit viel Wasser waschen."
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "WARNING",
+              "valueTranslation": "Achtung"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "EXCLAMATION_MARK",
+              "valueTranslation": "Ausrufezeichen (GHS07) - Reizend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Verursacht schwere Augenreizung."
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Verursacht Hautreizungen."
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Schädlich für Wasserorganismen, mit langfristiger Wirkung."
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Enthält Subtilisin. Kann allergische Reaktionen hervorrufen."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Erdbergstr. 29, 1030 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Henkel Central Eastern Europe GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2022-03-07T00:00:00",
+      "marketingMessage": "Persil Discs mit 4 in 1 Power - die ersten Waschmittel Caps auf dem Markt mit 4 kraftvollen Kammern mit 4 starken Vorteilen. Die einzigartige Enzymmischung von Persil wirkt gegen hartnäckige Flecken und sorgt für ein hervorragendes Ergebnis beim Wäschewaschen. Zudem bieten die Persil Discs strahlende Leuchtkraft, langanhaltende Frische und moderne Faserpflege - 4 in 1 Power",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.828
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 700
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Ausser Reichweite von Kindern aufbewahren.",
+      "usageHints": "Packung nach Gebrauch stets verschließen. Nicht einstechen, aufreißen oder zerschneiden. Mit trockenen Händen verwenden. Nicht für Wolle und Seide verwenden. Produkt immer im Originalbehälter aufbewahren. Dosieren im Handumdrehen:  Einfach die vordosierten Disc direkt in die Trommel unter die Wäsche geben, wobei ein Disc einem Waschgang entspricht.  Bei einer Beladung von >4,5kg und/oder bei stark verschmutzter Wäsche, benutzen Sie bitte 2 Persil Discs. Für alle Wasserhärtegrade geeignet."
+    },
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AISE_2010",
+              "valueTranslation": "AISE Charter Update 2010 (Nachhaltigkeit in der Reinigungsmittelindustrie in Europa)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "TRUE"
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_5",
+              "valueTranslation": "Nicht verschlucken. Wenn das Produkt verschluckt worden ist, Arzt aufsuchen! "
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_2",
+              "valueTranslation": "Augenkontakt vermeiden. Falls das Produkt in die Augen gelangt,gründlich mit Wasser ausspülen"
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_10",
+              "valueTranslation": "Mit trockenen Händen verwenden."
+            },
+            {
+              "attributeCode": "GEFAHR_AISE_HINWEIS",
+              "description": "AISE Sicherheits- und Gefahrenhinweise (M180)",
+              "hasTranslation": "True",
+              "value": "AISE_1",
+              "valueTranslation": "Außer Reichweite von Kindern aufbewahren."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Sofort GIFTINFORMATIONSZENTRUM/Arzt anrufen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Darf nicht in die Hände von Kindern gelangen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Bitte vollständig entleerte Verpackungen über Kunststoff-Sammelzentren entsorgen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI VERSCHLUCKEN: Mund ausspülen. KEIN Erbrechen herbeiführen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen."
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "BEI BERÜHRUNG MIT DER HAUT: Mit viel Wasser waschen."
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "WARNING",
+              "valueTranslation": "Achtung"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "EXCLAMATION_MARK",
+              "valueTranslation": "Ausrufezeichen (GHS07) - Reizend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Verursacht schwere Augenreizung."
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Verursacht Hautreizungen."
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Schädlich für Wasserorganismen, mit langfristiger Wirkung."
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "Enthält Subtilisin. Kann allergische Reaktionen hervorrufen."
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Erdbergstr. 29, 1030 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Henkel Central Eastern Europe GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-05-13T00:00:00",
+      "marketingMessage": "Persil Discs mit 4 in 1 Power - die ersten Waschmittel Caps auf dem Markt mit 4 kraftvollen Kammern mit 4 starken Vorteilen. Die einzigartige Enzymmischung von Persil wirkt gegen hartnäckige Flecken und sorgt für ein hervorragendes Ergebnis beim Wäschewaschen. Zudem bieten die Persil Discs strahlende Leuchtkraft, langanhaltende Frische und moderne Faserpflege - 4 in 1 Power",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.828
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 700
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Ausser Reichweite von Kindern aufbewahren.",
+      "usageHints": "Packung nach Gebrauch stets verschließen. Nicht einstechen, aufreißen oder zerschneiden. Mit trockenen Händen verwenden. Nicht für Wolle und Seide verwenden. Produkt immer im Originalbehälter aufbewahren. Dosieren im Handumdrehen:  Einfach die vordosierten Disc direkt in die Trommel unter die Wäsche geben, wobei ein Disc einem Waschgang entspricht.  Bei einer Beladung von >4,5kg und/oder bei stark verschmutzter Wäsche, benutzen Sie bitte 2 Persil Discs. Für alle Wasserhärtegrade geeignet."
+    }
+  ],
+  "grammage": "28 Waschgang Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 11.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 11.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 11.29,
+    "unit": "1 Waschgang .40"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Persil Discs Color",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/waschmittel-und-weichspueler/waschmittel/B2-9B1/produkte/persil-discs-color/00-316253"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 11.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 11.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 11.29,
+    "unit": "1 Waschgang .40"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 194780,
+  "recommendationArticleIds": [],
+  "seoDescription": "Persil Discs Color online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Persil Discs Color online bestellen | BILLA",
+  "slug": "persil-discs-color",
+  "storeAvalibility": [
+    "00-1114",
+    "00-4655",
+    "00-3996",
+    "00-6255",
+    "00-3780",
+    "00-2190",
+    "00-8151",
+    "00-2223",
+    "00-7653",
+    "00-8646",
+    "00-3420",
+    "00-7895",
+    "00-6496",
+    "00-3617",
+    "00-6022",
+    "00-7743",
+    "00-10",
+    "00-4672",
+    "00-4783",
+    "00-4270",
+    "00-8235",
+    "00-7606",
+    "00-3445",
+    "00-5290",
+    "00-6916",
+    "00-7857",
+    "00-4605",
+    "00-7783",
+    "00-3688",
+    "00-3560",
+    "00-8395",
+    "00-99202"
+  ],
+  "url": "/produkte/persil-discs-color/00-316253",
+  "vatCode": "20",
+  "video": ""
+}

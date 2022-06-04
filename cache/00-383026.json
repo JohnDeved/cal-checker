@@ -1,0 +1,245 @@
+{
+  "articleGroupIds": [
+    "B2-541"
+  ],
+  "articleId": "00-383026",
+  "articleOnlyCanonicalPath": "/produkte/yuun-mee-adria-branzino/00-383026",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Yuu'n Mee",
+  "canonicalPath": "/produkte/yuun-mee-adria-branzino/00-383026",
+  "category": "Tiefkühl",
+  "description": "<li>Roh<li>Praktisch grätenfrei<li>Tiefgefroren</li>",
+  "eanCodes": [
+    "9008615514142"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Krebstiere und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Weichtiere und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 18\n2100 Korneuburg/ Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Yuu'n Mee fine foods Vertriebs-GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.yuu-n-mee.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-09-01T00:00:00",
+      "ingredients": "ZUTATEN: WOLFSBARSCH*(Dicentrarchus labrax).\n*gewonnen aus nachhaltiger Aquakultur, Kroatien.\nKann Spuren von Weichtieren und Krebstieren enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 450
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Adria Branzino Filets, roh, mit Haut, praktisch grätenfrei, glasiert, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 132,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 554,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "ZUBEREITUNG: Naturfilets schmecken gebraten, gegrillt oder gedünstet.",
+          "type": "Grillen/Braten - Zubereitung mit hoher Hitze, oftmals direkt von oben durch Heizstrahler"
+        },
+        {
+          "instruction": "AUFTAUEN: Im Kühlschrank ca. 12 Stunden. Bei Raumtemperatur 2-4 Stunden oder rascher, Naturfilets in ausreichend lauwarmes Salzwasser (20g Salz (=2 EL) pro Liter Wasser) für ca. 5-10 Minuten einlegen. Auftauwasser abgießen, Naturfilets kurz abspülen, trockentupfen.",
+          "type": "Auftauen des Produktes zur Raumtemperatur oder einem noch gekuehlten Zustand"
+        }
+      ],
+      "storageHint": "Bei -18°C mindestens haltbar bis: Siehe Aufdruck",
+      "usageHints": "Naturfilets am Auftautag konsumieren! Vor dem Verzehr durcherhitzen"
+    }
+  ],
+  "grammage": "350 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.99,
+    "unit": "1 kg 51.40"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Yuu'n Mee Adria Branzino",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fisch-und-garnelen/fisch-natur/B2-541/produkte/yuun-mee-adria-branzino/00-383026"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.99,
+    "unit": "1 kg 51.40"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 169260,
+  "recommendationArticleIds": [],
+  "seoDescription": "Yuu'n Mee Adria Branzino online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Yuu'n Mee Adria Branzino online bestellen | BILLA",
+  "slug": "yuun-mee-adria-branzino",
+  "storeAvalibility": [
+    "00-119",
+    "00-6676",
+    "00-7539",
+    "00-7336",
+    "00-5108",
+    "00-2111",
+    "00-3120",
+    "00-10",
+    "00-8606",
+    "00-2342",
+    "00-3780",
+    "00-7041",
+    "00-5414",
+    "00-4016",
+    "00-2098",
+    "00-99202"
+  ],
+  "url": "/produkte/yuun-mee-adria-branzino/00-383026",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,230 @@
+{
+  "articleGroupIds": [
+    "B2-6B2",
+    "B2-6E2",
+    "B2-F"
+  ],
+  "articleId": "00-325083",
+  "articleOnlyCanonicalPath": "/produkte/hammermuehle-bio-hafer-fruechte-porridge-glutenfrei/00-325083",
+  "attributes": [
+    "s_bio",
+    "s_new",
+    "s_marke",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_new"
+  ],
+  "brand": "Hammermühle",
+  "canonicalPath": "/produkte/hammermuehle-bio-hafer-fruechte-porridge-glutenfrei/00-325083",
+  "category": "Grundnahrungsmittel",
+  "description": "<p>Wertvoller Vollkornhafer, die natürliche Süße von Früchten und eine feine Zimtnote machen dieses Porridge zu einer wertvollen Zwischenmahlzeit oder einem energiereichen Frühstück.</p>",
+  "eanCodes": [
+    "4015537000825"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hauptstrasse 181, D-67489 Kirrweiler",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Hammermühle GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-06-21T00:00:00",
+      "ingredients": "Zutaten: HAFERVOLLKORNFLOCKEN* glutenfrei 67 %, Früchte* getrocknet (Sultaninen*, Datteln*, Aprikosen*), Reis* gepufft, Apfelsaftkonzentrat*, Ceylon-Zimt*, Reismehl*, Sonnenblumenöl*\n*Zutaten aus ökol. Landwirtschaft \n\nKann Spuren von SOJA, MILCHERZEUGNISSEN, SCHALENFRÜCHTEN und SESAM enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 440
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Bio Haferbrei mit 22 % getrockneten Früchten - glutenfrei",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1475,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 350,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 62,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken und vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "400 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.09,
+    "unit": "1 kg 10.23"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hammermühle Bio Hafer Früchte Porridge Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/hammermuehle-bio-hafer-fruechte-porridge-glutenfrei/00-325083",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/hammermuehle-bio-hafer-fruechte-porridge-glutenfrei/00-325083",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/hammermuehle-bio-hafer-fruechte-porridge-glutenfrei/00-325083"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.09,
+    "unit": "1 kg 10.23"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hammermühle Bio Hafer Früchte Porridge Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hammermühle Bio Hafer Früchte Porridge Glutenfrei online bestelle",
+  "slug": "hammermuehle-bio-hafer-fruechte-porridge-glutenfrei",
+  "storeAvalibility": [
+    "00-10",
+    "00-355",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/hammermuehle-bio-hafer-fruechte-porridge-glutenfrei/00-325083",
+  "vatCode": "10",
+  "video": ""
+}

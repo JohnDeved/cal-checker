@@ -1,0 +1,171 @@
+{
+  "articleGroupIds": [
+    "B2-342"
+  ],
+  "articleId": "00-685379",
+  "articleOnlyCanonicalPath": "/produkte/kattus-frizzante-muskattus/00-685379",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kattus",
+  "canonicalPath": "/produkte/kattus-frizzante-muskattus/00-685379",
+  "category": "Getränke",
+  "description": "<li>Perlwein<li>Alkoholgehalt: 10,5 Vol.-%<br><br>Kattus Frizzante Muskateller ist eine fruchtige, zart moussierende Cuvée aus erlesenen Muskateller Trauben. Gut gekühlt servieren.</li>",
+  "eanCodes": [
+    "9001560007271"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wien, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Johann Kattus GmbH,",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kattus.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-31T00:00:00",
+      "ingredients": "enthält Sulfite",
+      "marketingMessage": "FRUCHTIGE; ZART MUSKIERENDE CUVÉE MIT FEINEM ABGANG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.4
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.75
+        }
+      ],
+      "name": "Perlwein aus Österreich",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "gut gekühlt servieren",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "0.75 l Flasche",
+  "grammageBadge": "0.75 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 3.74,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 3.74,
+    "unit": "1 l 6.65"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Kattus Frizzante Muskattus",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/sekt-und-champagner2/prosecco-und-frizzante/B2-342/produkte/kattus-frizzante-muskattus/00-685379"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 3.74,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "AKTION"
+      }
+    ],
+    "sale": 3.74,
+    "unit": "1 l 6.65"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 62830,
+  "recommendationArticleIds": [
+    "00-692869"
+  ],
+  "seoDescription": "Kattus Frizzante Muskattus online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kattus Frizzante Muskattus online bestellen | BILLA",
+  "slug": "kattus-frizzante-muskattus",
+  "storeAvalibility": [
+    "00-7539",
+    "00-10",
+    "00-99202",
+    "00-4551"
+  ],
+  "url": "/produkte/kattus-frizzante-muskattus/00-685379",
+  "vatCode": "20",
+  "video": ""
+}

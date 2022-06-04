@@ -1,0 +1,208 @@
+{
+  "articleGroupIds": [
+    "B2-48A"
+  ],
+  "articleId": "00-469301",
+  "articleOnlyCanonicalPath": "/produkte/roc-sports-rocanossi-bio-wuerstchen/00-469301",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Rocanossi",
+  "canonicalPath": "/produkte/roc-sports-rocanossi-bio-wuerstchen/00-469301",
+  "category": "Kühlwaren",
+  "description": "Die ROCanossi sind der perfekte Snack für alle, die hochwertiges Protein ins seiner gschmackigsten Form genießen wollen<br><li>50 g hochwertiges Protein je Packung und 10 g Protein je Würstchen<li>Hergestellt in Handarbeit mit Rücksicht auf Tier und Umwelt<li>100% österreichisches Bio-Rindfleisch<li>über Buchenholz geräuchert<li>keine Farbstoffe, Aromen, Zuckerzusätze und Geschmacksverstärker</li",
+  "eanCodes": [
+    "9120058750465"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIOS_KONTROLLE",
+              "valueTranslation": "BIOS - Biokontrollservice Österreich (zertifizierte Bio-Produkte)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Haratzmüllerstraße 33a/11, 4400 Steyr",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "ROC Sports e.U.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.roc-sports.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-03-23T00:00:00",
+      "ingredients": "Zutaten: Rindfleisch*, Ursalz, Gewürze*, Konservierungsmittel: Natriumnitrit\n* aus kontrolliert biologischer Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 107
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "100% Bio-Rindfleisch, kalt geräuchert",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1154,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 276,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 48.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "100 g Packung",
+  "grammageBadge": "100 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.9,
+    "unit": "1 kg 59.00"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "ROC-Sports ROCanossi Bio Würstchen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/cabanossi/B2-48A/produkte/roc-sports-rocanossi-bio-wuerstchen/00-469301"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.9,
+    "unit": "1 kg 59.00"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 64290,
+  "recommendationArticleIds": [],
+  "seoDescription": "ROC-Sports ROCanossi Bio Würstchen online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "ROC-Sports ROCanossi Bio Würstchen online bestellen | BILLA",
+  "slug": "roc-sports-rocanossi-bio-wuerstchen",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/roc-sports-rocanossi-bio-wuerstchen/00-469301",
+  "vatCode": "10",
+  "video": ""
+}

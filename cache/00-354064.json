@@ -1,0 +1,288 @@
+{
+  "articleGroupIds": [
+    "B2-458"
+  ],
+  "articleId": "00-354064",
+  "articleOnlyCanonicalPath": "/produkte/kinder-pingui-cocos/00-354064",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kinder",
+  "brandPath": "/marken/kinder",
+  "canonicalPath": "/produkte/kinder-pingui-cocos/00-354064",
+  "category": "Kühlwaren",
+  "eanCodes": [
+    "0000080052326",
+    "8000500338032",
+    "8000500385395"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Sterzinger Str. 1, AT-6020 Innsbruck (EU)",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ferrero Österreich",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-01-20T00:00:00",
+      "ingredients": "Zutaten:  frische VOLLMILCH (22 %), Halbbitterschokolade 19,5 % (Zucker, Kakaomasse, Kakaobutter, Emulgator Lecithine (SOJA), Vanillin), Zucker, Palmöl, WEIZENMEHL (8,5 %), MAGERMILCHPLVER (7 %), Kokosraspel (6 %), Kokosmus (4,5 %), BUTTERREINFETT, Traubenzucker, EIPULVER, fettarmer Kakao, Backhefe, Aromen, Emulgator Mono- und Diglyceride von Speisefettsäuren, Salz, GERSTENMALZEXTRAKTPULVER.",
+      "marketingMessage": "Neue Rezeptur",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 130
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 120
+        }
+      ],
+      "name": "Schoko-Schnitte mit Milch- (41,5 %) und Kokoscreme (14 %).",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 469,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1954,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 31.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 21.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 40.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 33.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "je Stück (30 g)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 141,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 585,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 13,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 12.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.045,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Im Kühlschrank aufbewahren (0°C - + 7°C)\nMindestens haltbar bis: siehe Aufdruck."
+    }
+  ],
+  "grammage": "120 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 14.58"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kinder Pingui Cocos",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchsnacks/B2-458/produkte/kinder-pingui-cocos/00-354064"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.75,
+    "unit": "1 kg 14.58"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 114660,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kinder Pingui Cocos online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kinder Pingui Cocos online bestellen | BILLA",
+  "slug": "kinder-pingui-cocos",
+  "storeAvalibility": [
+    "00-8395",
+    "00-8334",
+    "00-2261",
+    "00-836",
+    "00-8530",
+    "00-1380",
+    "00-1417",
+    "00-367",
+    "00-8409",
+    "00-282",
+    "00-7120",
+    "00-8140",
+    "00-3549",
+    "00-3062",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/kinder-pingui-cocos/00-354064",
+  "vatCode": "10",
+  "video": ""
+}

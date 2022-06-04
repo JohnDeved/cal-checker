@@ -1,0 +1,204 @@
+{
+  "articleGroupIds": [
+    "B2-459"
+  ],
+  "articleId": "00-620100",
+  "articleOnlyCanonicalPath": "/produkte/schaerdinger-joghurt-topfennockerl-33/00-620100",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Schärdinger",
+  "brandPath": "/marken/schaerdinger",
+  "canonicalPath": "/produkte/schaerdinger-joghurt-topfennockerl-33/00-620100",
+  "category": "Kühlwaren",
+  "description": "Der extra flaumige Dessertgenuss mit dem besten aus Topfen und Joghurt ! Einfachste Zubereitung: aus dem Becher mit einem Löffel oder Eisportionierer auf den Teller anrichten, frische Früchte oder Fruchtsaucen dazu kombinieren und fertig !",
+  "eanCodes": [
+    "9066000649305"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 52% TOPFEN, 35% JOGHURT, Zucker, Wasser, Gelatine, Stabilisatoren Pektin, Johannisbrotkernmehl; Säureregulator Citronensäure, Aroma, Stickstoff.",
+      "marketingMessage": "Schärdinger Topfennockerl garantieren durch eine innovative Technologie extra flaumigen Dessertgenuss ganz ohne Konservierungsstoffe! Das fix-fertige Dessert verspricht zudem einfachste Zubereitung: Einfach aus dem Becher mit einem Löffel auf den Teller portionieren, frische Früchte oder Fruchtspiegel dazu kombinieren: Fertig ist die luftig-lockere Dessertkomposition!  Die Topfennockerl sind in den Sorten Joghurt und Vanille im wiederverschließbaren 420g Becher erhältlich.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.45
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 420
+        }
+      ],
+      "name": "Topfen-Joghurt-Dessert, aufgeschlagen, pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 120,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 504,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3 - 6 °C) lagern. Ungeöffnet mindestens haltbar bis: siehe oben. Nach dem Öffnen innerhalb weniger Tage verbrauchen.",
+      "usageHints": "Einfach mit Löffel, Nockerl- oder Eisportionierer direkt aus dem Becher auf den Teller anrichten. Fruchtspiegel beliebig dazukombinieren. Fertig!"
+    }
+  ],
+  "grammage": "420 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 7.12"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schärdinger Joghurt Topfennockerl 3.3%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/pudding-und-desserts/B2-459/produkte/schaerdinger-joghurt-topfennockerl-33/00-620100"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 7.12"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 25870,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schärdinger Joghurt Topfennockerl 3.3% online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schärdinger Joghurt Topfennockerl 3.3% online bestellen | BILLA",
+  "slug": "schaerdinger-joghurt-topfennockerl-33",
+  "storeAvalibility": [],
+  "url": "/produkte/schaerdinger-joghurt-topfennockerl-33/00-620100",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,314 @@
+{
+  "articleGroupIds": [
+    "B2-6C3",
+    "B2-6E2"
+  ],
+  "articleId": "00-959248",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-gelbe-linsen-spaghetti/00-959248",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-gelbe-linsen-spaghetti/00-959248",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "4104420221468",
+    "4104420209862"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DZG_GLUTEN_FREE",
+              "valueTranslation": "GLUTEN-FREI - Zeichen der Deutschen Zöliakiegesellschaft (DZG)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "FARMING_COUNTRY_OF_ORIGIN",
+              "valueTranslation": "Verweis auf Herkunftsland-Landwirtschaft - alles wurde in einem Land hergestellt"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-02-03T00:00:00",
+      "ingredients": "Kann Spuren von Ei und Soja enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 254
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Bio Spaghetti aus gelbem Linsenmehl",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1464,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 345,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 59,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Alnatura Gelbe Linsen Spaghetti in heißes, nicht mehr kochendes Salzwasser geben und für 7 Minuten bei geringer Hitze köcheln lassen. Bei Überschreitung der Kochzeit können die Spaghetti ihre Form verlieren.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ],
+      "storageHint": "Bitte trocken und lichtgeschützt lagern. Vor Wärme schützen."
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 11.56"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Gelbe Linsen Spaghetti",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3/produkte/alnatura-gelbe-linsen-spaghetti/00-959248",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/alnatura-gelbe-linsen-spaghetti/00-959248"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.89,
+    "unit": "1 kg 11.56"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 101150,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Gelbe Linsen Spaghetti online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Gelbe Linsen Spaghetti online bestellen | BILLA",
+  "slug": "alnatura-gelbe-linsen-spaghetti",
+  "storeAvalibility": [
+    "00-3005",
+    "00-6740",
+    "00-6864",
+    "00-3709",
+    "00-4551",
+    "00-4779",
+    "00-8012",
+    "00-3700",
+    "00-4834",
+    "00-7358",
+    "00-4690",
+    "00-2840",
+    "00-3146",
+    "00-4078",
+    "00-9290",
+    "00-225",
+    "00-2342",
+    "00-4675",
+    "00-2218",
+    "00-7084",
+    "00-3143",
+    "00-3979",
+    "00-4441",
+    "00-7857",
+    "00-350",
+    "00-4605",
+    "00-4655",
+    "00-5223",
+    "00-4783",
+    "00-3114",
+    "00-5363",
+    "00-3780",
+    "00-4932",
+    "00-7653",
+    "00-7393",
+    "00-1457",
+    "00-5962",
+    "00-99202",
+    "00-355",
+    "00-4982",
+    "00-3157",
+    "00-3384",
+    "00-3617",
+    "00-521",
+    "00-7765",
+    "00-3830",
+    "00-7606",
+    "00-1826",
+    "00-7539",
+    "00-1913",
+    "00-4107",
+    "00-10",
+    "00-2045",
+    "00-6819",
+    "00-4466",
+    "00-3105",
+    "00-5871",
+    "00-411",
+    "00-5108"
+  ],
+  "url": "/produkte/alnatura-gelbe-linsen-spaghetti/00-959248",
+  "vatCode": "10",
+  "video": ""
+}

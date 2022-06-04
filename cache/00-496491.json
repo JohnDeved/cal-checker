@@ -1,0 +1,259 @@
+{
+  "articleGroupIds": [
+    "B2-56"
+  ],
+  "articleId": "00-496491",
+  "articleOnlyCanonicalPath": "/produkte/mccain-golden-longs/00-496491",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "McCain",
+  "brandPath": "/marken/mccain",
+  "canonicalPath": "/produkte/mccain-golden-longs/00-496491",
+  "category": "Tiefkühl",
+  "description": "Die Golden Longs von McCain bieten ein besonderes Knuspererlebnis für die ganze Familie. Aus ganzen Kartoffeln extra dünn geschnitten und mit einem leicht gesalzenen Knuspermantel umhüllt werden sie unvergleichlich kross.<br>Extra lang und extra knusprig!",
+  "eanCodes": [
+    "8710438105087"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "McCain foods GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2020-01-10T00:00:00",
+      "ingredients": "Zutaten: Kartoffeln (87%), Sonnenblumenöl (7%), Knusperpanade (6%): WEIZENmehl, Reismehl, Maisstärke, Salz, Kartoffeldextrin, Backtriebmittel (Natriumhydrogencarbonat), Kurkumaextrakt, Farbstoff (Paprikaextrakt).",
+      "mandatoryIndicator": "Nach dem Auftauen nicht wieder einfrieren.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 608.4
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 600
+        }
+      ],
+      "name": "Pommes Frites mit Knuspermantel, in Sonnenblumenöl vorgebacken und tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 171,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 717,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 22.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1. Gerät vorheizen. Temperatur auf 180°C einstellen \n2. Korb gleichmäßig mit 500g befüllen \n3. Insgesamt ca. 17 min backen. Nach der Hälfte der Zeit einmal schütteln \nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Bitte nicht zu stark bräunen. Je nach Menge und Gerätetyp bitte Zubereitungszeit anpassen.",
+          "type": ""
+        },
+        {
+          "instruction": "1. Umluft: vorheizen auf max. 180°C (Ober-/Unterhitze max. 190°C) \n2. In einer Lage auf dem Backpapier ausbreiten. Backblech auf der mittleren Schiene einschieben \n3. Insgesamt 16-18 min backen. Nach ca. 10 min wenden \nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Bitte nicht zu stark bräunen. Je nach Menge und Gerätetyp bitte Zubereitungszeit anpassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "1. Frittierfett auf 175°C vorheizen \n2. Korb zur Hälfte füllen; ca. 4-5 min frittieren \n3. In eine mit Papiertüchern ausgelegte Schüssel geben \nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Bitte nicht zu stark bräunen. Je nach Menge und Gerätetyp bitte Zubereitungszeit anpassen.",
+          "type": "Frittieren - Zubereitung eingetaucht im heißem Öl oder Fett"
+        }
+      ],
+      "storageHint": "Haltbarkeit im Gefrierfach entsprechend den Symbolen: -6° C * : 1 Woche, -12° C ** : 1 Monat, -18° C *** : siehe Aufdruck Nebenseite"
+    }
+  ],
+  "grammage": "600 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 5.48"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "McCain Golden Longs",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pommes-frites-und-co/B2-56/produkte/mccain-golden-longs/00-496491"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 5.48"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "McCain Golden Longs online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "McCain Golden Longs online bestellen | BILLA",
+  "slug": "mccain-golden-longs",
+  "storeAvalibility": [
+    "00-7075",
+    "00-3780",
+    "00-10",
+    "00-2342",
+    "00-99202"
+  ],
+  "url": "/produkte/mccain-golden-longs/00-496491",
+  "vatCode": "10",
+  "video": ""
+}

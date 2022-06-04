@@ -1,0 +1,365 @@
+{
+  "articleGroupIds": [
+    "B2-444"
+  ],
+  "articleId": "00-501881",
+  "articleOnlyCanonicalPath": "/produkte/kaerntnermilch-drautaler3/00-501881",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Kärntnermilch",
+  "brandPath": "/marken/kaerntnermilch",
+  "canonicalPath": "/produkte/kaerntnermilch-drautaler3/00-501881",
+  "category": "Kühlwaren",
+  "description": "<li>Schnittkäse nach Kärntner Art<li>Edelmild<li>Leicht süßlich</li>",
+  "eanCodes": [
+    "9004283041607",
+    "9004283041300"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Villacher Straße 92, 9800 Spittal/Drau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kärntnermilch reg. Gen.m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kaerntnermilch.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-09-28T00:00:00",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.654
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.65
+        }
+      ],
+      "name": "Schnittkäse nach Kärntner Art,  45% F.i.T., aus pasteurisierter Milch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 359,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1492,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "650 g Packung",
+  "grammageBadge": "650 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.99,
+    "unit": "1 kg 10.75"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kärntnermilch Drautaler",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444/produkte/kaerntnermilch-drautaler3/00-501881"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 6.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 6.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 6.99,
+    "unit": "1 kg 10.75"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 125310,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kärntnermilch Drautaler online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kärntnermilch Drautaler online bestellen | BILLA",
+  "slug": "kaerntnermilch-drautaler3",
+  "storeAvalibility": [
+    "00-2222",
+    "00-3871",
+    "00-8334",
+    "00-3032",
+    "00-5391",
+    "00-3580",
+    "00-4779",
+    "00-3713",
+    "00-1532",
+    "00-2261",
+    "00-3063",
+    "00-3512",
+    "00-7539",
+    "00-6975",
+    "00-5223",
+    "00-3118",
+    "00-4655",
+    "00-6138",
+    "00-4982",
+    "00-3593",
+    "00-3780",
+    "00-7114",
+    "00-6819",
+    "00-112",
+    "00-7084",
+    "00-4551",
+    "00-521",
+    "00-1710",
+    "00-355",
+    "00-5199",
+    "00-7358",
+    "00-6676",
+    "00-7245",
+    "00-9894",
+    "00-1380",
+    "00-3143",
+    "00-4783",
+    "00-8646",
+    "00-3025",
+    "00-3055",
+    "00-281",
+    "00-6108",
+    "00-6952",
+    "00-3681",
+    "00-4707",
+    "00-6130",
+    "00-3744",
+    "00-289",
+    "00-2535",
+    "00-836",
+    "00-4478",
+    "00-6502",
+    "00-7606",
+    "00-1107",
+    "00-282",
+    "00-7653",
+    "00-2204",
+    "00-10",
+    "00-2313",
+    "00-3860",
+    "00-6353",
+    "00-4690",
+    "00-2045",
+    "00-3234",
+    "00-3452",
+    "00-7368",
+    "00-4912",
+    "00-7336",
+    "00-9555",
+    "00-7120",
+    "00-2098",
+    "00-2360",
+    "00-323",
+    "00-3120",
+    "00-4107",
+    "00-7393",
+    "00-1032",
+    "00-6496",
+    "00-6219",
+    "00-8530",
+    "00-4078",
+    "00-5108",
+    "00-7603",
+    "00-6424",
+    "00-3050",
+    "00-7860",
+    "00-7062",
+    "00-372",
+    "00-4421",
+    "00-9290",
+    "00-3379",
+    "00-4126",
+    "00-2131",
+    "00-3700",
+    "00-4756",
+    "00-3044",
+    "00-9753",
+    "00-2923",
+    "00-4283",
+    "00-3027",
+    "00-1417",
+    "00-5967",
+    "00-1900",
+    "00-8409",
+    "00-2342",
+    "00-2808",
+    "00-3062",
+    "00-430",
+    "00-3569",
+    "00-1198",
+    "00-3114",
+    "00-3709",
+    "00-3321",
+    "00-3042",
+    "00-8140",
+    "00-3549",
+    "00-2111",
+    "00-3384",
+    "00-6745",
+    "00-6724",
+    "00-6884",
+    "00-1132",
+    "00-4834",
+    "00-2213",
+    "00-7857",
+    "00-119",
+    "00-350",
+    "00-6439",
+    "00-950",
+    "00-3856",
+    "00-3059",
+    "00-4672",
+    "00-4016",
+    "00-7223",
+    "00-4466",
+    "00-3005",
+    "00-4440",
+    "00-4605",
+    "00-7229",
+    "00-5290",
+    "00-8395",
+    "00-1457",
+    "00-174",
+    "00-367",
+    "00-3857",
+    "00-99202"
+  ],
+  "url": "/produkte/kaerntnermilch-drautaler3/00-501881",
+  "vatCode": "10",
+  "video": ""
+}

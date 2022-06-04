@@ -1,0 +1,367 @@
+{
+  "articleGroupIds": [
+    "B2-744"
+  ],
+  "articleId": "00-832283",
+  "articleOnlyCanonicalPath": "/produkte/santa-maria-cheese-dip/00-832283",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Santa Maria",
+  "brandPath": "/marken/santa-maria",
+  "canonicalPath": "/produkte/santa-maria-cheese-dip/00-832283",
+  "category": "Süßes & Salziges",
+  "description": "Mit dem Tex Mex Santa Maria Cheese Dip begeistern Sie Ihre Gäste am Party-Abend! Der perfekte Dip für Tex Mex Santa Maria Tortilla Chips oder andere knusprige Snacks!",
+  "eanCodes": [
+    "7311310383978"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Box 63, SE-431 21 Mölndal, Sweden",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Santa Maria AB",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.santamariaworld.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: MAGERMILCH, Wasser, Sonnenblumenöl, modifizierte Stärke (Tapioka), CHEDDARKÄSE (4%), Salz, Emulgator (E339, E471), Säureregulator (E270, E331, E330), Hefeextrakt, Farbstoffe (E160a, E160e), Weißer Pfeffer.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.27
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 240
+        }
+      ],
+      "name": "Dip mit Käse Geschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 130,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 544,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Aufbewahrung: Nach dem Öffnen in einem geschlossenen Behältnis im Kühlschrank aufbewahren (+2°C-+8°C) und innerhalb von 1-3 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "250 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 10.76"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Santa Maria Cheese Dip",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/chips-und-co/nachos-und-dips/B2-744/produkte/santa-maria-cheese-dip/00-832283"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 10.76"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 120400,
+  "recommendationArticleIds": [],
+  "seoDescription": "Santa Maria Cheese Dip online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Santa Maria Cheese Dip online bestellen | BILLA",
+  "slug": "santa-maria-cheese-dip",
+  "storeAvalibility": [
+    "00-7114",
+    "00-3363",
+    "00-1071",
+    "00-5777",
+    "00-4690",
+    "00-6676",
+    "00-3600",
+    "00-5603",
+    "00-4945",
+    "00-3420",
+    "00-1943",
+    "00-7653",
+    "00-521",
+    "00-397",
+    "00-2201",
+    "00-4672",
+    "00-355",
+    "00-4605",
+    "00-249",
+    "00-2907",
+    "00-1409",
+    "00-2208",
+    "00-9332",
+    "00-1771",
+    "00-3180",
+    "00-3162",
+    "00-3744",
+    "00-3920",
+    "00-794",
+    "00-3780",
+    "00-5027",
+    "00-2045",
+    "00-1500",
+    "00-440",
+    "00-408",
+    "00-3102",
+    "00-1198",
+    "00-3996",
+    "00-5871",
+    "00-1017",
+    "00-3583",
+    "00-1207",
+    "00-7721",
+    "00-943",
+    "00-4440",
+    "00-5552",
+    "00-3560",
+    "00-2306",
+    "00-3120",
+    "00-4779",
+    "00-4249",
+    "00-7539",
+    "00-1476",
+    "00-7743",
+    "00-4466",
+    "00-5000",
+    "00-1479",
+    "00-3146",
+    "00-1249",
+    "00-1900",
+    "00-4551",
+    "00-4107",
+    "00-4001",
+    "00-1114",
+    "00-281",
+    "00-3617",
+    "00-1529",
+    "00-1136",
+    "00-1016",
+    "00-2342",
+    "00-6219",
+    "00-2840",
+    "00-4078",
+    "00-411",
+    "00-4655",
+    "00-1117",
+    "00-836",
+    "00-471",
+    "00-8395",
+    "00-3094",
+    "00-1425",
+    "00-604",
+    "00-783",
+    "00-771",
+    "00-2899",
+    "00-1524",
+    "00-5104",
+    "00-6480",
+    "00-720",
+    "00-519",
+    "00-3979",
+    "00-702",
+    "00-4700",
+    "00-9589",
+    "00-4090",
+    "00-1457",
+    "00-1108",
+    "00-350",
+    "00-117",
+    "00-3114",
+    "00-2313",
+    "00-9415",
+    "00-1027",
+    "00-3688",
+    "00-3042",
+    "00-99202",
+    "00-1212",
+    "00-4834",
+    "00-3856",
+    "00-4707",
+    "00-6138",
+    "00-1532",
+    "00-3713",
+    "00-5531",
+    "00-2369",
+    "00-4673",
+    "00-1120",
+    "00-2098",
+    "00-2111",
+    "00-1098",
+    "00-1417",
+    "00-1550",
+    "00-3121",
+    "00-703",
+    "00-3005",
+    "00-3445",
+    "00-119",
+    "00-1750",
+    "00-3322",
+    "00-3700",
+    "00-10",
+    "00-4675",
+    "00-3669",
+    "00-1018",
+    "00-1480",
+    "00-3170",
+    "00-823",
+    "00-1649",
+    "00-2131",
+    "00-7606",
+    "00-220",
+    "00-1128",
+    "00-3507",
+    "00-4021",
+    "00-2259",
+    "00-3709",
+    "00-1121",
+    "00-1132"
+  ],
+  "url": "/produkte/santa-maria-cheese-dip/00-832283",
+  "vatCode": "10",
+  "video": ""
+}

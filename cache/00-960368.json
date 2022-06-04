@@ -1,0 +1,191 @@
+{
+  "articleGroupIds": [
+    "B2-A24"
+  ],
+  "articleId": "00-960368",
+  "articleOnlyCanonicalPath": "/produkte/sheba-creamy-snacks-mit-lachs/00-960368",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Sheba",
+  "brandPath": "/marken/sheba",
+  "canonicalPath": "/produkte/sheba-creamy-snacks-mit-lachs/00-960368",
+  "category": "Haustier",
+  "description": "Ergänzungsfuttermittel für ausgewachsene Katzen - Tiernahrung.",
+  "eanCodes": [
+    "4008429097683",
+    "4008429140723"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: Fleisch und tierische Nebenerzeugnisse, Fisch und Fischnebenerzeugnisse (u.a. Lachs 4%), pflanzliche Nebenerzeugnisse, Öle und Fette, Milch und Molkereierzeugnisse (u.a. Milchprotein 0.5%)."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile (%): Protein: 3.5; Fettgehalt: 3.5; anorganischer Stoff: 1.0; Rohfaser: 0.50; Feuchtigkeit: 88.5; Brennwert: 54 kcal/100 g."
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Fütterungsempfehlung: Füttern Sie bis zu 1 Beutel täglich. Reduzieren Sie die Vollnahrung entsprechend. Bitte jeden Beutel innerhalb von 1 Tag nach dem Öffnen verbrauchen. Ein Extranapf mit frischem Trinkwasser sollte immer bereitstehen."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "Compliant with Regulation"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Handelskai 92, 1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mars Austria OG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "contact@at.mars.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+432162 601 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-07-01T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 62
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 48
+        }
+      ],
+      "name": "Ergänzungsfuttermittel für ausgewachsene Katzen - Tiernahrung.",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Bitte kühl und trocken lagern."
+    }
+  ],
+  "grammage": "48 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 53.96"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Sheba Creamy Snacks mit Lachs",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/katzen/katzen-snacks/B2-A24/produkte/sheba-creamy-snacks-mit-lachs/00-960368"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.59,
+    "unit": "1 kg 53.96"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Sheba Creamy Snacks mit Lachs online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Sheba Creamy Snacks mit Lachs online bestellen | BILLA",
+  "slug": "sheba-creamy-snacks-mit-lachs",
+  "storeAvalibility": [
+    "00-7114",
+    "00-6024",
+    "00-7606",
+    "00-7653",
+    "00-3780",
+    "00-4779",
+    "00-6740",
+    "00-3681",
+    "00-7075",
+    "00-4982",
+    "00-7857",
+    "00-99202",
+    "00-4421",
+    "00-3506",
+    "00-7223",
+    "00-4350",
+    "00-3641",
+    "00-10",
+    "00-4675",
+    "00-3114",
+    "00-7084"
+  ],
+  "url": "/produkte/sheba-creamy-snacks-mit-lachs/00-960368",
+  "vatCode": "13",
+  "video": ""
+}

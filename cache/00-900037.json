@@ -1,0 +1,244 @@
+{
+  "articleGroupIds": [
+    "B2-992"
+  ],
+  "articleId": "00-900037",
+  "articleOnlyCanonicalPath": "/produkte/danklorix-kuechen-reiniger-mit-chlor/00-900037",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "DanKlorix",
+  "canonicalPath": "/produkte/danklorix-kuechen-reiniger-mit-chlor/00-900037",
+  "category": "Haushalt",
+  "description": "Der DanKlorix Küchen-Reiniger mit Chlor wirkt gegen Fett und Eingebranntes. Er entfernt Schimmel, neutralisiert Gerüche und wirkt bei starken Verschmutzungen.<li>mit Aktiv-Chlor für beste Ergebnisse<li>entfernt 99,9 % der Bakterien",
+  "eanCodes": [
+    "8714789246871",
+    "8714789305479"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "EUH206"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Sofort GIFTINFORMATIONSZENTRUM oder Arzt anrufen. (P310)"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P305+P351+P338"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten. (P101)"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "Darf nicht in die Hände von Kindern gelangen. (P102)"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "(P302+P352) - BEI BERÜHRUNG MIT DER HAUT: Mit viel Wasser/. waschen."
+            },
+            {
+              "attributeCode": "GHS_SIGNALWORT",
+              "description": "GHS-Signalwort (M218)",
+              "hasTranslation": "True",
+              "value": "DANGER",
+              "valueTranslation": "Gefahr"
+            },
+            {
+              "attributeCode": "GHS_PIKTOGRAMM",
+              "description": "GHS-Piktogramm (M215)",
+              "hasTranslation": "True",
+              "value": "CORROSION",
+              "valueTranslation": "Ätzwirkung (GHS05) - Ätzend"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H412"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H318"
+            },
+            {
+              "attributeCode": "GHS_GEFAHRENHINWEIS",
+              "description": "GHS-Gefahrenhinweis (M213)",
+              "hasTranslation": "False",
+              "value": "H315"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Beim Strohhause 17, 20097 Hamburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "CP GABA GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+49 (0) 40-7319- 0",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2018-11-09T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 858
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 750
+        }
+      ],
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "750 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 l 5.05"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "DanKlorix Küchen-Reiniger mit Chlor",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/reinigen-und-pflegen/diverse-haushaltsreiniger/B2-992/produkte/danklorix-kuechen-reiniger-mit-chlor/00-900037"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79,
+    "unit": "1 l 5.05"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 126640,
+  "recommendationArticleIds": [
+    "00-861156"
+  ],
+  "seoDescription": "DanKlorix Küchen-Reiniger mit Chlor online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "DanKlorix Küchen-Reiniger mit Chlor online bestellen | BILLA",
+  "slug": "danklorix-kuechen-reiniger-mit-chlor",
+  "storeAvalibility": [
+    "00-5603",
+    "00-3714",
+    "00-9415",
+    "00-3583",
+    "00-3580",
+    "00-4107",
+    "00-3420",
+    "00-7963",
+    "00-7609",
+    "00-6749",
+    "00-6255",
+    "00-7743",
+    "00-2313",
+    "00-1425",
+    "00-3688",
+    "00-5003",
+    "00-3584",
+    "00-8235",
+    "00-7653",
+    "00-8646",
+    "00-4270",
+    "00-6022",
+    "00-8151",
+    "00-3005",
+    "00-8173",
+    "00-9030",
+    "00-6916",
+    "00-7783",
+    "00-6760",
+    "00-99202",
+    "00-6496",
+    "00-7535",
+    "00-1114",
+    "00-4441",
+    "00-3996",
+    "00-2201",
+    "00-8395",
+    "00-10",
+    "00-4783",
+    "00-3445",
+    "00-3780",
+    "00-4283",
+    "00-6001",
+    "00-7857",
+    "00-2223",
+    "00-7733",
+    "00-4847",
+    "00-5290"
+  ],
+  "url": "/produkte/danklorix-kuechen-reiniger-mit-chlor/00-900037",
+  "vatCode": "20",
+  "video": ""
+}

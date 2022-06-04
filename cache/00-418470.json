@@ -1,0 +1,169 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-418470",
+  "articleOnlyCanonicalPath": "/produkte/engelburg-braeu/00-418470",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Engelburg Bräu",
+  "canonicalPath": "/produkte/engelburg-braeu/00-418470",
+  "category": "Getränke",
+  "description": "Das Engelburg Bräu ist ein klassisches Schankbier aus Bludenz, das nach alter Tradition gebraut wird und so seinen milden, frischen Hopfengeschmack gewinnt.<li>Schankbier in der Dose<li>herbfrischer Geschmack<li>gebraut in Österreich<li>Alkoholgehalt: 4,2 % vol",
+  "eanCodes": [
+    "0000090165757"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 4.2,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ALUMINIUM_GESAMTVERBAND_DER_ALUMINIUMINDUSTRIE"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fohrenburgstraße 5, A-6700 Bludenz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Engelburg Getränke GmbH & Co KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-21T00:00:00",
+      "ingredients": "Enthält GERSTEN- und WEIZENMALZ",
+      "marketingMessage": "Klassisch herb & frisch",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.54
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Schankbier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.5 l Dose (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.89,
+    "unit": "500 ml .89"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Engelburg Bräu",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/engelburg-braeu/00-418470"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.89,
+    "unit": "500 ml .89"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 39400,
+  "recommendationArticleIds": [],
+  "seoDescription": "Engelburg Bräu online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Engelburg Bräu online bestellen | BILLA",
+  "slug": "engelburg-braeu",
+  "storeAvalibility": [
+    "00-8646",
+    "00-8606",
+    "00-8151",
+    "00-8075",
+    "00-8243",
+    "00-8140",
+    "00-8530",
+    "00-8360",
+    "00-8022",
+    "00-8159",
+    "00-8334",
+    "00-8193",
+    "00-8400",
+    "00-8409",
+    "00-8188",
+    "00-8895",
+    "00-8395",
+    "00-8426",
+    "00-99202"
+  ],
+  "url": "/produkte/engelburg-braeu/00-418470",
+  "vatCode": "20",
+  "video": ""
+}

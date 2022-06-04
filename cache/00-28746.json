@@ -1,0 +1,240 @@
+{
+  "articleGroupIds": [
+    "B2-45A"
+  ],
+  "articleId": "00-28746",
+  "articleOnlyCanonicalPath": "/produkte/tirol-milch-schlagobers/00-28746",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tirol-milch-schlagobers/00-28746",
+  "category": "Kühlwaren",
+  "description": "Das Schlagobers von Tirol Milch stammt von Tiroler Alpenmilch. Es schmeckt als Verfeinerung von Soßen oder geschlagen zu Mehlspeisen und Eis.<li>hocherhitzt, länger frisch<li>Qualität aus Österreich",
+  "eanCodes": [
+    "9006020004067"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch Molkerei Wörgl, Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: SCHLAGOBERS 36 % Fett, Stabilisator Carrageen",
+      "marketingMessage": "Süßrahm ist eines der feinsten Milchprodukte. Egal ob flüssig oder aufgeschlagen verleiht er all Ihren Leibspeisen eine wunderbar sämige, volle Note. Und wenn Sie ganz intensiv in unseren Schlagobers und in unseren feinen Sauerrahm hineinschmecken, können Sie dieKraft der saftigen Kräuter und Gräser erahnen, die auf unseren Tiroler Almwiesen wachsen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.27
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Tiroler Bergbauern Schlagobers 36 % Fett, hocherhitzt, länger frisch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1422,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 345,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3-7 °C) lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet mindestens haltbar bis: siehe Verschluss."
+    }
+  ],
+  "grammage": "0.25 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.45,
+    "unit": "1 l 5.80"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tirol Milch Schlagobers",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A/produkte/tirol-milch-schlagobers/00-28746"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.45,
+    "unit": "1 l 5.80"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 107970,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tirol Milch Schlagobers online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tirol Milch Schlagobers online bestellen | BILLA",
+  "slug": "tirol-milch-schlagobers",
+  "storeAvalibility": [
+    "00-8151",
+    "00-8657",
+    "00-7866",
+    "00-8417",
+    "00-8193",
+    "00-8426",
+    "00-8173",
+    "00-8158",
+    "00-8243",
+    "00-8022",
+    "00-8646",
+    "00-8360",
+    "00-8031",
+    "00-8188",
+    "00-8334",
+    "00-8230",
+    "00-8154",
+    "00-8606",
+    "00-8241",
+    "00-8213",
+    "00-8636",
+    "00-8076",
+    "00-8070",
+    "00-8140",
+    "00-8085",
+    "00-8235",
+    "00-8185",
+    "00-8155",
+    "00-8159",
+    "00-8075",
+    "00-8895",
+    "00-99202"
+  ],
+  "url": "/produkte/tirol-milch-schlagobers/00-28746",
+  "vatCode": "10",
+  "video": ""
+}

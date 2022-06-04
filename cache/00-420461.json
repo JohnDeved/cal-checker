@@ -1,0 +1,374 @@
+{
+  "articleGroupIds": [
+    "B2-634",
+    "B2-6A3"
+  ],
+  "articleId": "00-420461",
+  "articleOnlyCanonicalPath": "/produkte/roesselmehl-weizenperle-weizen-glatt/00-420461",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Rösselmehl",
+  "canonicalPath": "/produkte/roesselmehl-weizenperle-weizen-glatt/00-420461",
+  "category": "Grundnahrungsmittel",
+  "eanCodes": [
+    "9007136000875",
+    "9002991134802"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mühlstraße 3-4/ A-2431 Enzersdorf an der Fischa",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ludwig Polsterer Vereinigte Walzmühlen GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@roesselmehl.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+4322308505",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Unser Mehl seit 1270",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1015
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Weizenmehl Type 480 glatt 1kg",
+      "nutritions": [
+        {
+          "householdPortion": "100 g Weizenperle T480 glatt entsprechen einer Portion!",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1433,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 338,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 1.6,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.85,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.17,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 27,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 72,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.47,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.42,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme und Feuchtigkeit geschützt bei Raumtemperatur lagern."
+    }
+  ],
+  "grammage": "1 Kilogramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Rösselmehl Weizenperle Weizen Glatt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/backen/mehl/B2-634/produkte/roesselmehl-weizenperle-weizen-glatt/00-420461",
+    "~/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3/produkte/roesselmehl-weizenperle-weizen-glatt/00-420461"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rösselmehl Weizenperle Weizen Glatt online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rösselmehl Weizenperle Weizen Glatt online bestellen | BILLA",
+  "slug": "roesselmehl-weizenperle-weizen-glatt",
+  "storeAvalibility": [
+    "00-6897",
+    "00-6022",
+    "00-7393",
+    "00-7491",
+    "00-7915",
+    "00-7975",
+    "00-6676",
+    "00-7546",
+    "00-7681",
+    "00-6130",
+    "00-6895",
+    "00-7716",
+    "00-6489",
+    "00-7539",
+    "00-7603",
+    "00-8940",
+    "00-6024",
+    "00-7831",
+    "00-7857",
+    "00-7611",
+    "00-4783",
+    "00-8946",
+    "00-6892",
+    "00-7642",
+    "00-6684",
+    "00-6916",
+    "00-6884",
+    "00-8012",
+    "00-6952",
+    "00-6932",
+    "00-7810",
+    "00-6975",
+    "00-7616",
+    "00-7710",
+    "00-5108",
+    "00-7536",
+    "00-6274",
+    "00-7827",
+    "00-6628",
+    "00-6487",
+    "00-6970",
+    "00-7606",
+    "00-7592",
+    "00-6353",
+    "00-8433",
+    "00-6018",
+    "00-7860",
+    "00-6819",
+    "00-6983",
+    "00-7602",
+    "00-6588",
+    "00-7358",
+    "00-7766",
+    "00-7535",
+    "00-6569",
+    "00-6877",
+    "00-6108",
+    "00-6424",
+    "00-6845",
+    "00-6810",
+    "00-7653",
+    "00-6805",
+    "00-6910",
+    "00-6840",
+    "00-7609",
+    "00-6248",
+    "00-6749",
+    "00-6255",
+    "00-6811",
+    "00-6492",
+    "00-7632",
+    "00-6554",
+    "00-7189",
+    "00-7783",
+    "00-7856",
+    "00-7224",
+    "00-6745",
+    "00-3252",
+    "00-7835",
+    "00-6490",
+    "00-7600",
+    "00-6179",
+    "00-6900",
+    "00-7245",
+    "00-7963",
+    "00-6740",
+    "00-6011",
+    "00-7629",
+    "00-7336",
+    "00-7675",
+    "00-7204",
+    "00-7895",
+    "00-6338",
+    "00-6799",
+    "00-6219",
+    "00-6235",
+    "00-7538",
+    "00-7547",
+    "00-7980",
+    "00-6138",
+    "00-6688",
+    "00-6724",
+    "00-6979",
+    "00-6262",
+    "00-6843",
+    "00-7676",
+    "00-6372",
+    "00-6197",
+    "00-7553",
+    "00-9030",
+    "00-6758",
+    "00-6306",
+    "00-6021",
+    "00-6494",
+    "00-7940",
+    "00-7758",
+    "00-7139",
+    "00-6439",
+    "00-7665",
+    "00-7544",
+    "00-6123",
+    "00-7584",
+    "00-6559",
+    "00-6864",
+    "00-6001",
+    "00-7667",
+    "00-7920",
+    "00-6281",
+    "00-6533",
+    "00-6760",
+    "00-7969",
+    "00-7082",
+    "00-6304",
+    "00-6928",
+    "00-6502",
+    "00-6508",
+    "00-6823",
+    "00-6518",
+    "00-7566",
+    "00-6051",
+    "00-7759",
+    "00-6065",
+    "00-7765",
+    "00-7302",
+    "00-6496",
+    "00-7733",
+    "00-7565",
+    "00-8441",
+    "00-6558",
+    "00-8953",
+    "00-6480",
+    "00-7743",
+    "00-6871",
+    "00-7229",
+    "00-6366",
+    "00-99202"
+  ],
+  "url": "/produkte/roesselmehl-weizenperle-weizen-glatt/00-420461",
+  "vatCode": "10",
+  "video": ""
+}

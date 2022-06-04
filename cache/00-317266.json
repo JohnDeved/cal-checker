@@ -1,0 +1,253 @@
+{
+  "articleGroupIds": [
+    "B2-56"
+  ],
+  "articleId": "00-317266",
+  "articleOnlyCanonicalPath": "/produkte/mccain-airfryer-frites/00-317266",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_tiefgek",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "McCain",
+  "brandPath": "/marken/mccain",
+  "canonicalPath": "/produkte/mccain-airfryer-frites/00-317266",
+  "category": "Tiefkühl",
+  "description": "Die extra dünnen Airfryer Frites sind in der Heißluftfritteuse in nur 9 Minuten zubereitet und damit doppelt so schnell fertig wie Backofen Pommes.",
+  "eanCodes": [
+    "8710438115178"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-1200 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "McCain foods GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-06-12T00:00:00",
+      "ingredients": "Zutaten: Kartoffeln (87,1%), Sonnenblumenöl (7%), Knusperpanade (5,5%): modifizierte Kartoffelstärke, Reismehl, Dextrin, Erbsenfaser, Verdickungsmittel (Xanthan), Kurkumaextrakt, Erbsenprotein, Farbstoff (Paprikaextrakt); Salz (0,4%).",
+      "mandatoryIndicator": "Nach dem Auftauen nicht wieder einfrieren.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 507.9
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Gesalzene Pommes Frites im Julienne-Schnitt mit Knuspermantel, in Sonnenblumenöl vorgebacken und tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 203,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 853,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 12,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 30.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1. Korb gleichmäßig mit etwas 300g Pommes befüllen. \n2. Bei 180°C für ca. 9 Minuten backen. Nach der Hälfte der Zeit einmal schütteln. \nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Bitte nicht zu stark bräunen. Je nach Menge und Gerätetyp bitte Zubereitungszeit anpassen.",
+          "type": ""
+        },
+        {
+          "instruction": "1. Umluft: vorheizen auf 180°C.\n2. Etwa 300g Pommes luftig in einer Lage auf dem Backblech ausbreiten. Backblech auf mittlerer Schiene einschieben. \nInsgesamt 10 min backen. Nach der Hälfte der Zeit wenden. \nDas Produkt in gefrorenem Zustand nach der empfohlenen Zeit und Temperatur zubereiten, bis es goldgelb und knusprig ist. Bitte nicht zu stark bräunen. Je nach Menge und Gerätetyp bitte Zubereitungszeit anpassen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Haltbarkeit im Gefrierfach entsprechend den Symbolen: -6° C * 1 Woche, -12° C ** 1 Monat, -18° C *** siehe Verpackungsaufdruck."
+    }
+  ],
+  "grammage": "500 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 6.58"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "McCain Airfryer Frites",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pommes-frites-und-co/B2-56/produkte/mccain-airfryer-frites/00-317266"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 6.58"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 89900,
+  "recommendationArticleIds": [],
+  "seoDescription": "McCain Airfryer Frites online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "McCain Airfryer Frites online bestellen | BILLA",
+  "slug": "mccain-airfryer-frites",
+  "storeAvalibility": [
+    "00-10",
+    "00-7075",
+    "00-2342",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/mccain-airfryer-frites/00-317266",
+  "vatCode": "10",
+  "video": ""
+}

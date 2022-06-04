@@ -1,0 +1,350 @@
+{
+  "articleGroupIds": [
+    "B2-621"
+  ],
+  "articleId": "00-317709",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-kuerbis-pur/00-317709",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-kuerbis-pur/00-317709",
+  "category": "Grundnahrungsmittel",
+  "description": "Für das Alnatura Babygläschen Kürbis pur werden ausschließlich Früchte aus biologisch-dynamischem Anbau verwendet. Der mild-süß schmeckende Kürbisbrei ist gut geeignet als Einstieg in die Breikost nach dem vierten Lebensmonat. Glutenfrei.",
+  "eanCodes": [
+    "4104420084063"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DEMETER_LABEL",
+              "valueTranslation": "DEMETER-Label (biologisch-dynamische Landwirtschaft)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_AGRICULTURE",
+              "valueTranslation": "EU Landwirtschaft - Alle Rohmaterialien in der EU angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Kürbis* 93 %, Wasser *aus Demeter-Landbau .",
+      "mandatoryIndicator": "nach dem 4. Monat;",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 218
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Bio Kürbis",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 85,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 20,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.001,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Mit 4 - 6 Löffelchen beginnen, Menge nach Bedarf steigern. Geöffnetes Glas bzw. gewünschte Portion im Wasserbad erwärmen, umrühren, Temperatur prüfen.",
+          "type": "Erhitzen und servieren - Vor dem Servieren erhitzen oder erwaermen"
+        }
+      ],
+      "storageHint": "Nicht erwärmten Rest verschlossen im Kühlschrank aufbewahren und am nächsten Tag aufbrauchen."
+    }
+  ],
+  "grammage": "125 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.59,
+    "unit": "1 kg 4.72"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Kürbis Pur",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621/produkte/alnatura-kuerbis-pur/00-317709"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.59,
+    "unit": "1 kg 4.72"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 85480,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Kürbis Pur online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Kürbis Pur online bestellen | BILLA",
+  "slug": "alnatura-kuerbis-pur",
+  "storeAvalibility": [
+    "00-3121",
+    "00-2907",
+    "00-5603",
+    "00-7857",
+    "00-220",
+    "00-7975",
+    "00-3102",
+    "00-2208",
+    "00-7606",
+    "00-4982",
+    "00-1041",
+    "00-2190",
+    "00-6424",
+    "00-3856",
+    "00-10",
+    "00-4440",
+    "00-7358",
+    "00-3162",
+    "00-3379",
+    "00-3445",
+    "00-6496",
+    "00-6760",
+    "00-3669",
+    "00-3512",
+    "00-2364",
+    "00-3005",
+    "00-4107",
+    "00-7743",
+    "00-7229",
+    "00-4421",
+    "00-7676",
+    "00-4655",
+    "00-2369",
+    "00-4469",
+    "00-6745",
+    "00-6480",
+    "00-6810",
+    "00-3560",
+    "00-1071",
+    "00-4672",
+    "00-6724",
+    "00-1913",
+    "00-1016",
+    "00-3296",
+    "00-7535",
+    "00-1198",
+    "00-3633",
+    "00-3688",
+    "00-1425",
+    "00-1701",
+    "00-6975",
+    "00-1900",
+    "00-7665",
+    "00-3713",
+    "00-7245",
+    "00-1117",
+    "00-7632",
+    "00-7653",
+    "00-3580",
+    "00-5777",
+    "00-2201",
+    "00-2342",
+    "00-4674",
+    "00-4945",
+    "00-6897",
+    "00-7062",
+    "00-5322",
+    "00-5381",
+    "00-7758",
+    "00-7969",
+    "00-1457",
+    "00-4619",
+    "00-3584",
+    "00-3023",
+    "00-7716",
+    "00-6979",
+    "00-3617",
+    "00-4783",
+    "00-3780",
+    "00-7866",
+    "00-6533",
+    "00-4001",
+    "00-9290",
+    "00-281",
+    "00-3042",
+    "00-6372",
+    "00-4675",
+    "00-4170",
+    "00-5290",
+    "00-4551",
+    "00-4021",
+    "00-4779",
+    "00-7592",
+    "00-4146",
+    "00-3940",
+    "00-7491",
+    "00-9589",
+    "00-7204",
+    "00-4126",
+    "00-1132",
+    "00-3196",
+    "00-4673",
+    "00-7783",
+    "00-7368",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-kuerbis-pur/00-317709",
+  "vatCode": "10",
+  "video": ""
+}

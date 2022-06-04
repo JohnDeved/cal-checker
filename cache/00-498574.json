@@ -1,0 +1,632 @@
+{
+  "articleGroupIds": [
+    "B2-6B1"
+  ],
+  "articleId": "00-498574",
+  "articleOnlyCanonicalPath": "/produkte/nestle-clusters-mandel/00-498574",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nestlé",
+  "brandPath": "/marken/nestle",
+  "canonicalPath": "/produkte/nestle-clusters-mandel/00-498574",
+  "category": "Grundnahrungsmittel",
+  "description": "Vollkornflakes mit Mandel-Nuss-Stückchen und knackigen Mandelblättchen.",
+  "eanCodes": [
+    "7613287308870"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2022-03-31T00:00:00",
+      "ingredients": "Zutaten: 63,3% VOLLKORNWEIZEN, Zucker, 9,2% MANDELN, WEIZENMEHL, Glukosesirup, WEIZENFLOCKEN, GERSTENMALZEXTRAKT, Invertzuckersirup, 1,4% HAFERFLOCKEN, Calciumcarbonat, Palmöl, Salz, Honig, Reismehl, Melasse, natürliches Aroma, Säureregulator (Natriumphosphate), Eisen, Niacin, Pantothensäure, Folsäure, Vitamin B6, Riboflavin (Vit. B2). Kann MILCH, ERDNÜSSE und andere NÜSSE enthalten. Für 100g CLUSTERS MANDEL wurden vor dem Backen 63,3 g Vollkorngetreide eingesetzt. Die Prozentangaben zum Vollkornanteil beziehen sich laut Lebensmittleinformationsverordnung auf die Einsatzmenge vor dem Backen und sind bezogen auf das Gesamtprodukt.",
+      "mandatoryIndicator": "Füllhöhenschwankungen sind transportbedingt.",
+      "marketingMessage": "Vollkornflakes mit Mandel-Nuss-Stückchen und knackigen Mandelblättchen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 371
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 325
+        }
+      ],
+      "name": "Geröstete Getreidekost mit Mandel.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 392,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1652,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 66.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 19.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 9.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.91,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 86,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 91,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 182,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 66,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 524,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 88,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 14,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 75,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 4.5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 86,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 71,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "Pro Portion (30g) mit 125ml fettarmer Milch",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 178,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 750,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 26.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 11.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.42,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 3.6,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 59.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 39,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 309,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 27,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 4.3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 30,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 1.8,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 42,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.59,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 26,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.37,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 10,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen. Mindestens haltbar bis Ende: siehe Aufdruck"
+    }
+  ],
+  "grammage": "325 Gramm Karton",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 10.12"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Nestlé Clusters Mandel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/cerealien/B2-6B1/produkte/nestle-clusters-mandel/00-498574"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 10.12"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nestlé Clusters Mandel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nestlé Clusters Mandel online bestellen | BILLA",
+  "slug": "nestle-clusters-mandel",
+  "storeAvalibility": [
+    "00-3709",
+    "00-355",
+    "00-7653",
+    "00-2208",
+    "00-3114",
+    "00-1701",
+    "00-2238",
+    "00-4779",
+    "00-7358",
+    "00-7229",
+    "00-3044",
+    "00-3688",
+    "00-1479",
+    "00-2131",
+    "00-1900",
+    "00-281",
+    "00-4655",
+    "00-3700",
+    "00-4783",
+    "00-521",
+    "00-7491",
+    "00-1524",
+    "00-2111",
+    "00-4690",
+    "00-1457",
+    "00-3047",
+    "00-1826",
+    "00-3405",
+    "00-174",
+    "00-4249",
+    "00-2808",
+    "00-497",
+    "00-8012",
+    "00-4770",
+    "00-2204",
+    "00-7204",
+    "00-1039",
+    "00-6740",
+    "00-7114",
+    "00-115",
+    "00-176",
+    "00-4982",
+    "00-8173",
+    "00-3947",
+    "00-249",
+    "00-330",
+    "00-7743",
+    "00-6219",
+    "00-3259",
+    "00-823",
+    "00-7368",
+    "00-6018",
+    "00-2907",
+    "00-3214",
+    "00-112",
+    "00-4225",
+    "00-4540",
+    "00-3062",
+    "00-4478",
+    "00-950",
+    "00-7393",
+    "00-6819",
+    "00-6138",
+    "00-2313",
+    "00-4090",
+    "00-6823",
+    "00-7538",
+    "00-289",
+    "00-5962",
+    "00-4551",
+    "00-2295",
+    "00-3105",
+    "00-7606",
+    "00-3014",
+    "00-2154",
+    "00-3431",
+    "00-7600",
+    "00-411",
+    "00-282",
+    "00-7667",
+    "00-408",
+    "00-3042",
+    "00-1631",
+    "00-3401",
+    "00-703",
+    "00-7424",
+    "00-8235",
+    "00-4707",
+    "00-3510",
+    "00-3135",
+    "00-1455",
+    "00-2222",
+    "00-5104",
+    "00-3027",
+    "00-3583",
+    "00-239",
+    "00-2223",
+    "00-7245",
+    "00-3023",
+    "00-3157",
+    "00-6952",
+    "00-3780",
+    "00-10",
+    "00-1207",
+    "00-397",
+    "00-4170",
+    "00-7857",
+    "00-3103",
+    "00-1911",
+    "00-6676",
+    "00-7336",
+    "00-5391",
+    "00-3322",
+    "00-1409",
+    "00-3125",
+    "00-5603",
+    "00-5359",
+    "00-1265",
+    "00-6353",
+    "00-5108",
+    "00-1550",
+    "00-8076",
+    "00-2369",
+    "00-5871",
+    "00-7642",
+    "00-1771",
+    "00-3830",
+    "00-3633",
+    "00-783",
+    "00-3940",
+    "00-4126",
+    "00-3617",
+    "00-3140",
+    "00-7676",
+    "00-3501",
+    "00-4675",
+    "00-3669",
+    "00-372",
+    "00-6724",
+    "00-3824",
+    "00-6021",
+    "00-2011",
+    "00-3848",
+    "00-5000",
+    "00-3143",
+    "00-1913",
+    "00-6910",
+    "00-7835",
+    "00-3681",
+    "00-6864",
+    "00-3170",
+    "00-7535",
+    "00-3146",
+    "00-3512",
+    "00-7536",
+    "00-3600",
+    "00-943",
+    "00-4424",
+    "00-1017",
+    "00-2213",
+    "00-1027",
+    "00-1041",
+    "00-6745",
+    "00-6001",
+    "00-4605",
+    "00-4421",
+    "00-9894",
+    "00-7860",
+    "00-3445",
+    "00-6372",
+    "00-2342",
+    "00-6024",
+    "00-3138",
+    "00-3420",
+    "00-3253",
+    "00-4932",
+    "00-2899",
+    "00-1480",
+    "00-6684",
+    "00-388",
+    "00-9290",
+    "00-4755",
+    "00-5027",
+    "00-2259",
+    "00-3384",
+    "00-208",
+    "00-3025",
+    "00-117",
+    "00-7539",
+    "00-6274",
+    "00-1003",
+    "00-8241",
+    "00-3308",
+    "00-2218",
+    "00-1901",
+    "00-3713",
+    "00-6845",
+    "00-7629",
+    "00-4270",
+    "00-4407",
+    "00-3022",
+    "00-4672",
+    "00-643",
+    "00-3234",
+    "00-3196",
+    "00-5529",
+    "00-836",
+    "00-3121",
+    "00-7675",
+    "00-702",
+    "00-2098",
+    "00-4107",
+    "00-2201",
+    "00-4441",
+    "00-987",
+    "00-1070",
+    "00-3150",
+    "00-209",
+    "00-2170",
+    "00-7544",
+    "00-7920",
+    "00-2306",
+    "00-6022",
+    "00-3120",
+    "00-2109",
+    "00-7783",
+    "00-2923",
+    "00-2260",
+    "00-119",
+    "00-1866",
+    "00-5003",
+    "00-6884",
+    "00-2220",
+    "00-6480",
+    "00-5531",
+    "00-3506",
+    "00-309",
+    "00-133",
+    "00-5363",
+    "00-3569",
+    "00-4813",
+    "00-3011",
+    "00-2840",
+    "00-1943",
+    "00-1425",
+    "00-3005",
+    "00-3050",
+    "00-7075",
+    "00-7616",
+    "00-7592",
+    "00-1132",
+    "00-3010",
+    "00-720",
+    "00-99202"
+  ],
+  "url": "/produkte/nestle-clusters-mandel/00-498574",
+  "vatCode": "10",
+  "video": ""
+}

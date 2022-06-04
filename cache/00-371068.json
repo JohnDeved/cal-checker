@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-371068",
+  "articleOnlyCanonicalPath": "/produkte/schremser-vienna/00-371068",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Schremser",
+  "canonicalPath": "/produkte/schremser-vienna/00-371068",
+  "category": "Getränke",
+  "description": "Schremser steht für jahrhundertealte Brautradition aus dem Waldviertel. Das Lagerbier Vienna IP begeistert durch seinen charakteristischen Malz-Geschmack.<li>Alkoholgehalt: 4,8 % vol<li>unfiltriert und untergärig<li>schöne, dunkle Farbe durch raffinierte Malzmischung",
+  "eanCodes": [
+    "0000090207426"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 4.8,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Niederschremserstraße 1, 3943  Schrems, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bierbrauerei Schrems GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-07-22T00:00:00",
+      "ingredients": "enthält Gerstenmalz",
+      "marketingMessage": "Lagerbier Wiener Art. Mit Liebe gebraut in Schrems.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 560
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Vollbier",
+      "nutritions": [],
+      "origin": "Waldviertel",
+      "preperations": [],
+      "storageHint": "Vor Licht und Wärme geschützt lagern!"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Niederschremserstraße 1\n3943  Schrems, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Privatbrauerei K.Th. Trojan\nBierbrauerei Schrems GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.schremser.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-05-12T00:00:00",
+      "ingredients": "enthält GERSTENMALZ",
+      "mandatoryIndicator": "Natürlicher Bodensatz",
+      "marketingMessage": "Waldviertler Brauhandwerk seit über 600 Jahren.\nSchremser Vienna I.P.\nKalt Cascade gestopft, kräftig untergärig.\nUnfiltriert. Lagerbier Wiener Art.\nMit Liebe gebraut in Schrems.\nErste Waldviertler Damp- Koch- u. Maschinenbrauerei\nKarl Theodor Trojan in Schrems NÖ.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 560
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Vollbier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Licht und Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Schremser Vienna",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/schremser-vienna/00-371068"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "500 ml 2.41"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 135270,
+  "recommendationArticleIds": [
+    "00-64304"
+  ],
+  "seoDescription": "Schremser Vienna online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schremser Vienna online bestellen | BILLA",
+  "slug": "schremser-vienna",
+  "storeAvalibility": [
+    "00-174",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/schremser-vienna/00-371068",
+  "vatCode": "20",
+  "video": ""
+}

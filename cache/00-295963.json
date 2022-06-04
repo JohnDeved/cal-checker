@@ -1,0 +1,563 @@
+{
+  "articleGroupIds": [
+    "B2-6B2"
+  ],
+  "articleId": "00-295963",
+  "articleOnlyCanonicalPath": "/produkte/kelloggs-choco-und-pistazien-crunchy-muesli/00-295963",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kellogg's",
+  "brandPath": "/marken/kelloggs",
+  "canonicalPath": "/produkte/kelloggs-choco-und-pistazien-crunchy-muesli/00-295963",
+  "category": "Grundnahrungsmittel",
+  "description": "Diese köstlichen Mischungen aus sorgfältig ausgewählten Getreidesorten werden abgerundet mit Früchten, Nüssen oder Schokolade.<li>Goldbraune knusperstücken, zartschmelzende Schokoladenstückchen und leckere Pistazienstückchen<li>Die Verpackung mit Frischeverschluss, damit jeder Morgen knusprig starten kann<li>Für einen genussvollen Start in den Tag</li>",
+  "eanCodes": [
+    "5053827211222"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Allergene Zutaten sind in Großbuchstaben hervorgehoben",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "KELLOGG (Österreich) GmbH Handelskai 388, 1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "KELLOGG (Österreich) GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-08-15T00:00:00",
+      "ingredients": "Zutaten: VOLLKORNHAFERFLOCKEN(51%), Zucker, Palmöl, WEIZENMEHL, Schokoladenstücke(5%)( Zucker, Kakaomasse, Kakaobutter, Dextrose, Emulgator{SOJALECITHINE}, Natural Vanilla Flavouring), PISTAZIEN(2%), Kokosnuss, Melasse, Salz, GERSTENMALZ, Zimt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 441.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 425
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "45g",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 900,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 215,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 11,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.34,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2001,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 478,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 23,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 58,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 22,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.75,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 9,
+      "preperations": []
+    }
+  ],
+  "grammage": "425 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 3.29,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 kg 7.04"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Kellogg's Choco & Pistazien Crunchy Müsli",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2/produkte/kelloggs-choco-und-pistazien-crunchy-muesli/00-295963"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 3.29,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 2.99,
+    "unit": "1 kg 7.04"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 84130,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kellogg's Choco & Pistazien Crunchy Müsli online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kellogg's Choco & Pistazien Crunchy Müsli online bestellen",
+  "slug": "kelloggs-choco-und-pistazien-crunchy-muesli",
+  "storeAvalibility": [
+    "00-3709",
+    "00-3234",
+    "00-2295",
+    "00-3105",
+    "00-2907",
+    "00-3125",
+    "00-1701",
+    "00-112",
+    "00-1017",
+    "00-3044",
+    "00-2131",
+    "00-281",
+    "00-3253",
+    "00-7424",
+    "00-3014",
+    "00-3445",
+    "00-987",
+    "00-6864",
+    "00-1911",
+    "00-1826",
+    "00-2170",
+    "00-3146",
+    "00-282",
+    "00-7920",
+    "00-1003",
+    "00-8012",
+    "00-7204",
+    "00-7075",
+    "00-4982",
+    "00-2923",
+    "00-2260",
+    "00-355",
+    "00-4540",
+    "00-7860",
+    "00-3848",
+    "00-6219",
+    "00-1457",
+    "00-823",
+    "00-289",
+    "00-6676",
+    "00-4249",
+    "00-3501",
+    "00-1409",
+    "00-3005",
+    "00-3050",
+    "00-3214",
+    "00-7114",
+    "00-3688",
+    "00-7535",
+    "00-8173",
+    "00-5531",
+    "00-309",
+    "00-4655",
+    "00-330",
+    "00-2306",
+    "00-6819",
+    "00-7743",
+    "00-2259",
+    "00-1771",
+    "00-1027",
+    "00-783",
+    "00-3138",
+    "00-1425",
+    "00-239",
+    "00-9894",
+    "00-836",
+    "00-3322",
+    "00-2208",
+    "00-7606",
+    "00-4675",
+    "00-2201",
+    "00-3431",
+    "00-7616",
+    "00-411",
+    "00-408",
+    "00-7629",
+    "00-1207",
+    "00-3023",
+    "00-208",
+    "00-2222",
+    "00-5104",
+    "00-1479",
+    "00-3401",
+    "00-3062",
+    "00-4755",
+    "00-4407",
+    "00-3157",
+    "00-3569",
+    "00-397",
+    "00-1455",
+    "00-7857",
+    "00-3027",
+    "00-3140",
+    "00-4770",
+    "00-5603",
+    "00-1039",
+    "00-2154",
+    "00-6353",
+    "00-7229",
+    "00-119",
+    "00-6845",
+    "00-9290",
+    "00-4421",
+    "00-3042",
+    "00-5027",
+    "00-5363",
+    "00-4424",
+    "00-2313",
+    "00-6138",
+    "00-4605",
+    "00-2840",
+    "00-3405",
+    "00-5962",
+    "00-3420",
+    "00-7245",
+    "00-2238",
+    "00-1265",
+    "00-6684",
+    "00-372",
+    "00-7600",
+    "00-6724",
+    "00-3010",
+    "00-8235",
+    "00-6022",
+    "00-6952",
+    "00-10",
+    "00-7538",
+    "00-4551",
+    "00-7539",
+    "00-6274",
+    "00-702",
+    "00-3150",
+    "00-3103",
+    "00-7544",
+    "00-1631",
+    "00-2808",
+    "00-497",
+    "00-6018",
+    "00-2204",
+    "00-3114",
+    "00-6740",
+    "00-943",
+    "00-7393",
+    "00-1041",
+    "00-1866",
+    "00-3947",
+    "00-6480",
+    "00-720",
+    "00-1900",
+    "00-8076",
+    "00-6910",
+    "00-3780",
+    "00-6372",
+    "00-3681",
+    "00-1524",
+    "00-2111",
+    "00-2899",
+    "00-3011",
+    "00-3259",
+    "00-3633",
+    "00-209",
+    "00-7368",
+    "00-7336",
+    "00-1943",
+    "00-5391",
+    "00-3700",
+    "00-4107",
+    "00-4932",
+    "00-1480",
+    "00-3669",
+    "00-1070",
+    "00-6024",
+    "00-4813",
+    "00-4690",
+    "00-174",
+    "00-3600",
+    "00-3510",
+    "00-3384",
+    "00-3135",
+    "00-176",
+    "00-4090",
+    "00-6823",
+    "00-2223",
+    "00-249",
+    "00-3143",
+    "00-3308",
+    "00-2342",
+    "00-2218",
+    "00-1901",
+    "00-3713",
+    "00-3824",
+    "00-6021",
+    "00-2011",
+    "00-4270",
+    "00-4478",
+    "00-3120",
+    "00-4707",
+    "00-4672",
+    "00-4170",
+    "00-3025",
+    "00-643",
+    "00-7358",
+    "00-4225",
+    "00-3583",
+    "00-6884",
+    "00-3617",
+    "00-1913",
+    "00-4783",
+    "00-2098",
+    "00-950",
+    "00-2369",
+    "00-4441",
+    "00-7491",
+    "00-3047",
+    "00-3512",
+    "00-3022",
+    "00-4779",
+    "00-2213",
+    "00-7592",
+    "00-5003",
+    "00-1550",
+    "00-7667",
+    "00-3506",
+    "00-5529",
+    "00-3121",
+    "00-703",
+    "00-521",
+    "00-5871",
+    "00-3830",
+    "00-5000",
+    "00-3940",
+    "00-4126",
+    "00-7653",
+    "00-8241",
+    "00-2109",
+    "00-5359",
+    "00-7783",
+    "00-6001",
+    "00-6745",
+    "00-2220",
+    "00-3196",
+    "00-1132",
+    "00-99202"
+  ],
+  "url": "/produkte/kelloggs-choco-und-pistazien-crunchy-muesli/00-295963",
+  "vatCode": "10",
+  "video": ""
+}

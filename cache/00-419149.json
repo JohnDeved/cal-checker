@@ -1,0 +1,203 @@
+{
+  "articleGroupIds": [
+    "B2-683"
+  ],
+  "articleId": "00-419149",
+  "articleOnlyCanonicalPath": "/produkte/zimmermann-chili-knoblauch/00-419149",
+  "attributes": [
+    "s_fett",
+    "s_marke",
+    "s_ranking",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Zimmermann",
+  "canonicalPath": "/produkte/zimmermann-chili-knoblauch/00-419149",
+  "category": "Grundnahrungsmittel",
+  "description": "Frische, eingelegte Knoblauchzehen, raffiniert gewürzt mit mildem Chili, eine würzig-aromatische Spezialität, die zu jeder Form von Fleisch, Wurst und Salaten passt. Durch die spezielle Verarbeitung und die milde Marinade entwickelt der Knoblauch einen sehr angenehmen zarten Geschmack und kann so nicht nur als Würzmittel sondern auch pur genossen werden.",
+  "eanCodes": [
+    "9001390003344"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Brown-Boveri-Straße 8, 9020 Klagenfurt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Zimmermann Gemüseverwertungs Ges.m.b.H.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Knoblauch (55%), Rapsöl, Honig, Zucker, Speisesalz, Paprika, Zwiebeln, Gewürze, SENFkörner, Antioxidationsmittel: E300, Farbstoff: Paprikaextrakt, Säuerungsmittel: E330, Chiliaromaextrakt (0,3%), Aroma.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 120
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 350
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 190
+        }
+      ],
+      "name": "milder Chili-Knoblauch, pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 192,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 811,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 30.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 29.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen im Kühlschrank aufbewahren.",
+      "usageHints": "Nach dem Öffnen rasch verbrauchen."
+    }
+  ],
+  "grammage": "190 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.64,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.64,
+    "unit": "1 kg 8.63"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Zimmermann Chili-Knoblauch",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683/produkte/zimmermann-chili-knoblauch/00-419149"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.64,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 1.64,
+    "unit": "1 kg 8.63"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 87550,
+  "recommendationArticleIds": [],
+  "seoDescription": "Zimmermann Chili-Knoblauch online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Zimmermann Chili-Knoblauch online bestellen | BILLA",
+  "slug": "zimmermann-chili-knoblauch",
+  "storeAvalibility": [
+    "00-355",
+    "00-3780",
+    "00-1032",
+    "00-4551",
+    "00-5108",
+    "00-783",
+    "00-225",
+    "00-7653",
+    "00-99202"
+  ],
+  "url": "/produkte/zimmermann-chili-knoblauch/00-419149",
+  "vatCode": "10",
+  "video": ""
+}

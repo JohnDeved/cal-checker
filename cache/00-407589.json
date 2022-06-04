@@ -1,0 +1,313 @@
+{
+  "articleGroupIds": [
+    "B2-45A"
+  ],
+  "articleId": "00-407589",
+  "articleOnlyCanonicalPath": "/produkte/schaerdinger-topfen-20/00-407589",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Schärdinger",
+  "brandPath": "/marken/schaerdinger",
+  "canonicalPath": "/produkte/schaerdinger-topfen-20/00-407589",
+  "category": "Kühlwaren",
+  "description": "Der Schärdinger Topfen 20 % aus pasteurisierter Milch hat einen besonders hohen Gehalt an Molkeneiweiß.<li>Speisetopfen aus Österreich<li>20 % Fettgehalt in Trockenmasse<li>ohne Einsatz von Gentechnik",
+  "eanCodes": [
+    "9066000636404"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schubertstraße 30, A-4600 Wels",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Berglandmilch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "marketingMessage": "Schärdinger Topfen ist ideal geeignet für Ihre individuelle Küche: von der kalorienbewussten Kost bis hin zum cremigen Schmankerl je nach Fettstufe.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.258
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Speisetopfen 20% Fett i.Tr. aus pasteurisierter Milch, mit erhöhtem Gehalt an Molkeneiweiß.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 102,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 430,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor und nach dem Öffnen gekühlt (3-6 °C) lagern. Nach dem Öffnen innerhalb weniger Tage verbrauchen. Ungeöffnet mindestens haltbar bis: siehe Becherboden."
+    }
+  ],
+  "grammage": "250 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 4.76"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schärdinger Topfen 20%",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A/produkte/schaerdinger-topfen-20/00-407589"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.19,
+    "unit": "1 kg 4.76"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 112310,
+  "recommendationArticleIds": [],
+  "seoDescription": "Schärdinger Topfen 20% online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schärdinger Topfen 20% online bestellen | BILLA",
+  "slug": "schaerdinger-topfen-20",
+  "storeAvalibility": [
+    "00-4707",
+    "00-4469",
+    "00-4672",
+    "00-4513",
+    "00-4756",
+    "00-4700",
+    "00-4932",
+    "00-4099",
+    "00-5871",
+    "00-4847",
+    "00-4551",
+    "00-4655",
+    "00-4629",
+    "00-5777",
+    "00-4482",
+    "00-4283",
+    "00-3196",
+    "00-4466",
+    "00-4225",
+    "00-4755",
+    "00-4440",
+    "00-4813",
+    "00-4226",
+    "00-4660",
+    "00-4748",
+    "00-4249",
+    "00-4770",
+    "00-4478",
+    "00-4982",
+    "00-4881",
+    "00-4540",
+    "00-4107",
+    "00-4675",
+    "00-4838",
+    "00-3322",
+    "00-4673",
+    "00-4090",
+    "00-4146",
+    "00-4059",
+    "00-4605",
+    "00-4291",
+    "00-4945",
+    "00-4524",
+    "00-4879",
+    "00-4200",
+    "00-3378",
+    "00-4952",
+    "00-4834",
+    "00-4840",
+    "00-4619",
+    "00-4104",
+    "00-4407",
+    "00-4076",
+    "00-4016",
+    "00-4003",
+    "00-4912",
+    "00-4565",
+    "00-4001",
+    "00-5967",
+    "00-4350",
+    "00-9589",
+    "00-4424",
+    "00-4021",
+    "00-4170",
+    "00-4674",
+    "00-4126",
+    "00-4270",
+    "00-4441",
+    "00-5603",
+    "00-4925",
+    "00-4779",
+    "00-4421",
+    "00-4078",
+    "00-4601",
+    "00-3560",
+    "00-3379",
+    "00-3979",
+    "00-4489",
+    "00-4028",
+    "00-4690",
+    "00-99202"
+  ],
+  "url": "/produkte/schaerdinger-topfen-20/00-407589",
+  "vatCode": "10",
+  "video": ""
+}

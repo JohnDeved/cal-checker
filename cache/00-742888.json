@@ -1,0 +1,155 @@
+{
+  "articleGroupIds": [
+    "B2-A4"
+  ],
+  "articleId": "00-742888",
+  "articleOnlyCanonicalPath": "/produkte/tierell-vogelsand/00-742888",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Tierell",
+  "canonicalPath": "/produkte/tierell-vogelsand/00-742888",
+  "category": "Haustier",
+  "description": "Der Tierell Vogelsand ist besonders saugfähig. Damit gewährleistet er ein sauberes Heim und das Wohlbefinden der gefiederten Freunde.<li>Vogelsand mit Anis<li>ohne chemische Zusätze<li>fördert den Stoffwechsel und stärkt den Knochenbau",
+  "eanCodes": [
+    "9002714025004"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "AT 2016"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-2325 Himberg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HESA Saaten",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hesa.co.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-09-30T00:00:00",
+      "marketingMessage": "Gibt Ihrem Vogel das lebenswichtige, keimarme Mineral CALCIUM-CARBONAT mit Spurenelementen. Für gesunden Knochenbau, für schönes Gefieder, für natürlichen Stoffwechsel, für hygienische Lebensbedingungen, wirkt Bakterien-hemmend, Qualitätsgarantie, frei von scharfkantigen Quarzsand, spezielle Kornform, keine Verletzungen und Schnitte zwischen den Zehen",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 2.56
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 2.5
+        }
+      ],
+      "name": "Vogelsand",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Kühl und trocken lagern!",
+      "usageHints": "Gebrauchsanweisung: In gesäuberten, trockenen Käfigboden mindestens zweimal wöchentlich einstreuen."
+    }
+  ],
+  "grammage": "2.5 Kilogramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg .80"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Tierell Vogelsand",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/voegel/B2-A4/produkte/tierell-vogelsand/00-742888"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg .80"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 85100,
+  "recommendationArticleIds": [
+    "00-767910"
+  ],
+  "seoDescription": "Tierell Vogelsand online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tierell Vogelsand online bestellen | BILLA",
+  "slug": "tierell-vogelsand",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/tierell-vogelsand/00-742888",
+  "vatCode": "13",
+  "video": ""
+}

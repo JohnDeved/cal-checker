@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-489"
+  ],
+  "articleId": "00-889203",
+  "articleOnlyCanonicalPath": "/produkte/kalbsbratwuerstel/00-889203",
+  "attributes": [
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "",
+  "canonicalPath": "/produkte/kalbsbratwuerstel/00-889203",
+  "category": "Kühlwaren",
+  "description": "Seit Langem überzeugt der Bregenzerwälder Traditionsbetrieb Broger mit hochwertigem Qualitätsfleisch. Die Kalbsbratwürstel sind ein beliebter Broger-Klassiker.<li>Qualität aus dem Bregenzerwald<li>Herkunft aus Österreich garantiert<li>in der Pfanne oder auf dem Griller zubereitbar",
+  "eanCodes": [
+    "9005630001725",
+    "9005630000858"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-6874 Bizau, Unterdorf 395",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Broger Bregenzerwälder Fleischwaren GmbH & Co KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-05-19T00:00:00",
+      "ingredients": "Zutaten:52%Kalbfleisch,Trinkwasser, Speck, \n\nSpeisesalz, Stärke, Gewürze, Stabilisator:\n\nDi-, Tri- und Polyphosphat; Schweinedarm.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 330
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 320
+        }
+      ],
+      "name": "Kabsbratwurst nach Schweizer Art",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 231,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 967,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 13.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bis +4°C Mindestens haltbar bis: siehe Aufdruck",
+      "usageHints": "Nach dem Öffnen zum ehest baldingen Verzehr bestimmt"
+    }
+  ],
+  "grammage": "320 g Packung",
+  "grammageBadge": "320 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 15.59"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kalbsbratwürstel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wuerstel/B2-489/produkte/kalbsbratwuerstel/00-889203"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 15.59"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 59400,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kalbsbratwürstel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kalbsbratwürstel online bestellen | BILLA",
+  "slug": "kalbsbratwuerstel",
+  "storeAvalibility": [
+    "00-8400",
+    "00-8409",
+    "00-8395",
+    "00-99202",
+    "00-8530"
+  ],
+  "url": "/produkte/kalbsbratwuerstel/00-889203",
+  "vatCode": "10",
+  "video": ""
+}

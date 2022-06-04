@@ -1,0 +1,480 @@
+{
+  "articleGroupIds": [
+    "B2-6B1"
+  ],
+  "articleId": "00-401360",
+  "articleOnlyCanonicalPath": "/produkte/kelloggs-zimmys/00-401360",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Kellogg's",
+  "brandPath": "/marken/kelloggs",
+  "canonicalPath": "/produkte/kelloggs-zimmys/00-401360",
+  "category": "Grundnahrungsmittel",
+  "description": "Die neuen Cerealien mit Zimtgeschmack aus dem Hause Kellogg's. Die leckeren sternförmigen Cerealien bestehen aus Vollkorn. Sterne und Zimt, das ist ein guter Start in den Tag.<li>Knusprige Cerealien mit einem Vollkornanteil<li>Leckerer und ausgewogener Zimtgeschmack<li>Ohne künstliche Farb - und Aromastoffe und reich an Ballaststoffen<li>Für eine vegane Ernährung geeignet</li>",
+  "eanCodes": [
+    "5059319004655"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "allergyIndicator": "Allergene Zutaten sind in Großbuchstaben hervorgehoben",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "MOBILE_READY_HERO_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "KELLOGG (Österreich) GmbH Handelskai 388, 1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "KELLOGG (Österreich) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "verbraucher@kelloggs.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2022-03-10T00:00:00",
+      "ingredients": "ZUTATEN: Getreidemehle (79%)(VOLLKORNWEIZEN, Mais, VOLLKORNGERSTE, VOLLKORNHAFER), brauner Zucker, Glukosesirup, Zimt, Sonnenblumenöl, natürliche Aromen, Salz, Acerola Extrakt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 393.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 330
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "30g",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 502,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 119,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 8,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1674,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 396,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 80,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.25,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "330 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 9.97"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Kellogg's Zimmy's",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/cerealien/B2-6B1/produkte/kelloggs-zimmys/00-401360"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 9.97"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 59120,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kellogg's Zimmy's online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kellogg's Zimmy's online bestellen | BILLA",
+  "slug": "kelloggs-zimmys",
+  "storeAvalibility": [
+    "00-7653",
+    "00-2208",
+    "00-6740",
+    "00-6745",
+    "00-4540",
+    "00-3688",
+    "00-2131",
+    "00-7424",
+    "00-330",
+    "00-5363",
+    "00-3681",
+    "00-2313",
+    "00-1524",
+    "00-3830",
+    "00-2170",
+    "00-3420",
+    "00-4126",
+    "00-289",
+    "00-8012",
+    "00-4770",
+    "00-119",
+    "00-1866",
+    "00-2220",
+    "00-3196",
+    "00-5529",
+    "00-3121",
+    "00-4655",
+    "00-3700",
+    "00-7743",
+    "00-3011",
+    "00-823",
+    "00-4249",
+    "00-1943",
+    "00-239",
+    "00-2907",
+    "00-5603",
+    "00-7616",
+    "00-703",
+    "00-3062",
+    "00-4478",
+    "00-2369",
+    "00-5027",
+    "00-3157",
+    "00-4441",
+    "00-397",
+    "00-643",
+    "00-2840",
+    "00-3138",
+    "00-3140",
+    "00-1409",
+    "00-3050",
+    "00-3445",
+    "00-1070",
+    "00-1265",
+    "00-7544",
+    "00-5531",
+    "00-3010",
+    "00-4755",
+    "00-943",
+    "00-2223",
+    "00-309",
+    "00-3023",
+    "00-8235",
+    "00-6372",
+    "00-3384",
+    "00-4605",
+    "00-7245",
+    "00-1913",
+    "00-3501",
+    "00-3120",
+    "00-3214",
+    "00-4675",
+    "00-6684",
+    "00-1017",
+    "00-3042",
+    "00-7393",
+    "00-4707",
+    "00-4170",
+    "00-6138",
+    "00-1455",
+    "00-2222",
+    "00-3103",
+    "00-783",
+    "00-3405",
+    "00-5391",
+    "00-7606",
+    "00-7114",
+    "00-5359",
+    "00-6724",
+    "00-1550",
+    "00-9290",
+    "00-281",
+    "00-2306",
+    "00-6022",
+    "00-3848",
+    "00-4982",
+    "00-6823",
+    "00-2342",
+    "00-6864",
+    "00-4813",
+    "00-6353",
+    "00-6219",
+    "00-3047",
+    "00-1826",
+    "00-1631",
+    "00-2011",
+    "00-7204",
+    "00-3022",
+    "00-6952",
+    "00-3510",
+    "00-4424",
+    "00-7857",
+    "00-355",
+    "00-2213",
+    "00-1027",
+    "00-7229",
+    "00-3027",
+    "00-7539",
+    "00-3506",
+    "00-7860",
+    "00-2098",
+    "00-4107",
+    "00-4932",
+    "00-3569",
+    "00-3780",
+    "00-2899",
+    "00-6024",
+    "00-1771",
+    "00-4690",
+    "00-3146",
+    "00-282",
+    "00-3253",
+    "00-987",
+    "00-2111",
+    "00-209",
+    "00-7368",
+    "00-6845",
+    "00-4270",
+    "00-3947",
+    "00-6884",
+    "00-4551",
+    "00-3617",
+    "00-836",
+    "00-3322",
+    "00-8241",
+    "00-3308",
+    "00-3005",
+    "00-2218",
+    "00-1901",
+    "00-3709",
+    "00-7535",
+    "00-174",
+    "00-3512",
+    "00-3824",
+    "00-6021",
+    "00-1207",
+    "00-3600",
+    "00-2204",
+    "00-4407",
+    "00-1039",
+    "00-10",
+    "00-4672",
+    "00-208",
+    "00-3025",
+    "00-3234",
+    "00-1041",
+    "00-5962",
+    "00-1479",
+    "00-1900",
+    "00-8076",
+    "00-5871",
+    "00-3940",
+    "00-2109",
+    "00-3125",
+    "00-3114",
+    "00-4779",
+    "00-7358",
+    "00-3044",
+    "00-8173",
+    "00-408",
+    "00-6480",
+    "00-3401",
+    "00-249",
+    "00-3143",
+    "00-4783",
+    "00-6910",
+    "00-2259",
+    "00-7491",
+    "00-1480",
+    "00-3150",
+    "00-1457",
+    "00-6676",
+    "00-1425",
+    "00-3105",
+    "00-7783",
+    "00-3431",
+    "00-372",
+    "00-4421",
+    "00-1132",
+    "00-720",
+    "00-99202"
+  ],
+  "url": "/produkte/kelloggs-zimmys/00-401360",
+  "vatCode": "10",
+  "video": ""
+}

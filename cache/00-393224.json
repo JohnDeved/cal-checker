@@ -1,0 +1,1124 @@
+{
+  "articleGroupIds": [
+    "B2-6B3",
+    "B2-73"
+  ],
+  "articleId": "00-393224",
+  "articleOnlyCanonicalPath": "/produkte/nestle-fitness-riegel-schoko/00-393224",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nestlé",
+  "brandPath": "/marken/nestle",
+  "canonicalPath": "/produkte/nestle-fitness-riegel-schoko/00-393224",
+  "category": "Grundnahrungsmittel",
+  "description": "NESTLÉ FITNESS Chocolate im Riegelformat: Getreideriegel mit Schokolade, als praktisches Frühstück oder als Snack für zwischendurch.",
+  "eanCodes": [
+    "5900020008398"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2020-03-23T00:00:00",
+      "ingredients": "Zutaten: 50% Getreide (20,6% VOLLKORNWEIZEN, Reis, 5,8% VOLLKORNHAFER, 5% VOLLKORNWEIZENMEHL, 2,9% VOLLKORNHAFERFLOCKEN, Maisgrieß, Reismehl), 17% Schokolade (Zucker, Kakaomasse, MAGERMILCHPULVER, Kakaobutter, MOLKENERZEUGNIS, Emulgatoren (Lecithine (SOJA), Polyglycerin-Polyricinoleat), natürliches Vanillearoma), Glukosesirup, Zucker, Invertzuckersirup, GERSTENMALZEXTRAKT, Feuchthaltemittel (Glycerin), Sonnenblumenöl, Vitamine und Mineralstoffe (Calciumcarbonat, Eisen, Niacin, Pantothensäure, Vit. B6, Folsäure, Riboflavin [Vit. B2]), Gerstenmalzextrakt (GERSTE, MALZ), Salz, fettarmer Kakao, Emulgator (Lecithine), Kakaopulver, Melasse, natürliches Aroma, Antioxidationsmittel (stark tocopherolhaltige Extrakte). Kann NÜSSE enthalten.",
+      "marketingMessage": "NESTLÉ FITNESS Chocolate im Riegelformat: Getreideriegel mit Schokolade, als praktisches Frühstück oder als Snack für zwischendurch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 179
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 141
+        }
+      ],
+      "name": "Getreideriegel mit Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 375,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1581,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 65.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 24.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.64,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 89,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 12.5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 70,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 140,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 96,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 766,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 74,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 11.9,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 78,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 4.68,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 93,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 79,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.11,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 88,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 372,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 2.95,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 32.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 180,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 2.8,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 1.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.31,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.26,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen."
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2022-05-13T00:00:00",
+      "ingredients": "Zutaten: 50% Getreide (20,6% VOLLKORNWEIZEN, Reis, 5,8% VOLLKORNHAFER, 5% VOLLKORNWEIZENMEHL, 2,9% VOLLKORNHAFERFLOCKEN, Maisgrieß, Reismehl), 17% Schokolade (Zucker, Kakaomasse, MAGERMILCHPULVER, Kakaobutter, MOLKENERZEUGNIS, Emulgatoren (Lecithine (SOJA), Polyglycerin-Polyricinoleat), natürliches Vanillearoma), Glukosesirup, Zucker, Invertzuckersirup, GERSTENMALZEXTRAKT, Feuchthaltemittel (Glycerin), Sonnenblumenöl, Vitamine und Mineralstoffe (Calciumcarbonat, Eisen, Niacin, Pantothensäure, Vit. B6, Folsäure, Riboflavin [Vit. B2]), Gerstenmalzextrakt (GERSTE, MALZ), Salz, fettarmer Kakao, Emulgator (Lecithine), Kakaopulver, Melasse, natürliches Aroma, Antioxidationsmittel (stark tocopherolhaltige Extrakte). Kann NÜSSE enthalten.",
+      "marketingMessage": "NESTLÉ FITNESS Chocolate im Riegelformat: Getreideriegel mit Schokolade, als praktisches Frühstück oder als Snack für zwischendurch.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 179
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 141
+        }
+      ],
+      "name": "Getreideriegel mit Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 375,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1581,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 65.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 24.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.64,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 89,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 12.5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 70,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 140,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 96,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 766,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 74,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 11.9,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 78,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 4.68,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 93,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 79,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.11,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 88,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 372,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 6,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 7,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.15,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 2.95,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 32.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 180,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 2.8,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 18,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 1.1,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.31,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.26,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen."
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "POLEN"
+      ],
+      "fromDate": "2022-05-23T00:00:00",
+      "ingredients": "Zutaten: Getreideriegel mit Schokolade. Zutaten: 17,9% VOLLKORNWEIZEN, 13,9% VOLLKORNHAFERFLOCKEN, Glukosesirup, Reis, 13,0% Schokolade (Zucker, Kakaomasse, Kakaobutter, MAGERMILCHPULVER, MOLKENERZEUGNIS, Emulgatoren (Lecithine (SOJA), Polyglycerin-Polyricinoleat), natürliches Vanillearoma), 6,3% VOLLKORNWEIZENMEHL, Feuchthaltemittel (Glycerin, Sorbit), Invertzuckersirup, Sonnenblumenöl, Zucker, MAGERMILCHPULVER, Calciumcarbonat, Verdickungsmittel (Polydextrose), Kakaopulver, GERSTENMALZEXTRAKT, Maisgrieß, Salz, Reismehl, fettarmer Kakao, Instantkaffee, Emulgator (Lecithine), Melasse, natürliches Aroma, Antioxidationsmittel (stark tocopherolhaltige Extrakte), Eisen, Niacin, Pantothensäure, Vitamin B6, Folsäure, Riboflavin (Vit. B2). Kann NÜSSE enthalten.",
+      "marketingMessage": "Nestlé FITNESS Chocolate im Riegelformat enthalten kleine Cerealienstückchen sowie dunkle Schokolade. Die Getreideriegel sind im praktischen Format ideal für unterwegs, als praktisches Frühstück oder als Snack für zwischendurch. Mit Vollkorn als Zutat Nr. 1, B-Vitaminen, Vollkorn, Weizen und Hafer.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 178
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 141
+        }
+      ],
+      "name": "Getreideriegel mit Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 385,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1619,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 9.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 60.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 17.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 7.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.45,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 93,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 13,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 94,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 187,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 124,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 990,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 16,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 6,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 114,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 1.6,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.4,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 90,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 381,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 5,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "Eisen",
+              "nutritionalValue": 3,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 43.9,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 29,
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 233,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 3.7,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 1.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 27,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 2, Riboflavin",
+              "nutritionalValue": 0.38,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 23,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.32,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Trocken lagern. Vor Wärme schützen. Mindestens haltbar bis Ende: siehe Aufdruck."
+    }
+  ],
+  "grammage": "140 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 17.79"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Nestlé Fitness Riegel Schoko",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel/B2-6B3/produkte/nestle-fitness-riegel-schoko/00-393224",
+    "~/warengruppe/suesses-und-salziges/muesliriegel2/B2-73/produkte/nestle-fitness-riegel-schoko/00-393224"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 17.79"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51330,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nestlé Fitness Riegel Schoko online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nestlé Fitness Riegel Schoko online bestellen | BILLA",
+  "slug": "nestle-fitness-riegel-schoko",
+  "storeAvalibility": [
+    "00-4655",
+    "00-2259",
+    "00-112",
+    "00-1911",
+    "00-7675",
+    "00-7606",
+    "00-7600",
+    "00-3583",
+    "00-411",
+    "00-5531",
+    "00-6274",
+    "00-7920",
+    "00-836",
+    "00-397",
+    "00-5027",
+    "00-3114",
+    "00-4672",
+    "00-987",
+    "00-1409",
+    "00-3014",
+    "00-3259",
+    "00-4551",
+    "00-497",
+    "00-1701",
+    "00-2313",
+    "00-1455",
+    "00-2923",
+    "00-2260",
+    "00-823",
+    "00-1913",
+    "00-950",
+    "00-2342",
+    "00-4707",
+    "00-4779",
+    "00-2154",
+    "00-7629",
+    "00-1003",
+    "00-4107",
+    "00-4783",
+    "00-943",
+    "00-282",
+    "00-3405",
+    "00-4755",
+    "00-6910",
+    "00-7860",
+    "00-6018",
+    "00-10",
+    "00-115",
+    "00-5871",
+    "00-3135",
+    "00-388",
+    "00-1132",
+    "00-2808",
+    "00-9894",
+    "00-2295",
+    "00-7835",
+    "00-5104",
+    "00-7667",
+    "00-133",
+    "00-3120",
+    "00-4090",
+    "00-117",
+    "00-6819",
+    "00-7538",
+    "00-2369",
+    "00-2204",
+    "00-7336",
+    "00-4932",
+    "00-2899",
+    "00-5003",
+    "00-1425",
+    "00-3121",
+    "00-7676",
+    "00-7592",
+    "00-4605",
+    "00-5603",
+    "00-6001",
+    "00-3633",
+    "00-3688",
+    "00-3713",
+    "00-3042",
+    "00-99202",
+    "00-7743",
+    "00-3669",
+    "00-6138",
+    "00-3011",
+    "00-720",
+    "00-309",
+    "00-7653",
+    "00-7642",
+    "00-7075",
+    "00-5359",
+    "00-7857",
+    "00-7393",
+    "00-2111",
+    "00-355",
+    "00-7536",
+    "00-703",
+    "00-702",
+    "00-3569",
+    "00-3780",
+    "00-3445",
+    "00-176",
+    "00-3431",
+    "00-2220",
+    "00-4675",
+    "00-3125",
+    "00-521",
+    "00-2201",
+    "00-1524",
+    "00-119",
+    "00-2238",
+    "00-2840",
+    "00-1550",
+    "00-7539",
+    "00-7491",
+    "00-3170",
+    "00-4690",
+    "00-4225",
+    "00-5000",
+    "00-6845",
+    "00-281",
+    "00-3617"
+  ],
+  "url": "/produkte/nestle-fitness-riegel-schoko/00-393224",
+  "vatCode": "10",
+  "video": ""
+}

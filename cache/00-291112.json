@@ -1,0 +1,365 @@
+{
+  "articleGroupIds": [
+    "B2-611"
+  ],
+  "articleId": "00-291112",
+  "articleOnlyCanonicalPath": "/produkte/shan-shi-bohnenkeimlinge/00-291112",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Shan Shi",
+  "brandPath": "/marken/shan-shi",
+  "canonicalPath": "/produkte/shan-shi-bohnenkeimlinge/00-291112",
+  "category": "Grundnahrungsmittel",
+  "description": "Ihre vielseitigen Verwendungsmöglichkeiten machen Bohnenkeimlinge zu einer unverzichtbaren Zutat in der asiatischen Küche. Die Keimlinge der Mungobohne schmecken sehr gut in Wokgerichten, sind aber auch als Beilage zu Fleisch und Fisch und in vielerlei Salaten köstlich. Vor der Verwendung sollten Shan'shi Bohnenkeimlinge gründlich in kaltem Wasser abgespült werden, um ihren Geschmack erst richtig zur Geltung zu bringen! Kurz erhitzt bleiben sie schön knackig  und können ihren Geschmack voll entfalten.",
+  "eanCodes": [
+    "9120012040014"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R70"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 111, A-1131 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Maresi",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.shan-shi.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "Europäische Union"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Mungobohnenkeimlinge, Wasser, Zucker, Speisesalz, Antioxidationsmittel: Ascorbinsäure, Säuerungsmittel: Citronensäure.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 180
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.58
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 330
+        }
+      ],
+      "name": "Mungobohnenkeimlinge in Lake",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 31,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 131,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Trocken, vor Frost und Hitze geschützt lagern. Mindestens haltbar bis: siehe Glasschulter",
+      "usageHints": "Nach dem Öffnen gekühlt lagern und innerhalb von 2 Tagen verbrauchen. Vor der Zubereitung mit kaltem Wasser abspülen und abtropfen lassen."
+    }
+  ],
+  "grammage": "330 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 5.42"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Shan Shi Bohnenkeimlinge",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/asia-und-mexican-produkte/asia-produkte/B2-611/produkte/shan-shi-bohnenkeimlinge/00-291112"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.79,
+    "unit": "1 kg 5.42"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 94850,
+  "recommendationArticleIds": [],
+  "seoDescription": "Shan Shi Bohnenkeimlinge online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Shan Shi Bohnenkeimlinge online bestellen | BILLA",
+  "slug": "shan-shi-bohnenkeimlinge",
+  "storeAvalibility": [
+    "00-10",
+    "00-2342",
+    "00-8395",
+    "00-4090",
+    "00-2840",
+    "00-7606",
+    "00-2899",
+    "00-5552",
+    "00-1425",
+    "00-3700",
+    "00-3780",
+    "00-5027",
+    "00-2111",
+    "00-1108",
+    "00-4605",
+    "00-1121",
+    "00-1417",
+    "00-1114",
+    "00-3102",
+    "00-2306",
+    "00-471",
+    "00-2313",
+    "00-1018",
+    "00-794",
+    "00-1136",
+    "00-3120",
+    "00-7743",
+    "00-411",
+    "00-2208",
+    "00-4021",
+    "00-6219",
+    "00-119",
+    "00-4078",
+    "00-3121",
+    "00-1071",
+    "00-4690",
+    "00-4001",
+    "00-1249",
+    "00-4655",
+    "00-4834",
+    "00-3114",
+    "00-1771",
+    "00-3162",
+    "00-117",
+    "00-2131",
+    "00-1016",
+    "00-3363",
+    "00-3445",
+    "00-703",
+    "00-3322",
+    "00-1524",
+    "00-1457",
+    "00-771",
+    "00-3560",
+    "00-702",
+    "00-3996",
+    "00-2201",
+    "00-4675",
+    "00-1550",
+    "00-1479",
+    "00-521",
+    "00-3420",
+    "00-3744",
+    "00-3920",
+    "00-6480",
+    "00-7653",
+    "00-2907",
+    "00-5777",
+    "00-5871",
+    "00-4673",
+    "00-4466",
+    "00-1027",
+    "00-1117",
+    "00-2259",
+    "00-4700",
+    "00-9332",
+    "00-4551",
+    "00-1128",
+    "00-3856",
+    "00-4779",
+    "00-350",
+    "00-519",
+    "00-3005",
+    "00-1198",
+    "00-9589",
+    "00-2045",
+    "00-5108",
+    "00-1900",
+    "00-6138",
+    "00-355",
+    "00-1017",
+    "00-1098",
+    "00-823",
+    "00-3180",
+    "00-5000",
+    "00-1750",
+    "00-3688",
+    "00-1529",
+    "00-4945",
+    "00-3713",
+    "00-1132",
+    "00-4249",
+    "00-1212",
+    "00-4440",
+    "00-3170",
+    "00-3146",
+    "00-408",
+    "00-5531",
+    "00-836",
+    "00-3507",
+    "00-1207",
+    "00-397",
+    "00-943",
+    "00-783",
+    "00-604",
+    "00-3617",
+    "00-7539",
+    "00-3042",
+    "00-1476",
+    "00-4707",
+    "00-7721",
+    "00-7114",
+    "00-1480",
+    "00-3094",
+    "00-9415",
+    "00-6676",
+    "00-2369",
+    "00-3979",
+    "00-1120",
+    "00-5104",
+    "00-1532",
+    "00-720",
+    "00-281",
+    "00-4107",
+    "00-220",
+    "00-1649",
+    "00-1943",
+    "00-249",
+    "00-3600",
+    "00-3669",
+    "00-440",
+    "00-3583",
+    "00-1409",
+    "00-2098",
+    "00-5603",
+    "00-4672",
+    "00-1500",
+    "00-3709",
+    "00-99202"
+  ],
+  "url": "/produkte/shan-shi-bohnenkeimlinge/00-291112",
+  "vatCode": "10",
+  "video": ""
+}

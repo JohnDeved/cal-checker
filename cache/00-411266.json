@@ -1,0 +1,220 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-370"
+  ],
+  "articleId": "00-411266",
+  "articleOnlyCanonicalPath": "/produkte/voeslauer-still/00-411266",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Vöslauer",
+  "brandPath": "/marken/voeslauer",
+  "canonicalPath": "/produkte/voeslauer-still/00-411266",
+  "category": "Getränke",
+  "description": "Vöslauer Still bietet Trinkgenuss ohne Kohlensäure. Direkt im niederösterreichischen Bad Vöslau abgefüllt, steht dieses natürliche Mineralwasser für Qualität.<li>regionales Produkt<li>die Leichtflasche besteht zu 70 % aus recycelten PET-Flaschen<li>ausgewogene Mineralisierung und natriumarm",
+  "eanCodes": [
+    "9009700300206"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Quellenstraße 1, A 2540 Bad Vöslau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vöslauer Mineralwasser GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810/100 234",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.voeslauer.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-04-11T00:00:00",
+      "ingredients": "Zutaten: Natürliches Mineralwasser mit Kohlensäure versetzt.",
+      "mandatoryIndicator": "Vöslauer Ursprungsquelle VI, 2540 Bad Vöslau",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.56
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 14.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 20.4,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 1.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 116,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 41.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 255,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 246,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme und direkter Sonneneinstrahlung schützen. Mindestens haltbar bis Ende: siehe unterer Etikettenrand.",
+      "usageHints": "Geeignet für die Zubereitung von\n\nSäuglingsnahrung"
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "maximalOrderQuantity": 30,
+  "minimalOrderQuantity": 0,
+  "name": "Vöslauer Still",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/voeslauer-still/00-411266",
+    "~/warengruppe/getraenke/mineralwasser/still/B2-370/produkte/voeslauer-still/00-411266"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 20890,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vöslauer Still online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Vöslauer Still online bestellen | BILLA",
+  "slug": "voeslauer-still",
+  "storeAvalibility": [
+    "00-282",
+    "00-1958",
+    "00-119",
+    "00-7539",
+    "00-3431",
+    "00-323",
+    "00-7810",
+    "00-1771",
+    "00-1750",
+    "00-99202"
+  ],
+  "url": "/produkte/voeslauer-still/00-411266",
+  "vatCode": "20",
+  "video": ""
+}

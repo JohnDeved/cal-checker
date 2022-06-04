@@ -1,0 +1,311 @@
+{
+  "articleGroupIds": [
+    "B2-489"
+  ],
+  "articleId": "00-495890",
+  "articleOnlyCanonicalPath": "/produkte/vom-scharfen-rene-kaesekrainer-mit-zillertaler-bergemmentaler/00-495890",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Vom Scharfen Rene",
+  "brandPath": "/marken/vom-scharfen-rene",
+  "canonicalPath": "/produkte/vom-scharfen-rene-kaesekrainer-mit-zillertaler-bergemmentaler/00-495890",
+  "category": "Kühlwaren",
+  "description": "Österreichs beliebteste Wurst in der ¿Vom Scharfen Rene¿ Version: fein gewürzte Wurst mit der genau richtigen Menge an zart schmelzenden, aromatischen Emmentalerwürfeln aus dem Zillertal. Am Besten gelingt die Wurst, wenn sie ein paar Minuten in einer klaren Suppe siedet, bevor sie am Grill oder in der Pfanne landet. Am Würstelstand wird die Käsekrainer sehr gerne mit der originalen Currysauce oder auch klassisch mit scharfem Senf genossen.</li>",
+  "eanCodes": [
+    "9120120800036"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schwarzenbergplatz 15 STÄNDE, A-1010 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Vom Scharfen Rene GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.vomscharfenrene.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-09-14T00:00:00",
+      "ingredients": "Zutaten: 70% Schweineflesch +  Rindfleisch, 25% KÄSE: Zillertaler Bergemmentaler lactosefrei, Speck, Kochsalz unjodiert, Konservierungsstoff Natriumnitrit, Antioxidationsmittel Ascorbinsäure, Stabilisator Diphosphat, Natriumdiacetat",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 307
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Käsekrainer",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 307,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1269,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 31,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lagertemperatur +6°C",
+      "usageHints": "Nach dem Öffnen alsbald verbrauchen."
+    }
+  ],
+  "grammage": "300 g Packung",
+  "grammageBadge": "300 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 14.97"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Vom Scharfen Rene Käsekrainer mit Zillertaler Bergemmentaler",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wuerstel/B2-489/produkte/vom-scharfen-rene-kaesekrainer-mit-zillertaler-bergemmentaler/00-495890"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.49,
+    "unit": "1 kg 14.97"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Vom Scharfen Rene Käsekrainer mit Zillertaler Bergemmentaler online kaufen im BILLA Online Shop! ✔ große Produktauswahl >> bestellen Sie jetzt!",
+  "seoTitle": "Vom Scharfen Rene Käsekrainer mit Zillertaler Bergemmentaler onli",
+  "slug": "vom-scharfen-rene-kaesekrainer-mit-zillertaler-bergemmentaler",
+  "storeAvalibility": [
+    "00-2111",
+    "00-2223",
+    "00-3569",
+    "00-350",
+    "00-9761",
+    "00-1958",
+    "00-3780",
+    "00-3580",
+    "00-7424",
+    "00-1801",
+    "00-2201",
+    "00-2261",
+    "00-3321",
+    "00-281",
+    "00-1380",
+    "00-3744",
+    "00-1107",
+    "00-1710",
+    "00-2213",
+    "00-3082",
+    "00-3143",
+    "00-10",
+    "00-3296",
+    "00-440",
+    "00-1866",
+    "00-3819",
+    "00-950",
+    "00-2109",
+    "00-2131",
+    "00-9233",
+    "00-9639",
+    "00-836",
+    "00-323",
+    "00-3120",
+    "00-355",
+    "00-2313",
+    "00-3384",
+    "00-3860",
+    "00-411",
+    "00-3105",
+    "00-3044",
+    "00-7368",
+    "00-408",
+    "00-2156",
+    "00-2675",
+    "00-249",
+    "00-1117",
+    "00-2295",
+    "00-430",
+    "00-330",
+    "00-987",
+    "00-372",
+    "00-3212",
+    "00-3709",
+    "00-3103",
+    "00-174",
+    "00-1114",
+    "00-225",
+    "00-7328",
+    "00-7017",
+    "00-3501",
+    "00-9324",
+    "00-9209",
+    "00-1409",
+    "00-3669",
+    "00-3512",
+    "00-290",
+    "00-2342",
+    "00-2218",
+    "00-2222",
+    "00-289",
+    "00-943",
+    "00-7084",
+    "00-3063",
+    "00-119",
+    "00-771",
+    "00-2045",
+    "00-3830",
+    "00-1132",
+    "00-2808",
+    "00-3841",
+    "00-3940",
+    "00-3856",
+    "00-2260",
+    "00-2011",
+    "00-2208",
+    "00-3114",
+    "00-3011",
+    "00-1017",
+    "00-117",
+    "00-1631",
+    "00-2098",
+    "00-7249",
+    "00-329",
+    "00-1529",
+    "00-1913",
+    "00-1901",
+    "00-3688",
+    "00-3042",
+    "00-2204",
+    "00-7232",
+    "00-1826",
+    "00-2220",
+    "00-99202"
+  ],
+  "url": "/produkte/vom-scharfen-rene-kaesekrainer-mit-zillertaler-bergemmentaler/00-495890",
+  "vatCode": "10",
+  "video": ""
+}

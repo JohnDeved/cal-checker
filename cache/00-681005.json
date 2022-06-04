@@ -1,0 +1,359 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-681005",
+  "articleOnlyCanonicalPath": "/produkte/iglo-schonkost-gemuese/00-681005",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_tiefgek",
+    "s_falergen",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-schonkost-gemuese/00-681005",
+  "category": "Tiefkühl",
+  "description": "Die Suche nach einer gesunden Beilage hat ein Ende. Das Schonkost Gemüse von Iglo eignet sich für alle, die sich bewusst ernähren möchten.<li>enthält mundgerechte Karotten, Pastinaken und grünen Spargel<li>Gemüse aus Österreich<li>frisch vom Feld geerntet und tiefgefroren<li>ohne Konservierungsstoffe",
+  "eanCodes": [
+    "9008695931327"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-08-02T00:00:00",
+      "healthClaim": "Vitamin A trägt zur Erhaltung normaler Sehkraft bei.",
+      "ingredients": "Zutaten: Karotten, gelbe Karotten, Pastinaken, grüner Spargel; in veränderlichen Gewichtsanteilen.",
+      "marketingMessage": "Das Iglo Schonkost-Gemüse aus dem Marchfeld ist eine leichte Gemüsemischung aus gelben und orangen Karotten, Pastinaken und grünem Spargel. Im Dampfgarer zubereitet ist das Schonkost-Gemüse ideal für eine gesunde Ernährung.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 322
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Schonkost-Gemüse natur, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 113,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 27,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 77,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 617,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 169,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 2,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 40,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 115,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin A",
+              "nutritionalValue": 926,
+              "unit": "Mikrogramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 2,
+      "preperations": [
+        {
+          "instruction": "In der Mikrowelle:\n\nPackungsinhalt unaufgetaut mit ca. 2 EL Wasser in ein mikrowellengeeignetes Geschirr geben. Zugedeckt ca. 8 Minuten bei 600 Watt zubereiten. Nach halber Kochzeit gut umrühren.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        },
+        {
+          "instruction": "Im Dampfgarer:\n\nGemüse unaufgetaut in einen gelochten Behälter geben. Ca. 4 Min. bei 100 °C dämpfen.",
+          "type": "Daempfen- Das Wasser wird bis zum verdampfen aufgekocht. Dampf transportiert Hitze"
+        },
+        {
+          "instruction": "Im Topf dünsten:\n\nPackungsinhalt unaufgetaut mit ca. 3 EL Wasser und zerlassenem Fett (ca. 10 g) in einen Topf geben. Salzen und zugedeckt bei mittlerer Hitze, unter gelegentlichem Umrühren ca. 8 Minuten dünsten.",
+          "type": "Schmoren/Duensten - Zubereitung Fleisch durch Garen in Fluessigkeit"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: Entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Feld oben",
+      "sustenanceClaim": "Nährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung in der Mikrowelle. Vitamin A berechnet aus dem Provitamin A-Carotinoid Gehalt.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!"
+    }
+  ],
+  "grammage": "300 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 9.30"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Schonkost Gemüse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/iglo-schonkost-gemuese/00-681005"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 9.30"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 98980,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Schonkost Gemüse online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Schonkost Gemüse online bestellen | BILLA",
+  "slug": "iglo-schonkost-gemuese",
+  "storeAvalibility": [
+    "00-3549",
+    "00-3055",
+    "00-7082",
+    "00-9555",
+    "00-7120",
+    "00-3005",
+    "00-3617",
+    "00-3780",
+    "00-10",
+    "00-5290",
+    "00-6676",
+    "00-5108",
+    "00-2342",
+    "00-2295",
+    "00-99202",
+    "00-7606",
+    "00-6197",
+    "00-4756",
+    "00-1108",
+    "00-3120",
+    "00-2111",
+    "00-4551"
+  ],
+  "url": "/produkte/iglo-schonkost-gemuese/00-681005",
+  "vatCode": "10",
+  "video": ""
+}

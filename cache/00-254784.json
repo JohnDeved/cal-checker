@@ -1,0 +1,200 @@
+{
+  "articleGroupIds": [
+    "B2-9B3"
+  ],
+  "articleId": "00-254784",
+  "articleOnlyCanonicalPath": "/produkte/dr-beckmann-ultra-farb-und-schmutz-faenger/00-254784",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Beckmann",
+  "brandPath": "/marken/dr-beckmann",
+  "canonicalPath": "/produkte/dr-beckmann-ultra-farb-und-schmutz-faenger/00-254784",
+  "category": "Haushalt",
+  "description": "<li>Verfärbungs-Schutz<li>Nimmt auslaufende Farbe auf<li>Besonders starker Verfärbungs-Schutz<li>Speziell enwickelt für dunkle und farbintensive Textlien <li> Extra dickes Tuch</li>",
+  "eanCodes": [
+    "4008455038810"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AISE_2010",
+              "valueTranslation": "AISE Charter Update 2010 (Nachhaltigkeit in der Reinigungsmittelindustrie in Europa)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "GHS_SICHERHEITSHINWEIS",
+              "description": "GHS-Sicherheitshinweis",
+              "hasTranslation": "False",
+              "value": "P102"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "SAFETY_DATA_SHEET"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lemböckgasse 49/Haus 1/Stiege A, A-1230 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "delta pronatura Handels GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.delta-pronatura.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "Vergiftungsinformationszentrale (VIZ)\n+43-1-4 06 43 43",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2016-07-28T00:00:00",
+      "marketingMessage": "Dr. Beckmann Farb & Schmutzfänger-Tücher Ultra#\nnehmen die aus den Textilien auslaufenden Farben schnell im Waschzyklus auf und schützen so zuverlässig vor Verfärbungen, insbesondere bei Textilien mit Weißanteilen.#    \n\nDie ausgelaufenen Farbstoffe können sich somit nicht auf anderen Kleidungsstücken absetzen und verhindern dadurch, dass sich ein Grauschleier über die Farben legt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 75
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Stück",
+          "value": 10
+        }
+      ],
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Keine",
+      "usageHints": "1. Waschmaschine wie gewohnt mit Wäsche füllen. Waschmittel normal dosieren.# \n2. Je nach Farbintensität der Textilien 1-2 Tücher mit in die Trommel geben und \n    gewünschtes  Waschprogramm starten.#\n3. Überschüssige Farbe befindet sich im Tuch. Tuch nach dem Waschgang im  \n    Hausmüll entsorgen."
+    }
+  ],
+  "grammage": "10 Stück Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 Stk .25"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Beckmann Ultra Farb & Schmutz Fänger",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haushalt/waschmittel-und-weichspueler/flecken--und-vorwaschmittel/B2-9B3/produkte/dr-beckmann-ultra-farb-und-schmutz-faenger/00-254784"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 Stk .25"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 67270,
+  "recommendationArticleIds": [
+    "00-745102"
+  ],
+  "seoDescription": "Dr. Beckmann Ultra Farb & Schmutz Fänger online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Beckmann Ultra Farb & Schmutz Fänger online bestellen | BILLA",
+  "slug": "dr-beckmann-ultra-farb-und-schmutz-faenger",
+  "storeAvalibility": [
+    "00-7653",
+    "00-4655",
+    "00-2190",
+    "00-6255",
+    "00-4605",
+    "00-8646",
+    "00-7743",
+    "00-6916",
+    "00-3420",
+    "00-7895",
+    "00-7606",
+    "00-8235",
+    "00-4672",
+    "00-2223",
+    "00-4270",
+    "00-8151",
+    "00-3617",
+    "00-3560",
+    "00-8395",
+    "00-6022",
+    "00-4783",
+    "00-10",
+    "00-7857",
+    "00-1114",
+    "00-6496",
+    "00-5290",
+    "00-3688",
+    "00-3996",
+    "00-3445",
+    "00-3780",
+    "00-7783",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-beckmann-ultra-farb-und-schmutz-faenger/00-254784",
+  "vatCode": "20",
+  "video": ""
+}

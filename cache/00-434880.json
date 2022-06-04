@@ -1,0 +1,211 @@
+{
+  "articleGroupIds": [
+    "B2-221"
+  ],
+  "articleId": "00-434880",
+  "articleOnlyCanonicalPath": "/produkte/berger-semmel/00-434880",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-semmel/00-434880",
+  "category": "Brot & Gebäck",
+  "description": "Die goldbraun gebackene Semmel von Berger schmeckt zum Frühstück wie zur Jause. Ein Anteil Natursauerteig sorgt für vollen Geschmack.<li>aus Weizen- und Weizenmalzmehl<li>als Wurst- oder Käsesemmel ein Genuss",
+  "eanCodes": [
+    "9003644001021"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hörschingerstraße 17, 4061 Pasching",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Michael Berger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Wasser, WEIZENMALZMEHL, Natursauerteig( WEIZENMEHL, Wasser), Hefe, unjodiertes Speisesalz, Emulgator E472e, Dextrose, Trennmittel: Calciumcarbonat, Säuerungsmittel: Ascorbinsäure, Kann Spuren von Soja und Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 50
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 46
+        }
+      ],
+      "name": "Semmel",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 251,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1150,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 53,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "1 Packung Sack",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Semmel",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221/produkte/berger-semmel/00-434880"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 58110,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Semmel online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Semmel online bestellen | BILLA",
+  "slug": "berger-semmel",
+  "storeAvalibility": [
+    "00-5967",
+    "00-4478",
+    "00-4407",
+    "00-4945",
+    "00-4225",
+    "00-4021",
+    "00-4952",
+    "00-4090",
+    "00-4707",
+    "00-4170",
+    "00-4601",
+    "00-4879",
+    "00-4932",
+    "00-4226",
+    "00-4755",
+    "00-4104",
+    "00-4838",
+    "00-4001",
+    "00-99202",
+    "00-4059",
+    "00-4028",
+    "00-4847",
+    "00-4099",
+    "00-4540",
+    "00-4925"
+  ],
+  "url": "/produkte/berger-semmel/00-434880",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,182 @@
+{
+  "articleGroupIds": [
+    "B2-315"
+  ],
+  "articleId": "00-881211",
+  "articleOnlyCanonicalPath": "/produkte/dreh-und-trink-himbeere/00-881211",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dreh & Trink",
+  "canonicalPath": "/produkte/dreh-und-trink-himbeere/00-881211",
+  "category": "Getränke",
+  "description": "Dreh und Trink mit Himbeergeschmack ¿ das Erfrischungsgetränk für Groß und Klein.<br>Dreh und Trink besteht aus reinstem österreichischen Gebirgsquellwasser vom Schneeberg und echten Früchten. Das beliebte Kindergetränk in der bunten praktischen Flasche mit dem einzigartigen Drehverschluss ist die perfekte Erfrischung für zwischendurch. <li>aus natürlichem Gebirgsquellwasser <li>mit echten Früchten <li>ohne Süßstoffe <li>ohne Kohlensäure <li>ohne Farbstoffe",
+  "eanCodes": [
+    "9015340103558",
+    "0000090153440"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Armbrustergasse 10, 1190 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Klosterquell Hofer Vertriebs GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Quellwasser, Zucker, Himbeersaft aus Himbeersaftkonzentrat (0,6 %) und Sauerkirschsaft\n\naus Sauerkirschsaftkonzentrat (0,4 %), Säuerungsmittel: Citronensäure, Konservierungsstoff:\n\nKaliumsorbat, Aroma.",
+      "mandatoryIndicator": "Achtung: Erstickungsgefahr!\n\nVerschlusskappe nicht geeignet für Kinder unter 3 Jahren!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 221
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 200
+        }
+      ],
+      "name": "Erfrischungsgetränk mit Himbeergeschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 42,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 180,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern."
+    }
+  ],
+  "grammage": "0.2 l Flasche (Einweg)",
+  "grammageBadge": "0.2 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 l 3.95"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Dreh & Trink Himbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/kindergetraenke/B2-315/produkte/dreh-und-trink-himbeere/00-881211"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.79,
+    "unit": "1 l 3.95"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 95430,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dreh & Trink Himbeere online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dreh & Trink Himbeere online bestellen | BILLA",
+  "slug": "dreh-und-trink-himbeere",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/dreh-und-trink-himbeere/00-881211",
+  "vatCode": "20",
+  "video": ""
+}

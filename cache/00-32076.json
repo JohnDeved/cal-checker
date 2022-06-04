@@ -1,0 +1,253 @@
+{
+  "articleGroupIds": [
+    "B2-488"
+  ],
+  "articleId": "00-32076",
+  "articleOnlyCanonicalPath": "/produkte/moser-blutwurst/00-32076",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Moser",
+  "canonicalPath": "/produkte/moser-blutwurst/00-32076",
+  "category": "Kühlwaren",
+  "description": "Röstzwiebeln und feine Gewürze geben der deftigen Blutwurst von Moser den Pfiff. Sie kann pur genossen oder in Scheiben angebraten werden.<li>enthält Gluten<li>kühl lagern<li>mit würzigen Röstzwiebeln",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A- 3250 Wieselburg, Manker Straße 4",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Moser Wurst GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "moserwurst.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweinekopffleisch, Schwarten, Grammeln, Speck, Schweineblut, Semmelwürfel (WEIZENMEHL, Wasser, Hefe, ROGGENMEHL, Salz, Sonnenblumenöl, WEIZENGLUTEN, WEIZENMALZMEHL, Zucker, Dextrose, Enzyme) (ENTHÄLT GLUTEN), Speisesalz jodiert, Röstzwiebel (Zwiebel, Sonnenblumenöl), Gewürze, Geschmacksverstärker E621, Konservierungsstoff E250, Aroma.",
+      "marketingMessage": "Nur aus österreichischem Fleisch",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.558
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.55
+        }
+      ],
+      "name": "Blutwurst gebrüht",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 227,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 943,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "bei 2-6°C mindestens haltbar bis: siehe Aufdruck"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.9,
+    "unit": "100 g 1.79"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.5,
+  "name": "Moser Blutwurst",
+  "orderQuantityStepSize": 0.5,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488/produkte/moser-blutwurst/00-32076"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 17.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 17.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 17.9,
+    "unit": "100 g 1.79"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 64410,
+  "recommendationArticleIds": [],
+  "seoDescription": "Moser Blutwurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Moser Blutwurst online bestellen | BILLA",
+  "slug": "moser-blutwurst",
+  "storeAvalibility": [
+    "00-3379",
+    "00-3506",
+    "00-3102",
+    "00-3143",
+    "00-3296",
+    "00-3196",
+    "00-3121",
+    "00-3583",
+    "00-4350",
+    "00-6983",
+    "00-3180",
+    "00-3076",
+    "00-3501",
+    "00-3510",
+    "00-3415",
+    "00-3979",
+    "00-3617",
+    "00-3711",
+    "00-3055",
+    "00-3996",
+    "00-3378",
+    "00-3170",
+    "00-4675",
+    "00-9589",
+    "00-3326",
+    "00-3420",
+    "00-3259",
+    "00-3162",
+    "00-3322",
+    "00-8185",
+    "00-4249",
+    "00-3560",
+    "00-9415",
+    "00-3633",
+    "00-3308",
+    "00-3063",
+    "00-3780",
+    "00-3135",
+    "00-3584",
+    "00-3983",
+    "00-3700",
+    "00-99202"
+  ],
+  "url": "/produkte/moser-blutwurst/00-32076",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    50,
+    100,
+    150,
+    200,
+    250
+  ]
+}

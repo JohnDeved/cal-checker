@@ -1,0 +1,257 @@
+{
+  "articleGroupIds": [
+    "B2-486"
+  ],
+  "articleId": "00-773276",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-leberstreichwurst/00-773276",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezern",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-leberstreichwurst/00-773276",
+  "category": "Kühlwaren",
+  "description": "Die mild-würzige Hofstädter Leberstreichwurst passt perfekt zu kräftigen Sauerteigbroten: als Jausenbrot oder für die kalte Platte mit saurer Gurke.<li>Tipp für Hobby-Köche: Knödel mit Leberwurst und Hackfleisch füllen<li>mit österreichischer Schweineleber",
+  "eanCodes": [
+    "9009504007943"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Saccharose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "COUNTRY_OF_ORIGIN_PRIMARY_INGREDIENT",
+              "description": "Herkunftsland Primär Zutat",
+              "hasTranslation": "False",
+              "value": "--"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-01-13T00:00:00",
+      "ingredients": "Zutaten: 55% Schweinefleisch, 25% Schweineleber, Speck, Wasser, Nitritpökelsalz (Speisesalz, Konservierungsstoff: Natriumnitrit), Zwiebel, Gewürze, Gewürzextrakte, Zucker, Dextrose, Emulgator: Mono- und Digyceride von Speisefettsäuren, Citronensäureester von Mono- und Diglyceriden von Speisefettsäuren, Antioxidationsmittel: Ascorbinsäure, natürliches Aroma.",
+      "mandatoryIndicator": "Wursthülle nicht zum Verzehr geeignet\r\nAT-40676-EG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.125
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 125
+        }
+      ],
+      "name": "Leber-Streichwurst",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1342,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 16,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 324,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 41,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 49,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 9.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.7,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.1,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 28,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 22,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern unter +7 °C",
+      "usageHints": "Nach dem Öffnen gekühlt lagern und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "125 g Stk",
+  "grammageBadge": "125 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 22.32"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hofstädter Leberstreichwurst",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/streichwurst-und-pasteten/B2-486/produkte/hofstaedter-leberstreichwurst/00-773276"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.79,
+    "unit": "1 kg 22.32"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 138010,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Leberstreichwurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Leberstreichwurst online bestellen | BILLA",
+  "slug": "hofstaedter-leberstreichwurst",
+  "storeAvalibility": [
+    "00-3059",
+    "00-4513",
+    "00-3857",
+    "00-1480",
+    "00-9290",
+    "00-1457",
+    "00-4126",
+    "00-7393",
+    "00-3856",
+    "00-99202",
+    "00-355",
+    "00-3709",
+    "00-323",
+    "00-1107",
+    "00-4283",
+    "00-281",
+    "00-2360",
+    "00-4482",
+    "00-3871",
+    "00-4690",
+    "00-1032",
+    "00-10"
+  ],
+  "url": "/produkte/hofstaedter-leberstreichwurst/00-773276",
+  "vatCode": "10",
+  "video": ""
+}

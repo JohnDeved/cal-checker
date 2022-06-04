@@ -1,0 +1,147 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-409927",
+  "articleOnlyCanonicalPath": "/produkte/mohren-exportbier/00-409927",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Mohren",
+  "canonicalPath": "/produkte/mohren-exportbier/00-409927",
+  "category": "Getränke",
+  "description": "Das Mohren Exportbier wird von der Mohrenbrauerei aus Vorarlberg hergestellt. Die Geschichte dieser Brauerei reicht bis ins Jahr 1784 zurück.<li>Alkoholgehalt: 5 %<li>angenehm dezenter Hopfengeschmack<li>erfrischend leicht und mild<li>untergärig gebraut",
+  "eanCodes": [
+    "0000090135385"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "R41",
+              "valueTranslation": "Recyclingsnummer 41: ALU - Aluminium"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Dr.-Waibel-Str. 2, 6850 Dornbirn, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "MOHRENBRAUEREI VERTRIEBS KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2016-07-18T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen, Hopfenextrakt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.52
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.5
+        }
+      ],
+      "name": "Mohren Exportbier",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Vor Wärme und Licht geschützt lagern."
+    }
+  ],
+  "grammage": "0.5 l Dose (Einweg)",
+  "grammageBadge": "0.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.25,
+    "unit": "500 ml 1.25"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Mohren Exportbier",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/mohren-exportbier/00-409927"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.25,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.25,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.25,
+    "unit": "500 ml 1.25"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 139870,
+  "recommendationArticleIds": [],
+  "seoDescription": "Mohren Exportbier online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Mohren Exportbier online bestellen | BILLA",
+  "slug": "mohren-exportbier",
+  "storeAvalibility": [
+    "00-8530",
+    "00-8395",
+    "00-8400",
+    "00-8075",
+    "00-8409",
+    "00-99202"
+  ],
+  "url": "/produkte/mohren-exportbier/00-409927",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,268 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-28844",
+  "articleOnlyCanonicalPath": "/produkte/salzburgmilch-premium-joghurt-36-cremig/00-28844",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "SalzburgMilch",
+  "canonicalPath": "/produkte/salzburgmilch-premium-joghurt-36-cremig/00-28844",
+  "category": "Kühlwaren",
+  "description": "Das Premium Joghurt 3,6% ist besonders cremig. Es schmeckt hervorragend zum Müsli, mit frischen Früchten und wird gerne zum Kochen und Backen verwendet.<li>3,6 % Fettgehalt<li>hergestellt in Österreich<li>ohne Gentechnik",
+  "eanCodes": [
+    "9004584014324"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SalzburgMilch GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.milch.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-03-10T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.521
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Jogurt aus pasteurisierter Milch mit 3,6% Fett.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 70,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 292,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.12,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt mindestens haltbar bis: siehe Deckel. Nach dem Öffnen gekühlt lagern und innerhalb von 2 Tagen verbrauchen."
+    }
+  ],
+  "grammage": "500 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.05,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.05,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.05,
+    "unit": "1 kg 2.10"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "SalzburgMilch Premium Joghurt 3,6% cremig",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/salzburgmilch-premium-joghurt-36-cremig/00-28844"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.05,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.05,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.05,
+    "unit": "1 kg 2.10"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 89760,
+  "recommendationArticleIds": [],
+  "seoDescription": "SalzburgMilch Premium Joghurt 3,6% cremig online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "SalzburgMilch Premium Joghurt 3,6% cremig online bestellen",
+  "slug": "salzburgmilch-premium-joghurt-36-cremig",
+  "storeAvalibility": [
+    "00-5363",
+    "00-6502",
+    "00-5104",
+    "00-5199",
+    "00-5290",
+    "00-5381",
+    "00-6845",
+    "00-5359",
+    "00-8953",
+    "00-6366",
+    "00-6910",
+    "00-6895",
+    "00-5067",
+    "00-5226",
+    "00-5414",
+    "00-5447",
+    "00-5552",
+    "00-5000",
+    "00-5003",
+    "00-5078",
+    "00-5223",
+    "00-5737",
+    "00-5108",
+    "00-5181",
+    "00-5322",
+    "00-5031",
+    "00-8441",
+    "00-5945",
+    "00-4813",
+    "00-5112",
+    "00-6001",
+    "00-5027",
+    "00-5306",
+    "00-5531",
+    "00-5391",
+    "00-5529",
+    "00-5165",
+    "00-5962",
+    "00-99202"
+  ],
+  "url": "/produkte/salzburgmilch-premium-joghurt-36-cremig/00-28844",
+  "vatCode": "10",
+  "video": ""
+}

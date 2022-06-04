@@ -1,0 +1,164 @@
+{
+  "articleGroupIds": [
+    "B2-353"
+  ],
+  "articleId": "00-303204",
+  "articleOnlyCanonicalPath": "/produkte/cynar-leggermente-amaro/00-303204",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Cynar",
+  "canonicalPath": "/produkte/cynar-leggermente-amaro/00-303204",
+  "category": "Getränke",
+  "description": "Cynar ist der einzige Amaro, der aus frischen Artischockenblättern hergestellt wird. Er überzeugt mit seinem leicht bitteren Charakter.</li>",
+  "eanCodes": [
+    "8002240001023",
+    "7610113802014"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 16.5,
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Via F. Sacchetti 20, 20099 Sesto San\n\nGiovanni, Italien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DCM S.p.A.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2019-10-21T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1255
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.7
+        }
+      ],
+      "name": "Kräuterlikör",
+      "nutritions": [],
+      "preperations": [
+        {
+          "instruction": "1. Cynar & Tonic: 1 Teil Cynar + 2 Teile\n\nTonic Water, 2. Cynar & Soda: 1 Teil Cynar + 2 Teile\n\nSodawasser",
+          "type": ""
+        }
+      ]
+    }
+  ],
+  "grammage": "0.7 l Flasche",
+  "grammageBadge": "0.7 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.99,
+    "unit": "1 l 18.56"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Cynar Leggermente Amaro",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/spirituosen/aperitif-und-digestif/B2-353/produkte/cynar-leggermente-amaro/00-303204"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 12.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 12.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 12.99,
+    "unit": "1 l 18.56"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 62340,
+  "recommendationArticleIds": [],
+  "seoDescription": "Cynar Leggermente Amaro online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Cynar Leggermente Amaro online bestellen | BILLA",
+  "slug": "cynar-leggermente-amaro",
+  "storeAvalibility": [
+    "00-119",
+    "00-350",
+    "00-10",
+    "00-4756",
+    "00-7075",
+    "00-7539",
+    "00-174",
+    "00-5078",
+    "00-1911",
+    "00-6676",
+    "00-5108",
+    "00-3947",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/cynar-leggermente-amaro/00-303204",
+  "vatCode": "20",
+  "video": ""
+}

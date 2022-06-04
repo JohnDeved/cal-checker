@@ -1,0 +1,210 @@
+{
+  "articleGroupIds": [
+    "B2-434"
+  ],
+  "articleId": "00-395698",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-fair-zum-tier-schweine-schopfsteak/00-395698",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-fair-zum-tier-schweine-schopfsteak/00-395698",
+  "category": "Kühlwaren",
+  "description": "Die Schopfsteaks werden aus dem Schopfbraten geschnitten und sind durch den hohen Fettanteil sehr saftig und geschmacksintensiv.<li>Ausgezeichnet mit dem Fair zum Tier und AMA Siegel",
+  "eanCodes": [
+    "9010158014218"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Histamin",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2020-04-10T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-40843-EG\r\nroh \r\nFür sichere Speisen ist Küchenhygiene wichtig! Kühlkette einhalten, getrennt von anderen Produkten lagern, sauber arbeiten, durcherhitzen.\r\nGeschlachtet in: Österreich \r\nZerlegt in: Österreich \r\nUrsprung: Österreich ",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Schweine-Schopfsteaks vom Karree geschnitten",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 841,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 10,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 202,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 20,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 25,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4.2,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.25,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bis max. 4 °C",
+      "usageHints": "Nach dem Öffnen sofort zubereiten!"
+    }
+  ],
+  "grammage": "",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.75,
+    "unit": "1 kg 15.00"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hofstädter Fair zum Tier Schweine Schopfsteak",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fleisch/schweinefleisch/B2-434/produkte/hofstaedter-fair-zum-tier-schweine-schopfsteak/00-395698"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.75,
+    "unit": "1 kg 15.00"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hofstädter Fair zum Tier Schweine Schopfsteak online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Fair zum Tier Schweine Schopfsteak online bestellen",
+  "slug": "hofstaedter-fair-zum-tier-schweine-schopfsteak",
+  "storeAvalibility": [
+    "00-10",
+    "00-281",
+    "00-99202"
+  ],
+  "url": "/produkte/hofstaedter-fair-zum-tier-schweine-schopfsteak/00-395698",
+  "vatCode": "10",
+  "video": ""
+}

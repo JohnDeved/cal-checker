@@ -1,0 +1,173 @@
+{
+  "articleGroupIds": [
+    "B2-A3"
+  ],
+  "articleId": "00-885446",
+  "articleOnlyCanonicalPath": "/produkte/tierell-hamster-alleinfutter/00-885446",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Tierell",
+  "canonicalPath": "/produkte/tierell-hamster-alleinfutter/00-885446",
+  "category": "Haustier",
+  "description": "Die Österreichische Qualitätsmarke.",
+  "eanCodes": [
+    "9001542067156"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_FUTTERMITTELZUSATZSTOFFE",
+              "description": "Futtermittelzusatzstoffe (M474)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile pro kg Futtermittel. Ernährungsphysiologische: Vitamin A (all-trans-Retinol) 8000IE, Vitamin D3 (Cholecalciferol) 1000IE, Vitamin E (all-rac-ü-Tocopherylacetat) 60mg, Vitamin B1 (Thiaminmononitrat) 11mg, Vitamin B2 (Riboflavin) 3mg, Vitamin B6 (Piridoxinhydrochlorid) 1,2mg, Vitamin B12 (Cyanocobalamin) 3,8mcg, Viotin (D-(+)-Viotin) 46mcg. Sensorische Zusatzstoffe: Farbstoffe"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile pro kg Futtermittel: Rohprotein 126g, Fettgehalt 50g, Rohfaser 50g, Rohasche 34g"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Ca. 15g (2EL) pro Tag, pro Tier, frisches Wasser, Gemüse und Obst, viel Wiesenheu, frisches Holzeinstreu für ausreichende Hygiene."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "AT 2016"
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung: Getreide, Saaten Gemüse, Nüsse"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-2325 Himberg, Haideäckerstraße 8",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "HESA Saaten",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.hesa.co.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-07-11T00:00:00",
+      "mandatoryIndicator": "Standbeutel unter Schutzatmosphäre mit ZIPP",
+      "marketingMessage": "Die Österreichische Qualitätsmarke",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 513
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        }
+      ],
+      "name": "Hamsterfutter, Alleinfuttermittel",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "500 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 4.38"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Tierell Hamster Alleinfutter",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/nager/B2-A3/produkte/tierell-hamster-alleinfutter/00-885446"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 kg 4.38"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 70410,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tierell Hamster Alleinfutter online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tierell Hamster Alleinfutter online bestellen | BILLA",
+  "slug": "tierell-hamster-alleinfutter",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/tierell-hamster-alleinfutter/00-885446",
+  "vatCode": "13",
+  "video": ""
+}

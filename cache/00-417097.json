@@ -1,0 +1,268 @@
+{
+  "articleGroupIds": [
+    "B2-571"
+  ],
+  "articleId": "00-417097",
+  "articleOnlyCanonicalPath": "/produkte/dr-oetker-bistro-baguette-nizza/00-417097",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Dr. Oetker",
+  "brandPath": "/marken/dr-oetker",
+  "canonicalPath": "/produkte/dr-oetker-bistro-baguette-nizza/00-417097",
+  "category": "Tiefkühl",
+  "description": "Das Bistro Baguette Nizza ist mit Zwiebeln, saftigem Thunfisch und Käse belegt. Kapern und Tomatenstücke verstärken seinen mediterranen Geschmack.<li>Tiefkühlware<li>fein abgeschmeckt mit Knoblauch, Oregano und Petersilie",
+  "eanCodes": [
+    "4001724041634",
+    "9000143297122"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Ringmauergasse 9/1, 9500 Villach, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DR. OETKER GMBH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-02-21T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, Wasser, 10% Tomatenkonzentrat, 7,4% EDAMER KÄSE, 6,2% Zwiebeln, 6,0% THUNFISCH (KATSUWONUS PELAMIS), 5,9% passierte Tomaten, 3,7% Tomatenstücke, Rapsöl, Sonnenblumenöl, Salz, eingelegte Kapern (Kapern, Branntweinessig, Salz), Backhefe, modifizierte Stärke, Petersilie, Zucker, Emulgator (Mono- und Diglyceride von Speisefettsäuren), Pfeffer, Oregano, Dextrose, Knoblauch.",
+      "mandatoryIndicator": "MSC-C-55332 Aus einer MSC-zertifizierten nachhaltigen Fischerei. www.msc.org/de.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 297.33
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Baguettebrot mit Thunfisch, Edamer Käse und Zwiebeln, tiefgefroren",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 927,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 221,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 28,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 8.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "1. Backofen vorheizen. Ober-/Unterhitze: 220°C Heißluft: 200°C, Gas: 4-5. 2. Baguettes aus der Folie nehmen. 3. Baguettes (am besten mit Backpapier) auf dem Rost auf mittlerer Einschubleiste in den Backofen schieben. Backzeit: 13-15 Minuten",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Bei -18 °C lagern."
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 10.76"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Dr. Oetker Bistro Baguette Nizza",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/baguettes/B2-571/produkte/dr-oetker-bistro-baguette-nizza/00-417097"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.69,
+    "unit": "1 kg 10.76"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 85870,
+  "recommendationArticleIds": [],
+  "seoDescription": "Dr. Oetker Bistro Baguette Nizza online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Dr. Oetker Bistro Baguette Nizza online bestellen | BILLA",
+  "slug": "dr-oetker-bistro-baguette-nizza",
+  "storeAvalibility": [
+    "00-1070",
+    "00-7606",
+    "00-3059",
+    "00-2111",
+    "00-7084",
+    "00-3114",
+    "00-3118",
+    "00-3512",
+    "00-4690",
+    "00-3617",
+    "00-4551",
+    "00-2098",
+    "00-4466",
+    "00-3042",
+    "00-10",
+    "00-7358",
+    "00-7336",
+    "00-9290",
+    "00-3580",
+    "00-3062",
+    "00-2342",
+    "00-4016",
+    "00-3384",
+    "00-6676",
+    "00-1710",
+    "00-3780",
+    "00-1041",
+    "00-3740",
+    "00-3120",
+    "00-7653",
+    "00-2808",
+    "00-3857",
+    "00-99202"
+  ],
+  "url": "/produkte/dr-oetker-bistro-baguette-nizza/00-417097",
+  "vatCode": "10",
+  "video": ""
+}

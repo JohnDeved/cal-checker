@@ -1,0 +1,173 @@
+{
+  "articleGroupIds": [
+    "B2-A12"
+  ],
+  "articleId": "00-814565",
+  "articleOnlyCanonicalPath": "/produkte/rupp-hundeflocken-vollkorn-mit-gemuese/00-814565",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rupp",
+  "brandPath": "/marken/rupp",
+  "canonicalPath": "/produkte/rupp-hundeflocken-vollkorn-mit-gemuese/00-814565",
+  "category": "Haustier",
+  "description": "Vollkornhundeflocken mit Hirse und Gemüse ideal zum Mischen.<li> Mit Hirse für schönes Fell<li>Ohne Soja<li> Ohne Zugabe von Zusatzstoffen<li> Mit 6 Getreidearten<li>Für alle Hunderassen",
+  "eanCodes": [
+    "9001613003601"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "TIERFUTTER_ZUSAMMENSETZUNG",
+              "description": "Zusammensetzung Futtermittel (M472)",
+              "hasTranslation": "False",
+              "value": "Zusammensetzung:\n\nGetreide (Weizen, Mais, Gerste, Hirse 6%, Reis, Hafer),\n\nGemüse (10 % Spinat getrocknet in den\n\ngrünen Flocken, 20 % Karotten getrocknet in den orangen Flocken), Pflanzliche Nebenerzeugnisse, Luzernegrünmehl."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ANALYTISCHE_BESTANDTEILE",
+              "description": "Analytische Bestandteile des Futters (M473)",
+              "hasTranslation": "False",
+              "value": "Analytische Bestandteile:\n\nRohprotein      11,0%\n\nRohfett              4,0%\n\nRohasche         1,5%\n\nRohfaser           2,9%\n\nEnergie: 100 g = 1420 kJ (339 kcal)"
+            },
+            {
+              "attributeCode": "TIERFUTTER_FUETTERUNGSEMPFEHLUNG",
+              "description": "Fütterungsempfehlung (M475)",
+              "hasTranslation": "False",
+              "value": "Eiweiß: \n\nWichtig für gesundes Wachstum\n\nund guten Körperbau\n\nKohlenhydrate:\n\nBringen Energie, stärken Ausdauer\n\nund Lebensfreude. WICHTIG: halten Sie stets einen Napf mit frischem Wasser bereit."
+            },
+            {
+              "attributeCode": "TIERFUTTER_ZULASSUNG_FUTTERMITTELBETRIEB",
+              "description": "Zulassungsnummer für  Futtermittelbetriebe (M439)",
+              "hasTranslation": "False",
+              "value": "AT HT80542 EG"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Herrnmühlestrasse 40 \n\nA - 6912 Hörbranz",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rupp Food Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@ruppfood.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.ruppfood.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-09-04T00:00:00",
+      "marketingMessage": "mit Hirse für schönes Fell",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 7.602
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 7.5
+        }
+      ],
+      "name": "Vollkornhundeflocken mit Hirse und Gemüse",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Bei Zimmertemperatur trocken lagern.\n\nMindestens haltbar bis: / Kenn-Nr. der Partie: siehe Aufdruck",
+      "sustenanceClaim": "mit 6 Getreidesorten"
+    }
+  ],
+  "grammage": "7.5 Kilogramm Sack",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 11.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 11.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 11.99,
+    "unit": "1 kg 1.60"
+  },
+  "maximalOrderQuantity": 10,
+  "minimalOrderQuantity": 0,
+  "name": "Rupp Hundeflocken Vollkorn mit Gemüse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/haustier/hunde/trockenfutter/B2-A12/produkte/rupp-hundeflocken-vollkorn-mit-gemuese/00-814565"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 11.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 11.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 11.99,
+    "unit": "1 kg 1.60"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rupp Hundeflocken Vollkorn mit Gemüse online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rupp Hundeflocken Vollkorn mit Gemüse online bestellen | BILLA",
+  "slug": "rupp-hundeflocken-vollkorn-mit-gemuese",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/rupp-hundeflocken-vollkorn-mit-gemuese/00-814565",
+  "vatCode": "13",
+  "video": ""
+}

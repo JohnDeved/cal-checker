@@ -1,0 +1,329 @@
+{
+  "articleGroupIds": [
+    "B2-572"
+  ],
+  "articleId": "00-908778",
+  "articleOnlyCanonicalPath": "/produkte/wagner-steinofen-pizza-schinken-diavolo/00-908778",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Wagner",
+  "brandPath": "/marken/wagner",
+  "canonicalPath": "/produkte/wagner-steinofen-pizza-schinken-diavolo/00-908778",
+  "category": "Tiefkühl",
+  "description": "Auf die Pizza, fertig, los: Die Wagner Steinofen Pizza Schinken Diavolo punktet mit knusprigem Boden und saftigem Belag.<li>knusperdünner Pizzaboden im Steinofen gebacken<li>üppig belegt mit Tomaten, Mozzarella, Hinterschinken und Peperoni<li>ohne künstliche Aromen und Farbstoffe<li>einfache Zubereitung im Backrohr",
+  "eanCodes": [
+    "4009233003099"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wiedner Gürtel 9, A-1100 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Nestlé Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-02-18T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL, zerkleinerte Schältomaten (23%), EDAMER (17%), gekochter Hinterschinken (7%) (Schweinehinterschinken, Speisesalz, Konservierungsstoff: Natriumnitrit, Dextrose, Stabilisator: Natriumcitrate, Antioxidationsmittel: Natriumascorbat, Extrakt aus Rosmarin; Gewürzextrakte, Rauch), Peperonischoten (5%) (Peperonischoten, Speisesalz, Branntweinessig), Zwiebeln rot (4%), Wasser, pflanzliches Öl (Raps), Hefe, Zucker, Kräuter und Gewürze, WEIZENSAUERTEIG getrocknet, Speisesalz. Kann enthalten: EI, FISCH, LUPINE, SELLERIE, SENF und SOJA.",
+      "marketingMessage": "Probiere unsere beliebte Steinofen Pizza und überzeuge Dich selbst vom leckeren Knusperrand und dem dünnen Knusperboden, belegt mit herzhaft-saftigen Zutaten. Der Teig der pikant scharfen Steinofen Pizza wird knusprig-kross im Original Wagner Steinofen vorgebacken und anschließend mit köstlichen Zutaten belegt. Die perfekt abgestimmte Zutatenkombination der Steinofen Pizza Schinken Diavolo aus mildem Edamer, echtem Kochschinken, pikanten Peperonischoten und roten Zwiebeln sorgt für einen echten Genuss.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 398.5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 340
+        }
+      ],
+      "name": "Pizza belegt mit Kochschinken, Peperonischoten und Edamer, tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 883,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 210,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 7.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 25.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 36,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3002,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 36,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 714,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 35,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 24.4,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 50,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 86.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 14,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 6.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 68,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 34,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 57,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "1. Backofen gut vorheizen. 2. Folie entfernen. 3. Pizza auf den Rost, mittlere Schiene des Ofens, legen. 4. Pizza goldbraun backen. Die Backzeit kann je nach Ofentyp variieren. Ober- und Unterhitze: 230°C, 11-13 Min. Umluft: 200°C, 10-12 Min.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        }
+      ],
+      "storageHint": "Nach dem Auftauen nicht wieder einfrieren. Vor dem Verzehr durcherhitzen. Bei -18°C (***Fach oder Tiefkühltruhe) mindestens haltbar bis Ende: siehe Seitenlasche.",
+      "sustenanceClaim": "Frei von künstlichen Aromen und Farbstoffen."
+    }
+  ],
+  "grammage": "340 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 10.26"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Wagner Steinofen Pizza Schinken Diavolo",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572/produkte/wagner-steinofen-pizza-schinken-diavolo/00-908778"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.49,
+    "unit": "1 kg 10.26"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 85830,
+  "recommendationArticleIds": [],
+  "seoDescription": "Wagner Steinofen Pizza Schinken Diavolo online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Wagner Steinofen Pizza Schinken Diavolo online bestellen | BILLA",
+  "slug": "wagner-steinofen-pizza-schinken-diavolo",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/wagner-steinofen-pizza-schinken-diavolo/00-908778",
+  "vatCode": "10",
+  "video": ""
+}

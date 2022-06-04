@@ -1,0 +1,224 @@
+{
+  "articleGroupIds": [
+    "B2-623"
+  ],
+  "articleId": "00-295681",
+  "articleOnlyCanonicalPath": "/produkte/freche-freunde-quetschbeutel-apfel-banane-ananas-und-kokosnuss/00-295681",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Freche Freunde",
+  "brandPath": "/marken/freche-freunde",
+  "canonicalPath": "/produkte/freche-freunde-quetschbeutel-apfel-banane-ananas-und-kokosnuss/00-295681",
+  "category": "Grundnahrungsmittel",
+  "description": "Die Freche Freunde Quetschbeutel aus Apfel, Banane, Ananas & Kokosnuss sind als Snack für die Kleinen für unterwegs einfach fabelhaft.<li>Mehrfruchtmus in Bio-Qualität<li>praktisch im Quetschbeutel mit Schraubverschluss<li>ohne Zusatzstoffe hergestellt",
+  "eanCodes": [
+    "4260249140103"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Eberswalder Str. 6-9\n10347 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "erdbär GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Apfelpüree* 48,5%, Bananenpüree* 33%, Ananassaft* 10,5%, Kokosmilch* (Kokosfruchtfleisch*, Wasser) 8%.\n* = aus biologischem Landbau",
+      "mandatoryIndicator": "aus biologischem Landbau",
+      "marketingMessage": "Fruchtiges Bio-Obstpüree der Frechen Freunde! Annika Ananas ist von dem Steinfrüchtchen Kira Kokosnuss fasziniert - was für ein tropischer Geschmack! Im praktischen Quetschbeutel und ohne Zusatzstoffe ist dieser Bio-Snack ideal für unterwegs!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 107
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Bio-Mehrfruchtpüree mit Kokosmilch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 321,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 76,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Lichtgeschützt, kühl & trocken lagern. Nach dem Öffnen im Kühlschrank einen Tag haltbar.",
+      "usageHints": "Ideal als Snack für zwischendurch. Ab 6 Monaten."
+    }
+  ],
+  "grammage": "100 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Freche Freunde Quetschbeutel Apfel, Banane, Ananas & Kokosnuss",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623/produkte/freche-freunde-quetschbeutel-apfel-banane-ananas-und-kokosnuss/00-295681"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.29,
+    "unit": "1 kg 12.90"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 84240,
+  "recommendationArticleIds": [],
+  "seoDescription": "Freche Freunde Quetschbeutel Apfel, Banane, Ananas & Kokosnuss online kaufen im BILLA Online Shop! ✔ große Produktauswahl >> bestellen Sie jetzt!",
+  "seoTitle": "Freche Freunde Quetschbeutel Apfel, Banane, Ananas & Kokosnuss on",
+  "slug": "freche-freunde-quetschbeutel-apfel-banane-ananas-und-kokosnuss",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/freche-freunde-quetschbeutel-apfel-banane-ananas-und-kokosnuss/00-295681",
+  "vatCode": "10",
+  "video": ""
+}

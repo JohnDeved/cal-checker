@@ -1,0 +1,211 @@
+{
+  "articleGroupIds": [
+    "B2-455"
+  ],
+  "articleId": "00-471707",
+  "articleOnlyCanonicalPath": "/produkte/meggle-aioli-creme-tube/00-471707",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Meggle",
+  "brandPath": "/marken/meggle",
+  "canonicalPath": "/produkte/meggle-aioli-creme-tube/00-471707",
+  "category": "Kühlwaren",
+  "description": "Veganer Grillbegleiter für alle Gourmeggles.<br>Die MEGGLE Aioli bringt vegane mediterrane Leichtigkeit und Genuss auf den Tisch. Sie verleiht Kartoffeln oder gegrilltem Gemüse das gewisse Etwas, schmeckt jedoch auch hervorragend zu geröstetem Brot.<br>Unsere Knoblauchcreme wird  auf Basis von Rapsöl und feinem Knoblauch zubereitet. Für den authentischen Geschmack sorgt eine frische Zitronennote.",
+  "eanCodes": [
+    "4034900011213"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VEGAN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Megglestr. 6-12\n83512 Wasserburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "MEGGLE GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-04-07T00:00:00",
+      "ingredients": "Zutaten: \nRapsöl, Knoblauch 13%, Wasser, Salz, Stärke, modifizierte Stärke, Zitronensaftkonzentrat, natürliches Knoblaucharoma, Farbstoff: Beta-Carotin.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 91
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 80
+        }
+      ],
+      "name": "Knoblauchcreme",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 627,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2581,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 67,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Nach dem auspacken kann das Produkt sofort verzehrt werden.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Kühlung bei < 10 °C ohne Unterbrechung"
+    }
+  ],
+  "grammage": "80 Gramm Tube",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.85,
+    "unit": "1 kg 23.13"
+  },
+  "maximalOrderQuantity": 8,
+  "minimalOrderQuantity": 0,
+  "name": "Meggle Aioli Creme Tube",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/margarine-und-fette/B2-455/produkte/meggle-aioli-creme-tube/00-471707"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.85,
+    "unit": "1 kg 23.13"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Meggle Aioli Creme Tube online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Meggle Aioli Creme Tube online bestellen | BILLA",
+  "slug": "meggle-aioli-creme-tube",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/meggle-aioli-creme-tube/00-471707",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,355 @@
+{
+  "articleGroupIds": [
+    "B2-449"
+  ],
+  "articleId": "00-435625",
+  "articleOnlyCanonicalPath": "/produkte/salzburgmilch-premium-original-almkoenig/00-435625",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "SalzburgMilch",
+  "canonicalPath": "/produkte/salzburgmilch-premium-original-almkoenig/00-435625",
+  "category": "Kühlwaren",
+  "description": "<li>Mild-fein</li>",
+  "eanCodes": [
+    "9004584056720"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "FAT_PERCENTAGE_IN_DRY_MATTER",
+              "description": "Fett in Trockenmasse %",
+              "hasTranslation": "False",
+              "value": "45"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SalzburgMilch GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.milch.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2020-10-28T00:00:00",
+      "mandatoryIndicator": "Unter Schutzatmosphäre verpackt.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.313
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 300
+        }
+      ],
+      "name": "Schnittkäse mit 45% Fett i.Tr., mit Rundlochung aus pasteurisierter Milch.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 333,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1383,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt (4-8°C) mindestens haltbar bis: siehe Aufdruck Nach dem Öffnen gekühlt lagern und innerhalb von 4 Tagen verbrauchen.",
+      "sustenanceClaim": "Durch natürliche Reifung laktosefrei*\n*Laktosegehalt: <0,1g/100g"
+    }
+  ],
+  "grammage": "300 g Packung",
+  "grammageBadge": "300 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 13.30"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "SalzburgMilch Premium Original Almkönig",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schnittkaese/B2-449/produkte/salzburgmilch-premium-original-almkoenig/00-435625"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 13.30"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 224341,
+  "recommendationArticleIds": [],
+  "seoDescription": "SalzburgMilch Premium Original Almkönig online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "SalzburgMilch Premium Original Almkönig online bestellen | BILLA",
+  "slug": "salzburgmilch-premium-original-almkoenig",
+  "storeAvalibility": [
+    "00-3050",
+    "00-7223",
+    "00-3032",
+    "00-3143",
+    "00-9555",
+    "00-7084",
+    "00-119",
+    "00-5290",
+    "00-281",
+    "00-2204",
+    "00-3025",
+    "00-2111",
+    "00-3118",
+    "00-2360",
+    "00-3005",
+    "00-3700",
+    "00-7393",
+    "00-3044",
+    "00-3063",
+    "00-7603",
+    "00-2313",
+    "00-3857",
+    "00-5391",
+    "00-323",
+    "00-7358",
+    "00-2213",
+    "00-7857",
+    "00-3452",
+    "00-2261",
+    "00-9894",
+    "00-10",
+    "00-7114",
+    "00-3871",
+    "00-6353",
+    "00-1532",
+    "00-950",
+    "00-4478",
+    "00-3681",
+    "00-2045",
+    "00-6975",
+    "00-3234",
+    "00-7229",
+    "00-6884",
+    "00-4912",
+    "00-7245",
+    "00-8646",
+    "00-2098",
+    "00-4466",
+    "00-2222",
+    "00-3744",
+    "00-4551",
+    "00-4605",
+    "00-6424",
+    "00-3593",
+    "00-350",
+    "00-7606",
+    "00-6952",
+    "00-1032",
+    "00-6130",
+    "00-4016",
+    "00-6138",
+    "00-4982",
+    "00-2131",
+    "00-9753",
+    "00-7062",
+    "00-4283",
+    "00-3512",
+    "00-9290",
+    "00-3042",
+    "00-4107",
+    "00-6819",
+    "00-3384",
+    "00-1710",
+    "00-3860",
+    "00-289",
+    "00-1132",
+    "00-430",
+    "00-4783",
+    "00-372",
+    "00-6219",
+    "00-3321",
+    "00-5967",
+    "00-7336",
+    "00-1900",
+    "00-4834",
+    "00-3569",
+    "00-1457",
+    "00-3713",
+    "00-4421",
+    "00-174",
+    "00-3120",
+    "00-8409",
+    "00-3856",
+    "00-4672",
+    "00-1107",
+    "00-6745",
+    "00-3580",
+    "00-3062",
+    "00-4655",
+    "00-7860",
+    "00-8395",
+    "00-3709",
+    "00-6108",
+    "00-3059",
+    "00-6724",
+    "00-4078",
+    "00-1198",
+    "00-3114",
+    "00-3055",
+    "00-4779",
+    "00-6439",
+    "00-3027",
+    "00-7368",
+    "00-1380",
+    "00-2808",
+    "00-6502",
+    "00-6496",
+    "00-4440",
+    "00-5199",
+    "00-7120",
+    "00-3379",
+    "00-112",
+    "00-5223",
+    "00-99202"
+  ],
+  "url": "/produkte/salzburgmilch-premium-original-almkoenig/00-435625",
+  "vatCode": "10",
+  "video": ""
+}

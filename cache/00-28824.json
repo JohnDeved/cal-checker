@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-221"
+  ],
+  "articleId": "00-28824",
+  "articleOnlyCanonicalPath": "/produkte/berger-zwergerl-strutzen/00-28824",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-zwergerl-strutzen/00-28824",
+  "category": "Brot & Gebäck",
+  "description": "Der Zwergerl Strutzen von Berger ist ein traditionell gebackenes, saftig-aromatisches Bauernbrot, das der ganzen Familie schmeckt.<li>täglich frisch gebacken<li>resche Kruste und flaumig-griffiger Kern<li>schmackhaft dank Natursauerteig<li>aus einem Familienbetrieb in Österreich",
+  "eanCodes": [
+    "9003644001618"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hörschingerstraße 17, 4061 Pasching",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Michael Berger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: ROGGENMEHL, Wasser, WEIZENMEHL, Natursauerteig (ROGGENMEHL, Wasser), Hefe, unjodiertes Speisesalz, Brotgewürz (Fenchel, Kümmel, Anis, Koriander), Säurungsmittel: Essigsäure, Ascorbinsäure, Kann Spuren von Soja und Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 450
+        }
+      ],
+      "name": "Schwarzbrot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 217,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 909,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 45,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "450 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 4.42"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Zwergerl Strutzen",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221/produkte/berger-zwergerl-strutzen/00-28824"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 4.42"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 53620,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Zwergerl Strutzen online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Zwergerl Strutzen online bestellen | BILLA",
+  "slug": "berger-zwergerl-strutzen",
+  "storeAvalibility": [
+    "00-4407",
+    "00-4601",
+    "00-4226",
+    "00-4021",
+    "00-4707",
+    "00-4090",
+    "00-4847",
+    "00-4540",
+    "00-4099",
+    "00-4028",
+    "00-4478",
+    "00-4755",
+    "00-4170",
+    "00-4945",
+    "00-4104",
+    "00-4059",
+    "00-4001",
+    "00-4952",
+    "00-4838",
+    "00-4879",
+    "00-99202",
+    "00-4925",
+    "00-5967",
+    "00-4932",
+    "00-4225"
+  ],
+  "url": "/produkte/berger-zwergerl-strutzen/00-28824",
+  "vatCode": "10",
+  "video": ""
+}

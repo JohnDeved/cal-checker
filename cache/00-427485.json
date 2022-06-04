@@ -1,0 +1,220 @@
+{
+  "articleGroupIds": [
+    "B2-641"
+  ],
+  "articleId": "00-427485",
+  "articleOnlyCanonicalPath": "/produkte/kressi-kraeuteressig/00-427485",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Kressi",
+  "canonicalPath": "/produkte/kressi-kraeuteressig/00-427485",
+  "category": "Grundnahrungsmittel",
+  "description": "Kräuter Branntweinessig mild gewürzt<br><br>Grundrezept: Zuerst in der Salatschüssel 1-2 Löffel Kressi unverdünnt mit 2-4 Löffeln Salatöl gut verrühren. Dann den Salat mit dieser Salat-Sauce vermischen. Fertig!",
+  "eanCodes": [
+    "7615200140604",
+    "7615400001248"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Schwefeldioxid und Sulphite",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Telefon",
+          "detail": "0800 000 041",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Adresse",
+          "detail": "A-6890 Lustenau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "W. Hämmerle Freihof",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "SCHWEIZ"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Weingeistessig, jodiertes Speisesalz, Kräuter- und Gewürzextrakte (Knoblauch, Zwiebeln, schwarzer Pfeffer, Wacholder, Estragon, Majoran, Koriander, Nelken, Muskatnuss, Lorbeer, Basilikum), Geschmacksverstärker (Mononatriumglutamat), Antioxidationsmittel (KALIUMMETABISULFIT).",
+      "measurements": [
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1090
+        }
+      ],
+      "name": "Kräuter-Weingeistessig mild gewürzt. Pasteurisiert. Essigsäure: 50g/l",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 70,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 15,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Licht geschützt aufbewahren!"
+    }
+  ],
+  "grammage": "1 Liter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kressi Kräuteressig",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/essig-und-oel/essig/B2-641/produkte/kressi-kraeuteressig/00-427485"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 39180,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kressi Kräuteressig online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kressi Kräuteressig online bestellen | BILLA",
+  "slug": "kressi-kraeuteressig",
+  "storeAvalibility": [
+    "00-8400",
+    "00-8409",
+    "00-8395",
+    "00-8530",
+    "00-99202"
+  ],
+  "url": "/produkte/kressi-kraeuteressig/00-427485",
+  "vatCode": "10",
+  "video": ""
+}

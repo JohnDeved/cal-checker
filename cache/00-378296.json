@@ -1,0 +1,209 @@
+{
+  "articleGroupIds": [
+    "B2-6F1"
+  ],
+  "articleId": "00-378296",
+  "articleOnlyCanonicalPath": "/produkte/biozentrale-kokosbluetenzucker/00-378296",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Biozentrale",
+  "brandPath": "/marken/biozentrale",
+  "canonicalPath": "/produkte/biozentrale-kokosbluetenzucker/00-378296",
+  "category": "Grundnahrungsmittel",
+  "description": "Unser Fairtrade-zertifizierter biozentrale Kokosblütenzucker mit feinem Karamellgeschmack wird im Rahmen eines Anbauprojektes traditionell aus dem Nektar der Kokospalme auf der indonesischen Insel Java gewonnen.<br>Die Kraft des milden tropischen Klimas lässt die Kokospalmen für unseren Kokosblütenzucker wachsen und gedeihen ¿ das verleiht ihm diesen einzigartigen, naturbelassenen Geschmack mit einer zarten Karamellnote. Aufgrund seiner guten Löslichkeit eignet sich unser Kokosblütenzucker perfekt für Getränke und Gebäck, aber auch für Currygerichte, Saucen und Dressings.<li>Natürliches, karamelliges, alternatives Süßungsmittel<li>Unterstützung eines Anbauprojektes auf Java Fairtrade-zertifiziert<li>Von Natur aus vegan<li>Fairtrade-zertifiziert</li>",
+  "eanCodes": [
+    "4005009104021"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "BIO_LABEL_GERMAN",
+              "valueTranslation": "BIO-LABEL (Deutschland)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D - 84384 Ulbering",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bio-Zentrale Naturprodukte GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-07-01T00:00:00",
+      "ingredients": "Zutaten: Kokosblütenzucker*. \n*aus kontrolliert-ökologischer Landwirtschaft",
+      "mandatoryIndicator": "Kokosblütenzucker: Fairtrade-zertifiziert und von Faitrade-Produzenten angebaut. Gesamtanteil 100 %. Durch faire Handelsbedingungen können Kleinbauern und Arbeiter in den Anbauländern in eine nachhaltige Zukunft investieren. Mehr Infos unter: www.info.fairtrade.net",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 284
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Kokosblütenzucker",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 387,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1644,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 95,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 88,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.29,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt und trocken lagern."
+    }
+  ],
+  "grammage": "250 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "1 kg 18.76"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Biozentrale Kokosblütenzucker",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/zucker-und-suessstoffe/zucker/B2-6F1/produkte/biozentrale-kokosbluetenzucker/00-378296"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.69,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.69,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.69,
+    "unit": "1 kg 18.76"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Biozentrale Kokosblütenzucker online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Biozentrale Kokosblütenzucker online bestellen | BILLA",
+  "slug": "biozentrale-kokosbluetenzucker",
+  "storeAvalibility": [
+    "00-176",
+    "00-115",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/biozentrale-kokosbluetenzucker/00-378296",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,211 @@
+{
+  "articleGroupIds": [
+    "B2-223"
+  ],
+  "articleId": "00-37092",
+  "articleOnlyCanonicalPath": "/produkte/berger-tiroler-bauernkrustenbrot/00-37092",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Berger",
+  "brandPath": "/marken/berger",
+  "canonicalPath": "/produkte/berger-tiroler-bauernkrustenbrot/00-37092",
+  "category": "Brot & Gebäck",
+  "description": "Das Tiroler Bauerkrustenbrot von Berger bringt ein Stück Heimat auf den Tisch. Das Roggenmischbrot schmeckt süß bestrichen ebenso gut wie herzhaft belegt.<li>traditionelles Mischbrot mit hohem Roggenanteil<li>resche Kruste und flaumig-weicher Kern<li>mild gewürzt und täglich frisch<li>aus dem österreichischen Familienbetrieb Berger",
+  "eanCodes": [
+    "9003644001748"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hörschingerstraße 17, 4061 Pasching",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Michael Berger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: ROGGENMEHL, Wasser, WEIZENMEHL, Natursauerteig (ROGGENMEHL, Wasser), Hefe, unjodiertes Speisesalz, Brotgewürz (Fenchel, Kümmel, Anis, Koriander), Säurungsmittel: Essigsäure, Ascorbinsäure, Kann Spuren von Soja und Nüssen enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1000
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 970
+        }
+      ],
+      "name": "Schwarzbrot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 217,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 909,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 45,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "1 Kilogramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.9
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Berger Tiroler Bauernkrustenbrot",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/ofenfrisches-gebaeck/B2-223/produkte/berger-tiroler-bauernkrustenbrot/00-37092"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.9
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 51580,
+  "recommendationArticleIds": [],
+  "seoDescription": "Berger Tiroler Bauernkrustenbrot online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Berger Tiroler Bauernkrustenbrot online bestellen | BILLA",
+  "slug": "berger-tiroler-bauernkrustenbrot",
+  "storeAvalibility": [
+    "00-4001",
+    "00-4226",
+    "00-4407",
+    "00-4707",
+    "00-4601",
+    "00-4225",
+    "00-4755",
+    "00-4932",
+    "00-4540",
+    "00-5967",
+    "00-4952",
+    "00-4090",
+    "00-4478",
+    "00-4847",
+    "00-4945",
+    "00-4059",
+    "00-4099",
+    "00-4838",
+    "00-4879",
+    "00-99202",
+    "00-4021",
+    "00-4925",
+    "00-4170",
+    "00-4104",
+    "00-4028"
+  ],
+  "url": "/produkte/berger-tiroler-bauernkrustenbrot/00-37092",
+  "vatCode": "10",
+  "video": ""
+}

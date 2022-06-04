@@ -1,0 +1,432 @@
+{
+  "articleGroupIds": [
+    "B2-756"
+  ],
+  "articleId": "00-814094",
+  "articleOnlyCanonicalPath": "/produkte/nimm2-lachgummi-minis/00-814094",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Nimm2",
+  "brandPath": "/marken/nimm2",
+  "canonicalPath": "/produkte/nimm2-lachgummi-minis/00-814094",
+  "category": "Süßes & Salziges",
+  "description": "Lachgummi Minis von Nimm2 sind köstliche Kaubonbons aus Fruchtgummi. Sie werden aus Fruchtsaftkonzentraten hergestellt und sorgen für fruchtiges Naschvergnügen.<li>mit wertvollen Vitaminen<li>praktische, einzeln verpackte Mini-Sackerl zum Aufteilen oder für unterwegs<li>in verschiedenen fruchtigen Geschmacksrichtungen",
+  "eanCodes": [
+    "4014400904253"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Maxglaner Hauptstraße 72 5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "STORCK GES.M.B.H",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.storck.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-10-01T00:00:00",
+      "ingredients": "Zutaten: Glukosesirup, Zucker, Gelatine, Fruchtsaft (5%) aus Fruchtsaftkonzentrat (Traube, Holunderbeere), Säuerungsmittel (Citronensäure, Milchsäure), Aromen, Niacin, Vitamin E, färbende Konzentrate (Schwarze Karotte, Spirulina), Pantothensäure, färbender Kurkuma-Auszug, Vitamin B6, Biotin, Vitamin B12, Überzugsmittel (Carnaubawachs, Bienenwachs, weiß und gelb). ##KANN AUCH ANTEILE VON MILCH ENTHALTEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 236
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 210
+        }
+      ],
+      "name": "Fruchtgummi mit Vitaminen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1431,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 337,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 77.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 53.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.09,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Biotin",
+              "nutritionalValue": 50,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 98,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 15.6,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 123,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 7.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 88,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 2.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 107,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 86,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 10.3,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Erdnüsse und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Maxglaner Hauptstraße 72 5020 Salzburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "STORCK GES.M.B.H",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.storck.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-05-29T00:00:00",
+      "ingredients": "Zutaten: Glukosesirup, Zucker, Gelatine, Fruchtsaft (5%) aus Fruchtsaftkonzentrat (Traube, Holunderbeere), Säuerungsmittel (Citronensäure, Milchsäure), Aromen, Niacin, Vitamin E, färbende Konzentrate (Schwarze Karotte, Spirulina), Pantothensäure, färbender Kurkuma-Auszug, Vitamin B6, Biotin, Vitamin B12, Überzugsmittel (Carnaubawachs, Bienenwachs, weiß und gelb).#KANN AUCH ANTEILE VON MILCH ENTHALTEN.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 236
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 210
+        }
+      ],
+      "name": "Fruchtgummi mit Vitaminen",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1431,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 337,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 77.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 53.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.09,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 100,
+              "measureDefinition": "~",
+              "nutritionName": "Biotin",
+              "nutritionalValue": 50,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 98,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 15.6,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 123,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 7.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 88,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 2.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 107,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 1.5,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 86,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 10.3,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "210 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "100 g .93"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Nimm2 Lachgummi Minis",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/fruchtgummi/B2-756/produkte/nimm2-lachgummi-minis/00-814094"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "100 g .93"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 61140,
+  "recommendationArticleIds": [],
+  "seoDescription": "Nimm2 Lachgummi Minis online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Nimm2 Lachgummi Minis online bestellen | BILLA",
+  "slug": "nimm2-lachgummi-minis",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/nimm2-lachgummi-minis/00-814094",
+  "vatCode": "10",
+  "video": ""
+}

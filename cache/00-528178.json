@@ -1,0 +1,230 @@
+{
+  "articleGroupIds": [
+    "B2-411"
+  ],
+  "articleId": "00-528178",
+  "articleOnlyCanonicalPath": "/produkte/die-ohne-vegane-filets-nach-art-huhn-mariniert/00-528178",
+  "attributes": [
+    "s_marke",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Die OHNE",
+  "brandPath": "/marken/die-ohne",
+  "canonicalPath": "/produkte/die-ohne-vegane-filets-nach-art-huhn-mariniert/00-528178",
+  "category": "Kühlwaren",
+  "description": "2 x 100g<p>Die veganen Filets nach Hühnerart sind das Highlight jedes Essens: Die besonders fein-faserige Struktur und Konsistenz der Filetstücke machen jede Mahlzeit zu einem authentischen Genusserlebnis.<br>Wunderbar zart und herrlich saftig, passen sie ideal zu Pfannengemüse, Kartoffeln, auf den Grill, in eine Bowl und vielen anderen Gerichten.<br>'die OHNE' Vegane Filets nach Art eines Hühnerfilets bestehen aus Weizen- und Erbsenprotein.",
+  "eanCodes": [
+    "9003021137220"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "DIET_TYPE",
+              "description": "Ernährungsart (M034)",
+              "hasTranslation": "True",
+              "value": "VEGAN",
+              "valueTranslation": "Vegan - Ohne Milchprodukte und tierische Inhaltsstoffe"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Kasernengasse 12, A-9524 Villach",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Marcher Feinkost GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2253/6050",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2021-12-06T00:00:00",
+      "ingredients": "Zutaten: Trinkwasser, Rapsöl, Erbsenprotein 7 %, WEIZENPROTEIN 6 %, Ackerbohnenprotein, Speisesalz, Verdickungsmittel: Methylcellulose, Stärke, Gewürze, Aroma, Hefeextrakt, natürliches Aroma, Weingeistessig gepuffert und getrocknet (Weingeistessig, Säureregulator: Natriumcarbonate), Zitronensaftpulver.",
+      "marketingMessage": "ohne Fleisch",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 208
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 200
+        }
+      ],
+      "name": "Veganes Erzeugnis auf Basis von Erbsen- und Weizenprotein, nach Art eines Hühnerfilets, würzig mariniert, gegart",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 252,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1046,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 6.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.7,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Zubereitung: Auf dem Grill: Die veganen Filets auf dem Grill 2-3 min von beiden Seiten unter mehrmaligem Wenden gleichmäßig braten.",
+          "type": "Zubereitungsart mit direkter Hitze. Die Definition variiert zwischen Regionen und Kulturen"
+        },
+        {
+          "instruction": "Zubereitung: In der Pfanne: Die veganen Filets in der Pfanne 2-3 min von beiden Seiten unter mehrmaligem Wenden gleichmäßig braten.",
+          "type": "Form des Bratens, welche sich durch die Benutzung von wenig Bratfett auszeichnet"
+        }
+      ],
+      "storageHint": "Gekühlt lagern bei +2 °C bis +6 °C.",
+      "usageHints": "Nicht zum Einfrieren geeignet. Nach dem Öffnen ehebaldigst verzehren."
+    }
+  ],
+  "grammage": "200 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.15,
+    "unit": "1 kg 20.75"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Die OHNE vegane Filets nach Art Huhn mariniert",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/schnelle-kueche/menueschalen/B2-411/produkte/die-ohne-vegane-filets-nach-art-huhn-mariniert/00-528178"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.15,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.15,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.15,
+    "unit": "1 kg 20.75"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Die OHNE vegane Filets nach Art Huhn mariniert online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Die OHNE vegane Filets nach Art Huhn mariniert online bestellen",
+  "slug": "die-ohne-vegane-filets-nach-art-huhn-mariniert",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/die-ohne-vegane-filets-nach-art-huhn-mariniert/00-528178",
+  "vatCode": "10",
+  "video": ""
+}

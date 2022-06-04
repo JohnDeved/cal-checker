@@ -1,0 +1,220 @@
+{
+  "articleGroupIds": [
+    "B2-481"
+  ],
+  "articleId": "00-37069",
+  "articleOnlyCanonicalPath": "/produkte/broger-extrawurst/00-37069",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_feinkost",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Broger",
+  "canonicalPath": "/produkte/broger-extrawurst/00-37069",
+  "category": "Kühlwaren",
+  "description": "Die Extrawurst von Broger krönt jede Aufschnittplatte. Besonders gut schmeckt sie zur Jause im Weckerl, in der Semmel oder auf frischem Weißbrot.<li>Preis pro kg<li>ohne Geschmacksverstärker und ohne Allergene<li>mit 74 % Schweine- und Rindfleisch",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Unterdorf 395, A 6874 Bizau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Broger Bregenzerwälder Fleischwaren GmbH&CoKG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: 74% Schweine-und Rindfleisch, Trinkwasser, unjodiertes Speisesalz, Gewürze, Gewürzextrakte, Konservierungsstoff: Natriumnitrit; Antioxidationsmittel: Ascobinsäure; Stabilisator: Diphosphate; gekörnte Brühe (Würze, Salz, Rapsöl)",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 2900
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 2.8
+        }
+      ],
+      "name": "Extrawurst Stange",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 219,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 917,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bis +6°C mindestens haltbar bis: siehe Aufdruck",
+      "sustenanceClaim": "Hergestellt ohne Geschmacksverstärker, ohne Allergene",
+      "usageHints": "Hülle nicht zum Verzehr geeignet. Nach dem Öffnen zum ehest baldigen Verzehr bestimmt"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 16.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 16.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 16.9,
+    "unit": "100 g 1.69"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Broger Extrawurst",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/broger-extrawurst/00-37069"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 16.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 16.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 16.9,
+    "unit": "100 g 1.69"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 99640,
+  "recommendationArticleIds": [],
+  "seoDescription": "Broger Extrawurst online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Broger Extrawurst online bestellen | BILLA",
+  "slug": "broger-extrawurst",
+  "storeAvalibility": [
+    "00-8400",
+    "00-8395",
+    "00-8409",
+    "00-8530",
+    "00-99202"
+  ],
+  "url": "/produkte/broger-extrawurst/00-37069",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

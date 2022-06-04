@@ -1,0 +1,188 @@
+{
+  "articleGroupIds": [
+    "B2-55"
+  ],
+  "articleId": "00-498332",
+  "articleOnlyCanonicalPath": "/produkte/frosta-gemuese-mix-minestrone/00-498332",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Frosta",
+  "brandPath": "/marken/frosta",
+  "canonicalPath": "/produkte/frosta-gemuese-mix-minestrone/00-498332",
+  "category": "Tiefkühl",
+  "description": "Die ungewürzte Suppen Gemüsemischung mit Kartoffelwürfel, Bohnen, Erbsen und Kräutern ist die perfekte Grundlage für eine typische Minestrone nach italienischer Rezeptur.<br>In nur wenigen Minuten mit Wasser zubereitet und mit etwas Salz, Pfeffer und Olivenöl verfeinert, ist sie eine leckere und wohlschmeckende Gemüsesuppe.",
+  "eanCodes": [
+    "4008366015696"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mendelssohnstrasse 15D,22761 Hamburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "FRoSTA Tiefkühlkost GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-07-07T00:00:00",
+      "ingredients": "Zutaten: Kartoffeln (14%), Karotten, Kürbis, Brechbohnen, Zucchini, Wirsingkohl, Erbsen, Borlottibohnen, Tomaten, Blattspinat, rote Zwiebeln, Basilikum, Petersilie, Knoblauch.  Kann Spuren von Weizen, Gerste, Milch, Sellerie enthalten.",
+      "mandatoryIndicator": "Es werden keine Zusatzstoffe verwendet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.645
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 0.6
+        }
+      ],
+      "name": "Gemüsemischung (84%) nach italienischer Art mit Kartoffeln und Kräutern. Ungewürzt. Tiefgefroren.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 49,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 204,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 7.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Bitte das Produkt tiefgefroren zubereiten.",
+          "type": "Sieden - Zubereitung der Speise in kochendem Wasser"
+        }
+      ]
+    }
+  ],
+  "grammage": "600 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 6.65"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Frosta Gemüse Mix Minestrone",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55/produkte/frosta-gemuese-mix-minestrone/00-498332"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.99,
+    "unit": "1 kg 6.65"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Frosta Gemüse Mix Minestrone online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frosta Gemüse Mix Minestrone online bestellen | BILLA",
+  "slug": "frosta-gemuese-mix-minestrone",
+  "storeAvalibility": [
+    "00-2342",
+    "00-3120",
+    "00-10",
+    "00-2111",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/frosta-gemuese-mix-minestrone/00-498332",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,362 @@
+{
+  "articleGroupIds": [
+    "B2-481",
+    "B2-491"
+  ],
+  "articleId": "00-18232",
+  "articleOnlyCanonicalPath": "/produkte/huetthaler-krakauer/00-18232",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hütthaler",
+  "canonicalPath": "/produkte/huetthaler-krakauer/00-18232",
+  "category": "Kühlwaren",
+  "description": "Milde Frischwurst mit Einlage aus frischem Schlögelfleisch, mit edlen Gewürzen verfeinert.",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Linzer Straße 1, 4690 Schwanenstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Hütthaler KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "07673/2230-0",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.huetthaler.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweine- & Rindfleisch (86%), Wasser, Speisesalz, Säuerungsmittel: Natriumlaktat; Stabilisatoren: Di- & Polyphosphate; Geschmacksverstärker: Mononatriumglutamat; Gewürzextrakte, Aroma, Gewürze (enthält SENF), Antioxidationsmittel: Ascorbinsäure, Natriumascorbat; Konservierungsstoff: Natriumnitrit.",
+      "mandatoryIndicator": "Wursthülle nicht essbar",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 3.01
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Kilogramm",
+          "value": 3
+        }
+      ],
+      "name": "Krakauer",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 162,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 676,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bis max. +6°C.\nUngeöffnet mindestens haltbar bis: siehe Aufdruck",
+      "sustenanceClaim": "Die Nährwerte können bei vorliegendem Produkt schwanken.",
+      "usageHints": "Nach dem Öffnen empfehlen wir den sofortigen Verzehr."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Hütthaler Krakauer",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/huetthaler-krakauer/00-18232",
+    "~/warengruppe/kuehlwaren/feinkost/wurst/B2-491/produkte/huetthaler-krakauer/00-18232"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 22.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 22.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 22.9,
+    "unit": "100 g 2.29"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 108000,
+  "recommendationArticleIds": [],
+  "seoDescription": "Hütthaler Krakauer online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hütthaler Krakauer online bestellen | BILLA",
+  "slug": "huetthaler-krakauer",
+  "storeAvalibility": [
+    "00-4690",
+    "00-5381",
+    "00-4076",
+    "00-4466",
+    "00-4945",
+    "00-5067",
+    "00-5108",
+    "00-4513",
+    "00-5363",
+    "00-5531",
+    "00-3379",
+    "00-4672",
+    "00-3135",
+    "00-4673",
+    "00-6845",
+    "00-4748",
+    "00-5000",
+    "00-4834",
+    "00-4770",
+    "00-5027",
+    "00-4440",
+    "00-4813",
+    "00-5199",
+    "00-4840",
+    "00-5290",
+    "00-3196",
+    "00-5967",
+    "00-5454",
+    "00-5165",
+    "00-4660",
+    "00-4424",
+    "00-4551",
+    "00-3983",
+    "00-4912",
+    "00-4565",
+    "00-5405",
+    "00-5031",
+    "00-5447",
+    "00-4146",
+    "00-6502",
+    "00-4059",
+    "00-4482",
+    "00-4078",
+    "00-4879",
+    "00-4226",
+    "00-5529",
+    "00-4629",
+    "00-4675",
+    "00-5226",
+    "00-5414",
+    "00-4982",
+    "00-4619",
+    "00-3979",
+    "00-4881",
+    "00-5552",
+    "00-5962",
+    "00-6910",
+    "00-4107",
+    "00-5945",
+    "00-4524",
+    "00-4838",
+    "00-8953",
+    "00-3378",
+    "00-4021",
+    "00-4225",
+    "00-8441",
+    "00-5391",
+    "00-9589",
+    "00-4605",
+    "00-4847",
+    "00-6895",
+    "00-6366",
+    "00-4655",
+    "00-4170",
+    "00-4099",
+    "00-4540",
+    "00-4016",
+    "00-5223",
+    "00-4126",
+    "00-3700",
+    "00-4756",
+    "00-5603",
+    "00-5322",
+    "00-4674",
+    "00-5306",
+    "00-5112",
+    "00-4291",
+    "00-3711",
+    "00-4925",
+    "00-3259",
+    "00-5003",
+    "00-4478",
+    "00-4755",
+    "00-5078",
+    "00-4407",
+    "00-5777",
+    "00-4003",
+    "00-5082",
+    "00-4200",
+    "00-3322",
+    "00-4441",
+    "00-4779",
+    "00-4421",
+    "00-3560",
+    "00-3996",
+    "00-4707",
+    "00-5359",
+    "00-5737",
+    "00-4932",
+    "00-4283",
+    "00-6001",
+    "00-4001",
+    "00-4952",
+    "00-4249",
+    "00-4350",
+    "00-5871",
+    "00-4270",
+    "00-4700",
+    "00-5104",
+    "00-5181",
+    "00-4104",
+    "00-4601",
+    "00-4469",
+    "00-4489",
+    "00-3326",
+    "00-4090",
+    "00-4028",
+    "00-3420",
+    "00-99202"
+  ],
+  "url": "/produkte/huetthaler-krakauer/00-18232",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

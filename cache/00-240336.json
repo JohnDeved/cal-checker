@@ -1,0 +1,270 @@
+{
+  "articleGroupIds": [
+    "B2-484"
+  ],
+  "articleId": "00-240336",
+  "articleOnlyCanonicalPath": "/produkte/hofstaedter-leichtschinken/00-240336",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofstädter",
+  "brandPath": "/marken/hofstaedter",
+  "canonicalPath": "/produkte/hofstaedter-leichtschinken/00-240336",
+  "category": "Kühlwaren",
+  "description": "Aromatischer Genuss mit gutem Gewissen: Der Hofstädter Leichtschinken enthält nur 2 g Fett pro 100 g, schmeckt herrlich würzig und bereichert jede Wurstplatte.<li>mit zartem Schweinefleisch aus Österreich<li>nur natürliche Aromen, ohne Geschmacksverstärker<li>gekühlte Lieferung",
+  "eanCodes": [
+    "9003740012464"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, 2355 Wiener Neudorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Delikatessa GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "hofstaedter@rewe-group.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "02236 600 6941",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-12-13T00:00:00",
+      "ingredients": "Zutaten: 92% Schweinefleisch, Wasser, Speisesalz, Maltodextrin, Dextrose, Stabilisatoren: Di-, Tri-, Polyphosphate; Gewürze, Gewürzextrakte, Antioxidationsmittel: Natriumascorbat; Konservierungsstoff: Natriumnitrit.",
+      "mandatoryIndicator": "unter Schutzatmosphäre verpackt\r\nAT-30533-EG",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.1
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Leichtschinken (Kochpökelware)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 414,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 4.9,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 98,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 2.9,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.2,
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.6,
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 38,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 33,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-6 °C",
+      "sustenanceClaim": "Fettarm Leichtschinken-Dieser Schinken enthält um 75% weniger Fett als Saunaschinken.",
+      "usageHints": "Nach dem Öffnen fest verschließen und ehebaldigst verzehren."
+    }
+  ],
+  "grammage": "100 g Packung",
+  "grammageBadge": "100 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 2.35,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.89,
+    "unit": "1 kg 18.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Hofstädter Leichtschinken",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/schinken/B2-484/produkte/hofstaedter-leichtschinken/00-240336"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 2.35,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Packungen"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.89,
+    "unit": "1 kg 18.90"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 161360,
+  "recommendationArticleIds": [
+    "00-439747"
+  ],
+  "seoDescription": "Hofstädter Leichtschinken online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Hofstädter Leichtschinken online bestellen | BILLA",
+  "slug": "hofstaedter-leichtschinken",
+  "storeAvalibility": [
+    "00-4283",
+    "00-3856",
+    "00-1107",
+    "00-3709",
+    "00-9290",
+    "00-281",
+    "00-323",
+    "00-1032",
+    "00-4482",
+    "00-1480",
+    "00-10",
+    "00-4690",
+    "00-2360",
+    "00-7393",
+    "00-3871",
+    "00-3059",
+    "00-4513",
+    "00-3857",
+    "00-1457",
+    "00-4126",
+    "00-355",
+    "00-99202"
+  ],
+  "url": "/produkte/hofstaedter-leichtschinken/00-240336",
+  "vatCode": "10",
+  "video": ""
+}

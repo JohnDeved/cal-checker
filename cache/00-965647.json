@@ -1,0 +1,392 @@
+{
+  "articleGroupIds": [
+    "B2-412",
+    "B2-132"
+  ],
+  "articleId": "00-965647",
+  "articleOnlyCanonicalPath": "/produkte/simply-good-bunte-vielfalt/00-965647",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Simply Good",
+  "brandPath": "/marken/simply-good",
+  "canonicalPath": "/produkte/simply-good-bunte-vielfalt/00-965647",
+  "category": "Kühlwaren",
+  "description": "Frische Karotten, nussiger Vogerlsalat und farbenfroher Radicchio Variegato machen unseren Salatbecher Bunte Vielfalt knackig-süß. Ein Genuss für Augen und Gaumen: Unser essfertiger Simply Good Bunte Vielfalt Salatbecher macht seinem Name alle Ehre. Dafür kombinieren wir knackige Karotten mit nussigem Vogerlsalat und mild-süßem Radicchio Variegato. Der ist aufgrund seiner dekorativen, weinrot gesprenkelten Blätter auch als Orchideensalat bekannt. Die gartenfrische Salatmischung wird nach der Ernte sorgfältig gewaschen und abgepackt. Somit kannst du sie sofort genießen.",
+  "eanCodes": [
+    "9010437012409"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fructose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Saccharose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glucose",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [],
+      "countryOrigins": [],
+      "fromDate": "2022-03-22T00:00:00",
+      "ingredients": "Zutaten: Salate in veränderlichen Gewichtsanteilen (Feldsalat, Radicchio variegato), Karotte.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.116
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        },
+        {
+          "type": "Portionsgroesse",
+          "unit": "Gramm",
+          "value": 50
+        }
+      ],
+      "name": "Salatmischung gewaschen und essfertig",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 67,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 0.8,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 16,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.2,
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.9,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.7,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.5,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0.5,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 50 Gramm",
+          "relationValue": 50,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 134,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 1.6,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 32,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 0.4,
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1.9,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3.3,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.06,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "portions": 2,
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 2-4 °C",
+      "usageHints": "Nach dem Öffnen  unmittelbar verzehren."
+    }
+  ],
+  "grammage": "100 g Becher",
+  "grammageBadge": "100 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 19.90"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Simply Good Bunte Vielfalt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/schnelle-kueche/salate2/B2-412/produkte/simply-good-bunte-vielfalt/00-965647",
+    "~/warengruppe/obst-und-gemuese/salate3/salate-verpackt/B2-132/produkte/simply-good-bunte-vielfalt/00-965647"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 19.90"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 171390,
+  "recommendationArticleIds": [],
+  "seoDescription": "Simply Good Bunte Vielfalt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Simply Good Bunte Vielfalt online bestellen | BILLA",
+  "slug": "simply-good-bunte-vielfalt",
+  "storeAvalibility": [
+    "00-3871",
+    "00-8012",
+    "00-5306",
+    "00-4421",
+    "00-3063",
+    "00-281",
+    "00-225",
+    "00-6480",
+    "00-3431",
+    "00-6845",
+    "00-3076",
+    "00-1003",
+    "00-4441",
+    "00-6439",
+    "00-10",
+    "00-112",
+    "00-4540",
+    "00-4551",
+    "00-323",
+    "00-3611",
+    "00-3005",
+    "00-6219",
+    "00-2369",
+    "00-1047",
+    "00-3055",
+    "00-2923",
+    "00-1457",
+    "00-4690",
+    "00-3606",
+    "00-5962",
+    "00-7606",
+    "00-4629",
+    "00-3059",
+    "00-4482",
+    "00-5108",
+    "00-4126",
+    "00-6910",
+    "00-3452",
+    "00-3633",
+    "00-6884",
+    "00-7860",
+    "00-3780",
+    "00-4466",
+    "00-4478",
+    "00-4756",
+    "00-5363",
+    "00-4912",
+    "00-7603",
+    "00-2364",
+    "00-176",
+    "00-290",
+    "00-3157",
+    "00-1107",
+    "00-7565",
+    "00-99202",
+    "00-4226",
+    "00-7940",
+    "00-8213",
+    "00-3551",
+    "00-4170",
+    "00-1265",
+    "00-440",
+    "00-2840",
+    "00-1631",
+    "00-309",
+    "00-7584",
+    "00-4707",
+    "00-3857",
+    "00-3118",
+    "00-1913",
+    "00-3569",
+    "00-7857",
+    "00-119",
+    "00-5112",
+    "00-3512",
+    "00-7675",
+    "00-9753",
+    "00-4834",
+    "00-4932",
+    "00-7084",
+    "00-4283",
+    "00-8360",
+    "00-4755",
+    "00-7393",
+    "00-2342",
+    "00-5199",
+    "00-3234",
+    "00-1943",
+    "00-1132",
+    "00-783",
+    "00-3214",
+    "00-1032",
+    "00-7835",
+    "00-355",
+    "00-4513",
+    "00-3114",
+    "00-7539",
+    "00-3023",
+    "00-3889",
+    "00-2111",
+    "00-3700",
+    "00-2208",
+    "00-6864",
+    "00-7358",
+    "00-4524",
+    "00-4078",
+    "00-7653",
+    "00-1071",
+    "00-7114",
+    "00-6819",
+    "00-7223",
+    "00-5223"
+  ],
+  "url": "/produkte/simply-good-bunte-vielfalt/00-965647",
+  "vatCode": "10",
+  "video": ""
+}

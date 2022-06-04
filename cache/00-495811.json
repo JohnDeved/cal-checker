@@ -1,0 +1,205 @@
+{
+  "articleGroupIds": [
+    "B2-311",
+    "B2-331",
+    "B2-457"
+  ],
+  "articleId": "00-495811",
+  "articleOnlyCanonicalPath": "/produkte/starbucks-hazelnut-macchiato/00-495811",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Starbucks",
+  "brandPath": "/marken/starbucks",
+  "canonicalPath": "/produkte/starbucks-hazelnut-macchiato/00-495811",
+  "category": "Getränke",
+  "description": "Perfekter Kaffeegenuss für unterwegs: Der Starbucks Hazelnut Macchiato im handlichen Cup-Becher schmeckt am besten gekühlt.<br>Eine ausgewogene Mischung aus Starbucks Espresso und Milch, verfeinert mit dem Aroma gerösteter Haselnüsse.",
+  "eanCodes": [
+    "5711953051258"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "8260 Viby/DK",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Arla Foods Amba",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DÄNEMARK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 75% TRINKMILCH mit 3,1% Fettgehalt, 19,4% \nKaffeezubereitung (Wasser und Kaffee-Extrakt) 5%, Zucker, fettarmes Kakaopulver 0,2%, natürliches Aroma, Säureregulator: Kaliumcarbonat, Stabilisatoren: Carrageen, Guarkernmehl, Emulgatoren: Mono- und Diglyceride von Speisefettsäuren, Kaffee, Zucker und Kakao nach Fairtrade Standards gehandelt, Gesamtanteil 93% ausgenommen flüssige Zutaten.",
+      "mandatoryIndicator": "Ultrahocherhitzt. Erhöhter Koffeingehlat (40mg/100ml)",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 246
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 220
+        }
+      ],
+      "name": "Trinkmilch, 3,1 % Fett im Milchanteil mit Kaffee und Haselnussgeschmack.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 71,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 298,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 2.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "verzehrfertig",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Bei 8°C"
+    }
+  ],
+  "grammage": "220 ml Becher (Einweg)",
+  "grammageBadge": "220 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "1 l 8.86"
+  },
+  "maximalOrderQuantity": 50,
+  "minimalOrderQuantity": 0,
+  "name": "Starbucks Hazelnut Macchiato",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311/produkte/starbucks-hazelnut-macchiato/00-495811",
+    "~/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331/produkte/starbucks-hazelnut-macchiato/00-495811",
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/starbucks-hazelnut-macchiato/00-495811"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.95,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.95,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.95,
+    "unit": "1 l 8.86"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "rank": 203840,
+  "recommendationArticleIds": [],
+  "seoDescription": "Starbucks Hazelnut Macchiato online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Starbucks Hazelnut Macchiato online bestellen | BILLA",
+  "slug": "starbucks-hazelnut-macchiato",
+  "storeAvalibility": [
+    "00-10",
+    "00-281",
+    "00-99202"
+  ],
+  "url": "/produkte/starbucks-hazelnut-macchiato/00-495811",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,247 @@
+{
+  "articleGroupIds": [
+    "B2-211",
+    "B2-221",
+    "B2-6E3",
+    "B2-6E2"
+  ],
+  "articleId": "00-887644",
+  "articleOnlyCanonicalPath": "/produkte/schaer-meisterbaeckers-mehrkorn-glutenfrei/00-887644",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Schär",
+  "brandPath": "/marken/schaer",
+  "canonicalPath": "/produkte/schaer-meisterbaeckers-mehrkorn-glutenfrei/00-887644",
+  "category": "Brot & Gebäck",
+  "description": "Das weizen- und laktosefreie Schnittbrot Schär Meisterbäckers Mehrkorn Glutenfrei wurde speziell für Menschen mit Zöliakie kreiert.<li>gebacken aus Sauerteig, Hirse und Quinoa<li>enthält Leinsamen, Sonnenblumenkerne, Sorghum und Kastanienmehl<li>weizen- und laktosefrei<li>ohne Konservierungsstoffe<li>verzehrfertiges Schnittbrot",
+  "eanCodes": [
+    "8008698007389",
+    "8008698027424"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "allergyIndicator": "SOJA, LUPINEN, SESAM, SENF",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "CROSSED_GRAIN_SYMBOL",
+              "valueTranslation": "CROSSED GRAIN (Durchgestrichene Ähre) (Coeliac) (glutenfreie Nahrung)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Winkelau 9 - 39014 Burgstall / Postal (BZ) - Italy",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Dr. Schär AG / SPA",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ITALIEN"
+      ],
+      "fromDate": "2022-04-01T00:00:00",
+      "ingredients": "Zutaten: Maisstärke,Wasser, Sauerteig 14% (Reismehl,Wasser), Reisstärke, Flohsamenschalen (Plantago\nPsyllium),\nReissirup, Sonnenblumenöl, SOJAFLOCKEN, Sonnenblumenkerne 2,1%, Hirsemehl 2%, Leinsamen\n1,9%, Verdickungsmittel: Hydroxypropylmethylcellulose; Quinoamehl 1,3%, Hefe, Reismehl 1,3%,\nSOJAPROTEIN, SOJAKLEIE, jodiertes Salz (Salz, Kaliumjodid), Mohnsamen 0,6%, Chiasamen (Salvia\nhispanica) 0,6%, Honig. Kann Spuren von LUPINEN, SESAM und SENF enthalten",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 348
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 330
+        }
+      ],
+      "name": "Glutenfreies Körnerbrot",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1044,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 249,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 9.43,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 38,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 9.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.97,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Bei Raumtemperatur trocken lagern",
+      "sustenanceClaim": "Glutenfrei, Weizenfrei, Laktosefrei"
+    }
+  ],
+  "grammage": "300 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 10.97"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Schär Meisterbäckers Mehrkorn Glutenfrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211/produkte/schaer-meisterbaeckers-mehrkorn-glutenfrei/00-887644",
+    "~/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221/produkte/schaer-meisterbaeckers-mehrkorn-glutenfrei/00-887644",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/laktosefrei/B2-6E3/produkte/schaer-meisterbaeckers-mehrkorn-glutenfrei/00-887644",
+    "~/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2/produkte/schaer-meisterbaeckers-mehrkorn-glutenfrei/00-887644"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.29,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.29,
+    "unit": "1 kg 10.97"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 117820,
+  "recommendationArticleIds": [
+    "00-887604"
+  ],
+  "seoDescription": "Schär Meisterbäckers Mehrkorn Glutenfrei online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Schär Meisterbäckers Mehrkorn Glutenfrei online bestellen | BILLA",
+  "slug": "schaer-meisterbaeckers-mehrkorn-glutenfrei",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10",
+    "00-355",
+    "00-4551"
+  ],
+  "url": "/produkte/schaer-meisterbaeckers-mehrkorn-glutenfrei/00-887644",
+  "vatCode": "10",
+  "video": ""
+}

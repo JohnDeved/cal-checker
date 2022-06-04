@@ -1,0 +1,155 @@
+{
+  "articleGroupIds": [
+    "B2-322"
+  ],
+  "articleId": "00-9639",
+  "articleOnlyCanonicalPath": "/produkte/zipfer-maerzen-bier/00-9639",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Zipfer",
+  "brandPath": "/marken/zipfer",
+  "canonicalPath": "/produkte/zipfer-maerzen-bier/00-9639",
+  "category": "Getränke",
+  "description": "In geselliger Runde mundet ein kühles Bier am besten. Das Zipfer Märzen Bier überzeugt mit seiner Ausgewogenheit und der fein abgerundeten Hopfennote.<li>gebraut mit Naturhopfen aus dem Mühlviertel<li>traditionelle Braukunst",
+  "eanCodes": [
+    "9003100118010"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "4871 Zipf.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Brauerei Zipf",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen.",
+      "marketingMessage": "Premium-Qualität\nEin Glas heller Freude\nErfrischender Biergenuss für Genießer\nDas österreichische Premium Märzen\nGebraut mit Naturhopfen\nGebraut aus sorgfältig ausgewählten Rohstoffen.\nMit Freude gebraut\nBitte verantwortungsvoll genießen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.35
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 0.33
+        }
+      ],
+      "name": "Vollbier",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 172,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 41,
+              "unit": "Kilokalorie"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme geschützt lagern"
+    }
+  ],
+  "grammage": "0.33 l Dose (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.07,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.07,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.07,
+    "unit": "500 ml 1.62"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Zipfer Märzen Bier",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322/produkte/zipfer-maerzen-bier/00-9639"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.07,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.07,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.07,
+    "unit": "500 ml 1.62"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 122170,
+  "recommendationArticleIds": [],
+  "seoDescription": "Zipfer Märzen Bier online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Zipfer Märzen Bier online bestellen | BILLA",
+  "slug": "zipfer-maerzen-bier",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/zipfer-maerzen-bier/00-9639",
+  "vatCode": "20",
+  "video": ""
+}

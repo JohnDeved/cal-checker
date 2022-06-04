@@ -1,0 +1,317 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-371"
+  ],
+  "articleId": "00-425887",
+  "articleOnlyCanonicalPath": "/produkte/frankenmarkter-mineralwasser-mild/00-425887",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Frankenmarkter",
+  "canonicalPath": "/produkte/frankenmarkter-mineralwasser-mild/00-425887",
+  "category": "Getränke",
+  "description": "<b>Mineralwasser für die ganze Familie</b><br>Das Frankenmarkter Mineralwasser hat eine ausgewogene Balance aus Mineralstoffen, Spurenelementen und einem besonders niedrigen Nitratwert.<br>Dadurch entspricht es auch allen Anforderungen für die Zubereitung von Säuglingsnahrung. Aufgrund seines neutralen Eigengeschmacks<br>eignet es sich hervorragend zum Mischen mit Fruchtsäften und Wein.",
+  "eanCodes": [
+    "9002349002678"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bahnhofstraße 1, 4890 Frankenmarkt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Starzinger GmbH & Co KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.frankenmarkter.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2016-08-02T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.55
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "natürliches Mineralwasser mit Kohlensäure versetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 4.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 0.9,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 37,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 16,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 196,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Nitrat",
+              "nutritionalValue": 0.6,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Silizium",
+              "nutritionalValue": 38,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 9.9,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "origin": "Abgefüllt aus der Quelle II in 4890 Frankenmarkt.",
+      "preperations": [],
+      "storageHint": "Vor Licht und Wärme schützen.",
+      "sustenanceClaim": "Charakteristische Bestandteile mg/l\nKationen: Calcium 37,  Magnesium 16, Natrium 4,5;  Anionen: Hydrogencarbonat 196, m-Kieselsäure 38, Sulfat 9,9, Chlorid 0,9, Nitrate 0,6. Summe der gelösten festen Stoffe: 302. Geeignet für natriumarme Ernährung.",
+      "usageHints": "Flasche steht unter Druck, daher keine Gewalt anwenden."
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.27,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.55,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.27,
+    "unit": "1 l .18"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Frankenmarkter Mineralwasser Mild",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/frankenmarkter-mineralwasser-mild/00-425887",
+    "~/warengruppe/getraenke/mineralwasser/mild/B2-371/produkte/frankenmarkter-mineralwasser-mild/00-425887"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.27,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 0.55,
+    "priceAdditionalInfo": {
+      "vptxt": "je 12 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "EXTREM"
+      },
+      {
+        "name": "6PLUS6"
+      }
+    ],
+    "sale": 0.27,
+    "unit": "1 l .18"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 88090,
+  "recommendationArticleIds": [
+    "00-861714"
+  ],
+  "seoDescription": "Frankenmarkter Mineralwasser Mild online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Frankenmarkter Mineralwasser Mild online bestellen | BILLA",
+  "slug": "frankenmarkter-mineralwasser-mild",
+  "storeAvalibility": [
+    "00-4838",
+    "00-4249",
+    "00-4076",
+    "00-4424",
+    "00-4540",
+    "00-4605",
+    "00-4912",
+    "00-3196",
+    "00-4099",
+    "00-5414",
+    "00-4016",
+    "00-4225",
+    "00-4524",
+    "00-4847",
+    "00-4001",
+    "00-99202",
+    "00-4813",
+    "00-4146",
+    "00-5777",
+    "00-4945",
+    "00-5531",
+    "00-4270",
+    "00-4672",
+    "00-4932",
+    "00-4441",
+    "00-4629",
+    "00-4690",
+    "00-4700",
+    "00-5871",
+    "00-4779",
+    "00-4126",
+    "00-4755",
+    "00-4489",
+    "00-4469",
+    "00-4952",
+    "00-4478",
+    "00-4834",
+    "00-4925",
+    "00-4090",
+    "00-4707",
+    "00-4170",
+    "00-4982",
+    "00-4028",
+    "00-4200",
+    "00-4601",
+    "00-4881",
+    "00-4756",
+    "00-4107",
+    "00-4660",
+    "00-4879",
+    "00-4482",
+    "00-4565",
+    "00-4021",
+    "00-4059",
+    "00-4291",
+    "00-4078",
+    "00-4421",
+    "00-4619",
+    "00-5603",
+    "00-4674",
+    "00-4440",
+    "00-4104",
+    "00-5962",
+    "00-4513",
+    "00-5967",
+    "00-4283",
+    "00-4655",
+    "00-4003",
+    "00-4748",
+    "00-4770",
+    "00-4350",
+    "00-4466",
+    "00-4407",
+    "00-4673",
+    "00-4840",
+    "00-4226",
+    "00-4551"
+  ],
+  "url": "/produkte/frankenmarkter-mineralwasser-mild/00-425887",
+  "vatCode": "20",
+  "video": ""
+}

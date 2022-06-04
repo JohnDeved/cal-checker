@@ -1,0 +1,213 @@
+{
+  "articleGroupIds": [
+    "B2-683"
+  ],
+  "articleId": "00-900971",
+  "articleOnlyCanonicalPath": "/produkte/bonduelle-goldmais-mexiko-mix/00-900971",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Bonduelle",
+  "brandPath": "/marken/bonduelle",
+  "canonicalPath": "/produkte/bonduelle-goldmais-mexiko-mix/00-900971",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Bonduelle Goldmais Mexiko Mix ist eine herzhafte Mischung aus Mais, Paprika und Erbsen. Er eignet sich zum Füllen von Tortillas, für Eintöpfe und Salate.<li>Gemüse-Konserve mit Mais, rotem Paprika und Markerbsen<li>knackig und frisch, ohne Aroma-Zusätze<li>gentechnikfreies Gemüse",
+  "eanCodes": [
+    "3083680019323"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-72766 Reutlingen, Am Heilbrunnen 136/138",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bonduelle Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Gemüse (49% Gemüsemais, 29% Markerbsen , 10% Paprika rot), Wasser, Salz.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 280
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 402
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 340
+        }
+      ],
+      "name": "Gemüsemischung aus Gemüsemais, Erbsen und Paprika, schonend dampfgegart",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 340,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 81,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 4.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.57,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet bei Zimmertemperatur trocken lagern. Nach dem Öffnen gekühlt lagern und innerhalb eines Tages verbrauchen."
+    }
+  ],
+  "grammage": "340 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 5.85"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Bonduelle Goldmais Mexiko Mix",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683/produkte/bonduelle-goldmais-mexiko-mix/00-900971"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 kg 5.85"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 46890,
+  "recommendationArticleIds": [],
+  "seoDescription": "Bonduelle Goldmais Mexiko Mix online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Bonduelle Goldmais Mexiko Mix online bestellen | BILLA",
+  "slug": "bonduelle-goldmais-mexiko-mix",
+  "storeAvalibility": [
+    "00-720",
+    "00-1132",
+    "00-3780",
+    "00-7653",
+    "00-4655",
+    "00-10",
+    "00-99202",
+    "00-2342",
+    "00-4779",
+    "00-1529",
+    "00-7606",
+    "00-4605",
+    "00-3617"
+  ],
+  "url": "/produkte/bonduelle-goldmais-mexiko-mix/00-900971",
+  "vatCode": "10",
+  "video": ""
+}

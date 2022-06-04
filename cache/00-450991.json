@@ -1,0 +1,394 @@
+{
+  "articleGroupIds": [
+    "B2-611"
+  ],
+  "articleId": "00-450991",
+  "articleOnlyCanonicalPath": "/produkte/alnatura-mie-nudeln/00-450991",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Alnatura",
+  "brandPath": "/marken/alnatura",
+  "canonicalPath": "/produkte/alnatura-mie-nudeln/00-450991",
+  "category": "Grundnahrungsmittel",
+  "description": "Feine Bio-Nudeln für Suppen, Wok-Gerichte und andere asiatische Speisen.<br>Kurze Garzeit von vier bis sechs Minuten.",
+  "eanCodes": [
+    "4104420142664"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_AGRICULTURE",
+              "valueTranslation": "EU Landwirtschaft - Alle Rohmaterialien in der EU angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Mahatma-Gandhi-Straße 7, 64295 Darmstadt",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Alnatura GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.alnatura.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-11-12T00:00:00",
+      "ingredients": "Zutaten: WEIZENMEHL*, HARTWEIZENGRIEß*\n. Kann Spuren von Ei enthalten.",
+      "marketingMessage": "Feine Bio-Nudeln für Suppen, Wok-Gerichte und andere asiatische Speisen. Kurze Garzeit von vier bis sechs Minuten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 258
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 250
+        }
+      ],
+      "name": "Bio Teigwaren aus Weizenmehl und Hartweizengrieß",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1546,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 364,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 75,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.03,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Die gewünschte Anzahl an Nudelnestern in reichlich kochendes, gesalzenes Wasser geben und ca. 4-6 Min. bis zur gewünschten Bissfestigkeit kochen.",
+          "type": "Trockene/konzentrierte Nahrung mit Wasser wieder in urspruengliche Festigkeit/Konsistenz bringen"
+        }
+      ],
+      "storageHint": "Bitte trocken lagern und vor Wärme schützen."
+    }
+  ],
+  "grammage": "250 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 8.36"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Alnatura Mie Nudeln",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/asia-und-mexican-produkte/asia-produkte/B2-611/produkte/alnatura-mie-nudeln/00-450991"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.09,
+    "unit": "1 kg 8.36"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 134990,
+  "recommendationArticleIds": [],
+  "seoDescription": "Alnatura Mie Nudeln online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Alnatura Mie Nudeln online bestellen | BILLA",
+  "slug": "alnatura-mie-nudeln",
+  "storeAvalibility": [
+    "00-836",
+    "00-519",
+    "00-4107",
+    "00-1550",
+    "00-5108",
+    "00-1114",
+    "00-249",
+    "00-1098",
+    "00-1457",
+    "00-440",
+    "00-3042",
+    "00-1425",
+    "00-9589",
+    "00-4090",
+    "00-4605",
+    "00-1121",
+    "00-3162",
+    "00-411",
+    "00-1943",
+    "00-3102",
+    "00-3600",
+    "00-521",
+    "00-2306",
+    "00-1524",
+    "00-1017",
+    "00-5104",
+    "00-823",
+    "00-3744",
+    "00-3120",
+    "00-3996",
+    "00-4690",
+    "00-1027",
+    "00-2369",
+    "00-119",
+    "00-3920",
+    "00-6480",
+    "00-3560",
+    "00-7653",
+    "00-3979",
+    "00-4779",
+    "00-355",
+    "00-350",
+    "00-4001",
+    "00-1529",
+    "00-1476",
+    "00-1018",
+    "00-4551",
+    "00-5531",
+    "00-1128",
+    "00-4655",
+    "00-1117",
+    "00-3669",
+    "00-3170",
+    "00-408",
+    "00-794",
+    "00-1409",
+    "00-702",
+    "00-7743",
+    "00-8395",
+    "00-4672",
+    "00-3322",
+    "00-471",
+    "00-6219",
+    "00-3180",
+    "00-3688",
+    "00-5777",
+    "00-2342",
+    "00-6138",
+    "00-3709",
+    "00-4945",
+    "00-1479",
+    "00-1249",
+    "00-4249",
+    "00-1198",
+    "00-7721",
+    "00-4700",
+    "00-2313",
+    "00-4440",
+    "00-1771",
+    "00-1417",
+    "00-1207",
+    "00-3856",
+    "00-5603",
+    "00-2201",
+    "00-5000",
+    "00-783",
+    "00-1132",
+    "00-3700",
+    "00-1016",
+    "00-3114",
+    "00-4707",
+    "00-4675",
+    "00-7114",
+    "00-1108",
+    "00-6676",
+    "00-2208",
+    "00-7606",
+    "00-1750",
+    "00-281",
+    "00-604",
+    "00-7539",
+    "00-943",
+    "00-1120",
+    "00-2899",
+    "00-4834",
+    "00-2259",
+    "00-3780",
+    "00-9332",
+    "00-2111",
+    "00-9415",
+    "00-3420",
+    "00-771",
+    "00-1071",
+    "00-5552",
+    "00-1532",
+    "00-703",
+    "00-1136",
+    "00-1212",
+    "00-10",
+    "00-3094",
+    "00-117",
+    "00-3363",
+    "00-3445",
+    "00-397",
+    "00-3617",
+    "00-3005",
+    "00-5027",
+    "00-1480",
+    "00-4673",
+    "00-2045",
+    "00-4466",
+    "00-220",
+    "00-3713",
+    "00-1649",
+    "00-1900",
+    "00-4021",
+    "00-3146",
+    "00-4078",
+    "00-2131",
+    "00-3583",
+    "00-720",
+    "00-3121",
+    "00-3507",
+    "00-2098",
+    "00-2907",
+    "00-5871",
+    "00-1500",
+    "00-2840",
+    "00-99202"
+  ],
+  "url": "/produkte/alnatura-mie-nudeln/00-450991",
+  "vatCode": "10",
+  "video": ""
+}

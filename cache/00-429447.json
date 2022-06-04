@@ -1,0 +1,261 @@
+{
+  "articleGroupIds": [
+    "B2-457"
+  ],
+  "articleId": "00-429447",
+  "articleOnlyCanonicalPath": "/produkte/tirol-milch-buttermilch-heidelbeere/00-429447",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "s_falergen",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tirol-milch-buttermilch-heidelbeere/00-429447",
+  "category": "Kühlwaren",
+  "description": "Die Tirol Milch Buttermilch Heidelbeere ist der Frischekick nach dem Sport, die wohltuende Ergänzung zum Frühstück oder der bekömmliche Snack für zwischendurch.<li>Buttermilch mit Heidelbeeraroma<li>hergestellt aus Bergbauernmilch",
+  "eanCodes": [
+    "9006020013229"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ARGE_GENTECHNIK_FREI",
+              "valueTranslation": "ARGE-Label (Ohne Gentechnik hergestellt)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch Molkerei Wörgl, Berglandmilch eGen",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-09-16T00:00:00",
+      "ingredients": "Zutaten: Laktosefreie BUTTERMILCH, Zucker, 5,7% Heidelbeerpüree, schwarzes Karottenkonzentrat, Hibiskuskonzentrat, Zitronensaftkonzentrat, Stabilisator Pektin, natürliches Aroma.",
+      "marketingMessage": "Dürfen wir Sie auf ein erfrischendes Prickeln einladen? Mit der Tiroler Buttermilch aus bester Tiroler Bergbauernmilch entscheiden Sie sich zum einen für ein hochwertiges Milchprodukt und zum anderen für eine ganze Schar an rechtsdrehenden Kulturen. Rechtsdrehende Milchsäure ist ein Zwischenprodukt des menschlichen Stoffwechsels und auch deshalb so herrlich bekömmlich und wohltuend.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.529
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 500
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 472
+        }
+      ],
+      "name": "Laktosefreie Buttermilch mit 5,7% Heidelbeer, aus pasteurisierter Bergbauernmilch mit 1% Fett.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 60,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 255,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.11,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet, gekühlt bei 3-7°C mindestens haltbar bis: siehe Giebel.",
+      "usageHints": "Vor dem Öffnen gut schütteln."
+    }
+  ],
+  "grammage": "500 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 kg 2.18"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tirol Milch Buttermilch Heidelbeere",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/tirol-milch-buttermilch-heidelbeere/00-429447"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.09,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.09,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.09,
+    "unit": "1 kg 2.18"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 40050,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tirol Milch Buttermilch Heidelbeere online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tirol Milch Buttermilch Heidelbeere online bestellen | BILLA",
+  "slug": "tirol-milch-buttermilch-heidelbeere",
+  "storeAvalibility": [
+    "00-8243",
+    "00-8241",
+    "00-8213",
+    "00-8334",
+    "00-8606",
+    "00-8155",
+    "00-8031",
+    "00-8426",
+    "00-8173",
+    "00-8657",
+    "00-8188",
+    "00-8140",
+    "00-8085",
+    "00-8646",
+    "00-8230",
+    "00-8075",
+    "00-8417",
+    "00-8076",
+    "00-8360",
+    "00-8193",
+    "00-8185",
+    "00-8158",
+    "00-8895",
+    "00-8154",
+    "00-8070",
+    "00-8022",
+    "00-8159",
+    "00-8636",
+    "00-8151",
+    "00-99202"
+  ],
+  "url": "/produkte/tirol-milch-buttermilch-heidelbeere/00-429447",
+  "vatCode": "10",
+  "video": ""
+}

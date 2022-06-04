@@ -1,0 +1,210 @@
+{
+  "articleGroupIds": [
+    "B2-451"
+  ],
+  "articleId": "00-580959",
+  "articleOnlyCanonicalPath": "/produkte/meggle-kraeuter-tube/00-580959",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_spezern",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Meggle",
+  "brandPath": "/marken/meggle",
+  "canonicalPath": "/produkte/meggle-kraeuter-tube/00-580959",
+  "category": "Kühlwaren",
+  "description": "Echter MEGGLE-Geschmack - auch vegan.<br>Wenn du ein begeisterter Grillfan bist und zu jeder Gelegenheit den Grill anheizt - sei es im Park, am See oder am Strand - dann ist unsere Kräuter-Tube genau das Richtige für dich.<br>Mit frischen Kräutern, vollmundig lecker und dabei zu 100% pflanzlich, ist sie der perfekte Begleiter für unterwegs. Direkt aus dem Kühlschrank einsatzbereit und besonders praktisch zum Garnieren.",
+  "eanCodes": [
+    "4034900011244"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Megglestr. 6-12\n83512 Wasserburg",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "MEGGLE GmbH & Co. KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2022-03-21T00:00:00",
+      "ingredients": "Zutaten: \nPflanzliche Öle und Fette (Raps, Kokos, Shea, in veränderlichen Gewichtsanteilen), Wasser, Zwiebeln, Petersilie 6%, Knoblauch 4%, Salz, Stärke, Gewürze, Kräuter, Zitronensaftkonzentrat, Emulgatoren: Sonnenblumenlecithin, Mono- und Diglyceride von Speisefettsäuren; natürliches Knoblaucharoma, Farbstoff: Beta-Carotin.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 91
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 76
+        }
+      ],
+      "name": "Würzige Zubereitung mit Kräutern zum Kochen, Grillen und Verfeinern",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 509,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2092,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 55,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Nach dem auspacken kann das Produkt sofort verzehrt werden.",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Kühlung bei < 10 °C ohne Unterbrechung"
+    }
+  ],
+  "grammage": "80 Milliliter Tube",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.85,
+    "unit": "1 l 23.13"
+  },
+  "maximalOrderQuantity": 8,
+  "minimalOrderQuantity": 0,
+  "name": "Meggle Kräuter Tube",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/butter/B2-451/produkte/meggle-kraeuter-tube/00-580959"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.85,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.85,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.85,
+    "unit": "1 l 23.13"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Meggle Kräuter Tube online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Meggle Kräuter Tube online bestellen | BILLA",
+  "slug": "meggle-kraeuter-tube",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/meggle-kraeuter-tube/00-580959",
+  "vatCode": "10",
+  "video": ""
+}

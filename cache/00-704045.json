@@ -1,0 +1,319 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-704045",
+  "articleOnlyCanonicalPath": "/produkte/hoellinger-bio-marillennektar/00-704045",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Höllinger",
+  "brandPath": "/marken/hoellinger",
+  "canonicalPath": "/produkte/hoellinger-bio-marillennektar/00-704045",
+  "category": "Getränke",
+  "description": "Natürlich lecker und herrlich erfrischend: Mit dem Höllinger Bio Marillennektar aus Marillenpüree genießen Sie die Süße von Früchten jeden Tag.<li>aus kontrolliert biologischem Anbau<li>auch für eine vegetarische oder vegane Ernährung geeignet<li>mindestens 40% Fruchtgehalt<li>enthält Zucker",
+  "eanCodes": [
+    "9120008998596"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "HERKUNFTSANGABE_EU_OEKO",
+              "description": "Herkunftsangabe gemäß EU-Öko-Verordnung (M162)",
+              "hasTranslation": "True",
+              "value": "EU_OR_NON_EU_AGRICULTURE",
+              "valueTranslation": "EU/Nicht-EU Landwirtschaft - Teile der Rohmaterialien in der EU, Teile in Drittländern angebaut"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-3021 Pressbaum Postfach 1 / Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "IMS Höllinger Gmbh",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@hoellinger-juice.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-02-22T00:00:00",
+      "ingredients": "Zutaten: Wasser, Marillenpüree*, Zucker*.\n*Aus kontrolliert biologischem Anbau",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.08
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "Bio Marillennektar* direkt gepresst. Fruchtgehalt mind. 40 %. Pasteurisiert.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 57,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 243,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Geöffnet gekühlt 3 Tage haltbar",
+      "usageHints": "gut schütteln;"
+    }
+  ],
+  "grammage": "1 l Packung (Einweg)",
+  "grammageBadge": "1 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 2,99 €"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Höllinger Bio Marillennektar",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/hoellinger-bio-marillennektar/00-704045"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 l 2,99 €"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 102560,
+  "recommendationArticleIds": [
+    "00-244089"
+  ],
+  "seoDescription": "Höllinger Bio Marillennektar online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Höllinger Bio Marillennektar online bestellen | BILLA",
+  "slug": "hoellinger-bio-marillennektar",
+  "storeAvalibility": [
+    "00-7084",
+    "00-8946",
+    "00-3856",
+    "00-3857",
+    "00-249",
+    "00-4783",
+    "00-7606",
+    "00-3681",
+    "00-3076",
+    "00-4126",
+    "00-3023",
+    "00-4655",
+    "00-8213",
+    "00-4107",
+    "00-6533",
+    "00-4605",
+    "00-3700",
+    "00-6884",
+    "00-4675",
+    "00-1132",
+    "00-1108",
+    "00-3709",
+    "00-4551",
+    "00-1913",
+    "00-3431",
+    "00-9290",
+    "00-8012",
+    "00-3384",
+    "00-99202",
+    "00-7857",
+    "00-3150",
+    "00-7393",
+    "00-4982",
+    "00-7358",
+    "00-3551",
+    "00-3780",
+    "00-3512",
+    "00-3143",
+    "00-6928",
+    "00-3617",
+    "00-7539",
+    "00-7860",
+    "00-2111",
+    "00-4249",
+    "00-3114",
+    "00-6740",
+    "00-10",
+    "00-1032",
+    "00-4421",
+    "00-2342",
+    "00-4690",
+    "00-3118",
+    "00-7114",
+    "00-4779",
+    "00-5199",
+    "00-5306",
+    "00-4524",
+    "00-1128",
+    "00-4932",
+    "00-1457",
+    "00-1041",
+    "00-7653",
+    "00-2109",
+    "00-3445",
+    "00-3234",
+    "00-6588",
+    "00-3506"
+  ],
+  "url": "/produkte/hoellinger-bio-marillennektar/00-704045",
+  "vatCode": "20",
+  "video": ""
+}

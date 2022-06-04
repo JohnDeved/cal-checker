@@ -1,0 +1,212 @@
+{
+  "articleGroupIds": [
+    "B2-581",
+    "B2-582"
+  ],
+  "articleId": "00-357152",
+  "articleOnlyCanonicalPath": "/produkte/oswald-eispralinen-erdbeer/00-357152",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Oswald",
+  "canonicalPath": "/produkte/oswald-eispralinen-erdbeer/00-357152",
+  "category": "Tiefkühl",
+  "description": "Tiefgefrorene Erdbeeren mit Vollmilch-Schokolade überzogen.",
+  "eanCodes": [
+    "5901122237129"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Maierhof 48\nA-8443 Gleinstätten",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Fritz Oswald GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.obst-oswald.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-09-24T00:00:00",
+      "ingredients": "Zutaten: Erdbeeren 55%, Vollmilch-Schokolade 45 % (Zucker, Kakaobutter, VOLLMILCHPULVER, Kakaomasse, BUTTERREINFETT, Emulgator: SOJALECITHIN, Vanilleextrakt/ Kakaogehalt mindestens 35 %). Kann Spuren von\nNÜSSEN enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 170
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 120
+        }
+      ],
+      "name": "Tiefgefrorene Erdbeeren überzogen mit Vollmilch-Schokolade",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1194,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 286,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 27,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 25,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.08,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Vor dem Verzehr 15 Minuten lang auftauen lassen.",
+          "type": "Auftauen des Produktes zur Raumtemperatur oder einem noch gekuehlten Zustand"
+        }
+      ],
+      "storageHint": "Aufbewahrung: Kühlschrank 1 Tag, * Fach o. Eiswürfelfach (-6°C): 4Tage,\n** Fach (-12°C) 3 Wochen,\n*** Fach o. Tiefkühltruhe (-18°C) siehe Verfalldatum",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren."
+    }
+  ],
+  "grammage": "120 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 24.92"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Oswald Eispralinen Erdbeer",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/desserts-und-fruechte/fruechte/B2-581/produkte/oswald-eispralinen-erdbeer/00-357152",
+    "~/warengruppe/tiefkuehl/desserts-und-fruechte/suessspeisen/B2-582/produkte/oswald-eispralinen-erdbeer/00-357152"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.99,
+    "unit": "1 kg 24.92"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 78020,
+  "recommendationArticleIds": [],
+  "seoDescription": "Oswald Eispralinen Erdbeer online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Oswald Eispralinen Erdbeer online bestellen | BILLA",
+  "slug": "oswald-eispralinen-erdbeer",
+  "storeAvalibility": [
+    "00-2342",
+    "00-10",
+    "00-7075",
+    "00-4551",
+    "00-3780",
+    "00-99202"
+  ],
+  "url": "/produkte/oswald-eispralinen-erdbeer/00-357152",
+  "vatCode": "10",
+  "video": ""
+}

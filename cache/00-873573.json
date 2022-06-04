@@ -1,0 +1,242 @@
+{
+  "articleGroupIds": [
+    "B2-681"
+  ],
+  "articleId": "00-873573",
+  "articleOnlyCanonicalPath": "/produkte/weinviertler-fleischschmalz/00-873573",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "s_ranking"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Hofmann",
+  "canonicalPath": "/produkte/weinviertler-fleischschmalz/00-873573",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Weinviertler Fleischschmalz ist der herzhafte Genuss für die Jause. Der Aufstrich passt besonders gut zu einem rustikalen Bauernbrot oder Vollkornweckerl.<li>in Österreich produziert<li>mit Schweinefleisch und Speck<li>fein abgeschmeckt mit verschiedenen Gewürzen, Nitritpökelsalz und Senf",
+  "eanCodes": [
+    "9120020813877"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Fleischerei Hofmann GmbH., Sparkassegasse 26-28, 2020 Hollabrunn.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Fleischerei Hofmann GmbH.",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Schweinefleisch (68%), Speck, Nitritpökelsalz (Kochsalz unjodiert, Konservierungsmittel: Natriumnitrit), Gewürze (enthält SENFSAMEN, SELLERIE), Dextrose, Speisegelatine, Gewürzextrakte, Geschmacksverstärker: Mononatriumglutamat, Antioxidationsmittel: Ascorbinsäure.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 330
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Fleischkonserve",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 446,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1875,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 38.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 15.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.9,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Lagerung bei Zimmertemperatur (bis +22°C)"
+    }
+  ],
+  "grammage": "150 Gramm Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.89,
+    "unit": "1 kg 25.93"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Weinviertler Fleischschmalz",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/aufstriche/B2-681/produkte/weinviertler-fleischschmalz/00-873573"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.89,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.89,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.89,
+    "unit": "1 kg 25.93"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 39240,
+  "recommendationArticleIds": [],
+  "seoDescription": "Weinviertler Fleischschmalz online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Weinviertler Fleischschmalz online bestellen | BILLA",
+  "slug": "weinviertler-fleischschmalz",
+  "storeAvalibility": [
+    "00-9308",
+    "00-3860",
+    "00-9688",
+    "00-9167",
+    "00-3023",
+    "00-9001",
+    "00-3138",
+    "00-3468",
+    "00-3714",
+    "00-3920",
+    "00-3889",
+    "00-3713",
+    "00-3611",
+    "00-3681",
+    "00-3856",
+    "00-3830",
+    "00-9209",
+    "00-3149",
+    "00-3214",
+    "00-3688",
+    "00-3740",
+    "00-3005",
+    "00-9266",
+    "00-3125",
+    "00-3025",
+    "00-3010",
+    "00-3507",
+    "00-3501",
+    "00-9324",
+    "00-99202",
+    "00-9639",
+    "00-3055",
+    "00-3709",
+    "00-3509",
+    "00-3512",
+    "00-3146",
+    "00-3140",
+    "00-3206",
+    "00-3022",
+    "00-3047",
+    "00-3583",
+    "00-3114",
+    "00-3150",
+    "00-3739",
+    "00-3143",
+    "00-3157",
+    "00-3212",
+    "00-9753",
+    "00-9225",
+    "00-3103",
+    "00-3349",
+    "00-9498",
+    "00-3744",
+    "00-3401",
+    "00-3062",
+    "00-3105",
+    "00-9183",
+    "00-3384"
+  ],
+  "url": "/produkte/weinviertler-fleischschmalz/00-873573",
+  "vatCode": "10",
+  "video": ""
+}

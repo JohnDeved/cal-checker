@@ -1,0 +1,277 @@
+{
+  "articleGroupIds": [
+    "B2-449",
+    "B2-490",
+    "B2-442"
+  ],
+  "articleId": "00-35015",
+  "articleOnlyCanonicalPath": "/produkte/ja-natuerlich-bergtaler/00-35015",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_spezern",
+    "s_feinkost",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio",
+    "s_aut"
+  ],
+  "brand": "Ja! Natürlich",
+  "brandPath": "/marken/ja-natuerlich",
+  "canonicalPath": "/produkte/ja-natuerlich-bergtaler/00-35015",
+  "category": "Kühlwaren",
+  "description": "Der Ja! Natürlich Bio-Bergtaler wird aus bester pasteurisierter Bio-Heublumenmilch aus dem Salzburger Flachgau gekäst. Charakteristisch für ihn ist sein mild, zart schmelzender Geschmack.<br><li>Aus Bio-Heublumenmilch<li>Zart-schmelzend im Geschmack<li>Laktosefrei<li>100% Bio<li>Aus Österreich</li>",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Molkeneiweiss",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Casein",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 2000, A-2355",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Ja! Natürlich Naturprodukte Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@janatuerlich.at",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefax",
+          "detail": "-",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 2236 600 6950",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-01-26T00:00:00",
+      "ingredients": "Bio-HEUMILCH PASTEURISIERT, Lab Mikrobiell, Speisesalz, Milchsäurekulturen",
+      "mandatoryIndicator": "AT-50190-EG\r\nAT-BIO-301\nÖsterreich Landwirtschaft\r\naus pasteurisierter Bio-Milch 45% F.i.T.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 5
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1000
+        }
+      ],
+      "name": "Schnittkäse 45% F.i.T., aus pasteurisierter Bio Heumilch g.t.S.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1383,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "",
+              "nutritionName": "Energie",
+              "nutritionalValue": 333,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 37,
+              "measureDefinition": "",
+              "nutritionName": "Fett",
+              "nutritionalValue": 26,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 90,
+              "measureDefinition": "",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 48,
+              "measureDefinition": "",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 17,
+              "measureDefinition": "",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "",
+              "nutritionName": "Organische Säuren",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei 4-8 °C",
+      "usageHints": "Nach dem Öffnen gekühlt lagern und ehebaldigst verzehren."
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": true,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.5,
+    "unit": "100 g 1.95"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Ja! Natürlich Bergtaler",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schnittkaese/B2-449/produkte/ja-natuerlich-bergtaler/00-35015",
+    "~/warengruppe/kuehlwaren/feinkost/kaese/B2-490/produkte/ja-natuerlich-bergtaler/00-35015",
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost/B2-442/produkte/ja-natuerlich-bergtaler/00-35015"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 19.5,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 19.5,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 19.5,
+    "unit": "100 g 1.95"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 88150,
+  "recommendationArticleIds": [],
+  "seoDescription": "Ja! Natürlich Bergtaler online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Ja! Natürlich Bergtaler online bestellen | BILLA",
+  "slug": "ja-natuerlich-bergtaler",
+  "storeAvalibility": [
+    "00-115",
+    "00-3042",
+    "00-5078",
+    "00-3780",
+    "00-3118",
+    "00-117",
+    "00-3082",
+    "00-10",
+    "00-2313",
+    "00-176",
+    "00-119",
+    "00-836",
+    "00-355",
+    "00-1710",
+    "00-408",
+    "00-950",
+    "00-3593",
+    "00-3857",
+    "00-3452",
+    "00-309",
+    "00-3234",
+    "00-3050",
+    "00-5027",
+    "00-174",
+    "00-7539",
+    "00-3120",
+    "00-281",
+    "00-2342",
+    "00-6676",
+    "00-1457",
+    "00-3384",
+    "00-8185",
+    "00-1017",
+    "00-3044",
+    "00-99202"
+  ],
+  "url": "/produkte/ja-natuerlich-bergtaler/00-35015",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

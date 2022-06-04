@@ -1,0 +1,310 @@
+{
+  "articleGroupIds": [
+    "B2-317",
+    "B2-372"
+  ],
+  "articleId": "00-413687",
+  "articleOnlyCanonicalPath": "/produkte/gasteiner-sparkling/00-413687",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_einweg",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Gasteiner",
+  "brandPath": "/marken/gasteiner",
+  "canonicalPath": "/produkte/gasteiner-sparkling/00-413687",
+  "category": "Getränke",
+  "description": "Gasteiner Mineralwasser stammt aus der unberührten, hochalpinen Bergwelt des Nationalparks Hohe Tauern. Dieser natürlichen Herkunft verdankt es seine kristallklare Reinheit, seine ausgewogene Mineralisierung, seinen neutralen Geschmack und seine Bekömmlichkeit für den Organismus.<br>Gasteiner sparkling - kristallklar und rein, mit 6,5 Gramm Kohlensäure pro Liter.<li>100% rePET</li>",
+  "eanCodes": [
+    "9028800426722"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "PET_TO_PET",
+              "valueTranslation": "PET to PET (Recycling von PET Flaschen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Erlengrundstrasse 14, A-5640 Bad Gastein",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Gasteiner Mineralwasser Gesellschaft m.b.H.",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Soziale Netzwerke",
+          "detail": "#gasteiner",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.gasteiner.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2021-06-28T00:00:00",
+      "mandatoryIndicator": "Quelle: Kristallquelle|5640 Bad Gastein|Austria",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1532.9
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Natürliches Mineralwasser mit Kohlensäure versetzt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Natrium",
+              "nutritionalValue": 18.3,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Chlorid",
+              "nutritionalValue": 10.7,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fluorid",
+              "nutritionalValue": 0.85,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalium",
+              "nutritionalValue": 2.5,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kalzium",
+              "nutritionalValue": 33,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Magnesium",
+              "nutritionalValue": 1.93,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Bicarbonat (oder Hydrogencarbonat)",
+              "nutritionalValue": 84.8,
+              "unit": "Milligramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Sulfat 4+",
+              "nutritionalValue": 36,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Liter",
+          "relationValue": 1,
+          "unit": "Liter"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 6,
+  "name": "Gasteiner Sparkling",
+  "orderQuantityStepSize": 6,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317/produkte/gasteiner-sparkling/00-413687",
+    "~/warengruppe/getraenke/mineralwasser/prickelnd/B2-372/produkte/gasteiner-sparkling/00-413687"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.75,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.75,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.75,
+    "unit": "1 l .50"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 107890,
+  "recommendationArticleIds": [
+    "00-869075"
+  ],
+  "seoDescription": "Gasteiner Sparkling online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gasteiner Sparkling online bestellen | BILLA",
+  "slug": "gasteiner-sparkling",
+  "storeAvalibility": [
+    "00-4770",
+    "00-8155",
+    "00-4482",
+    "00-8243",
+    "00-6001",
+    "00-8606",
+    "00-8657",
+    "00-4748",
+    "00-8022",
+    "00-5226",
+    "00-8895",
+    "00-5454",
+    "00-8636",
+    "00-5031",
+    "00-5000",
+    "00-8185",
+    "00-4226",
+    "00-4952",
+    "00-5078",
+    "00-4291",
+    "00-5003",
+    "00-5108",
+    "00-8070",
+    "00-8441",
+    "00-8151",
+    "00-5165",
+    "00-5603",
+    "00-8417",
+    "00-4945",
+    "00-8173",
+    "00-4838",
+    "00-4270",
+    "00-8646",
+    "00-4660",
+    "00-4440",
+    "00-5290",
+    "00-8140",
+    "00-8075",
+    "00-5181",
+    "00-5027",
+    "00-5945",
+    "00-4707",
+    "00-5112",
+    "00-5552",
+    "00-4078",
+    "00-5405",
+    "00-8334",
+    "00-5531",
+    "00-8085",
+    "00-5306",
+    "00-5737",
+    "00-4283",
+    "00-4847",
+    "00-4107",
+    "00-8953",
+    "00-8188",
+    "00-4407",
+    "00-5447",
+    "00-8159",
+    "00-8031",
+    "00-6366",
+    "00-8076",
+    "00-8230",
+    "00-8193",
+    "00-5391",
+    "00-4813",
+    "00-8360",
+    "00-6489",
+    "00-5322",
+    "00-5104",
+    "00-4466",
+    "00-4540",
+    "00-4655",
+    "00-5414",
+    "00-8158",
+    "00-8241",
+    "00-8213",
+    "00-5363",
+    "00-4076",
+    "00-4225",
+    "00-8426",
+    "00-6502",
+    "00-10",
+    "00-5199",
+    "00-5223",
+    "00-4146",
+    "00-4099",
+    "00-5067",
+    "00-8154",
+    "00-5529",
+    "00-5381",
+    "00-4925",
+    "00-5359",
+    "00-5082",
+    "00-99202"
+  ],
+  "url": "/produkte/gasteiner-sparkling/00-413687",
+  "vatCode": "20",
+  "video": ""
+}

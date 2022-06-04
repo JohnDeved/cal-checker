@@ -1,0 +1,234 @@
+{
+  "articleGroupIds": [
+    "B2-14",
+    "B2-636",
+    "B2-743"
+  ],
+  "articleId": "00-342816",
+  "articleOnlyCanonicalPath": "/produkte/seeberger-nusskernmischung/00-342816",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Seeberger",
+  "brandPath": "/marken/seeberger",
+  "canonicalPath": "/produkte/seeberger-nusskernmischung/00-342816",
+  "category": "Obst & Gemüse",
+  "description": "Die Nusskernmischung von Seeberger ist ein gesunder und sättigender Snack für zwischendurch. Die Nüsse versorgen den Körper mit Mineralien und Spurenelementen.<li>unter Schutzatmosphäre verpackt<li>enthält Mandeln, Cashewkerne, Haselnüsse und Walnüsse",
+  "eanCodes": [
+    "4008258150092"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "Schalenfrüchten, Nüssen, Steinfrüchten, Erdnüssen",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-89025 Ulm, Deutschland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Seeberger GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: NUSSKERNMISCHUNG in veränderlichen Gewichtsanteilen (HASELNUSSKERNE, blanchierte MANDELN, CASHEWKERNE), WALNUSSKERNE (10 %).\nKann Spuren von anderen Schalenfrüchten (z.B. Nüssen und Steinfrüchten) und Erdnüssen enthalten.",
+      "mandatoryIndicator": "Achtung! Insbesondere Kinder unter 4 Jahren können sich an Nüssen leicht verschlucken, so dass diese in die Atemwege gelangen können. Deshalb Produkt außerhalb der Reichweite von kleinen Kindern aufbewahren.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 155
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Nusskernmischung",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2661,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 643,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 56,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 6.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon einfach ungesättigte Fettsäuren",
+              "nutritionalValue": 36,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon mehrfach ungesättigte Fettsäuren",
+              "nutritionalValue": 13,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 11,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 154,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 18,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor Wärme und Feuchtigkeit geschützt aufbewahren."
+    }
+  ],
+  "grammage": "150 Gramm Beutel",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.79,
+    "unit": "1 kg 31.93"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Seeberger Nusskernmischung",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/obst-und-gemuese/trockenfruechte-und-nuesse/B2-14/produkte/seeberger-nusskernmischung/00-342816",
+    "~/warengruppe/grundnahrungsmittel/backen/nuesse-und-kerne/B2-636/produkte/seeberger-nusskernmischung/00-342816",
+    "~/warengruppe/suesses-und-salziges/chips-und-co/nuesse/B2-743/produkte/seeberger-nusskernmischung/00-342816"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.79,
+    "unit": "1 kg 31.93"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 63560,
+  "recommendationArticleIds": [],
+  "seoDescription": "Seeberger Nusskernmischung online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Seeberger Nusskernmischung online bestellen | BILLA",
+  "slug": "seeberger-nusskernmischung",
+  "storeAvalibility": [
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/seeberger-nusskernmischung/00-342816",
+  "vatCode": "10",
+  "video": ""
+}

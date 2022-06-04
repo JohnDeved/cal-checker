@@ -1,0 +1,392 @@
+{
+  "articleGroupIds": [
+    "B2-656"
+  ],
+  "articleId": "00-544255",
+  "articleOnlyCanonicalPath": "/produkte/inzersdorfer-huhn-suess-sauer-mit-gemuese/00-544255",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Inzersdorfer",
+  "brandPath": "/marken/inzersdorfer",
+  "canonicalPath": "/produkte/inzersdorfer-huhn-suess-sauer-mit-gemuese/00-544255",
+  "category": "Grundnahrungsmittel",
+  "description": "Das Fertigmenü Huhn süß-sauer mit Gemüse nach asiatischer Art von Inzersdorfer schmeckt hervorragend zu Reis und ist schon nach zwei bis drei Minuten fertig.<li>Hühnerfleisch in süß-saurer Soße, mit Karotten und Ananas",
+  "eanCodes": [
+    "9002600632415"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Postfach 111, A-1131 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Maresi Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800/216411",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.inzersdorfer.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2022-03-24T00:00:00",
+      "ingredients": "Zutaten: Karotten, Glukosesirup, Wasser, Hühnerstreifen gegart [Hühnerfleisch (10%), Wasser, Sonnenblumenöl, Dextrose, Reismehl, Speisesalz], SELLERIE, Zwiebel, Tomatenmark, Dextrose, Ananas, Stärke, Zucker, Speisesalz jodiert (Speisesalz, Kaliumiodid), Ananassaftkonzentrat, Weingeistessig, Weißweinessig, modifizierte Stärke, Curry Pulver, Säuerungsmittel: Citronensäure; Gewürzextrakte, Verdickungsmittel: Xanthan.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.451
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 400
+        }
+      ],
+      "name": "Huhn süß-sauer mit 28% Gemüse",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 118,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 501,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 24,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 12,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1.8,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [
+        {
+          "instruction": "Zubereitung: Im Kochtopf: Inhalt in passenden Topf leeren, erwärmen und heiß servieren.",
+          "type": "Erhitzen und servieren - Vor dem Servieren erhitzen oder erwaermen"
+        },
+        {
+          "instruction": "Zubereitung: In der Mikrowelle: Inhalt in einen Teller leeren und zugedeckt bei 600-750 Watt ca. 2- 3 Minuten erhitzen.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Nach dem Öffnen gekühlt lagern und innerhalb von 3 Tagen verbrauchen.",
+      "sustenanceClaim": "ohne Geschmacksverstärker"
+    }
+  ],
+  "grammage": "400 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59,
+    "unit": "1 kg 8.98"
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Inzersdorfer Huhn süß-sauer mit Gemüse",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/menues-und-dosengerichte/B2-656/produkte/inzersdorfer-huhn-suess-sauer-mit-gemuese/00-544255"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.59,
+    "unit": "1 kg 8.98"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 82160,
+  "recommendationArticleIds": [],
+  "seoDescription": "Inzersdorfer Huhn süß-sauer mit Gemüse online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Inzersdorfer Huhn süß-sauer mit Gemüse online bestellen | BILLA",
+  "slug": "inzersdorfer-huhn-suess-sauer-mit-gemuese",
+  "storeAvalibility": [
+    "00-1901",
+    "00-3709",
+    "00-2301",
+    "00-7653",
+    "00-7721",
+    "00-3860",
+    "00-1455",
+    "00-3001",
+    "00-4099",
+    "00-3688",
+    "00-2131",
+    "00-3617",
+    "00-987",
+    "00-220",
+    "00-3140",
+    "00-1016",
+    "00-3005",
+    "00-1039",
+    "00-3445",
+    "00-3780",
+    "00-3841",
+    "00-3114",
+    "00-1099",
+    "00-6684",
+    "00-1107",
+    "00-4104",
+    "00-1479",
+    "00-2220",
+    "00-6676",
+    "00-3349",
+    "00-3143",
+    "00-3125",
+    "00-4675",
+    "00-2222",
+    "00-3326",
+    "00-7368",
+    "00-3512",
+    "00-3146",
+    "00-4655",
+    "00-2109",
+    "00-2342",
+    "00-355",
+    "00-1027",
+    "00-6439",
+    "00-3063",
+    "00-2100",
+    "00-6480",
+    "00-1117",
+    "00-6864",
+    "00-4605",
+    "00-7229",
+    "00-4945",
+    "00-1958",
+    "00-3363",
+    "00-3094",
+    "00-2111",
+    "00-6975",
+    "00-2260",
+    "00-2170",
+    "00-2148",
+    "00-2675",
+    "00-2011",
+    "00-4783",
+    "00-1409",
+    "00-7860",
+    "00-3023",
+    "00-9589",
+    "00-3150",
+    "00-2261",
+    "00-1120",
+    "00-209",
+    "00-6688",
+    "00-3580",
+    "00-2364",
+    "00-3569",
+    "00-1032",
+    "00-4690",
+    "00-8433",
+    "00-239",
+    "00-1900",
+    "00-497",
+    "00-2098",
+    "00-3059",
+    "00-1017",
+    "00-3822",
+    "00-1041",
+    "00-3394",
+    "00-2204",
+    "00-4674",
+    "00-2306",
+    "00-4021",
+    "00-1002",
+    "00-6916",
+    "00-6745",
+    "00-3940",
+    "00-4421",
+    "00-3506",
+    "00-3118",
+    "00-8012",
+    "00-521",
+    "00-3047",
+    "00-3713",
+    "00-3138",
+    "00-1018",
+    "00-1529",
+    "00-1198",
+    "00-3025",
+    "00-7535",
+    "00-1114",
+    "00-2543",
+    "00-4350",
+    "00-7606",
+    "00-6372",
+    "00-3011",
+    "00-823",
+    "00-1121",
+    "00-2840",
+    "00-6628",
+    "00-7336",
+    "00-4952",
+    "00-7539",
+    "00-2907",
+    "00-3510",
+    "00-4672",
+    "00-289",
+    "00-2190",
+    "00-7743",
+    "00-3157",
+    "00-1457",
+    "00-5108",
+    "00-9688",
+    "00-3509",
+    "00-3042",
+    "00-3121",
+    "00-1207",
+    "00-2369",
+    "00-6022",
+    "00-6496",
+    "00-7114",
+    "00-10",
+    "00-4779",
+    "00-119",
+    "00-2223",
+    "00-3010",
+    "00-3700",
+    "00-2208",
+    "00-3856",
+    "00-1771",
+    "00-1532",
+    "00-9290",
+    "00-1128",
+    "00-3501",
+    "00-6024",
+    "00-3669",
+    "00-4170",
+    "00-350",
+    "00-783",
+    "00-1550",
+    "00-3744",
+    "00-1132",
+    "00-2156",
+    "00-99202"
+  ],
+  "url": "/produkte/inzersdorfer-huhn-suess-sauer-mit-gemuese/00-544255",
+  "vatCode": "10",
+  "video": ""
+}

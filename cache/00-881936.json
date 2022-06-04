@@ -1,0 +1,161 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-881936",
+  "articleOnlyCanonicalPath": "/produkte/brewdog-dead-pony-club/00-881936",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Brewdog",
+  "canonicalPath": "/produkte/brewdog-dead-pony-club/00-881936",
+  "category": "Getränke",
+  "description": "Das leichte Bier mit dem kühnen Namen zeichnet sich durch eine harmonische Mischung aus leichter Hopfenbitternis und dezentem Malzgeschmack aus.<li>fruchtig-bitter<li>mit Mandarine- und Grapefruitnote<li>3,8 % Alkohol<li>100 % vegan",
+  "eanCodes": [
+    "5060154911794"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 3.8,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "VEGAN_SOCIETY_VEGAN_LOGO",
+              "valueTranslation": "Garantiert VEGAN (Produkt und Produktionsprozess tierbestandteil- und tierversuchsfrei)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Balmacassie Commercial Park, Ellon, Scotland (Ecosse) AB41 8BX",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "BrewDog plc",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Mobile Website (oder WAP-Seite) (optimiert für Smartphone etc.)",
+          "detail": "www.brewdog.com",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "GROSSBRITANNIEN"
+      ],
+      "fromDate": "2017-07-25T00:00:00",
+      "ingredients": "Zutaten: Wasser, GERSTENmalz, Hefe, Hopfen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.7
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "origin": "Schottland",
+      "preperations": []
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.45,
+    "unit": "500 ml 3.71"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Brewdog Dead Pony Club",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/brewdog-dead-pony-club/00-881936"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.45,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.45,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.45,
+    "unit": "500 ml 3.71"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 81570,
+  "recommendationArticleIds": [
+    "00-408948"
+  ],
+  "seoDescription": "Brewdog Dead Pony Club online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Brewdog Dead Pony Club online bestellen | BILLA",
+  "slug": "brewdog-dead-pony-club",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/brewdog-dead-pony-club/00-881936",
+  "vatCode": "20",
+  "video": ""
+}

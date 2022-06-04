@@ -1,0 +1,321 @@
+{
+  "articleGroupIds": [
+    "B2-445"
+  ],
+  "articleId": "00-874360",
+  "articleOnlyCanonicalPath": "/produkte/philadelphia-laktosefrei/00-874360",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_falergen",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Philadelphia",
+  "brandPath": "/marken/philadelphia",
+  "canonicalPath": "/produkte/philadelphia-laktosefrei/00-874360",
+  "category": "Kühlwaren",
+  "description": "Ab jetzt wird es cremig-frisch! Denn nun gibt es Philadelphia Klassisch Laktosefrei -  damit jeder unbeschwert genießen kann. Gleicher unwiderstehlicher Geschmack, aber ganz ohne Laktose, sodass jede Brotzeit damit zu einem Vergnügen wird. Ob zum Frühstück, zum Abendbrot oder zum Dippen für den nächsten Abend mit Freunden oder der Familie. Mit dem Philadelphia Laktosefrei wird jetzt jedes Frühstück zu einem leckeren und unbeschwerten Start in den Tag. Der cremig-frische Geschmack veredelt jedes Marmeladenbrot und bringt köstliche Vielfalt auf den Tisch. Eine Packung enthält 5- 6 Portionen, perfekt zum Bestreichen des Lieblingsbrot, -brötchen, Hörnchen oder Croissant! Die Anwendungsmöglichkeiten des Frischkäses sind beinahe unendlich: Zum Bestreichen des Pausenbrotes oder der belegten Brötchen für die Arbeit, als einzigartig- würziger Butterersatz, zum Verfeinern leckerer Gerichte oder als leichte Alternative zur Sandwichcrème. Tipp: Den Philadelphia Laktosefrei auch für die berühmte Philadelphia Torte nutzen, für reinen Tortengenuss ohne Bedenken.",
+  "eanCodes": [
+    "7622210230416"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "FRISCHKÄSE, VOLLMILCH, RAHM",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Schönbrunner Strasse 297-307 A-1120 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Mondelez Österreich GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2020-07-09T00:00:00",
+      "ingredients": "Zutaten: FRISCHKÄSE (CH: VOLLMILCH, RAHM), Speisesalz, Verdickungsmittel (Johannisbrotkernmehl), Laktase.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 163.47
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 150
+        }
+      ],
+      "name": "Laktosefreier** Frischkäse der Doppelrahmstufe, wärmebehandelt. **Laktose <0,01%",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 915,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 221,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 21,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 14,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.85,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 275,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 66,
+              "unit": "Kilokalorie"
+            },
+            {
+              "dailyRequirementPercent": 9,
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 6.2,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 21,
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 4.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 1,
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "<",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 3,
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.6,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 4,
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.26,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 5,
+      "preperations": [],
+      "storageHint": "Nach dem Öffnen innerhalb 1 Woche aufbrauchen.",
+      "sustenanceClaim": "Laktosefrei - Laktose <0,01% Für Vegetarier geeignet."
+    }
+  ],
+  "grammage": "150 g Becher",
+  "grammageBadge": "150 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 9.93"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Philadelphia Laktosefrei",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445/produkte/philadelphia-laktosefrei/00-874360"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK",
+      "FAMILIE"
+    ],
+    "defaultPriceTypes": [
+      "AKTION"
+    ],
+    "final": 1.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": true,
+    "normal": 1.89,
+    "priceAdditionalInfo": {
+      "vptxt": "ab 2 Becher"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "FAMILIE"
+      },
+      {
+        "name": "AKTION"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.49,
+    "unit": "1 kg 9.93"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 147100,
+  "recommendationArticleIds": [
+    "00-504851"
+  ],
+  "seoDescription": "Philadelphia Laktosefrei online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Philadelphia Laktosefrei online bestellen | BILLA",
+  "slug": "philadelphia-laktosefrei",
+  "storeAvalibility": [
+    "00-4690",
+    "00-10",
+    "00-281",
+    "00-4707",
+    "00-3780",
+    "00-99202",
+    "00-2342",
+    "00-7653"
+  ],
+  "url": "/produkte/philadelphia-laktosefrei/00-874360",
+  "vatCode": "10",
+  "video": ""
+}

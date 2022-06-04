@@ -1,0 +1,317 @@
+{
+  "articleGroupIds": [
+    "B2-31A"
+  ],
+  "articleId": "00-381398",
+  "articleOnlyCanonicalPath": "/produkte/sanlucar-orangensaft/00-381398",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "SanLucar",
+  "brandPath": "/marken/sanlucar",
+  "canonicalPath": "/produkte/sanlucar-orangensaft/00-381398",
+  "category": "Getränke",
+  "description": "Der Hersteller SanLucar fängt in seinem Orangensaft das intensive Aroma frischer Orangen ein. Die schonende Herstellung garantiert einen hohen Vitamingehalt.<li>köstliche Mischung fruchtiger Süße und angenehmer Säure",
+  "eanCodes": [
+    "9120070960118"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "SanLucar-Platz 1, 2483 Ebreichsdorf, Österreich",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "SanLucar \"fruit to go\" GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "office@sanlucar.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: 100% Orangensaft",
+      "mandatoryIndicator": "Produkt durch Pasteurisation haltbar gemacht.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 275
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "100% Orangensaft.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 41,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 174,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 28,
+              "unit": "Mikrogramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 45,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Vor dem Öffnen schütteln. Gekühlt lagern. Nach dem Öffnen innerhalb von 2 Tagen aufbrauchen.",
+      "usageHints": "innerhalb von 2 Tagen aufbrauchen."
+    }
+  ],
+  "grammage": "250 ml Flasche (Einweg)",
+  "grammageBadge": "250 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 7.96"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "SanLucar Orangensaft",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/smoothies-und-fresh-juice/B2-31A/produkte/sanlucar-orangensaft/00-381398"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.99,
+    "unit": "1 l 7.96"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    8,
+    16,
+    24,
+    32
+  ],
+  "rank": 84220,
+  "recommendationArticleIds": [],
+  "seoDescription": "SanLucar Orangensaft online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "SanLucar Orangensaft online bestellen | BILLA",
+  "slug": "sanlucar-orangensaft",
+  "storeAvalibility": [
+    "00-6108",
+    "00-8230",
+    "00-1866",
+    "00-8334",
+    "00-4813",
+    "00-771",
+    "00-330",
+    "00-3739",
+    "00-1500",
+    "00-4601",
+    "00-3005",
+    "00-2907",
+    "00-4660",
+    "00-2312",
+    "00-2840",
+    "00-8606",
+    "00-7676",
+    "00-3579",
+    "00-115",
+    "00-1002",
+    "00-6895",
+    "00-174",
+    "00-5078",
+    "00-7249",
+    "00-3234",
+    "00-282",
+    "00-1649",
+    "00-9555",
+    "00-3378",
+    "00-8400",
+    "00-4469",
+    "00-112",
+    "00-1480",
+    "00-2208",
+    "00-1958",
+    "00-1455",
+    "00-4003",
+    "00-783",
+    "00-2204",
+    "00-7073",
+    "00-9589",
+    "00-1671",
+    "00-4619",
+    "00-6018",
+    "00-4673",
+    "00-8657",
+    "00-3551",
+    "00-1670",
+    "00-6219",
+    "00-4226",
+    "00-7611",
+    "00-3050",
+    "00-4021",
+    "00-8235",
+    "00-10",
+    "00-8395",
+    "00-7616",
+    "00-2260",
+    "00-6001",
+    "00-7866",
+    "00-2259",
+    "00-3059",
+    "00-2345",
+    "00-9357",
+    "00-2923",
+    "00-7547",
+    "00-823",
+    "00-309",
+    "00-3584",
+    "00-2342",
+    "00-7721",
+    "00-5027",
+    "00-1801",
+    "00-6559",
+    "00-3321",
+    "00-3063",
+    "00-281",
+    "00-3062",
+    "00-1768",
+    "00-133",
+    "00-9266",
+    "00-1943",
+    "00-1136",
+    "00-6916",
+    "00-2213",
+    "00-3509",
+    "00-6676",
+    "00-4838",
+    "00-4945",
+    "00-2238",
+    "00-3569",
+    "00-1108",
+    "00-3162",
+    "00-388",
+    "00-117",
+    "00-4912",
+    "00-3042",
+    "00-836",
+    "00-950",
+    "00-3259",
+    "00-6758",
+    "00-1750",
+    "00-4104",
+    "00-367",
+    "00-1003",
+    "00-1524",
+    "00-329",
+    "00-3294",
+    "00-289",
+    "00-2808",
+    "00-3308",
+    "00-702",
+    "00-3326",
+    "00-6877",
+    "00-99202"
+  ],
+  "url": "/produkte/sanlucar-orangensaft/00-381398",
+  "vatCode": "20",
+  "video": ""
+}

@@ -1,0 +1,274 @@
+{
+  "articleGroupIds": [
+    "B2-314"
+  ],
+  "articleId": "00-665879",
+  "articleOnlyCanonicalPath": "/produkte/rauch-happy-day-rote-traube/00-665879",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rauch",
+  "brandPath": "/marken/rauch",
+  "canonicalPath": "/produkte/rauch-happy-day-rote-traube/00-665879",
+  "category": "Getränke",
+  "description": "Der Rauch Happy Day Rote Traube Traubensaft hat einen Fruchtanteil von 100 %. Der gesunde Saft schmeckt pur oder gespritzt köstlich.<li>Kalzium-, Kalium- und Magnesiumquelle<li>kalorienarm",
+  "eanCodes": [
+    "9008700149082"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EUROPEAN_V_LABEL_VEGAN",
+              "valueTranslation": "V Label Vegan - European Vegetarian Union (EVU) und Vegetarier-Bund Deutschlands e.V. (VEBU)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "FOREST_STEWARDSHIP_COUNCIL_MIX",
+              "valueTranslation": "FSC MIX (Materialmix aus kontrollierten forstwirtschaftlichen Quellen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Langgasse 1, A-6830 Rankweil, Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Rauch Fruchtsäfte GmbH & Co OG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1120
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1
+        }
+      ],
+      "name": "100% roter Traubensaft.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 68,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 286,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 16.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 16.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.01,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Geöffnet gekühlt 3 Tage haltbar."
+    }
+  ],
+  "grammage": "1 l Packung (Einweg)",
+  "grammageBadge": "1 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 2,19 €"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Rauch Happy Day Rote Traube",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314/produkte/rauch-happy-day-rote-traube/00-665879"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.19,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.19,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.19,
+    "unit": "1 l 2,19 €"
+  },
+  "properties": [],
+  "quantitySteps": [
+    12,
+    24,
+    36
+  ],
+  "rank": 150900,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rauch Happy Day Rote Traube online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rauch Happy Day Rote Traube online bestellen | BILLA",
+  "slug": "rauch-happy-day-rote-traube",
+  "storeAvalibility": [
+    "00-2109",
+    "00-6928",
+    "00-4107",
+    "00-4932",
+    "00-3023",
+    "00-4675",
+    "00-4524",
+    "00-3506",
+    "00-4126",
+    "00-4249",
+    "00-8012",
+    "00-3856",
+    "00-4779",
+    "00-8213",
+    "00-3780",
+    "00-3118",
+    "00-7653",
+    "00-3445",
+    "00-3857",
+    "00-4551",
+    "00-7084",
+    "00-3234",
+    "00-7358",
+    "00-4421",
+    "00-1128",
+    "00-8946",
+    "00-3681",
+    "00-9290",
+    "00-3384",
+    "00-4982",
+    "00-99202",
+    "00-7539",
+    "00-249",
+    "00-3551",
+    "00-3150",
+    "00-7393",
+    "00-7857",
+    "00-6884",
+    "00-4655",
+    "00-2342",
+    "00-2111",
+    "00-7860",
+    "00-3431",
+    "00-3709",
+    "00-1132",
+    "00-6533",
+    "00-10",
+    "00-1041",
+    "00-4605",
+    "00-3076",
+    "00-3617",
+    "00-1913",
+    "00-4690",
+    "00-3114",
+    "00-6740",
+    "00-1032",
+    "00-1108",
+    "00-3143",
+    "00-4783",
+    "00-7606",
+    "00-3512",
+    "00-7114",
+    "00-5199",
+    "00-5306",
+    "00-3700",
+    "00-1457",
+    "00-6588"
+  ],
+  "url": "/produkte/rauch-happy-day-rote-traube/00-665879",
+  "vatCode": "20",
+  "video": ""
+}

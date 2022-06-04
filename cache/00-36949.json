@@ -1,0 +1,219 @@
+{
+  "articleGroupIds": [
+    "B2-481"
+  ],
+  "articleId": "00-36949",
+  "articleOnlyCanonicalPath": "/produkte/broger-waelderschinken/00-36949",
+  "attributes": [
+    "s_marke",
+    "mengemin",
+    "s_hkland",
+    "s_ranking",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Broger",
+  "canonicalPath": "/produkte/broger-waelderschinken/00-36949",
+  "category": "Kühlwaren",
+  "description": "Der Wälderschinken von Broger wird schonend gesurt und geräuchert. Die saftige Spezialität passt mit ihrem vollen Schinkengeschmack zu jeder Jause.<li>Preis pro kg<li>ohne Geschmacksverstärker hergestellt<li>ausgesuchtes Schweinsschlögelfleisch ",
+  "eanCodes": [],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "ADDITIONALPACKAGINGMARKEDLABELACCREDITATION",
+              "description": "Akkreditierungslabel (M310)",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitäskennzeichen und Genusstauglichkeitskennzeichen - Lebensmittelunternehmer"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Unterdorf 395, 6974-Bizau",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Broger Fleischwaren GmbH&Co KG",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Schweineschlögelfleisch, unjodiertes Speisesalz, Gewürzextrakte, natürliches Aroma, Stabilisator: Di - und Triphosphate; Konservierungsstoff: Natriumnitrit; Antioxidationsmittel: Natriumascorbat; Maltodextrin.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 1220
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 1200
+        }
+      ],
+      "name": "Broger Wälderschinken",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 121,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 507,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 19.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt Lagern bis +6°C.",
+      "sustenanceClaim": "Hergestellt ohne Geschmacksverstärker, ohne Allergene.",
+      "usageHints": "Nach dem Öffnen zum ehest baldigen Verzehr bestimmt"
+    }
+  ],
+  "grammage": "Per 100 g",
+  "grammageBadge": "Per 100 g",
+  "grammagePriceFactor": 0.1,
+  "grammageUnit": "g",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": true,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 24.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 24.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 24.9,
+    "unit": "100 g 2.49"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0.1,
+  "name": "Broger Wälderschinken",
+  "orderQuantityStepSize": 0.1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost2/B2-481/produkte/broger-waelderschinken/00-36949"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 24.9,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 24.9,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 24.9,
+    "unit": "100 g 2.49"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 64770,
+  "recommendationArticleIds": [],
+  "seoDescription": "Broger Wälderschinken online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Broger Wälderschinken online bestellen | BILLA",
+  "slug": "broger-waelderschinken",
+  "storeAvalibility": [
+    "00-8409",
+    "00-8400",
+    "00-8530",
+    "00-8395",
+    "00-99202"
+  ],
+  "url": "/produkte/broger-waelderschinken/00-36949",
+  "vatCode": "10",
+  "video": "",
+  "weightOptions": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}

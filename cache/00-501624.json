@@ -1,0 +1,250 @@
+{
+  "articleGroupIds": [
+    "B2-311",
+    "B2-331",
+    "B2-457"
+  ],
+  "articleId": "00-501624",
+  "articleOnlyCanonicalPath": "/produkte/jacobs-icepresso-latte/00-501624",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Jacobs",
+  "brandPath": "/marken/jacobs",
+  "canonicalPath": "/produkte/jacobs-icepresso-latte/00-501624",
+  "category": "Getränke",
+  "eanCodes": [
+    "8711000511060"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "allergyIndicator": "MAGERMILCH",
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "E_MARK"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Oosterdoksstraat 80, 1011 DK Amsterdam, The Netherlands",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "JACOBS DOUWE EGBERTS",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0800 300 310",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.jacobs.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "NIEDERLANDE"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: MAGERMILCH (80%), Wasser, Zucker, löslicher Bohnenkaffee (1,2%), Säureregulator (E501), Aroma.",
+      "mandatoryIndicator": "sterilisiert",
+      "marketingMessage": "Jacobs Icepresso - der trinkfertige, eiskalte Kaffeegenuss aus der Dose macht munter und ist der ideale Begleiter durch den Tag. Dein ice cold coffee-kick mit dem unverwechselbaren Geschmack der Varianten Classic oder Latte  - jederzeit und überall.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.28
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 250
+        }
+      ],
+      "name": "Magermilch mit Kaffee-Extrakt, wärmebehandelt. 0,1% Fett im Milchanteil.",
+      "nutritions": [
+        {
+          "householdPortion": "Dose",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 215,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 50,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 0.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Zubereitung: Schütteln und eiskalt genießen.",
+          "type": "Trinkfertig - Keine Zubereitung erforderlich"
+        }
+      ],
+      "storageHint": "Trocken lagern, vor Wärme schützen."
+    }
+  ],
+  "grammage": "250 ml Dose (Einweg)",
+  "grammageBadge": "250 ml",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": false,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.55,
+    "unit": "1 l 6.20"
+  },
+  "maximalOrderQuantity": 50,
+  "minimalOrderQuantity": 0,
+  "name": "Jacobs Icepresso Latte",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311/produkte/jacobs-icepresso-latte/00-501624",
+    "~/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331/produkte/jacobs-icepresso-latte/00-501624",
+    "~/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457/produkte/jacobs-icepresso-latte/00-501624"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.55,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.55,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.55,
+    "unit": "1 l 6.20"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "rank": 194690,
+  "recommendationArticleIds": [],
+  "seoDescription": "Jacobs Icepresso Latte online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Jacobs Icepresso Latte online bestellen | BILLA",
+  "slug": "jacobs-icepresso-latte",
+  "storeAvalibility": [],
+  "url": "/produkte/jacobs-icepresso-latte/00-501624",
+  "vatCode": "20",
+  "video": ""
+}

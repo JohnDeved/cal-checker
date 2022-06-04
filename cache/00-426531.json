@@ -1,0 +1,247 @@
+{
+  "articleGroupIds": [
+    "B2-453"
+  ],
+  "articleId": "00-426531",
+  "articleOnlyCanonicalPath": "/produkte/tirol-milch-joghurt-stracciatella/00-426531",
+  "attributes": [
+    "s_marke",
+    "s_ranking",
+    "s_spezeig",
+    "s_gekuehlt"
+  ],
+  "authenticatedOnly": false,
+  "availability": 0,
+  "badges": [],
+  "brand": "Tirol Milch",
+  "brandPath": "/marken/tirol-milch",
+  "canonicalPath": "/produkte/tirol-milch-joghurt-stracciatella/00-426531",
+  "category": "Kühlwaren",
+  "description": "Milch trifft auf Schokolade: Das Stracciatella-Joghurt von Tirol Milch ist ein cremiges Geschmackserlebnis für die ganze Familie.<li>Naturprodukt aus österreichischer Bergbauernmilch<li>extra-cremige Konsistenz",
+  "eanCodes": [
+    "9006020010150"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "AMA_SEAL_OF_APPROVAL",
+              "valueTranslation": "AMA-Gütesiegel (Qualitätskontrolle, Österreich)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Lattellaplatz 1, A-6300 Wörgl",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Tirol Milch",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: JOGHURT, Zucker, Glucose-Fructose-Sirup, 1,7% Schokosplits (Kakaomasse, Kakaobutter, Zucker, Emulgator Sonnenblumenlecithin), modifizierte Stärke, Säuerungsmittel Citronensäure,  Aroma.",
+      "marketingMessage": "Joghurt ist ein waschechtes Naturprodukt und ein wahres Energiebündel. Es liefert dem menschlichen Organismus die wichtigen Inhaltsstoffe der Milch. Egal ob geschüttelt oder gerührt, süß oder pikant, zum Trinken oder Löffeln # unsere Joghurts sind so vielfältig wie unser Land.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.189
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 180
+        }
+      ],
+      "name": "Tiroler Stracciatellajoghurt, aus pasteurisierter Bergbauernmilch mit 3,2% Fett im Milchanteil.",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 123,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 519,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 18,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 17,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet, gekühlt (3-7°C) mindestens haltbar bis: siehe Deckel."
+    }
+  ],
+  "grammage": "180 Gramm Becher",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.67,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.67,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.67,
+    "unit": "1 kg 3.72"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Tirol Milch Joghurt Stracciatella",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453/produkte/tirol-milch-joghurt-stracciatella/00-426531"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 0.67,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 0.67,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 0.67,
+    "unit": "1 kg 3.72"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 75760,
+  "recommendationArticleIds": [],
+  "seoDescription": "Tirol Milch Joghurt Stracciatella online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Tirol Milch Joghurt Stracciatella online bestellen | BILLA",
+  "slug": "tirol-milch-joghurt-stracciatella",
+  "storeAvalibility": [
+    "00-8230",
+    "00-8243",
+    "00-8076",
+    "00-8070",
+    "00-8155",
+    "00-8895",
+    "00-8646",
+    "00-8213",
+    "00-8158",
+    "00-8151",
+    "00-8173",
+    "00-8235",
+    "00-8360",
+    "00-8636",
+    "00-8426",
+    "00-8657",
+    "00-8022",
+    "00-8241",
+    "00-8185",
+    "00-8606",
+    "00-8334",
+    "00-7866",
+    "00-8417",
+    "00-8154",
+    "00-8193",
+    "00-8140",
+    "00-8085",
+    "00-8188",
+    "00-8159",
+    "00-8031",
+    "00-8075",
+    "00-99202"
+  ],
+  "url": "/produkte/tirol-milch-joghurt-stracciatella/00-426531",
+  "vatCode": "10",
+  "video": ""
+}

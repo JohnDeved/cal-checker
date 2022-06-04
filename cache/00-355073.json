@@ -1,0 +1,202 @@
+{
+  "articleGroupIds": [
+    "B2-68"
+  ],
+  "articleId": "00-355073",
+  "articleOnlyCanonicalPath": "/produkte/cassegrain-ratatouille-a-la-provencale/00-355073",
+  "attributes": [
+    "s_marke",
+    "mengehaus"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Cassegrain",
+  "canonicalPath": "/produkte/cassegrain-ratatouille-a-la-provencale/00-355073",
+  "category": "Grundnahrungsmittel",
+  "description": "Gemüsemischung Ratatouille",
+  "eanCodes": [
+    "3083680901024"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-72766 Reutlingen, Am Heilbrunnen 136/138",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bonduelle Deutschland GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "FRANKREICH"
+      ],
+      "fromDate": "2019-08-27T00:00:00",
+      "ingredients": "Zutaten: 25 % vorfrittierte Auberginenwürfel (Auberginen, Sonnenblumenöl), 25 % Zucchiniwürfel, 20 % Tomatenpüree (Säuerungsmittel Citronensäure), 13 % Zwiebelwürfel, Paprikawürfel rot, Tomatenmark, 2 % natives Olivenöl extra, Zucker, Salz, Knoblauch, Zitronensaftkonzentrat, WEIZENmehl, Thymian.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 185
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 210
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 185
+        }
+      ],
+      "name": "Gemüsemischung Ratatouille",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 346,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 83,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 1.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 5.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 3.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.58,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Ungeöffnet bei Zimmertemperatur trocken lagern. Nach dem Öffnen gekühlt lagern und innerhalb eines Tages verbrauchen."
+    }
+  ],
+  "grammage": "210 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 11.86"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Cassegrain Ratatouille à la Provencale",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/B2-68/produkte/cassegrain-ratatouille-a-la-provencale/00-355073"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49,
+    "unit": "1 kg 11.86"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Cassegrain Ratatouille à la Provencale online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Cassegrain Ratatouille à la Provencale online bestellen | BILLA",
+  "slug": "cassegrain-ratatouille-a-la-provencale",
+  "storeAvalibility": [
+    "00-3617",
+    "00-1132",
+    "00-3780",
+    "00-7606",
+    "00-4655",
+    "00-2342",
+    "00-1529",
+    "00-7139",
+    "00-4779",
+    "00-720",
+    "00-7653",
+    "00-10",
+    "00-4605",
+    "00-99202"
+  ],
+  "url": "/produkte/cassegrain-ratatouille-a-la-provencale/00-355073",
+  "vatCode": "10",
+  "video": ""
+}

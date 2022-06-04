@@ -1,0 +1,288 @@
+{
+  "articleGroupIds": [
+    "B2-658",
+    "B2-682"
+  ],
+  "articleId": "00-499832",
+  "articleOnlyCanonicalPath": "/produkte/rio-mare-insalatissime-cous-cous2/00-499832",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Rio Mare",
+  "brandPath": "/marken/rio-mare",
+  "canonicalPath": "/produkte/rio-mare-insalatissime-cous-cous2/00-499832",
+  "category": "Grundnahrungsmittel",
+  "description": "Der Insalatissime Cous Cous von Rio Mare besteht aus Thunfisch und viel knackigem Gemüse. Mit der enthaltenen Gabel lässt sich der Salat auch unterwegs essen.<li>Fertiggericht mit Couscous, Thunfisch, Kichererbsen, Erbsen und Cherrytomaten<li>praktisch als Zwischenmahlzeit",
+  "eanCodes": [
+    "8004030830066"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Fisch und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHAREA",
+              "description": "Fangzone ",
+              "hasTranslation": "True",
+              "value": "71",
+              "valueTranslation": "Mittlerer Westpazifik"
+            },
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "LHP",
+              "valueTranslation": "Leinen und Haken - Hand- und Angelleinen (von Hand bedient)"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "DOLPHIN_SAFE",
+              "valueTranslation": "DOLPHIN SAFE (Delphin-freundlich Tunfischfang)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Trabrennstraße 5, A-1020 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Bolton Austria GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "+43 1 729 20 20",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Cous Cous 35% (HARTWEIZENGRIES), Thunfisch (Euthynnus (Katsuwonus) pelamis) 23%, Maiskeimöl, Kichererbsen 6%, Karotten Erbsen 5%, Paprika, Cherrytomaten 3%, Zwiebeln, Aroma, Salz, Glucose Sirup.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 288.75
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 220
+        }
+      ],
+      "name": "Fertiggericht mit Cous Cous, Gemüse und Thunfisch",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 238,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 992,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 10,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": []
+    }
+  ],
+  "grammage": "220 Gramm Dose",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 19.95"
+  },
+  "maximalOrderQuantity": 24,
+  "minimalOrderQuantity": 0,
+  "name": "Rio Mare Insalatissime Cous Cous",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/salate/B2-658/produkte/rio-mare-insalatissime-cous-cous2/00-499832",
+    "~/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682/produkte/rio-mare-insalatissime-cous-cous2/00-499832"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.39,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.39,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.39,
+    "unit": "1 kg 19.95"
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 75470,
+  "recommendationArticleIds": [],
+  "seoDescription": "Rio Mare Insalatissime Cous Cous online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Rio Mare Insalatissime Cous Cous online bestellen | BILLA",
+  "slug": "rio-mare-insalatissime-cous-cous2",
+  "storeAvalibility": [
+    "00-2100",
+    "00-3617",
+    "00-4783",
+    "00-350",
+    "00-3143",
+    "00-6108",
+    "00-4249",
+    "00-4551",
+    "00-521",
+    "00-355",
+    "00-7075",
+    "00-7857",
+    "00-4283",
+    "00-2218",
+    "00-4690",
+    "00-4421",
+    "00-4707",
+    "00-1457",
+    "00-4932",
+    "00-7114",
+    "00-4655",
+    "00-3780",
+    "00-6024",
+    "00-783",
+    "00-4605",
+    "00-5108",
+    "00-7606",
+    "00-3114",
+    "00-5027",
+    "00-4126",
+    "00-9290",
+    "00-6740",
+    "00-3947",
+    "00-225",
+    "00-2342",
+    "00-6864",
+    "00-3979",
+    "00-4675",
+    "00-4078",
+    "00-4107",
+    "00-7539",
+    "00-7653",
+    "00-7675",
+    "00-3713",
+    "00-4170",
+    "00-4779",
+    "00-3700",
+    "00-9753",
+    "00-2045",
+    "00-3512",
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/rio-mare-insalatissime-cous-cous2/00-499832",
+  "vatCode": "10",
+  "video": ""
+}

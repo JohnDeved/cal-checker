@@ -1,0 +1,298 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-615193",
+  "articleOnlyCanonicalPath": "/produkte/groebi-mango-und-tropenfruechte/00-615193",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "s_zucker",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Gröbi",
+  "brandPath": "/marken/groebi",
+  "canonicalPath": "/produkte/groebi-mango-und-tropenfruechte/00-615193",
+  "category": "Getränke",
+  "description": "<li>Erfrischungsgetränk mit Mango- und Tropenfruchtgeschmack<li>Zuckerfrei<li>Fruchtgehalt 6 %<li>Mit 7 Vitaminen<br><br>Erleben Sie mit Gröbi Mango-Tropenfrüchte die exotische Welt der Karibik. Reich an Vitaminen bietet Ihnen der fruchtige Durstlöscher eine extra Portion Erfrischung - und das bei besonders wenigen Kalorien. Für pure Lebenslust ohne Verzicht.</li>",
+  "eanCodes": [
+    "9022100000569"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "GHS_JN",
+              "description": "GHS (M212)",
+              "hasTranslation": "False",
+              "value": "FALSE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "D-83026 Rosenheim",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "DrinkStar GmbH",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: Wasser, Orangen-, Zitronen-, Ananas-, Mango- und Maracujasaftkonzentrat, Kohlensäure, Säuerungsmittel Citronensäure, Süßungsmittel Natriumcyclamat, Acesulfam K, Natriumsaccharin und Aspartam, Vitaminmischung (Vitamin C, Vitamin E, Niacin, Pantothensäure, Vitamin B6, Folsäure und Vitamin B12), Stabilisatoren Guarkernmehl und Pektin, Aroma, Farbstoff Beta-Carotin .\n\nEnthält eine Phenylalaninquelle.",
+      "mandatoryIndicator": "mit Süßungsmitteln",
+      "marketingMessage": "Mit GRÖBI eintauchen in eine wunderbar exotische Welt: Orange, Ananas, Maracuja, Mango und viele Vitamine vereinen sich mit spritzigem Wasser aus eigener Quelle zu einem fruchtig-erfrischenden Geschmackserlebnis. Und das ganz ohne überflüssige Kalorien, damit man figurbewusst genießen kann! GRÖBI. Null Zucker, viele Vitamine, voller Fruchtgeschmack!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 1.533
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Liter",
+          "value": 1.5
+        }
+      ],
+      "name": "Zuckerfreies Erfrischungsgetränk mit Tropenfruchtgeschmack.\nFruchtgehalt: 6 %. Mit 7 Vitaminen. Mit Süßungsmitteln.",
+      "nutritions": [
+        {
+          "householdPortion": "Glas (250 ml)",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 13,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 0,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 3,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "<",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.02,
+              "unit": "Gramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Folsäure",
+              "nutritionalValue": 30,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Niacin",
+              "nutritionalValue": 2.4,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Pantothensäure",
+              "nutritionalValue": 0.9,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 7.5,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 12, Cyanocobolamin",
+              "nutritionalValue": 0.2,
+              "unit": "Mikrogramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin B 6, Pyridoxin",
+              "nutritionalValue": 0.2,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin C",
+              "nutritionalValue": 12,
+              "unit": "Milligramm"
+            },
+            {
+              "dailyRequirementPercent": 15,
+              "measureDefinition": "~",
+              "nutritionName": "Vitamin E",
+              "nutritionalValue": 1.8,
+              "unit": "Milligramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "portions": 6,
+      "preperations": [],
+      "storageHint": "Vor Wärme und Licht schützen.",
+      "sustenanceClaim": "3 VITAMINE\n0% KALORIEN*\n* Energie pro 250ml-Portion (33 kJ/8 kcal): 0 % der Referenzmenge für einen durchschnittlichen Erwachsenen (8.400 kJ/2.000 kcal)"
+    }
+  ],
+  "grammage": "1.5 l Flasche (Einweg)",
+  "grammageBadge": "1.5 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": true,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 l .75"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Gröbi Mango und Tropenfrüchte",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/groebi-mango-und-tropenfruechte/00-615193"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [
+      "MULTIPACK"
+    ],
+    "defaultPriceTypes": [],
+    "final": 1.12,
+    "isPlusPromotion": true,
+    "isQuantityDiscount": true,
+    "normal": 1.69,
+    "priceAdditionalInfo": {
+      "vptxt": "je 3 Flaschen billiger"
+    },
+    "priceTypeDefinitions": [
+      {
+        "name": "2PLUS1"
+      },
+      {
+        "name": "MULTIPACK"
+      }
+    ],
+    "sale": 1.12,
+    "unit": "1 l .75"
+  },
+  "properties": [],
+  "quantitySteps": [
+    6,
+    12,
+    18,
+    24,
+    30
+  ],
+  "rank": 171090,
+  "recommendationArticleIds": [
+    "00-317554"
+  ],
+  "seoDescription": "Gröbi Mango und Tropenfrüchte online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Gröbi Mango und Tropenfrüchte online bestellen | BILLA",
+  "slug": "groebi-mango-und-tropenfruechte",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/groebi-mango-und-tropenfruechte/00-615193",
+  "vatCode": "20",
+  "video": ""
+}

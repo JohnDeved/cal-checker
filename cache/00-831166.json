@@ -1,0 +1,230 @@
+{
+  "articleGroupIds": [
+    "B2-4A",
+    "B2-F"
+  ],
+  "articleId": "00-831166",
+  "articleOnlyCanonicalPath": "/produkte/elfin-groenlandgarnelen-in-lake3/00-831166",
+  "attributes": [
+    "s_new",
+    "s_marke",
+    "s_gekuehlt",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_new"
+  ],
+  "brand": "Elfin",
+  "brandPath": "/marken/elfin",
+  "canonicalPath": "/produkte/elfin-groenlandgarnelen-in-lake3/00-831166",
+  "category": "Kühlwaren",
+  "description": "Garnelen in milder Salzlake sind die klassische Variante dieser einzigartigen Meeresfrüchte: Die neutrale Lake mit dem leichten Salzgeschmack unterstützt auf ideale Weise jede Art der Zubereitung.</li>",
+  "eanCodes": [
+    "9001580204131"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Krebstiere und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "CATCHMETHOD",
+              "description": "Fangmethode",
+              "hasTranslation": "True",
+              "value": "03"
+            }
+          ],
+          "description": "Fische und Meeresfruchte",
+          "groupCode": "FISCH"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "MARINE_STEWARDSHIP_COUNCIL_LABEL",
+              "valueTranslation": "MSC-Label für zertifizierte Nahrungsmittel aus dem Meer (Marine Stewardship Council)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Wegscheider Str. 27, A-4060 Leonding",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Elfin Feinkost GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.elfin.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten: GARNELEN, Trinkwasser, Speisesalz, Säuerungsmittel: E330, E262, Konservierungsstoff: E202, E211.",
+      "measurements": [
+        {
+          "type": "Abtropfgewicht",
+          "unit": "Gramm",
+          "value": 90
+        },
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 197
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 160
+        }
+      ],
+      "name": "Grönlandgarnelen in Lake AUFGETAUT (Pandalus borealis)",
+      "nutritions": [
+        {
+          "householdPortion": "pro 100 g abgetropfte Ware",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 69,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 292,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 15,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Gekühlt lagern bei + 2°C bis +7°C. Nach dem Öffnen im Kühlschrank lagern und ehebaldigst verbrauchen."
+    }
+  ],
+  "grammage": "160 g Becher",
+  "grammageBadge": "160 g",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.49,
+    "unit": "1 kg 34.31"
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Elfin Grönlandgarnelen in Lake",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/kuehlwaren/fisch/B2-4A/produkte/elfin-groenlandgarnelen-in-lake3/00-831166",
+    "~/warengruppe/neu-im-online-shop/B2-F/produkte/elfin-groenlandgarnelen-in-lake3/00-831166"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 5.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 5.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 5.49,
+    "unit": "1 kg 34.31"
+  },
+  "properties": [
+    "Chilled"
+  ],
+  "quantitySteps": [],
+  "rank": 1,
+  "recommendationArticleIds": [],
+  "seoDescription": "Elfin Grönlandgarnelen in Lake online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Elfin Grönlandgarnelen in Lake online bestellen | BILLA",
+  "slug": "elfin-groenlandgarnelen-in-lake3",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/elfin-groenlandgarnelen-in-lake3/00-831166",
+  "vatCode": "10",
+  "video": ""
+}

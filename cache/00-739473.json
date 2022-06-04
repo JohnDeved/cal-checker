@@ -1,0 +1,192 @@
+{
+  "articleGroupIds": [
+    "B2-316"
+  ],
+  "articleId": "00-739473",
+  "articleOnlyCanonicalPath": "/produkte/thomas-henry-tonic-water/00-739473",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_spezern",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Thomas Henry",
+  "canonicalPath": "/produkte/thomas-henry-tonic-water/00-739473",
+  "category": "Getränke",
+  "description": "Das Thomas Henry Tonic Water wirbt mit seinem besonders hohen Chiningehalt und einer angenehmen Zitrusnote. Es schmeckt pur oder gemischt, etwa mit Gin.<li>mit natürlichen Aromen<li>glutenfrei<li>mit hohem Chiningehalt",
+  "eanCodes": [
+    "4260310550770"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Bessemerstraße 22, 12103 Berlin",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Thomas Henry GmbH & Co. KG",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.thomas-henry.de",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2019-05-24T00:00:00",
+      "ingredients": "Zutaten: Wasser, Zucker, Kohlensäure, Säuerungsmittel Citronensäure, natürliches Aroma,Antioxidationsmittel Ascorbinsäure, Aroma Chinin.",
+      "marketingMessage": "Thomas Henry Tonic Water ist mit ausgesuchten Zutaten komponiert und bietet ein einzigartiges Geschmackserlebnis: angenehm bitter und intensiv zugleich. Es war Thomas Henry der Namensgeber dieser exklusiven Auswahl an Getränken, dem es 1773 in Manchester erstmals gelang, Wasser mit Kohlensäure anzureichern. Cheers!",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Kilogramm",
+          "value": 0.41
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 200
+        }
+      ],
+      "name": "Chininhaltiges Erfrischungsgetränk mit Tonicgeschmack",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 39,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 164,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 9.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Milliliter",
+          "relationValue": 100,
+          "unit": "Milliliter"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "Kühl und dunkel lagern!",
+      "sustenanceClaim": "Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz. Von Natur aus Glutenfrei!"
+    }
+  ],
+  "grammage": "0.2 l Flasche (Einweg)",
+  "grammageBadge": "0.2 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 7.95"
+  },
+  "maximalOrderQuantity": 36,
+  "minimalOrderQuantity": 0,
+  "name": "Thomas Henry Tonic Water",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316/produkte/thomas-henry-tonic-water/00-739473"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.59,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.59,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.59,
+    "unit": "1 l 7.95"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24
+  ],
+  "rank": 108920,
+  "recommendationArticleIds": [
+    "00-64304"
+  ],
+  "seoDescription": "Thomas Henry Tonic Water online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Thomas Henry Tonic Water online bestellen | BILLA",
+  "slug": "thomas-henry-tonic-water",
+  "storeAvalibility": [
+    "00-174",
+    "00-99202",
+    "00-10"
+  ],
+  "url": "/produkte/thomas-henry-tonic-water/00-739473",
+  "vatCode": "20",
+  "video": ""
+}

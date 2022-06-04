@@ -1,0 +1,204 @@
+{
+  "articleGroupIds": [
+    "B2-753"
+  ],
+  "articleId": "00-462406",
+  "articleOnlyCanonicalPath": "/produkte/lindt-hello-schokolade-cookie-vegan/00-462406",
+  "attributes": [
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_spezern"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Lindt",
+  "brandPath": "/marken/lindt",
+  "canonicalPath": "/produkte/lindt-hello-schokolade-cookie-vegan/00-462406",
+  "category": "Süßes & Salziges",
+  "description": "HELLO VEGAN COOKIE ist eine verf&uuml;hrerische Liebeserkl&auml;rung zwischen bestem Kakao, purem Mandelmark, mildem Hafer-Drink und einer gro&szlig;en Portion an knusprigen, dunklen Keksst&uuml;ckchen &ndash; das Vegan-Highlight f&uuml;r jeden Cookie-Lover.",
+  "eanCodes": [
+    "4000539213908"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Nüsse und Nusserzeugnisse. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschliessen",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Hietzinger Hauptstraße 1a, A-1130 Wien",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Lindt & Sprüngli (Austria) GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "",
+          "detail": "9003600000006",
+          "type": ""
+        }
+      ],
+      "countryOrigins": [
+        "DEUTSCHLAND, BUNDESREPUBLIK"
+      ],
+      "fromDate": "2021-02-09T00:00:00",
+      "ingredients": "Zutaten: Zucker, Haferdrinkpulver (Hafersirup (70%), Maltodextrin), Kakaobutter, MANDELN, Kakaomasse, WEIZENmehl, Sonnenblumenöl, fettarmes Kakaopulver, Emulgator (SOJAlecithin), natürliche Aromen, Backtriebmittel (Kalium-, Ammoniumhydrogen- und Natriumhydrogencarbonat), Salz.Kann MILCH, HASELNÜSSE und andere SCHALENFRÜCHTE enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 110
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 100
+        }
+      ],
+      "name": "Kakaoerzeugnis mit Haferdrinkpulver (21%), Mandelmark (9%) und dunklen Gebäckstückchen (10%)",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 547,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 2282,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 32,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 16,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 59,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 41,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 4.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 0.1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Unzubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "preperations": [],
+      "storageHint": "kühl und trocken lagern"
+    }
+  ],
+  "grammage": "100 Gramm Stück",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Lindt Hello Schokolade Cookie Vegan",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/suesses-und-salziges/suesses2/schokoladentafeln/B2-753/produkte/lindt-hello-schokolade-cookie-vegan/00-462406"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 2.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 2.49,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 2.49
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 135560,
+  "recommendationArticleIds": [],
+  "seoDescription": "Lindt Hello Schokolade Cookie Vegan online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Lindt Hello Schokolade Cookie Vegan online bestellen | BILLA",
+  "slug": "lindt-hello-schokolade-cookie-vegan",
+  "storeAvalibility": [
+    "00-10",
+    "00-4707",
+    "00-7539",
+    "00-4551",
+    "00-355",
+    "00-1911",
+    "00-99202",
+    "00-350",
+    "00-3947"
+  ],
+  "url": "/produkte/lindt-hello-schokolade-cookie-vegan/00-462406",
+  "vatCode": "10",
+  "video": ""
+}

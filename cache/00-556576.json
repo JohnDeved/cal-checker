@@ -1,0 +1,192 @@
+{
+  "articleGroupIds": [
+    "B2-662"
+  ],
+  "articleId": "00-556576",
+  "articleOnlyCanonicalPath": "/produkte/kotanyi-bio-majoran-gerebelt/00-556576",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Kotányi",
+  "brandPath": "/marken/kotanyi",
+  "canonicalPath": "/produkte/kotanyi-bio-majoran-gerebelt/00-556576",
+  "category": "Grundnahrungsmittel",
+  "description": "Für schmackhafte Suppen und pikante Fleischfüllungen ist der gerebelte Bio-Majoran von Kotányi unverzichtbar. Erwärmt entfalten die Blätter ihr volles Aroma.<li>gerebelter und getrockneter Bio-Majoran<li>aus biologischer Landwirtschaft<li>trocken und dunkel aufbewahren",
+  "eanCodes": [
+    "9001414243473"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sojabohnen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Senf und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Eier und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Sesamsamen und -erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Kann Spuren enthalten von"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "EU_ORGANIC_FARMING",
+              "valueTranslation": "EU ORGANIC FARMING (EU-Logo für ökologischen Landbau)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "R70"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "A-2120 Wolkersdorf, Postfach 66",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Kotányi GmbH",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Email",
+          "detail": "info@kotanyi.com",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.kotanyi.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [],
+      "fromDate": "2016-07-29T00:00:00",
+      "ingredients": "Kann Spuren von glutenhältigem Getreide, Ei, Soja, Sellerie, Sesam, Milch (Laktose) und Senf enthalten.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 129
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 9
+        }
+      ],
+      "name": "Bio Majoran gerebelt, getrocknet",
+      "nutritions": [],
+      "preperations": [],
+      "storageHint": "Trocken aufbewahren und vor direktem Sonnenlicht schützen."
+    }
+  ],
+  "grammage": "1 Stück Glas",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79
+  },
+  "maximalOrderQuantity": 999,
+  "minimalOrderQuantity": 0,
+  "name": "Kotányi Bio Majoran Gerebelt",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/gewuerzglaeser-und--packungen/B2-662/produkte/kotanyi-bio-majoran-gerebelt/00-556576"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.79,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 3.79,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 3.79
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 5040,
+  "recommendationArticleIds": [],
+  "seoDescription": "Kotányi Bio Majoran Gerebelt online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Kotányi Bio Majoran Gerebelt online bestellen | BILLA",
+  "slug": "kotanyi-bio-majoran-gerebelt",
+  "storeAvalibility": [
+    "00-5108",
+    "00-7075",
+    "00-10",
+    "00-355",
+    "00-4707",
+    "00-7539",
+    "00-350",
+    "00-2045",
+    "00-4551",
+    "00-99202"
+  ],
+  "url": "/produkte/kotanyi-bio-majoran-gerebelt/00-556576",
+  "vatCode": "10",
+  "video": ""
+}

@@ -1,0 +1,719 @@
+{
+  "articleGroupIds": [
+    "B2-531"
+  ],
+  "articleId": "00-438641",
+  "articleOnlyCanonicalPath": "/produkte/iglo-zwiebelrostbraten-mit-kartoffelroesti/00-438641",
+  "attributes": [
+    "s_marke",
+    "s_hkland",
+    "mengehaus",
+    "s_ranking",
+    "s_spezeig",
+    "s_tiefgek"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_aut"
+  ],
+  "brand": "Iglo",
+  "brandPath": "/marken/iglo",
+  "canonicalPath": "/produkte/iglo-zwiebelrostbraten-mit-kartoffelroesti/00-438641",
+  "category": "Tiefkühl",
+  "description": "Mit dem Mahlzeit! Schmankerl Zwiebelrostbraten bringt Iglo den österreichischen Klassiker in Minutenschnelle besonders g'schmackig auf Ihren Tisch: zarter Rostbraten vom Rind, herzhafte Zwiebel, g'schmackige Kartoffelrösti in herzhaft würziger Sauce.",
+  "eanCodes": [
+    "8722700049302"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "CONSUMER_HANDLING_AND_STORAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "WEBSITE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            },
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "LOGO"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2019-05-23T00:00:00",
+      "ingredients": "Zutaten:\n\nZwiebelrostbraten in Sauce 67%: Rindsbraten gegart 19%, Wasser, Zwiebeln 16%, Fleischfond (Wasser, Rindfleisch, Tomatenmark, Karotten, Zwiebel, SELLERIE, Lauch, Pastinaken, Gewürze, Kräuter), OBERS, Röstzwiebeln (Zwiebeln, Sonnenblumenöl), SAUERRAHM, WEIZENMEHL, BUTTER, Stärke, Rindsuppe (Speisesalz, Stärke, Rindfleischextrakt, Zucker, Sonnenblumenöl, Zwiebeln, Karotten, Karamellzucker, Tomaten, SELLERIE, Lauch, Maltodextrin, Petersilie, Knoblauch, Gewürzextrakt), Würzmittel (Speisesalz jodiert (Salz, Kaliumjodid), Stärke, Zucker, Hefe, Zwiebel, Sonnenblumenöl, SELLERIE, Knoblauch, Gewürze), natürliches Zwiebelaroma, Karamellsirup, Gewürze.\n\nKartoffelrösti 33 %: Kartoffeln 81 %, Sonnenblumenöl, Zwiebel, Kartoffelflocken, WEIZENMEHL, Speisesalz jodiert (Salz, Kaliumjodid), Kartoffelstärke, Traubenzucker, Kurkuma, Paprikaextrakt.",
+      "marketingMessage": "Zarter Rostbraten vom Rind mit g´schmackigen Kartoffelrösti und herzhaften Zwiebeln in einer köstlich würzigen Sauce.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 409
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Zwiebelrostbraten vom Rind mit Kartoffelrösti, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 460,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 110,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1611,
+              "unit": "Kilojoule"
+            },
+            {
+              "dailyRequirementPercent": 19,
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 385,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.8,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.4,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Im Backrohr:\n\nBackrohr auf 160°C vorheizen. Teller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet auf die mittlere Schiene des Backrohrs geben. Bei 160°C ca. 35 Minuten (Heißluft) bzw. ca. 45 Minuten (Ober- und Unterhitze) erhitzen. Die angegebene Backrohrtemperatur nicht überschreiten. Nach dem Erhitzen 1 Minute ruhen lassen, dann die Folie\n\nabziehen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "In der Mikrowelle: (empfohlen)\n\nTeller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet in die Mikrowelle stellen. Bei 600 Watt ca. 7,5 Minuten erhitzen. Nach dem Erhitzen 2 Minuten ruhen lassen, dann die Folie abziehen. Die ideale Zubereitungszeit hängt vom jeweiligen Mikrowellenherd ab.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\n\nOhne künstliche Farb- und Aromastoffe\n\n\n\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen und beziehen sich auf die Zubereitung in der Mikrowelle.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\n\n\n\nSchale nicht wiederverwenden!"
+    },
+    {
+      "allergens": [
+        {
+          "allergenName": "Sellerie und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Milch und Milcherzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "IGT",
+              "valueTranslation": "Identitätskennzeichen  und Genusstauglichkeitskennzeichen"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        },
+        {
+          "attributes": [
+            {
+              "attributeCode": "PRODUCT_IMAGE",
+              "description": "Produktbild (M378)",
+              "hasTranslation": "False",
+              "value": "PRODUCT_IMAGE"
+            }
+          ],
+          "description": "Weitere Hinweise",
+          "groupCode": "OTHERS"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Marchfelder Str. 2, 2301 Groß-Enzersdorf",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Iglo Austria",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0810 300 407",
+          "type": "Kontaktinformation"
+        },
+        {
+          "channel": "Webseite",
+          "detail": "www.iglo.at",
+          "type": "Kontaktinformation"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2022-05-24T00:00:00",
+      "ingredients": "Zutaten:\nZwiebelrostbraten in Sauce 67%: Rindsbraten gegart 19%, Wasser, Zwiebeln 16%, Fleischfond (Wasser, Rindfleisch, Tomatenmark, Karotten, Zwiebel, SELLERIE, Lauch, Pastinaken, Gewürze, Kräuter), OBERS, Röstzwiebeln (Zwiebeln, Sonnenblumenöl), SAUERRAHM, WEIZENMEHL, BUTTER, Stärke, Rindsuppe (Speisesalz, Stärke, Rindfleischextrakt, Zucker, Sonnenblumenöl, Zwiebeln, Karotten, Karamellzucker, Tomaten, SELLERIE, Lauch, Maltodextrin, Petersilie, Knoblauch, Gewürzextrakt), Würzmittel (Speisesalz jodiert (Salz, Kaliumjodid), Stärke, Zucker, Hefe, Zwiebel, Sonnenblumenöl, SELLERIE, Knoblauch, Gewürzextrakt), natürliches Zwiebelaroma, Karamellsirup, Gewürze.\nKartoffelrösti 33 %: Kartoffeln 81 %, Sonnenblumenöl, Zwiebel, Kartoffelflocken, WEIZENMEHL, Speisesalz jodiert (Salz, Kaliumjodid), Kartoffelstärke, Dextrose, Kurkuma, Paprikaextrakt.",
+      "marketingMessage": "Zarter Rostbraten vom Rind mit g´schmackigen Kartoffelrösti und herzhaften Zwiebeln in einer köstlich würzigen Sauce.\nNutri-Score \"C\", iglo.at/nutriscore, Nutri Score wird auf Basis von 100 g berechnet.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 409
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Gramm",
+          "value": 350
+        }
+      ],
+      "name": "Zwiebelrostbraten vom Rind mit Kartoffelrösti, tiefgekühlt",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 462,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 111,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 2.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 1.5,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 1.4,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 5.7,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 1,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        },
+        {
+          "householdPortion": "pro Portion** (=350g) **zubereitet nach Anleitung in der Mikrowelle",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 1612,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 386,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 8.1,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 29,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 5.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Ballaststoffe",
+              "nutritionalValue": 4.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 20,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 3.5,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 1 Portion",
+          "relationValue": 1,
+          "unit": "Portion"
+        }
+      ],
+      "portions": 1,
+      "preperations": [
+        {
+          "instruction": "Im Backrohr:\nBackrohr auf 160°C vorheizen. Teller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet auf die mittlere Schiene des Backrohrs geben. Bei 160°C ca. 35 Minuten (Heißluft) bzw. ca. 45 Minuten (Ober- und Unterhitze) erhitzen. Die angegebene Backrohrtemperatur nicht überschreiten. Nach dem Erhitzen 1 Minute ruhen lassen, dann die Folie\nabziehen.",
+          "type": "Backen - Zubereitung unter Einwirkung von gleimaessig verteilter trockener Hitze"
+        },
+        {
+          "instruction": "In der Mikrowelle: (empfohlen)\nTeller aus der Verpackung nehmen und die Folie mehrmals einstechen; tiefgekühlt und ungeöffnet in die Mikrowelle stellen. Bei 600 Watt ca. 7,5 Minuten erhitzen. Nach dem Erhitzen 2 Minuten ruhen lassen, dann die Folie abziehen. Die ideale Zubereitungszeit hängt vom jeweiligen Mikrowellenherd ab.",
+          "type": "Zubereitung unter Benutzung von Mikrowellen"
+        }
+      ],
+      "storageHint": "Hinweise für die Aufbewahrung zu Hause: entweder sofort zubereiten oder bei -18°C mindestens haltbar bis Ende: siehe Aufdruck",
+      "sustenanceClaim": "Ohne Zusatz von Geschmacksverstärkern\nOhne künstliche Farb- und Aromastoffe\nNährwerte unterliegen den bei Naturprodukten üblichen Schwankungen.",
+      "usageHints": "Nach dem Auftauen nicht wieder einfrieren!\nSchale nicht wiederverwenden!"
+    }
+  ],
+  "grammage": "350 Gramm Packung",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": true,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 14.26"
+  },
+  "maximalOrderQuantity": 12,
+  "minimalOrderQuantity": 0,
+  "name": "Iglo Zwiebelrostbraten mit Kartoffelrösti",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/tiefkuehl/fertiggerichte/fleisch-und-fisch/B2-531/produkte/iglo-zwiebelrostbraten-mit-kartoffelroesti/00-438641"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 4.99,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.99,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 4.99,
+    "unit": "1 kg 14.26"
+  },
+  "properties": [
+    "Frozen"
+  ],
+  "quantitySteps": [],
+  "rank": 126060,
+  "recommendationArticleIds": [],
+  "seoDescription": "Iglo Zwiebelrostbraten mit Kartoffelrösti online kaufen im BILLA Online Shop! ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Iglo Zwiebelrostbraten mit Kartoffelrösti online bestellen",
+  "slug": "iglo-zwiebelrostbraten-mit-kartoffelroesti",
+  "storeAvalibility": [
+    "00-119",
+    "00-6281",
+    "00-3055",
+    "00-8940",
+    "00-1417",
+    "00-4551",
+    "00-6928",
+    "00-4016",
+    "00-1108",
+    "00-7358",
+    "00-4466",
+    "00-4690",
+    "00-3709",
+    "00-99202",
+    "00-7860",
+    "00-1136",
+    "00-4655",
+    "00-8946",
+    "00-176",
+    "00-6024",
+    "00-3011",
+    "00-4912",
+    "00-3857",
+    "00-519",
+    "00-9894",
+    "00-5603",
+    "00-7114",
+    "00-823",
+    "00-9209",
+    "00-3415",
+    "00-3445",
+    "00-2111",
+    "00-3549",
+    "00-1107",
+    "00-3234",
+    "00-3027",
+    "00-4783",
+    "00-10",
+    "00-7743",
+    "00-6021",
+    "00-7424",
+    "00-8155",
+    "00-2313",
+    "00-7603",
+    "00-6843",
+    "00-2306",
+    "00-3856",
+    "00-9183",
+    "00-4440",
+    "00-4605",
+    "00-5962",
+    "00-2287",
+    "00-2011",
+    "00-3253",
+    "00-115",
+    "00-3114",
+    "00-209",
+    "00-4748",
+    "00-3005",
+    "00-1047",
+    "00-2342",
+    "00-2204",
+    "00-9753",
+    "00-9030",
+    "00-6724",
+    "00-3744",
+    "00-3118",
+    "00-3120",
+    "00-7075",
+    "00-6975",
+    "00-3860",
+    "00-4283",
+    "00-7665",
+    "00-282",
+    "00-2220",
+    "00-1425",
+    "00-3105",
+    "00-3050",
+    "00-7120",
+    "00-3379",
+    "00-7606",
+    "00-6745",
+    "00-7082",
+    "00-7368",
+    "00-2223",
+    "00-8085",
+    "00-950",
+    "00-3047",
+    "00-4078",
+    "00-367",
+    "00-6910",
+    "00-4756",
+    "00-3780",
+    "00-2201",
+    "00-6676",
+    "00-3510",
+    "00-6760",
+    "00-7810",
+    "00-1710",
+    "00-4090",
+    "00-1132",
+    "00-8158",
+    "00-3711",
+    "00-4441",
+    "00-7681",
+    "00-3059",
+    "00-7393",
+    "00-7084",
+    "00-4879",
+    "00-3512",
+    "00-2808",
+    "00-1003",
+    "00-3384",
+    "00-6011",
+    "00-7223",
+    "00-6558",
+    "00-4421",
+    "00-6884",
+    "00-133",
+    "00-3580",
+    "00-1070",
+    "00-6219",
+    "00-1826",
+    "00-5552",
+    "00-9290",
+    "00-2131",
+    "00-8426",
+    "00-7336",
+    "00-2045",
+    "00-3212",
+    "00-3740",
+    "00-3042",
+    "00-3617",
+    "00-6304",
+    "00-7245",
+    "00-3062",
+    "00-1198",
+    "00-6353",
+    "00-3713",
+    "00-7766",
+    "00-4270",
+    "00-7653",
+    "00-6424",
+    "00-2259",
+    "00-6864",
+    "00-7616",
+    "00-7204",
+    "00-2098",
+    "00-7139",
+    "00-4834"
+  ],
+  "url": "/produkte/iglo-zwiebelrostbraten-mit-kartoffelroesti/00-438641",
+  "vatCode": "10",
+  "video": ""
+}

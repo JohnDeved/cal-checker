@@ -1,0 +1,207 @@
+{
+  "articleGroupIds": [
+    "B2-653"
+  ],
+  "articleId": "00-280545",
+  "articleOnlyCanonicalPath": "/produkte/genusskoarl-wiener-wuerze/00-280545",
+  "attributes": [
+    "s_bio",
+    "s_marke",
+    "mengehaus",
+    "s_ranking",
+    "s_guetesie"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [
+    "s_bio"
+  ],
+  "brand": "Genusskoarl",
+  "canonicalPath": "/produkte/genusskoarl-wiener-wuerze/00-280545",
+  "category": "Grundnahrungsmittel",
+  "description": "WienerWürze ist eine biologische, vegane und traditionell gebraute Würzsauce.<br>Sie ist gereift über mehrere Monate und besteht aus österreichischen Bio-Lupinen, Bio-Hafer, Salz und Wasser.<br><li>Herzhaft, salzig, wohlschmeckend<li>Keine Zusatzstoffe<li>Einfach anwendbar<li>Bioprodukt aus Österreich<li>100% Natürlich</li><br>Nutzen Sie WienerWürze zum Verfeinern von Suppen, Saucen, Salaten, aber auch Pasteten und dem Sonntagsbraten.<br><br>Die Herstellung beruht auf einer über 3000 Jahre alten Brautechnik und besteht aus zwei Abschnitten: Die gekochten Lupinen werden mit geröstetem Hafer vermengt und mit einem Edelschimmel fermentiert. Anschließend kommt diese Mischung mit einer Salzlauge in Tanks um mehrere Monate zu reifen. Zum Schluss wird die Maische abgepresst und die WienerWürze abgefüllt.",
+  "eanCodes": [
+    "9120081090019"
+  ],
+  "foodInformation": [
+    {
+      "allergens": [
+        {
+          "allergenName": "Lupine und -erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        },
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "Resselstraße 16, 2120 Wolkersdorf",
+          "type": "Kontakt"
+        },
+        {
+          "channel": "Email",
+          "detail": "kst@genusskoarl.at",
+          "type": "Kontakt"
+        },
+        {
+          "channel": "Name",
+          "detail": "Genusskoarl e.U., Inhaber Karl Severin Traugott",
+          "type": "Kontakt"
+        },
+        {
+          "channel": "Telefon",
+          "detail": "0043 664 92 05 181",
+          "type": "Kontakt"
+        }
+      ],
+      "countryOrigins": [
+        "ÖSTERREICH"
+      ],
+      "fromDate": "2018-12-14T00:00:00",
+      "ingredients": "Wasser, LUPINE*, HAFER*, Salz\n*aus biologischer Landwirtschaft",
+      "measurements": [
+        {
+          "type": "Nettogewicht",
+          "unit": "Milliliter",
+          "value": 100
+        }
+      ],
+      "name": "Speisewürze",
+      "nutritions": [
+        {
+          "householdPortion": "",
+          "nutritions": [
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 275,
+              "unit": "Kilokalorie"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Energie",
+              "nutritionalValue": 65,
+              "unit": "Kilojoule"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Fett",
+              "nutritionalValue": 1.3,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon gesättigte Fettsäuren",
+              "nutritionalValue": 0.2,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Kohlenhydrate",
+              "nutritionalValue": 8.9,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "   davon Zucker",
+              "nutritionalValue": 0,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Eiweiß",
+              "nutritionalValue": 3.6,
+              "unit": "Gramm"
+            },
+            {
+              "measureDefinition": "~",
+              "nutritionName": "Salz",
+              "nutritionalValue": 13.3,
+              "unit": "Gramm"
+            }
+          ],
+          "preperationGrade": "Zubereitet für 100 Gramm",
+          "relationValue": 100,
+          "unit": "Gramm"
+        }
+      ],
+      "origin": "Österreich",
+      "preperations": [
+        {
+          "instruction": "Hochwertige Würze zum Verfeinern und Marinieren von Suppen, Saucen, Salaten, Fisch, Fleisch, Gemüse",
+          "type": "Verzehrfertig - Abgesehen vom Auspacken ist keine weitere Zubereitung notwendig"
+        }
+      ],
+      "storageHint": "Vor Wärme geschützt lagern",
+      "sustenanceClaim": "Laktosefrei, Frei von Milchprodukten",
+      "usageHints": "Nach dem Öffnen gekühlt und gut verschlossen aufbewahren und bald verbrauchen"
+    }
+  ],
+  "grammage": "100 Milliliter Flasche",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 3.49
+  },
+  "maximalOrderQuantity": 6,
+  "minimalOrderQuantity": 0,
+  "name": "Genusskoarl Wiener Würze",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/grundnahrungsmittel/fertiggerichte2/suppenwuerfel/B2-653/produkte/genusskoarl-wiener-wuerze/00-280545"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 3.49,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 4.29,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [
+      {
+        "name": "ABVERKAUF"
+      }
+    ],
+    "sale": 3.49
+  },
+  "properties": [],
+  "quantitySteps": [],
+  "rank": 57600,
+  "recommendationArticleIds": [],
+  "seoDescription": "Genusskoarl Wiener Würze online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Genusskoarl Wiener Würze online bestellen | BILLA",
+  "slug": "genusskoarl-wiener-wuerze",
+  "storeAvalibility": [
+    "00-10",
+    "00-99202"
+  ],
+  "url": "/produkte/genusskoarl-wiener-wuerze/00-280545",
+  "vatCode": "10",
+  "video": ""
+}

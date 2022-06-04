@@ -1,0 +1,161 @@
+{
+  "articleGroupIds": [
+    "B2-323"
+  ],
+  "articleId": "00-420877",
+  "articleOnlyCanonicalPath": "/produkte/guinness-extra-stout/00-420877",
+  "attributes": [
+    "s_marke",
+    "s_einweg",
+    "mengehaus",
+    "s_ranking",
+    "mengenstep"
+  ],
+  "authenticatedOnly": false,
+  "availability": 4,
+  "badges": [],
+  "brand": "Guinness",
+  "canonicalPath": "/produkte/guinness-extra-stout/00-420877",
+  "category": "Getränke",
+  "description": "Das Guinness Extra Stout funkelt fast schwarz im Glas und hat eine dichte, weiche Schaumkrone. Der intensive Geschmack mit herben Röstaromen ist ein besonderer Genuss.<li>Flaschenbier aus Irland<li>intensiver Gerstengeschmack mit viel Röstaroma<li>Alkoholgehalt: 5,0 % vol",
+  "eanCodes": [
+    "5000213000359"
+  ],
+  "foodInformation": [
+    {
+      "alcoholicPercentage": 5,
+      "allergens": [
+        {
+          "allergenName": "Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse",
+          "grade": "Enthält - Ist im Produkt enthalten"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "attributes": [
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "GREEN_DOT",
+              "valueTranslation": "GREEN DOT - ARA (Verpackungskennzeichen)"
+            },
+            {
+              "attributeCode": "PACKAGINGMARKSLABELACCREDITATION",
+              "description": "Umwelt und Verpackung ",
+              "hasTranslation": "True",
+              "value": "ZWANGERSCHAPSLOGO"
+            }
+          ],
+          "description": "Labelinformationen",
+          "groupCode": "LABEL"
+        }
+      ],
+      "contacts": [
+        {
+          "channel": "Adresse",
+          "detail": "St. James's Gate\nDublin 8 Ireland",
+          "type": "Anschrift"
+        },
+        {
+          "channel": "Name",
+          "detail": "Guinness & Co",
+          "type": "Anschrift"
+        }
+      ],
+      "countryOrigins": [
+        "IRLAND"
+      ],
+      "fromDate": "2020-10-22T00:00:00",
+      "ingredients": "Zutaten: Wasser, MALZ, GERSTE, geröstete GERSTE und Hopfen.",
+      "measurements": [
+        {
+          "type": "Bruttogewicht",
+          "unit": "Gramm",
+          "value": 533
+        },
+        {
+          "type": "Nettogehalt",
+          "unit": "Milliliter",
+          "value": 330
+        }
+      ],
+      "name": "Bier",
+      "nutritions": [],
+      "preperations": []
+    }
+  ],
+  "grammage": "0.33 l Flasche (Einweg)",
+  "grammageBadge": "0.33 l",
+  "grammagePriceFactor": 1,
+  "grammageUnit": "",
+  "hasBrandTab": false,
+  "hasDescription": true,
+  "hasSpecialDeliveryWindows": false,
+  "isAvailable": true,
+  "isDelicatessen": false,
+  "isMedical": false,
+  "isSugarFree": false,
+  "isSugarReduced": false,
+  "isWeightArticle": false,
+  "loyaltyPrice": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.57,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.57,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.57,
+    "unit": "500 ml 2.38"
+  },
+  "maximalOrderQuantity": 72,
+  "minimalOrderQuantity": 0,
+  "name": "Guinness Extra Stout",
+  "orderQuantityStepSize": 1,
+  "paths": [
+    "~/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323/produkte/guinness-extra-stout/00-420877"
+  ],
+  "price": {
+    "bulkDiscountPriceTypes": [],
+    "defaultPriceTypes": [],
+    "final": 1.57,
+    "isPlusPromotion": false,
+    "isQuantityDiscount": false,
+    "normal": 1.57,
+    "priceAdditionalInfo": {},
+    "priceTypeDefinitions": [],
+    "sale": 1.57,
+    "unit": "500 ml 2.38"
+  },
+  "properties": [],
+  "quantitySteps": [
+    24,
+    48,
+    72
+  ],
+  "rank": 125950,
+  "recommendationArticleIds": [],
+  "seoDescription": "Guinness Extra Stout online kaufen im BILLA Online Shop! ✔ frisch geliefert ✔ große Produktauswahl ✔ gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+  "seoTitle": "Guinness Extra Stout online bestellen | BILLA",
+  "slug": "guinness-extra-stout",
+  "storeAvalibility": [
+    "00-3780",
+    "00-176",
+    "00-119",
+    "00-6676",
+    "00-2190",
+    "00-3042",
+    "00-771",
+    "00-388",
+    "00-10",
+    "00-174",
+    "00-2342",
+    "00-3044",
+    "00-99202"
+  ],
+  "url": "/produkte/guinness-extra-stout/00-420877",
+  "vatCode": "20",
+  "video": ""
+}
