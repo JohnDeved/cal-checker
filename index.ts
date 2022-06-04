@@ -3,10 +3,34 @@ import pLimit from 'p-limit'
 import { IProductPage } from './types/productPage'
 import { IProductDetail } from './types/pruductDetail'
 import fs from 'fs'
+import { ICategoryData, MainNavigation } from './types/categoryData'
 
 const plimit = pLimit(25)
 
 console.time()
+fetch("https://shop.billa.at/").then(res => res.text()).then(body => {
+  const $ = cheerio.load(body)
+  const dataB64 = $('script[src*=base64]').attr("src")?.split(',').at(1)
+  if (!dataB64) return
+
+  const dataStr = Buffer.from(dataB64, 'base64').toString()
+  const dataJsonStr = dataStr.match(/{".+}(?=\))/)?.at(0)
+  if (!dataJsonStr) return
+
+  const dataJson: ICategoryData = JSON.parse(dataJsonStr)
+
+  const categories: Record<string, string> = {}
+  const getCategories = (nav: MainNavigation[]) => {
+    for (const navItem of nav) {
+      categories[navItem.articleGroupId] = navItem.title
+      getCategories(navItem.children)
+    }
+  }
+
+  getCategories(dataJson.mainNavigation)
+  fs.promises.writeFile('./categories.json', JSON.stringify(categories, null, 2))
+})
+
 fetch("https://shop.billa.at/api/search/full?category=B2&page=1&pageSize=10000")
   .then<IProductPage>(res => res.json())
   .then(json => {
